@@ -3,19 +3,24 @@
   {# Optional link to the repository #}
   {%- block repo %}
     {%- if config.repo_url %}
-    <ul class="wm-toctree wm-toc-repo">
-      <li class="wm-toc-li wm-toc-lev1">
-      <a class="wm-article-link wm-toc-text" href="{{ config.repo_url }}">
-        {% include 'repo-icon.html' %}
-        {{ config.repo_name }}
-      </a>
-      </li>
-    </ul>
+    <div class="tocpane-repo">
+      <div class="tocpane-repo-title">
+        <span>GITHUB</span>
+      </div>
+      <ul class="wm-toctree wm-toc-repo add-border">
+        <li class="wm-toc-li wm-toc-lev1">
+        <a class="wm-article-link wm-toc-text" href="{{ config.repo_url }}">
+          {% include 'repo-icon.html' %}
+          {{ config.repo_name }}
+        </a>
+        </li>
+      </ul>
+    </div>
     {%- endif %}
   {%- endblock %}
 
   {%- block site_nav %}
-  <ul class="wm-toctree">
+  <ul class="wm-toctree add-border">
     {%- set navlevel = 1 %}
     {%- for nav_item in nav %}
         {% include 'nav-item.html' %}

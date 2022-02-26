@@ -34,6 +34,7 @@ theme:
 
 extra:
     version: 0.1.4
+    logo: assets/images/logo.png
 
 markdown_extensions:
   - admonition
