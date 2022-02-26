@@ -1,0 +1,50 @@
+# Project Information
+site_name: UnityStation
+site_description: 'Unitystation Wiki'
+site_author: 'Waffielz'
+site_url: 'https://unitystation.github.io/unitystation-wiki/'
+
+# Repository
+repo_name: 'unitystation/unitystation-wiki'
+repo_url: 'https://github.com/unitystation/unitystation-wiki/'
+edit_uri: 'edit/master/docs/'
+
+# theme:
+#     name: null
+#     custom_dir: mkdocs-windmill-dark/mkdocs_windmill_dark/
+#     # default from mkdocs_theme.yml
+#     static_templates:
+#         - 404.html
+#     include_search_page: true
+#     search_index_only: true
+#     history_buttons: true
+#     article_nav_top: true
+#     article_nav_bottom: true
+
+theme:
+    name: null
+    custom_dir: theme/
+    static_templates:
+        - 404.html
+    include_search_page: true
+    search_index_only: true
+    history_buttons: true
+    article_nav_top: true
+    article_nav_bottom: true
+
+extra:
+    version: 0.1.4
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+plugins:
+    - search
+    - macros
+    - autolinks
+    - awesome-pages
+    - bootstrap-tables
