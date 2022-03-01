@@ -6,7 +6,7 @@
 | Science     | [Research Director](Research-Director.md), [Scientist](Scientist.md), [Geneticist](Geneticist.md), [Roboticist](Roboticist.md) |
 | Medical     | [Chief Medical Officer](Chief-Medical-Officer.md), [Medical Doctor](Medical-Doctor.md), [Paramedic](paramedic.md), [Chemist](Chemist.md), [Virologist](Virologist.md), |
 | Cargo       | [Quartermaster](Quartermaster.md), [Cargo Technician](Cargo-Technician.md), [Shaft Miner](Shaft-Miner.md) |
-| Service     | [Bartender](Bartender.md), [Cook](Cook.md), [Janitor](Janitor.md), [Clown](Clown.md), [Mime](Mime.md), [Curator](Curator.md), [Lawyer](Lawyer.md), [Chaplain](Chaplain.md), [Assistant](Assistant.md), [Psychologist](Psychologist.md) |
+| Service     | [Botanist](Botanist.md), [Bartender](Bartender.md), [Cook](Cook.md), [Janitor](Janitor.md), [Clown](Clown.md), [Mime](Mime.md), [Curator](Curator.md), [Lawyer](Lawyer.md), [Chaplain](Chaplain.md), [Assistant](Assistant.md), [Psychologist](Psychologist.md) |
 | Synthetic   | [Station AI](Station-AI.md)                                  |
 | Ghost Roles | [Ancient Engineer,](Ancient-Engineer.md) [Ash Walker,](AshWalker.md) [Fugitive](Fugitive.md) |
 | Antagonist  | [Revolutionary](Cargonia.md), [Nuclear operative](Nuclear-Emergency.md), [Traitor](Traitor.md), [Blob](Blob.md), [Wizard](Wizard.md), |
