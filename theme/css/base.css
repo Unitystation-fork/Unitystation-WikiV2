@@ -51,7 +51,6 @@ max-width: 700px;
 display: inline-block;
 float: left;
 overflow: visible;
-width: 0px;
 height: 50px;
 color: #EDEDED;
 font-size: 18px;
@@ -62,6 +61,8 @@ text-decoration: none;
 .wm-top-link, .wm-top-link:hover, .wm-top-link:active, .wm-top-link:visited, .wm-top-link:focus {
 color: #EDEDED;
 text-decoration: none;
+display: flex;
+align-items: center;
 }
 
 .wm-vcenter:before {
@@ -81,10 +82,22 @@ vertical-align: middle;
 display: inline-block;
 line-height: 16px;
 vertical-align: middle;
+padding-left: 5px;
+}
+@media (min-width:601px) {
+  .logo-container {
+    width: 230px;
+  }
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+  width: 230px;
+  height: 50px;
 }
 
 .wm-top-logo {
-max-height: 100%;
+max-height: 80%;
 border: 1px solid #EDEDED;
 }
 
@@ -185,6 +198,12 @@ display: none;
 }
 
 @media (max-width: 600px) {
+.logo-container{
+  width: auto;
+  position: relative;
+  left: 8px;
+} 
+
 .wm-small-hide {
   display: none;
 }
@@ -920,13 +939,7 @@ background-color: #2A2A2A;
 .wm-top-title img {
   border: 1px solid #DEE1DA;
 }
-.logo-container {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  width: 230px;
-  height: 50px;
-}
+
 #wm-toc-button {
   border-top: none;
   font-size: 12.5px;
@@ -939,4 +952,16 @@ background: #2A2A2A;
 #wm-search-go {
   border-top: none;
   background: #2A2A2A;
+}
+
+@media (max-width: 300px) {
+  .wm-top-title{
+    display: none;
+  }
+}
+
+@media (max-width: 155px) {
+.wm-top-logo {
+  display: none;
+}
 }
