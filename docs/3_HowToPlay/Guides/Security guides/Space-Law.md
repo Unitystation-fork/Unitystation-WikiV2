@@ -14,7 +14,7 @@ Use this to quickly find the Crime Code Numbers. Crime codes are made up of Cate
 | 03   |                   | Drug Distribution   | Manslaughter                   | Attempted Murder  |
 | 04   | Possession, Drugs | Possession, Weapons | Possession, Restricted Weapons | Canibalism        |
 | 05   |                   | Cruelty to animals  | Possession, Explosives         |Contempt for death |
-| 06   | Indecent Exposure | Rioting             | Inciting a Riot                | Mutiny            |
+| 06   |                   | Rioting             | Inciting a Riot                | Mutiny            |
 | 07   | Vandalism         | Workplace Hazard    | Sabotage                       | Grand Sabotage    |
 | 08   |                   | Petty Theft         | Theft                          | Grand Theft       |
 | 09   | Trespass          |                     | Major Trespass                 |                   |
