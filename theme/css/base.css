@@ -894,7 +894,6 @@ button.bg-dark:focus {
 /* width */
 ::-webkit-scrollbar {
   width: 20px;
-  border: 1px solid #;
 }
 
 /* Track */
