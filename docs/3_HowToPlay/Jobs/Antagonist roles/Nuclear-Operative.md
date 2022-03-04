@@ -45,4 +45,6 @@ There is no requirement to wait until the full 280TC has been dispensed, and it 
 Nuke Ops is generally a very confrontational gamemode. Unlike traitors, you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things, though if you are very smart about it, you can go for the sneaky route. To get better at the running and gunning, you can play <s>a catgirl clown</s> [security](Security.md). Go on patrol and respond to shootouts as often as possible. Or, if you are the diplomatic type, maybe, just maybe, you could [figure out a peaceful approach?](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}

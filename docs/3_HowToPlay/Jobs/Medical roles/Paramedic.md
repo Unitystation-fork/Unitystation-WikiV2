@@ -22,4 +22,6 @@ Fixing people up at the front line of either a disaster or battle and sending th
 
 You have access to dispose of bodies, access to EVA for some space murder action, and maintenance access to boot! Not to mention that you don't look out of place in any department and people won't find anything strange about you wandering the halls with a corpse so long as you stick it on your roller bed beforehand.
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}

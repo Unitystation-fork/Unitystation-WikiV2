@@ -5,4 +5,6 @@ Lurking within both the outpost and the maze are [[Skeleton (Mob)|animated skele
 
 There is a very high amount of gold and silver in both ore and bar form in the maze and temple room, as well as many stacks of sand, so bring a mining satchel and some extra crewmen to carry all the loot. Of particular note, offshooting to the west of the temple room is the golden room, which has a dense concentration of minerals.
 
-{% include 'html/rolesnavbar.md' %}!!Map Location|title1=Ancient Temple!!
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}!!Map Location|title1=Ancient Temple!!

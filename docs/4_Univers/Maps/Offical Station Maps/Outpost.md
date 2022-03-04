@@ -65,4 +65,6 @@ Where the [true dictatorial overlords](Security.md) of the station send their vi
 
 
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}

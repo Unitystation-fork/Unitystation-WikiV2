@@ -24,4 +24,6 @@ One very important detail of your job is that you are not [Security](Security-Of
 
 The Redshield does not come with much special equipment, being outfitted mostly as a security officer with a stylish beret. Depending on the whims of your [supervisors](Admin.md), you may, rarely, receive additional gear.
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}

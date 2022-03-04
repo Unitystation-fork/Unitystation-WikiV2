@@ -41,4 +41,6 @@ Clown ERT, sent to bring joy and annoyance to the crew. The clown ERT does come 
 
 
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}

@@ -1,4 +1,6 @@
 # Scientist
 'SCIENCE ROLES CURRENTLY CAN NOT DO ANYTHING RELATED TO THEIR JOB. KEEP THIS IN MIND WHEN PICKING VIROLOGIST, SCIENTIST,  OR GENETICIST. PAGE WILL BE ADDED ONCE ROLE IS FUNCTIONAL.'
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}

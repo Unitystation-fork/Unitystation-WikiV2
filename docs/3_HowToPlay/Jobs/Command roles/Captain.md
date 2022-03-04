@@ -46,4 +46,6 @@ As the way shifts in this game tend to go, at some point it might become necessa
 
 Don't forget though: You are ultimately responsible for the station. You should not be summoning the shuttle lightly. You should be doing your utmost to keep the station up and running. If the station has sustained damage, appraise its integrity to see if it's repairable first.
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}

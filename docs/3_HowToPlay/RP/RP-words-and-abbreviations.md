@@ -39,4 +39,6 @@ Suicide bombing a shuttle or other space craft into the station. Most common exa
 
 i'll add more when i stop procrastinating
 
-{% include 'html/rolesnavbar.md' %}
+{% if 'html/rolesnavbar.md' %}
+    {% include 'html/rolesnavbar.md' %}
+{% endif %}
