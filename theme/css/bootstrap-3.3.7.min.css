@@ -1124,9 +1124,9 @@ html {
     max-width: 100%;
     height: auto;
   }
-  .img-rounded {
-    /* border-radius: 6px; */
-  }
+  /*.img-rounded {
+     border-radius: 6px; 
+  }*/
   .img-thumbnail {
     display: inline-block;
     max-width: 100%;
@@ -4087,9 +4087,9 @@ html {
   .nav-pills > li {
     float: left;
   }
-  .nav-pills > li > a {
-    /* border-radius: 4px; */
-  }
+  /*.nav-pills > li > a {
+     border-radius: 4px; 
+  }*/
   .nav-pills > li + li {
     margin-left: 2px;
   }
@@ -4172,8 +4172,8 @@ html {
   /* @media (min-width: 768px) {
     .navbar {
       border-radius: 4px;
-    } */
-  }
+    } 
+  }*/
   @media (min-width: 768px) {
     .navbar-header {
       float: left;
