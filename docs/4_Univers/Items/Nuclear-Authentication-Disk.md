@@ -15,5 +15,5 @@ Note that if you manage to acquire the disk, you are not the only ones who can t
 
 Also, all [Death Squad Troopers](Death-Squad.md) come equipped with a pinpointer. If you, the nukies, have overstayed your welcome, or you are station personnel who have royally screwed up, Centcom may send a squad to get the disk, either to save the station or to blow it up themselves. If this happens, you are already dead. You just don't know it.
 
- 
+{# {% include 'html/rolesnavbar.md' %} #}
 
