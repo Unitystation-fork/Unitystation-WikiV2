@@ -117,6 +117,4 @@ A list of all the seeds, their produce and the mutations
 | ![pack of tomato seeds](seeds_seed-tomato.png)                           | pack of tomato seeds                  | These seeds grow into tomato plants.                                                                                                                                                      | ![harvest sprite](growing_tomato-harvest.png)           | tomato ![tomato](harvest_tomato.png)                                              | ![pack of blood-tomato seeds](seeds_seed-bloodtomato.png) ![pack of blue-tomato seeds](seeds_seed-bluetomato.png) ![pack of killer-tomato seeds](seeds_seed-killertomato.png)         |
 | ![pack of vanilla seeds](seeds_seed-vanillapod.png)                      | pack of vanilla seeds                 | These seeds grow into vanilla trees. They look fattening.                                                                                                                                 | ![harvest sprite](growing_vanillapod-harvest.png)       | vanilla pod ![vanilla pod](harvest_vanillapod.png)                                |                                                                                                                                                                                       |
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

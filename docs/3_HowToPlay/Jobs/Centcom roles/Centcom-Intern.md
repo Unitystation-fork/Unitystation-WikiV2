@@ -18,6 +18,4 @@ Note: The central command Intern is not a roundstart role and can currently only
 
 
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

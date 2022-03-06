@@ -54,6 +54,4 @@ The Janitor's gear is highly specialized to cleaning messes:
 
 Keep in mind that, while the bottle is faster and doesn't make the floor wet, there's a limited amount of cleaner in the bottle, and you need a [competent](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) [Chemist](Chemist.md) in order to get more.
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

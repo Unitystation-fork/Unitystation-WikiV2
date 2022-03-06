@@ -99,6 +99,4 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 
 
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

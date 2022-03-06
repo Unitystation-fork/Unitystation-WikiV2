@@ -22,6 +22,4 @@ Keep watch for any [suspicious](Assistant.md) [individuals](Clown.md) loitering 
 
 If you've got all that handled and you've got spare time, have a philosophical chat with the [Lawyer](Lawyer.md) about Securitization versus the Social Contract.
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

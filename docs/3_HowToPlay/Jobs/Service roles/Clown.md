@@ -16,6 +16,4 @@ But, [there are some times where people actually trust you](So-close-to-impossib
 
 Don't forget that your PDA is slippery, and can be used when you lose your banana peel.
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

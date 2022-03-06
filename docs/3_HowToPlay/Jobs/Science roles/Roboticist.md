@@ -21,6 +21,4 @@ Simple. Make robots. At the time of this page being made, you have three robots 
 
 
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

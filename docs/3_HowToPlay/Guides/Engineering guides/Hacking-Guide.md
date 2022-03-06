@@ -34,6 +34,4 @@ You may want to start with some door off in maint, where no one can catch you.
 
 Figuring out the door wiring can take a minute or two initially, but it's well worth the time investment, as a working pattern can be repeated with additional doors in seconds.
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

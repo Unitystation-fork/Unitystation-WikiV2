@@ -70,6 +70,4 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 
 (Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](Combat.md). How much is enough you ask? Well there's no real measure.)
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

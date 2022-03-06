@@ -70,6 +70,4 @@ This can extend even as far as when you've already been captured and brigged, as
 
 
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

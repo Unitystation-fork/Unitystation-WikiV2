@@ -306,9 +306,7 @@ The least legal option, by far, the one most likely to leave both the guy you ki
 ## Getting Better
 Even if you read this page a thousand times, without practice your still going to get your ass beat. the best way to learn to fight in game is to simply fight. stage ragecage matches, play [sec](Security.md), be an [antag](Antagonist.md), just don't get mad when your tossed in a cell to rot or turned into swiss cheese by gunfire.
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}
 
 
 

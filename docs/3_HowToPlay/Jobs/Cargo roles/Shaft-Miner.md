@@ -84,6 +84,4 @@ Shaft miners get a lot of useful tools to start that assist in completing [trait
 
 
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

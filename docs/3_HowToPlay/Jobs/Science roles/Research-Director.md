@@ -3,6 +3,4 @@
 
 "He turned himself into a slime captain, funniest shit ive ever seen"
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}

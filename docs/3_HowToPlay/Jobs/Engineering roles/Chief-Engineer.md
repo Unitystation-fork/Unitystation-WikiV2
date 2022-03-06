@@ -34,6 +34,4 @@ A [traitor](traitor.md) CE has a lot of fun option available to them to cause ab
 
 Because you have access to the engine bay, you also have the most effective way to create an excuse to call the evac shuttle by setting loose the engine, whether it's a Singularity, Tesla, or Supermatter. Just be sure that the shuttle is called *immediately,* as you won't have long once you sabotage any of them before they begin tearing the station apart.
 
-{% if 'html/rolesnavbar.md' %}
-    {% include 'html/rolesnavbar.md' %}
-{% endif %}
+{# {% include 'html/rolesnavbar.md' %} #}
