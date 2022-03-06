@@ -16,4 +16,4 @@ please note that there currently are no detective-related items in the game. for
 
 Once you pick Detective, you'll spawn inside your office. Make sure to open your locker, there's some useful stuff inside it. After this, it's mostly waiting. You can patrol the hallways and look through areas if you want, but you'll likely either not find anything, or get ambushed by Assistants that want your shiny revolver. Eventually, you'll see someone say that they found a dead body, with no way of knowing how they died. That's your cue to head to the crime scene, and investigate. 
 
-{% include 'html/rolesnavbar.md' %}
+ {% include config.rolesnavbar %}

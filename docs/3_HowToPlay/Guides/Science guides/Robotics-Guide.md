@@ -94,4 +94,4 @@ Congratulations! You now have a Medical bot.
 
 **More will be added once more is added to robotics in-game**
 
-{% include 'html/rolesnavbar.md' %}
+ {% include config.rolesnavbar %}

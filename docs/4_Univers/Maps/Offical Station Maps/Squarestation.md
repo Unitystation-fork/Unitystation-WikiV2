@@ -8,5 +8,5 @@
 
 
 
-{% include 'html/rolesnavbar.md' %}
+ {% include config.rolesnavbar %}
 [[Category:Maps]]

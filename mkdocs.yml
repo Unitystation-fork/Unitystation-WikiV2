@@ -35,6 +35,8 @@ theme:
 extra:
     version: 0.1.4
     logo: assets/images/logo.png
+    
+rolesnavbar: 'html/rolesnavbar.md'
 
 markdown_extensions:
   - admonition

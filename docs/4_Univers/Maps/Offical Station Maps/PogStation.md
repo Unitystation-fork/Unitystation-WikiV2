@@ -7,5 +7,5 @@ Pog Station is the Second map to be added to the game, and the most revamped map
 
 ​                                                                                                                                                                                                                                        
 
-{% include 'html/rolesnavbar.md' %}
+ {% include config.rolesnavbar %}
 [[Category:Maps]]
