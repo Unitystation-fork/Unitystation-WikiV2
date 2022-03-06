@@ -4,4 +4,4 @@
 
 Currently the laughing stock of the whole station
 
-{# {% include 'html/rolesnavbar.md' %} #}
+ {% include config.rolesnavbar %}
