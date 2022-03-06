@@ -30,4 +30,4 @@ Time to eschew the hippie crap; how do you best utilize the art of hydroponics t
 
 if you are lucky and fast you have access to many horrifying things: bluespace bananas, gatfruit, and lemon-nades being your most powerful plants available currently. Unless you set up a secret garden it will be extremely obvious which horrors you're growing, but often no one really cares about botany. You can try to expedite the process by bribing the [chemist](chemist.md) for some mutagen.
 
-{# {% include 'html/rolesnavbar.md' %} #}
+ 

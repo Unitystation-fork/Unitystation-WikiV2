@@ -16,4 +16,4 @@ If you go the hostile-takeover route, your priority is to hoard as much money as
 
 You will likely want to purchase some weapons crates to arm the proletariats of Cargonia. These crates come locked, requiring security clearance to open. One strategy to getting past this is dragging the crates outside the station airlocks and pinning them against a wall along an indentation. Once you have secured yourself on an opposite wall, shoot the crates with a [PKA](PKA.md) until they break, then take the goodies back inside. Barring that solution, you could also just ask the [HoP](HoP.md) for All Access; 50% of the time, it works every time.
 
-{# {% include 'html/rolesnavbar.md' %} #}
+ 

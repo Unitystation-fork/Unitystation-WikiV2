@@ -42,4 +42,4 @@ If the shuttle has been called DO NOT FORGET TO BRING [IAN](Ian.md) WITH YOU. Ia
 
 needless to say, being a [traitor](traitor.md) as the HoP is pretty tight. It's no surprise that the second-in-command on the station makes for a fairly easy time completing traitor objectives. With the ability to give yourself the valued AA and the authority as a head, you can go anywhere you need to with ease. Your direct authority over cargo can also come in handy, as you can tell the [QM](quartermaster.md) to order you whatever you need.
 
-{# {% include 'html/rolesnavbar.md' %} #}
+ 
