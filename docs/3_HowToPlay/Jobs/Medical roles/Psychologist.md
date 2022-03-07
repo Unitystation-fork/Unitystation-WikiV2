@@ -20,4 +20,4 @@ it is a good idea to start 'advertising' around the station for anybody who coul
 
 Being selected to be a [traitor](traitor.md) as a Psychologist is basically a cruel joke. You'll have to be smart how you leverage your meek and disarming job title, because that's the only thing you get out of it, except a decently secluded room in the Medbay. The only trick you have is to invite any targets you have into your office for a therapy session, and that won't work often.
 
- {% include config.rolesnavbar %}
+ {% include 'html/rolesnavbar.html' %}

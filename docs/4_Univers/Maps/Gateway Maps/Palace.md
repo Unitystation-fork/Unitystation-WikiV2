@@ -33,4 +33,4 @@ The Palace is one of the possible teleporter destinations. It is currently unfin
 
 
 
- {% include config.rolesnavbar %}
+ {% include 'html/rolesnavbar.html' %}

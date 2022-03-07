@@ -35,4 +35,4 @@ As the CMO, it is your job to direct aid operations when a crisis occurs.
 
 If, say, a team of [commandos](Nuclear-Emergency.md) boards the station, you will have a lot of casualties, some of which will inevitably be your own [medics](Medical-Doctor.md). As such, it is advised that during such a crisis you [hack](Hacking-Guide.md) open or [deconstruct](Construction.md) your front doors to create a safe place for injured people to come heal themselves, but if you do, it is advised that you get at least one [Security Officer](Security.md) stationed in front of medical for the duration, because shit will go down. Send [doctors](Medical-Doctor.md) on patrol to bring back bodies. Anyone who can walk is able to heal themselves, and should be ignored so that those in critical condition and those that are dead can get needed help.
 
- {% include config.rolesnavbar %}
+ {% include 'html/rolesnavbar.html' %}

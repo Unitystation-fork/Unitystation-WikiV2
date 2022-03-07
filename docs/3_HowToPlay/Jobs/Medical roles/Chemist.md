@@ -34,4 +34,4 @@ Much of the damage chemistry can cause comes in two forms, poisons, applied by w
 
 Chemistry is easy to learn and hard to master. you can make a simple grenade with just water and potassium, but it wont come close to the maxcap breaking nitroglycerin grenades made by a charismatic and skilled chemist. To improve with chemistry, you should start with simple recepies, such as space lube and various medicines and simple toxins, and try your hand at intermediate ones like advanced medicines and basic narcotics. once you've got the hand of those, move on to explosives, poisons, and more advanced chems like meth. Once you feel like you have mastered making one trick ponies, you should move on to combining several medicines, poisons, or explosives to achieve greater effect, until you figure out how to unleash the fires of hell upon the station.
 
- {% include config.rolesnavbar %}
+ {% include 'html/rolesnavbar.html' %}
