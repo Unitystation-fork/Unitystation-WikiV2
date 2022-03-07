@@ -3,4 +3,4 @@
 
 "He turned himself into a slime captain, funniest shit ive ever seen"
 
- {% include 'html/rolesnavbar.html' %}
+ 

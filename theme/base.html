@@ -130,6 +130,8 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     {{ page.content }}
   {%- endblock %}
 
+{% include "rolesnavbar.html" %}
+
   <br>
   {%- if config.extra.article_nav_bottom != False %}
     {% include "article-nav.html" %}

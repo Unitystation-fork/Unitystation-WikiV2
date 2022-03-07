@@ -21,4 +21,4 @@ A [traitor](Traitor.md) assistant. A perfect weapon. An undercover mastermind. Y
 
 The fact that you have no duties means that you can easily sneak around and accomplish your objectives rather easily, if you play your cards right. Your access to the maintenance hallways also provides you with an easy way to reach your target, as long as the room they're in isn't surrounded by reinforced walls. Pretend to be just a mindless, simple moron, and your target will have no idea that you're sneaking up on them with a toolbox about to robust their ass.
 
- {% include 'html/rolesnavbar.html' %}
+ 

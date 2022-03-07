@@ -30,4 +30,4 @@ If the alert level is ever elevated to <font color= "red">Code Red,</font> this 
 
 For any HoS, the crew can be just as much of a danger as [syndicate agents](Traitor.md) and [revolutionaries](Cargonia.md), and if you or your [officers](Security.md) piss them off enough, you may find your corpse paraded down the hall. The best way to prevent this is to work with the [lawyer](Lawyer.md), take headsets off your prisoners, and follow [space law](Space-Law.md). During downtime you can also try and build goodwill with the crew, arresting unwanted vandals and thieves yourself will both show others security is doing their job and you are doing your part to help them.
 
- {% include 'html/rolesnavbar.html' %}
+ 
