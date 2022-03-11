@@ -41,6 +41,4 @@ Clown ERT, sent to bring joy and annoyance to the crew. The clown ERT does come 
 
 
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

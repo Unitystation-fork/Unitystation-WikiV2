@@ -39,6 +39,4 @@ Suicide bombing a shuttle or other space craft into the station. Most common exa
 
 i'll add more when i stop procrastinating
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

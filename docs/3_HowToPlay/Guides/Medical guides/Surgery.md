@@ -20,6 +20,4 @@ After starting the procedure, you need to use a specific sequence of surgical to
 You can just try to use all your tools on the patient until one works. 
 
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

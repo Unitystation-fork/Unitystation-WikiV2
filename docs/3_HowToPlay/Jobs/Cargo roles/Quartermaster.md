@@ -125,6 +125,4 @@ You also have access to the Autolathe, which is handy if you need to manufacture
 
 All in all, if you've been lucky enough to roll traitor as the Quartermaster, you're probably going to have a pretty crate (get it?) time.
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

@@ -41,6 +41,4 @@ The most varied of the categories is the ways you can get in without permission.
 
 - Explosions (or fire). If you can get an explosive, you can try blowing apart the wall or window. you can also try to use a plasmafire to do the same. This is greatly frowned upon if you aren't an [antagonist](Antagonist.md), but is by far the most stylish way of doing it.
 
-    <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+    {% include_relative 'html/rolesnavbar.md' %}

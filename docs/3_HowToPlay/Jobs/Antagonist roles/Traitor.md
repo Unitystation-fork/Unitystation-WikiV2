@@ -70,6 +70,4 @@ This can extend even as far as when you've already been captured and brigged, as
 
 
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

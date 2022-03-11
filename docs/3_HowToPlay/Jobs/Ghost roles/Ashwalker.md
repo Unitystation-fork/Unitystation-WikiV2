@@ -16,7 +16,5 @@ Due note: *invading the station as an ash walker is very much in a grey area.* *
 
 Ash Walkers have a number of special craftable items using materials harvestable from Lavaland mobs.
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}
 

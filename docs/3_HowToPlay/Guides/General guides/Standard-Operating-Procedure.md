@@ -34,6 +34,4 @@ The station's self destruct mechanism has been engaged due to overwhelming threa
 
 
 
-    <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+    {% include_relative 'html/rolesnavbar.md' %}

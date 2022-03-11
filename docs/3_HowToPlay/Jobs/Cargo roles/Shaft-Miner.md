@@ -84,6 +84,4 @@ Shaft miners get a lot of useful tools to start that assist in completing [trait
 
 
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

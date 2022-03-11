@@ -43,6 +43,4 @@ Due to a lack of set goals, you may be a tad overwhelmed, however, here are some
 * Work with the [lawyer](Lawyer.md), sue god!
 * pray to the [spess gods](Admin.md) for divine gifts or holy tasks.
 * Whatever other crazy shit you can come up with.
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

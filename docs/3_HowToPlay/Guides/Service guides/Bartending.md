@@ -181,6 +181,4 @@
 | ![Welder Fuel](drinks_dr_gibb_glass.png)                     | Welder Fuel         | Unless you are an industrial tool, this is probably not safe for consumption.                |
 |                                                              |
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

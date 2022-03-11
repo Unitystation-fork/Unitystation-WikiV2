@@ -94,6 +94,4 @@ Congratulations! You now have a Medical bot.
 
 **More will be added once more is added to robotics in-game**
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}

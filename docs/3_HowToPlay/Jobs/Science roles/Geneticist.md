@@ -4,6 +4,4 @@
 
 Currently the laughing stock of the whole station
 
-  <div class="container-fluid wm-page-content">
-{% include 'html/rolesnavbar.html' %}
-</div>
+  {% include_relative 'html/rolesnavbar.md' %}
