@@ -13,31 +13,31 @@
 `│	│	├──  2.2a - Game Mode`<br>
 `│	│	├──  2.2b - Player Manager`<br>
 `│	│	│	├──  2.2b.1 - Kick`<br>
-`│	│	│	├──  2.2b.2 - Ban`
-`│	│	│	├──  2.2b.3 - JobBan`
-`│	│	│	├──  2.2b.4 - Smite`
-`│	│	│	├──  2.2b.5 - Respawn`
-`│	│	│	├──  2.2b.6 - Teleport Admin TO Player - Aghost`
-`│	│	│	├──  2.2b.7 - Teleport Player TO Admin`
-`│	│	│	├──  2.2b.8 - Teleport Player TO Admin`
-`│	│	│	├──  2.2b.9 - Teleport Player TO Admin - ALL`
-`│	│	│	├──  2.2b.10 - heal`
-`│	│	│	└──  2.2b.11 - mentor`
-`│	│	├──  2.2c - CentCom`
-`│	│	├──  2.2d - Events Managers`
-`│	│	├──  2.2e - Round Managers`
-`│	│	├──  2.2f - Dev Tools`
-`│	│	└──  2.2g - Server Settings`
-`│	├── 2.3 - ACHAT`
-`│	├── 2.4 - ALOGS`
-`│	├── 2.5 - AHELP`
-`│	├── 2.6 - [INFO]`
-`│	├── 2.7 - Global Sound`
-`│	├── 2.8 - Global Music`
-`│	├── 2.9 - AGHOST`
-`│	└── 2.10 - ALERTS`
-`└── 3 - CREDIT`
-`=========================================================`
+`│	│	│	├──  2.2b.2 - Ban`<br>
+`│	│	│	├──  2.2b.3 - JobBan`<br>
+`│	│	│	├──  2.2b.4 - Smite`<br>
+`│	│	│	├──  2.2b.5 - Respawn`<br>
+`│	│	│	├──  2.2b.6 - Teleport Admin TO Player - Aghost`<br>
+`│	│	│	├──  2.2b.7 - Teleport Player TO Admin`<br>
+`│	│	│	├──  2.2b.8 - Teleport Player TO Admin`<br>
+`│	│	│	├──  2.2b.9 - Teleport Player TO Admin - ALL`<br>
+`│	│	│	├──  2.2b.10 - heal`<br>
+`│	│	│	└──  2.2b.11 - mentor`<br>
+`│	│	├──  2.2c - CentCom`<br>
+`│	│	├──  2.2d - Events Managers`<br>
+`│	│	├──  2.2e - Round Managers`<br>
+`│	│	├──  2.2f - Dev Tools`<br>
+`│	│	└──  2.2g - Server Settings`<br>
+`│	├── 2.3 - ACHAT`<br>
+`│	├── 2.4 - ALOGS`<br>
+`│	├── 2.5 - AHELP`<br>
+`│	├── 2.6 - [INFO]`<br>
+`│	├── 2.7 - Global Sound`<br>
+`│	├── 2.8 - Global Music`<br>
+`│	├── 2.9 - AGHOST`<br>
+`│	└── 2.10 - ALERTS`<br>
+`└── 3 - CREDIT`<br>
+`=========================================================`<br>
 ## 1 - Admin Tool ##
 Le panneau d’outils d’admin est situé en haut à droite de votre écran, une fois la partie démarrée, vous pourrez utiliser le dernier bouton tout à droite.
 
@@ -53,27 +53,27 @@ attention, il n’existe pour le moment pas de Ctrl W
 
 ================
 
-### 1.3 -  Variable Viewer ###
-La fenêtre de variable est composée ainsi
-![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)Les couleurs de variable peuvent ainsi être différenciées.
-![VariableColor](https://i.imgur.com/jsMibs1.png)
-**1** = rafraîchissement, hiérarchie
-**2** = Bouton de recherche, hiérarchie 
-**3** = Recherche dans la hiérarchie, champ
-**4** = Page contenant tous les objets du jeu, dans la hiérarchie.
-**4a** = Nom de l'objet du jeu
-**4b** = Bouton pour afficher ou cacher les enfants de l'objet de jeu
-**4c** = Boîte pour sélectionner l'objet de jeu
-**5** = Nom de l'objet de jeu actuellement sélectionné
-**6** = Défilement à gauche dans la liste des composants attachés à l'objet de jeu sélectionné.
-**7** = Défilement à droite dans la liste des composants attachés à l'objet de jeu sélectionné.
-**8** = Afficher les options de débogage telles que les fonctions et les variables définies par script/variables qui nécessitent plus qu'une simple mise à la valeur.
-**9** = Rafraîchir les variables sélectionnées sur l'objet.
-**10** = Mettre en réseau les changements sur le client pour que les changements soient visibles sur les clients
-**11** = Fermer la fenêtre
-**12** = Faire défiler l'historique des scripts sélectionnés
-**13** = Nom du script actuel
-**14** = Panneau contenant toutes les variables/Fonctions liées au script
+### 1.3 -  Variable Viewer ###<br>
+La fenêtre de variable est composée ainsi<br>
+![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)Les couleurs de variable peuvent ainsi être différenciées.<br>
+![VariableColor](https://i.imgur.com/jsMibs1.png)<br>
+**1** = rafraîchissement, hiérarchie<br>
+**2** = Bouton de recherche, hiérarchie <br>
+**3** = Recherche dans la hiérarchie, champ<br>
+**4** = Page contenant tous les objets du jeu, dans la hiérarchie.<br>
+**4a** = Nom de l'objet du jeu<br>
+**4b** = Bouton pour afficher ou cacher les enfants de l'objet de jeu<br>
+**4c** = Boîte pour sélectionner l'objet de jeu<br>
+**5** = Nom de l'objet de jeu actuellement sélectionné<br>
+**6** = Défilement à gauche dans la liste des composants attachés à l'objet de jeu sélectionné.<br>
+**7** = Défilement à droite dans la liste des composants attachés à l'objet de jeu sélectionné.<br>
+**8** = Afficher les options de débogage telles que les fonctions et les variables définies par script/variables qui nécessitent plus qu'une simple mise à la valeur.<br>
+**9** = Rafraîchir les variables sélectionnées sur l'objet.<br>
+**10** = Mettre en réseau les changements sur le client pour que les changements soient visibles sur les clients.<br>
+**11** = Fermer la fenêtre<br>
+**12** = Faire défiler l'historique des scripts sélectionnés<br>
+**13** = Nom du script actuel<br>
+**14** = Panneau contenant toutes les variables/Fonctions liées au script<br>
 
 ================
 ## 2 - Admin Menu ##
@@ -82,10 +82,10 @@ La fenêtre de variable est composée ainsi
 
 ### 2.1 - MHELP ###
 ![MentorChat](https://i.imgur.com/Kgewtjp.png)
-Mentor Help chat.  
-permet aux joueurs de discuter avec un mentor nommé (temporairement ou non)  
-sur le coté gauche se trouve la liste des joueurs  
-sur le coté droit se trouve l’historique et zone d’écriture.
+Mentor Help chat.  <br>
+permet aux joueurs de discuter avec un mentor nommé (temporairement ou non)  <br>
+sur le coté gauche se trouve la liste des joueurs  <br>
+sur le coté droit se trouve l’historique et zone d’écriture.<br>
 
 ================
 ### 2.2 - [Admin Tool Panel] ###
@@ -96,9 +96,9 @@ Ce panneau se divise en 7 fenêtres.
 ![GameModeManager](https://i.imgur.com/wMViLXt.png)
 ####  2.2b - Player Manager ####
 ![PlayerManager](https://i.imgur.com/Go0hAUI.png)
-cette fenêtre rassemble plusieurs outils visuels.
-ainsi que la liste des joueurs sur le coté gauche.
-si la liste est trop longue vous pouvez utiliser la fonction recherche au dessus.
+cette fenêtre rassemble plusieurs outils visuels.<br>
+ainsi que la liste des joueurs sur le coté gauche.<br>
+si la liste est trop longue vous pouvez utiliser la fonction recherche au dessus.<br>
 
 ================
 #####  2.2b.1 - Kick #####
@@ -118,12 +118,12 @@ Permet de bloquer ou bannir un ensemble de joueurs en fonction de leur job. fonc
 
 ================
 #####  2.2b.5 - Respawn #####
-![Respawn](https://i.imgur.com/AC5pPcj.png) Permet de faire revenir un jouer a la vie (même s'il est toujours vivant)
-le panneau de droite permet de choisir différentes options, et celles ci sont cumulatives.
+![Respawn](https://i.imgur.com/AC5pPcj.png) Permet de faire revenir un jouer a la vie (même s'il est toujours vivant)<br>
+le panneau de droite permet de choisir différentes options, et celles ci sont cumulatives.<br>
 ex, vous pouvez faire revivre un personnage en "janitor" +"blob"
 
 ================
-#####  2.2b.6 - Teleport Admin TO Player - Aghost#####
+#####  2.2b.6 - Teleport Admin TO Player - Aghost#####<br>
 **VOUS** téléporte sur un joueur sélectionné en mode fantôme (invisible)
 
 
@@ -133,43 +133,43 @@ ex, vous pouvez faire revivre un personnage en "janitor" +"blob"
 
 
 ================
-#####  2.2b.8 - Teleport Player TO Admin #####
+#####  2.2b.8 - Teleport Player TO Admin #####<br>
 Téléporte **LE JOUEUR** sélectionné, sur vous 
 
 
 ================
 #####  2.2b.9 - Teleport Player TO Admin - ALL #####
 
-Tous le monde est téléporté a l'admin
-ne fonctionne pas si vous etes un fantôme.
+Tous le monde est téléporté a l'admin<br>
+ne fonctionne pas si vous etes un fantôme.<br>
 
 ================
 #####  2.2b.10 - heal #####
-Une fois un joueur sélectionné, vous pourrez complètement soigner celui ci.
-attention cela ne fait pas repousser les membres perdus.
-et ne soigne pas la mort.  
+Une fois un joueur sélectionné, vous pourrez complètement soigner celui ci.<br>
+attention cela ne fait pas repousser les membres perdus.<br>
+et ne soigne pas la mort.  <br>
 
 ================
 #####  2.2b.11 - mentor #####
-permet de donner au joueurs selectionnés le role mentor.
--pour le moment- celui-ci ne peux qu'ouvrir l'interface mentor en plus.
+permet de donner au joueurs selectionnés le role mentor.<br>
+-pour le moment- celui-ci ne peux qu'ouvrir l'interface mentor en plus.<br>
 
 
 ================
 ####  2.2c - CentCom ####
 ![CentComm](https://i.imgur.com/h1IA8gc.png)
-`/!\` **Ceci est un outils Roleplay** `/!\`
-Le CentComm est l'entité supérieure au capitaine, 
-pour plus d'informations. 
-consultez les pages
-| **Centcom**     | [Centcom Officer](Central-Command-Officer.md), [Death Squad](Death-Squad.md), [Emergency Response Team,](Emergency-Response-Team.md) [Redshield Officer](Redshield-Officer.md) |
+`/!\` **Ceci est un outils Roleplay** `/!\`<br>
+Le CentComm est l'entité supérieure au capitaine, <br>
+pour plus d'informations. <br>
+consultez les pages<br>
+| **Centcom**     | [Centcom Officer](Central-Command-Officer.md), [Death Squad](Death-Squad.md), [Emergency Response Team,](Emergency-Response-Team.md) [Redshield Officer](Redshield-Officer.md) |<br>
 ####  2.2d - Events Managers ####
-![EventManager](https://i.imgur.com/1PYvGB4.png)**Events Type :**
-* random
-* Fun
-* Spetial
-* Antagonist
-* Debug
+![EventManager](https://i.imgur.com/1PYvGB4.png)**Events Type :**<br>
+* random<br>
+* Fun<br>
+* Spetial<br>
+* Antagonist<br>
+* Debug<br>
 
 **Event To trigger: ** (sous catégorie de type)
 
