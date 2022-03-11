@@ -15,5 +15,5 @@ The 'Grab** intent allows you to, as it says, grab people. Grabbing someone with
 ##  Harm Intent 
 The 'Harm' intent will harm. On standing targets you will attempt to punch them. The chance to miss a punch increases the more stamina and brute damage you have. Punching has a chance to knockdown the target. The more brute and stamina damage the target has, the longer the target will be knocked down. If using harm intent on prone targets you will kick them.
 
-  {% include_relative 'html/rolesnavbar.md' %}
+  {# {% include 'html/rolesnavbar.md' %} #}
 

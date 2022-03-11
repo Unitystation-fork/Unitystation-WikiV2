@@ -14,5 +14,5 @@ If you are able to secure the station and repair enough of the systems damage, y
 
 The other choice is to repair the shuttle docked in the ship bay. To do so, you will have to find one of the two available shuttle console machine boards and use it to rebuild the piloting console in the shuttle. You will also have to secure plasma fuel from Atmospherics storage and dig away the asteroid rubble that has built up around the shuttle over the decades of inactivity. Once you have done so, you can leave the station and explore the local sector. Hint: the main station is located somewhere are coordinates 0,0, and it is totally permissible to return there so long as you don't metagame.
 
-  {% include_relative 'html/rolesnavbar.md' %}
+  {# {% include 'html/rolesnavbar.md' %} #}
 

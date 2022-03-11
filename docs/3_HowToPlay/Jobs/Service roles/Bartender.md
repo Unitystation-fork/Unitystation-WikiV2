@@ -43,4 +43,4 @@ A full guide on all the drinks can be (will be) found [here](Guide-to-Food-and-D
 
 A [traitorous](traitor.md) bartender doesn't have a lot going for them. They are a very visible job with little excuse to be anywhere but at the bar. You do start with your shotgun and beanbag shells which is something, but it's a loud weapon with no lethality and the limit of two shots at a time makes it a supplemental weapon at best. Whatever your objectives are, if they require you to leave the bar, you best be gone and done with it as quickly as possible, as your absence will be very telling to any [investigators](detective.md).
 
-  {% include_relative 'html/rolesnavbar.md' %}
+  {# {% include 'html/rolesnavbar.md' %} #}

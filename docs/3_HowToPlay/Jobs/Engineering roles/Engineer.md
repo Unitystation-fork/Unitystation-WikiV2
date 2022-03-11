@@ -52,5 +52,5 @@ In addition, on most stations, each Engineer gets their own hardsuit. Cherish yo
 
 A [traitor](traitor.md) engineer isn't as easy as you might think it is. While you do have good access, a lot of useful equipment (including a hardsuit), and a generally effective excuse to be in lots of places you aren't supposed to ("just making repairs!"), you critically don't get access to any swanky weapons. No matter where you go, you also have a responsibility *to look busy.* Lingering around a place for too long without doing anything will very quickly arouse suspicions, so find things to do.
 
-  {% include_relative 'html/rolesnavbar.md' %}
+  {# {% include 'html/rolesnavbar.md' %} #}
 
