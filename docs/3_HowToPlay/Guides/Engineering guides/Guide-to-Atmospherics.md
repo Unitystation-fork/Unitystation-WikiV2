@@ -126,4 +126,6 @@ powerful, the atmos tech can build a chamber that makes the sun look like Canada
 is more than just knowing what each part does, and to really understand it it is recommended that you play atmos tech and experiment and communicate with other experienced atmos techs
 to share ideas.
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>

@@ -3,4 +3,6 @@
 
 "He turned himself into a slime captain, funniest shit ive ever seen"
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>

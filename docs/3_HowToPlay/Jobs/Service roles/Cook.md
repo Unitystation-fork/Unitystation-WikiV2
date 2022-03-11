@@ -20,7 +20,9 @@ To make a steak you must take the meat, put it in a microwave, wait 10 seconds a
 
 
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>
 
 
 

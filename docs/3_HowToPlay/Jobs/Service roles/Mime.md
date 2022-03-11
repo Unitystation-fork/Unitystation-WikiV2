@@ -21,4 +21,6 @@ A mime has a variety of unique mime-specific tools and gear, such as his mask, u
 
 
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>

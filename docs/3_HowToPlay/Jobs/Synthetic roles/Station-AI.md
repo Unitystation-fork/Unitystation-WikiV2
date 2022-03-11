@@ -36,5 +36,7 @@ As an AI, you have your own secure radio channel (binary) to speaking with other
 
 
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>
 

@@ -59,4 +59,6 @@ Set up traps along the way to the station nuke room or the nuke disk if they hav
 
 Now, understand that even if you do prepare a hell of a defense, getting everything you could want from the armory and a team together to counter attack, or if you just hide in lockers in maintenance the whole time until you can make a mad dash for the emergency shuttle, you should know that there's an extremely high chance of dying. Often it will feel unfair, but that's Deathsquad for you. They are meant to cap off the peak craziness that can happen on unity station. So do what you can to survive, but make sure to have fun with it. And if by some chance you do survive, that's quite an achievement, so feel proud of yourself.
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>

@@ -99,4 +99,6 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 
 
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>

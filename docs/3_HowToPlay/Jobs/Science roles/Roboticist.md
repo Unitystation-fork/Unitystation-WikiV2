@@ -21,4 +21,6 @@ Simple. Make robots. At the time of this page being made, you have three robots 
 
 
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>

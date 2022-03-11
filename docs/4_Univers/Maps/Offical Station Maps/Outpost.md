@@ -65,4 +65,6 @@ Where the [true dictatorial overlords](Security.md) of the station send their vi
 
 
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>

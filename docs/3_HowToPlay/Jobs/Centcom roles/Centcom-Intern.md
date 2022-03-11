@@ -18,4 +18,6 @@ Note: The central command Intern is not a roundstart role and can currently only
 
 
 
- {% include 'html/rolesnavbar.html' %}
+  <div class="container-fluid wm-page-content">
+{% include 'html/rolesnavbar.html' %}
+</div>
