@@ -26,4 +26,4 @@ Your a curator, not a book curator specifically, this means that your free to go
 
 As a traitor curator, your only real advantage compared to other roles is that nobody will bother ever visiting your library without reason. your basically a less suspicious assistant with the same amount of access. You could use this to your advantage, hiding bodies in your room and using your dweeb looks to appear harmless. As a traitor curator, your also more free to sacrifice others to summon things, so long as someone is around to hear you.
 
- 
+ {% include 'html/rolesnavbar.html' %}

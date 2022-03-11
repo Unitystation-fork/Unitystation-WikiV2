@@ -20,4 +20,4 @@ Frankly - opportunities will present themselves to you, just hang around near th
 
 Don't worry, all professions take practice and no one does anything perfectly on the first try, so you have to learn what it feels like to play Lawyer.
 
- 
+ {% include 'html/rolesnavbar.html' %}

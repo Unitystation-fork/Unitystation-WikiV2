@@ -62,4 +62,4 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 5) Typically, you will find that first aid kits are over-provisioned with burn ointment, and you should replace a stack with bruise packs or gauze. Burn treatment kits are also a thing, but they are mega overkill for most situations except mass-casualty burn incidents like station-wide plasma fires.
 
- 
+ {% include 'html/rolesnavbar.html' %}

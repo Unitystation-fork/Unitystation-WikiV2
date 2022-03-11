@@ -45,7 +45,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 | Step 1 | 1 part Ethanol      |
 | Step 2 | 1 part Welding fuel |
 
- 
+ {% include 'html/rolesnavbar.html' %}
 
 
 

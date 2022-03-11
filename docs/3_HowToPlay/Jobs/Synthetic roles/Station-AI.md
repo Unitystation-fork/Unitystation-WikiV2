@@ -36,5 +36,5 @@ As an AI, you have your own secure radio channel (binary) to speaking with other
 
 
 
- 
+ {% include 'html/rolesnavbar.html' %}
 
