@@ -3,16 +3,16 @@
 # Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
 ## Index ##
 
-`├── 1 - Admin Tool`
-`│	├── 1.1 - Spawn item`
-`│	├── 1.2 -  Clone & delete Item`
-`│	└── 1.3 -  Variable Viewer`
-`├── 2 - Admin Menu`
-`│	├── 2.1 - MHELP`
-`│	├── 2.2 - [Admin Tool Panel]`
-`│	│	├──  2.2a - Game Mode`
-`│	│	├──  2.2b - Player Manager`
-`│	│	│	├──  2.2b.1 - Kick`
+`├── 1 - Admin Tool`<br>
+`│	├── 1.1 - Spawn item`<br>
+`│	├── 1.2 -  Clone & delete Item`<br>
+`│	└── 1.3 -  Variable Viewer`<br>
+`├── 2 - Admin Menu`<br>
+`│	├── 2.1 - MHELP`<br>
+`│	├── 2.2 - [Admin Tool Panel]`<br>
+`│	│	├──  2.2a - Game Mode`<br>
+`│	│	├──  2.2b - Player Manager`<br>
+`│	│	│	├──  2.2b.1 - Kick`<br>
 `│	│	│	├──  2.2b.2 - Ban`
 `│	│	│	├──  2.2b.3 - JobBan`
 `│	│	│	├──  2.2b.4 - Smite`
