@@ -40,7 +40,7 @@ overflow: hidden;
 }
 
 .wm-page-content {
-max-width: 700px;
+max-width: none;
 }
 
 .wm-page-top-frame { display: none; }

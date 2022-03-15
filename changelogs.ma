@@ -1,3 +1,10 @@
+Version 0.0.4
+Date 03/15/2022
+Dev  GemInee
+Modification
+    - Suppression de la restriction de la largeur maximale de la zone de contenu pour le style "wm-page-content" dans le fichier "base.css".
+
+-----------------------------------------------
 Version 0.0.3
 Date 03/11/2022
 Dev  GemInee

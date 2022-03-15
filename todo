@@ -11,3 +11,6 @@ Cause probable : Le site utilise le générateur statique jinja et github utilis
 Options de solution :
     - Transférer le site web de jinja à jekyll
     - Trouver un autre moyen d'importer le bloc de rôles dans les pages de renvoi du wiki
+
+TODO: Ajouter un menu pour la sélection de la langue
+TODO: Ajouter un bloc de liens vers des ressources externes
