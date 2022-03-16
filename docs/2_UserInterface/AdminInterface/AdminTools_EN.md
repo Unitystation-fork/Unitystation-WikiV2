@@ -1,5 +1,5 @@
 ﻿
-{{tag>UI interface of the BROUILLON game admin tool}}
+{# {{tag>UI interface of the BROUILLON game admin tool}} #}
 ## Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
 ## Content ##
 
