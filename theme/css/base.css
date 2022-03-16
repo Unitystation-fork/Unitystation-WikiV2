@@ -98,11 +98,11 @@ padding-left: 5px;
 
 .wm-top-logo {
 max-height: 80%;
-border: 1px solid #EDEDED;
+border: 1px solid #353A3E;
 }
 
 .wm-top-version {
-border: 1px solid #DEE1DA;
+border: 1px solid #353A3E;
 /* border-radius: 3px; */
 padding: 0px 5px;
 color: #EDEDED;
@@ -310,7 +310,7 @@ color: #0a0a1d;
 font-size: 1.2rem;
 line-height: 1.2rem;
 overflow: hidden;
-border-left: 1px solid #EDEDED;
+border-left: 1px solid #6D665B;
 }
 
 .wm-page-toc-opener > .wm-toc-text::after {
@@ -341,7 +341,7 @@ border: none;
 button, .btn, .btn-sm, .btn-xs, .btn-default, #hist-fwd, #hist-back, #wm-toc-button, #wm-search-go {
   background-color: #0a0a1d;
   color: #EDEDED;
-  border: 1px solid #DEE1DA;
+  border: 1px solid #353A3E;
 }
 
 .btn-link {
@@ -364,7 +364,7 @@ border-color: #EDEDED;
 button:hover, .btn:hover, .btn-sm:hover, .btn-xs:hover, .btn-default:hover, .btn-link:hover, #hist-fwd:hover, #hist-back:hover, #wm-toc-button:hover, #wm-search-go:hover {
 color: #EDEDED;
 background-color: #2C313A;
-border-color: #DEE1DA;
+border-color: #353A3E;
 }
 
 .btn-default.greybtn {
@@ -583,7 +583,7 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 input#mkdocs-search-query.form-control {
   background-color: #2A2A2A;
   color: #EDEDED;
-  border: 1px solid #DEE1DA;
+  border: 1px solid #353A3E;
   border-top: none;
 }
 
@@ -893,20 +893,20 @@ button.bg-dark:focus {
 
 /* width */
 ::-webkit-scrollbar {
-  width: 20px;
+  width: 6px;
 
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #39434d;
+  background: #353A3E;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
   border-radius: 3px;
-  border: 1px solid #DEE1DA;
-  background: #2b2b2b;
+  border: 1px solid #808489;
+  background: #808489;
 }
 
 /* Handle on hover */
@@ -916,7 +916,7 @@ button.bg-dark:focus {
 
 /* Additional styles */
 .add-border{
-  border: 1px solid #DEE1DA;
+  border: 1px solid #353A3E;
 }
 .set-bg2 {
 background-color: #2A2A2A;
@@ -929,7 +929,7 @@ background-color: #2A2A2A;
 }
 .tocpane-repo-title {
   background: #2A2A2A;
-  border: 1px solid #DEE1DA;
+  border: 1px solid #353A3E;
   border-bottom: none;
   display: flex;
   justify-content: center;
@@ -937,7 +937,7 @@ background-color: #2A2A2A;
 }
 
 .wm-top-title img {
-  border: 1px solid #DEE1DA;
+  border: 1px solid #353A3E;
 }
 
 #wm-toc-button {
