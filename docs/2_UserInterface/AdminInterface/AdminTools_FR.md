@@ -4,40 +4,75 @@
 Index ##
 
 `├── 1 - Admin Tool`
+
 `│        ├── 1.1 - Spawn item`
+
 `│        ├── 1.2 -  Clone & delete Item`
+
 `│        └── 1.3 -  Variable Viewer`
+
 `├── 2 - Admin Menu`
+
 `│        ├── 2.1 - MHELP`
+
 `│        ├── 2.2 - [Admin Tool Panel]`
+
 `│        │        ├──  2.2a - Game Mode`
+
 `│        │        ├──  2.2b - Player Manager`
+
 `│        │        │        ├──  2.2b.1 - Kick`
+
 `│        │        │        ├──  2.2b.2 - Ban`
+
 `│        │        │        ├──  2.2b.3 - JobBan`
+
 `│        │        │        ├──  2.2b.4 - Smite`
+
 `│        │        │        ├──  2.2b.5 - Respawn`
+
 `│        │        │        ├──  2.2b.6 - Teleport Admin TO Player - Aghost`
+
 `│        │        │        ├──  2.2b.7 - Teleport Player TO Admin`
+
 `│        │        │        ├──  2.2b.8 - Teleport Player TO Admin`
+
 `│        │        │        ├──  2.2b.9 - Teleport Player TO Admin - ALL`
+
 `│        │        │        ├──  2.2b.10 - heal`
+
 `│        │        │        └──  2.2b.11 - mentor`
+
 `│        │        ├──  2.2c - CentCom`
+
 `│        │        ├──  2.2d - Events Managers`
+
 `│        │        ├──  2.2e - Round Managers`
+
 `│        │        ├──  2.2f - Dev Tools`
+
 `│        │        └──  2.2g - Server Settings`
+
 `│        ├── 2.3 - ACHAT`
+
 `│        ├── 2.4 - ALOGS`
+
 `│        ├── 2.5 - AHELP`
+
 `│        ├── 2.6 - [INFO]`
+
 `│        ├── 2.7 - Global Sound`
+
 `│        ├── 2.8 - Global Music`
+
 `│        ├── 2.9 - AGHOST`
+
 `│        └── 2.10 - ALERTS`
+
 `└── 3 - CREDIT`
+
 `=========================================================`
+
 ## 1 - Admin Tool ##
 Le panneau d’outils d’admin est situé en haut à droite de votre écran, une fois la partie démarrée, vous pourrez utiliser le dernier bouton tout à droite.
 

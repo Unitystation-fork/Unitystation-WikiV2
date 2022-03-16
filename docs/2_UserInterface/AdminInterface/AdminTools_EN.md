@@ -3,45 +3,79 @@
 ## Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
 ## Content ##
 
-`├─── 1 - Admin Tool
-`│ ├──── 1.1 - Spun item.
-`│ ├──── 1.2 - Clone and delete items
-1.3 - Variable Viewer
-2 - Admin Menu `├────
-`│ ├── 2.1 - MHELP`.
-`│ ├──── 2.2 - [Admin toolbar]`.
-2.2a - Game mode
-`│ │ ├──── 2.2b - Player Manager
-`│ │ ├──── 2.2b.1 - Player Kick
-`│ │ ├──── 2.2b.2 - Ban a player
-`│ │ ├──── 2.2b.3 - Ban a profession
-`│ │ ├──── 2.2b.4 - Damage.
-`│ │ ├──── 2.2b.5 - Revive`.
-`│ │ ├──── 2.2b.6 - Teleport admin to player - AGHOST
-`│ │ ├──── 2.2b.7 - Teleport admin to player
-`│ │ ├──── 2.2b.8 - Teleport a player to an admin.
-`│ │ ├──── 2.2b.9 - Teleport to Admin - ALL.
-`│ │ ├──── 2.2b.10 - Cure`.
-`│ │ └── 2.2b.11 - Appoint a mentor.
-`│ │ │ ├──── 2.2c - CC (Central Command, CentreCom)`.
-`│ │ ├──── 2.2d - Event Manager.
-`│ │ ├──── 2.2e - Current Round Manager
-`│ │ ├──── 2.2f - Developer Tools
-2.2g - Server settings
-`│ ├── 2.3 - ACHAT`.
-`│ ├──── 2.4 - ALOGS`.
-`│ ├── 2.5 - AHELP`.
-`│ ├── 2.6 - [INFO]`.
-`│ ├──── 2.7 - Global sound
-`│ ├── 2.8 - Global music.
-`│ ├── 2.9 - APRICOT.
-`│ └── 2.10 - WARNINGS.
-`└─── 3 - THANKS'.
-`=========================================================`
+
+`├── 1 - Admin Tool`
+
+`│        ├── 1.1 - Spawn item`
+
+`│        ├── 1.2 -  Clone & delete Item`
+
+`│        └── 1.3 -  Variable Viewer`
+
+`├── 2 - Admin Menu`
+
+`│        ├── 2.1 - MHELP`
+
+`│        ├── 2.2 - [Admin Tool Panel]`
+
+`│        │        ├──  2.2a - Game Mode`
+
+`│        │        ├──  2.2b - Player Manager`
+
+`│        │        │        ├──  2.2b.1 - Kick`
+
+`│        │        │        ├──  2.2b.2 - Ban`
+
+`│        │        │        ├──  2.2b.3 - JobBan`
+
+`│        │        │        ├──  2.2b.4 - Smite`
+
+`│        │        │        ├──  2.2b.5 - Respawn`
+
+`│        │        │        ├──  2.2b.6 - Teleport Admin TO Player - Aghost`
+
+`│        │        │        ├──  2.2b.7 - Teleport Player TO Admin`
+
+`│        │        │        ├──  2.2b.8 - Teleport Player TO Admin`
+
+`│        │        │        ├──  2.2b.9 - Teleport Player TO Admin - ALL`
+
+`│        │        │        ├──  2.2b.10 - heal`
+
+`│        │        │        └──  2.2b.11 - mentor`
+
+`│        │        ├──  2.2c - CentCom`
+
+`│        │        ├──  2.2d - Events Managers`
+
+`│        │        ├──  2.2e - Round Managers`
+
+`│        │        ├──  2.2f - Dev Tools`
+
+`│        │        └──  2.2g - Server Settings`
+
+`│        ├── 2.3 - ACHAT`
+
+`│        ├── 2.4 - ALOGS`
+
+`│        ├── 2.5 - AHELP`
+
+`│        ├── 2.6 - [INFO]`
+
+`│        ├── 2.7 - Global Sound`
+
+`│        ├── 2.8 - Global Music`
+
+`│        ├── 2.9 - AGHOST`
+
+`│        └── 2.10 - ALERTS`
+
+`└── 3 - CREDIT`
+
 ## 1 - Administrator toolbar
 The admin toolbar is located at the top right of the screen, after starting the game you can use the last button on the far right.
 
-### 1.1 - Spun item ###
+### 1.1 - Spawn item ###
 Querying in the search bar will display the results just below.
 Left click on the item to select it and left click on the field to add it to the game.
 
@@ -188,12 +222,12 @@ Admin logs
 Logs of admin operations, such as item spawning.
 
 ### 2.5 - AHELP ###
-[AHELP] (https://i.imgur.com/9dd4Vxh.png)
+![AHELP](https://i.imgur.com/9dd4Vxh.png)
 Chat window from player to admin
 player can open the window by pressing Enter, then press [help] button at the bottom left, this window will show the message for admin, left list of conversations.
 
 ### 2.6 - [INFO] ###
-Info](https://i.imgur.com/S3bbx59.png)
+![Info](https://i.imgur.com/S3bbx59.png)
 This little button (1st button, 2nd line) 
 allows you to display information directly in the game, containing character name, account name, status and health.
 

@@ -1,5 +1,12 @@
+Version 0.0.6
+Date 2022/03/16
+Dev  Dae
+Modification
+    - modification de admintool, correction (en)
+    - modification changelog pour respecter la norme ISO 8601 (yyyy/mm/dd)
+-----------------------------------------------
 Version 0.0.5
-Date 03/16/2022
+Date 2022/03/16
 Dev  GemInee
 Modification
     - Changement de la couleur de la classe "hljs" dans le fichier "highlight.css" pour rendre les blocs de code plus lisibles sur les pages.
@@ -11,7 +18,7 @@ Modification
     - Suppression de la restriction de la largeur maximale de la zone de contenu pour le style "wm-page-content" dans le fichier "base.css".
 -----------------------------------------------
 Version 0.0.3
-Date 03/11/2022
+Date 2022/03/11
 Dev  GemInee
 Ajout
     - Création d'un fichier TODO avec des informations sur les problèmes et le travail à faire.
@@ -33,7 +40,7 @@ Modification
     - La ligne {% include 'html/rolesnavbar.md' %} est commentée dans 69 fichiers
 -----------------------------------------------
 Version 0.0.2
-Date 03/03/2022 - 14h
+Date 2022/03/03 - 14h
 Dev  Dae   
 Ajout 
     - Pages fr et ru
@@ -41,7 +48,7 @@ Modification
     - law and hop files
 -----------------------------------------------
 Version 0.0.1
-Date 25/02/2022 - 16h
+Date 2022/03/25 - 16h
 Dev  Dae   
 Ajout 
     - Création du github par Dae
