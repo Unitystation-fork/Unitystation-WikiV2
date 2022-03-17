@@ -1,37 +1,107 @@
+﻿
+# Welcome to Unitystation Documentation ! #
+## Qu'est-ce que Unitystation ? ##
 
-[![Unity](Unitystation.png)]
+**Unitystation** est un jeu online multiplayers RPG 2D tournant avec le moteur Unity.
 
-If you are new to the game, check the [how not to die instantly](How-not-to-die-instantly.md) guide.  
+c'est un jeu encourageant le Roleplay, gratuit et opensources.
 
-UnityStation is a free to play game made as a clone to the [Space Station 13](https://www.youtube.com/watch?v=URJ_qSXruW0) game, but built on Unity, instead of using the outdated [BYOND](http://www.byond.com/).  
-
-Space Station 13, the greatest spessmen simulator ever created. If you have ever played SS13 before you can agree on one thing, [BYOND](http://www.byond.com/), it sucks! This is where UnityStation comes in. Started in Nov 2016 we have endeavored to ensure SS13 has a long and prosperous future outside of [BYOND](http://www.byond.com/) by cloning the [/TG/](https://tgstation13.org/) source to Unity.
-
-> A lot of work has been completed since its humble beginnings in 2016 and we have just released our first public alpha release on our version of the [BYOND](http://www.byond.com/) hub called the Station Hub. The project has a growing and dedicated community of contributors who are eager to see this thing become a reality. Best of all it is all open source and available on GitHub.
-
-Probably [Doobly](Doobly.md), 2018.
-
-In this game, you pick from a variety of [roles](Roles.md) on different [maps](Maps.md) to keep the station running:
-
-[![Command](Command.png)](Roles/Command.md) [![Security](Security.png)](Roles/Security.md) [![Engineering](Engineering.png)](Roles/Engineering.md) [![Medical](Medical.png)](Roles/Medical.md) [![Research](Research.png)](Roles/Research.md) [![Supply](Supply.png)](Roles/Supply.md)
-
-[![Service](Service.png)](Roles/Service.md) [![Civilian](Civilian.png)](Roles/Civilian.md) [![Artificials](Artificials.png)](Roles/Artificials.md) [![Antagonists](Antagonists.png)](Roles/Antag.md) [![Special](Special.png)](Roles/Special.md) [![Admin](Admin.png)](Roles/Admin.md)
-
-Or you can try attacking it and maybe nuking it to [ashes](antags/Nuclear-Emergency.md):
-
-Traitor, Changeling, Wizard, Cultist, NukeOps, Blob, Alien, Spider
-
-You can also become various difference races although some may be disabled on certain servers and some to be added:
-
-[![Human](Human.png)](Races/Human),[![Saurian](Saurian.png)](Races/Saurian),[![Plasmamen](Plasmamen.png)](Races/Plasmamen),[![Goople](Goople.png)](Races/Goople),[![Lepidops](Lepidops.png)](Races/Lepidops),[![Lithoid](Lithoid.png)](Races/Lithoid)
-
-[![Nanos](Nano.png)](Races/NaniteFolk),[![Slug](Slug.png)](Races/Slug),[![Wooloo](Sheeple.png)](Races/Sheeple),[![Polygeri](Polygeri.png)](Races/Polygeri),[![Podpeople](Pod.png)](Races/Pod),[![Ave](Ave.png)](Races/Ave)
+Unitystation est un outil vidéo ludique qui met à disposition des joueurs tous les outils pour s’immerger dans la vie spatiale et pratiquer le **Role Play**
 
 
-The game itself is a chaos machine, some times rounds can take 2 minutes. Usually if the wizard suicides into security. Otherwise it can be a 30 minute long [Royale](Battle-royale.md) and others it can be a multiple hour long phoenix wright court simulator or even cult wasteland as the chaplain holds the line against the onslaught. It depends partly on what the server it is and what [random](antags.md) thing happens.
+Vous incarnez un personnage, membre d’équipage de la station spatiale militaro-industriel de Nanotrasen.
+
+Selon votre job vous avez divers objectifs.
+
+## SS13 ? byond ?Unity? ##
 
 
+## Quel est le but. ##
 
-This wiki is still incomplete and can always use edits, you should [add to it!](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
-We would like to thank all the devs who took their time in order to make unitystation a [thing](Thankyou.md), if you want to support us consider [donating](https://www.patreon.com/unitystation) to the cause.
+Faire fonctionner, en collaboration avec les membres d'équipage, la station spatiale et accomplir les objectifs commerciaux envoyés par la société vous employant, Nanotrasen.
 
+  
+
+Par exemple :
+
+Le cuisinier doit garder tout le monde bien nourri. :cut_of_meat:
+
+Le botaniste doit faire pousser des légumes pour le cuisinier et le médecin. :seedling:
+
+Le médecin essaye de garder ses patients en vie. :medical_symbol:
+
+La scientifique tente de percer les secrets de l'univers. :microscope:
+
+Le concierge garde le sol propre et reste en vie. :broom:
+
+Les gardes essayent de rester en vie et de garder la station sûre.:police_officer:
+
+  
+
+Il se peut que vous rencontriez des imprévus, que ce soit : une pluie de météorites, une épidemie, des aliens ayant envahis la station, ou encore un agent infiltré ayant reçu l'ordre de vous tuer dans un couloir de maintenance.
+
+  
+
+A vous de faire de votre mieux pour faire votre job et survivre.
+
+  
+
+  
+
+## Peut-on gagner ? ##
+
+(Techniquement, )c'est un jeu Roleplay, au sens où l'experience collective est une fin en soit.
+
+Le jeu prend toute sa richesse dans l'interaction avec les autres joueurs,  dans vos objectifs individuels, ou collectifs.
+
+  
+
+Bien que vous puissiez mourir, être cloné ou revivre sous les traits d'un autre personnage,le joueur à une liberté de création, d'expression, dans le cadre de son job ou de manière plus secrète.
+
+  
+
+## Peut-on mourir ? ##
+
+Oui ! Et ce ne sont pas les causes qui manquent:
+
+Abattu, poignardé, asphyxié dans le vide de l'espace, dévoré par une créature, avalé dans un trou noir, d'une maladie inconnue sortant du laboratoire, démembré, électrocuté et bien d'autres possibilités ...
+
+Il y a du choix !
+
+  
+
+## Et après ? ##
+
+Vous pouvez interagir avec bon nombre d'objets, les créer ou les détruire.
+
+Jouez, expérimentez, discutez, apprenez, minez, craftez, soignez, mangez, courez, mourez,
+
+recommencez (différemment ou non).
+
+(Les joueurs ont la possibilité de tout détruire, tout construire et modifier.
+
+Chaque câble électrique, chaque canalisation peut avoir son importance.
+
+D'incroyables projets d'ingénierie, au pur chaos de la destruction, laissez libre cours à votre imagination.
+
+Partagez vos stories, anecdotes, fan-arts.
+
+  
+
+  
+
+## **À bord il existe quelques règles:** ##
+
+Don't be a Asshole
+
+No Metagaming/powergaming
+
+DO YOUR JOB ! (ou faites de votre mieux pour)
+
+[https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg](https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg)
+
+[https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png](https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png)
+
+  
+
+**======= __Welcome to the UnityStation, Enjoy your stay__ ! =======**
