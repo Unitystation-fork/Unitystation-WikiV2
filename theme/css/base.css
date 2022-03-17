@@ -4,7 +4,7 @@ ruby #EDEDED
 dark-bg-light #39434D
 dark-bg-light-hover #2C323C
 
-dark-bg-dark #0a0a1d
+dark-bg-dark #080817
 dark-bg-dark-hover #2C313A
 
 dark-code-bg #31363F
@@ -26,7 +26,7 @@ Top bar
 ***********************************************************************/
 
 .navbar {
-background-color: #0a0a1d;
+background-color: #080817;
 /* box-shadow: 0 1.5px 3px rgba(0,0,0,.24), 0 3px 8px rgba(0,0,0,.05); */
 border: none;
 border-radius: 0px;
@@ -98,11 +98,11 @@ padding-left: 5px;
 
 .wm-top-logo {
 max-height: 80%;
-border: 1px solid #353A3E;
+border: 1px solid #797063;
 }
 
 .wm-top-version {
-border: 1px solid #353A3E;
+border: 1px solid #797063;
 /* border-radius: 3px; */
 padding: 0px 5px;
 color: #EDEDED;
@@ -137,7 +137,7 @@ padding-top: 50px;
 height: 100%;
 width: 250px;
 z-index: 1;
-background-color: #0a0a1d;
+background-color: #080817;
 border-right: 1px none black;
 overflow: auto;
 margin-left: 0px;
@@ -294,8 +294,8 @@ content: "\25BC \FE0E";
 }
 
 .wm-toc-li.wm-current, .wm-toc-li.wm-current:hover {
-background-color: #EDEDED;
-color: #0a0a1d;
+background-color: #222526;
+color: #080817;
 }
 
 .wm-toc-li:hover {
@@ -303,14 +303,14 @@ background-color: #2C313A;
 }
 
 .wm-toc-li.wm-current a {
-color: #0a0a1d;
+color: #080817;
 }
 
 .wm-toc-li-nested.wm-page-toc {
 font-size: 1.2rem;
 line-height: 1.2rem;
 overflow: hidden;
-border-left: 1px solid #6D665B;
+border-left: 1px solid #797063;
 }
 
 .wm-page-toc-opener > .wm-toc-text::after {
@@ -339,9 +339,9 @@ border: none;
 }
 
 button, .btn, .btn-sm, .btn-xs, .btn-default, #hist-fwd, #hist-back, #wm-toc-button, #wm-search-go {
-  background-color: #0a0a1d;
+  background-color: #080817;
   color: #EDEDED;
-  border: 1px solid #353A3E;
+  border: 1px solid #797063;
 }
 
 .btn-link {
@@ -364,7 +364,7 @@ border-color: #EDEDED;
 button:hover, .btn:hover, .btn-sm:hover, .btn-xs:hover, .btn-default:hover, .btn-link:hover, #hist-fwd:hover, #hist-back:hover, #wm-toc-button:hover, #wm-search-go:hover {
 color: #EDEDED;
 background-color: #2C313A;
-border-color: #353A3E;
+border-color: #797063;
 }
 
 .btn-default.greybtn {
@@ -380,7 +380,7 @@ max-width: 100%;
 display: inline-block;
 padding: 4px;
 line-height: 1.428571429;
-/* background-color: #0a0a1d; */
+/* background-color: #080817; */
 border: 1px none black;
 /* border-radius: 4px; */
 margin: 20px auto 30px auto;
@@ -583,12 +583,12 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 input#mkdocs-search-query.form-control {
   background-color: #2A2A2A;
   color: #EDEDED;
-  border: 1px solid #353A3E;
+  border: 1px solid #797063;
   border-top: none;
 }
 
 .dropdown-menu, .dropdown-menu li {
-  background-color: #0a0a1d;
+  background-color: #080817;
 }
 .dropdown-menu li a:hover {
   background-color: #2C313A;
@@ -615,7 +615,7 @@ table {
 }
 /* Zebra */
 th {
-  background-color: #0a0a1d;
+  background-color: #080817;
 }
 tbody > tr:nth-child(odd), tbody > tr:nth-child(odd) > td {
   background-color: #39434D;
@@ -899,14 +899,14 @@ button.bg-dark:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #353A3E;
+  background: #202324;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
   border-radius: 3px;
   border: 1px solid #808489;
-  background: #808489;
+  background: #454a4d;
 }
 
 /* Handle on hover */
@@ -916,7 +916,7 @@ button.bg-dark:focus {
 
 /* Additional styles */
 .add-border{
-  border: 1px solid #353A3E;
+  border: 1px solid #797063;
 }
 .set-bg2 {
 background-color: #2A2A2A;
@@ -929,7 +929,7 @@ background-color: #2A2A2A;
 }
 .tocpane-repo-title {
   background: #2A2A2A;
-  border: 1px solid #353A3E;
+  border: 1px solid #797063;
   border-bottom: none;
   display: flex;
   justify-content: center;
@@ -937,7 +937,7 @@ background-color: #2A2A2A;
 }
 
 .wm-top-title img {
-  border: 1px solid #353A3E;
+  border: 1px solid #797063;
 }
 
 #wm-toc-button {
