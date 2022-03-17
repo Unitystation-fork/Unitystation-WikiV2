@@ -14,3 +14,10 @@ Options de solution :
 
 TODO: Ajouter un menu pour la sélection de la langue
 TODO: Ajouter un bloc de liens vers des ressources externes
+
+mkdoc
+mermaid
+
+auto PR serveur
+auto index
+auto numerotation chapitre
