@@ -24,6 +24,11 @@
       <button id="wm-toc-button" type="button" class="btn btn-sm btn-default wm-vcentered"><i class="fa fa-th-list" aria-hidden="true"></i></button>
     </div>
 
+    {# Language Selector #}
+    {% if "i18n" in config.plugins %}
+        {% include "i18n_languages.html" %}
+    {% endif %}
+
     {# Optional forward-back buttons #}
     {% if config.extra.history_buttons %}
     <div class="wm-top-tool pull-right wm-vcenter">

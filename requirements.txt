@@ -4,3 +4,4 @@ mkdocs-macros-plugin
 mkdocs-autolinks-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-bootstrap-tables-plugin
+mkdocs-static-i18n

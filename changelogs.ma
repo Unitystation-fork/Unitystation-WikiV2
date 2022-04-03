@@ -1,3 +1,13 @@
+Version 0.0.9
+Date 2022/04/03
+Dev  GemInee
+Ajout
+    - Installation d'un plugin pour travailler avec des pages de traduction statiques
+    - Liste déroulante de sélection de la langue
+Supprimé
+    - Paramètre rolesnavbar non utilisé dans le fichier de configuration
+    - Répertoire Proto_GemsVersion inutilisé
+-----------------------------------------------
 Version 0.0.8
 Date 2022/04/03
 Dev  GemInee

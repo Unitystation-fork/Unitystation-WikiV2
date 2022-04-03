@@ -35,8 +35,6 @@ theme:
 extra:
     version: 0.1.4
     logo: assets/images/logo.png
-    
-rolesnavbar: 'html/rolesnavbar.md'
 
 markdown_extensions:
   - admonition
@@ -51,3 +49,17 @@ plugins:
     - autolinks
     - awesome-pages
     - bootstrap-tables
+    - i18n:
+        default_language: en
+        languages:
+            en:
+                name: English
+                site_name: Unitistation
+            fr:
+                name: Français
+                site_name: UnityStation
+            ru:
+                name: Русский
+                site_name: Юнитистейшн
+        material_alternate: true
+        default_language_only: true
