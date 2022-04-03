@@ -1,3 +1,9 @@
+Version 0.0.8
+Date 2022/04/03
+Dev  GemInee
+Ajout
+    - Un bloc de liens vers des matériaux, sites et services supplémentaires.
+-----------------------------------------------
 Version 0.0.7
 Date 2022/03/17
 Dev  Dae
