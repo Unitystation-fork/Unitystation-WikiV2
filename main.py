@@ -19,7 +19,6 @@ shiet = \
 <br>
 """
 
-
 def define_env(env):
     @env.macro
     def serverdata():
@@ -44,3 +43,8 @@ def define_env(env):
             html += shiet.format(name, ip, port, _map, gamemode, players)
 
         return html
+
+current_lang = "en"
+
+def set_lang(newLang):
+  current_lang = newLang

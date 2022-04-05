@@ -4,6 +4,8 @@
   {% set is_top = (page and page.is_homepage) and not force_plain_page %}
   {% set base_url = base_url or "." %}
 
+  {% set current_lang = i18n_page_file_locale %}
+
   {%- block site_meta %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -154,6 +156,15 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
   {%- if config.copyright %}<p>{{ config.copyright }}</p>{%- endif %}
   <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
 {%- endblock %}
+
+<div>1 - {{ base_url }}</div>
+<div>2 - {{ i18n_page_lang }}</div>
+<div>3 - {{ i18n_page_file_locale }}</div>
+<div>4 - {{ page.canonical_url }}</div>
+<div>5 - {{ page }}</div>
+<div>6 - {{ page.url }}</div> 
+<div>7 - {{ config.current_lang }}</div>
+<div>8 - {{ url }}</div>
 </footer>
 
 </body>

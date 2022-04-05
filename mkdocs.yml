@@ -3,6 +3,7 @@ site_name: UnityStation
 site_description: 'Unitystation Wiki'
 site_author: 'Waffielz'
 site_url: 'https://unitystation.github.io/unitystation-wiki/'
+current_lang: 'en'
 
 # Repository
 repo_name: 'unitystation/unitystation-wiki'
@@ -62,4 +63,4 @@ plugins:
                 name: Русский
                 site_name: Юнитистейшн
         material_alternate: true
-        default_language_only: true
+        default_language_only: false

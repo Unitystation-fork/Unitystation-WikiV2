@@ -56,7 +56,7 @@
         <button class="i18n-dropbtn btn btn-sm wm-vcentered">Language</button>
         <div class="i18n-dropdown-content">
             {% for lang, display in config.plugins.i18n.config.languages.items() -%}
-            <a href="/{{ lang }}/">{{ display.name }}</a>
+            <a href="/{{ lang }}/" onclick="set_lang({{lang}})">{{ display.name }}</a>
             {% endfor %}
         </div>
     </div>
