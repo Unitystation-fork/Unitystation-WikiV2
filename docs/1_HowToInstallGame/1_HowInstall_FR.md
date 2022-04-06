@@ -27,7 +27,7 @@ Pour créer un raccourci sur le bureau, faites un clic droit => envoyez vers => 
 ## GNU_Linux ##
 [Ctrl] + [Alt] + [T]
 ```bash
-wget  https://raw.githubusercontent.com/Peulleieoyukino/UnitySationInstaller/main/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh ; sudo chmod 750 ~/UnityStationInstaller.sh ; sudo ~/UnityStationInstaller.sh
+wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Hub/main/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh ; sudo chmod 750 ~/UnityStationInstaller.sh ; sudo ~/UnityStationInstaller.sh
 ```
 le raccourcis sera dans votre Menu/Game 
 
