@@ -38,7 +38,7 @@ function isSmallScreen() {
 /**
  * Given a relative URL, returns the absolute one, relying on the browser to convert it.
  */
-function qualifyUrl(url) {
+function qualifyUrl(url, locale) {
   var a = document.createElement('a');
   a.href = url;
   return a.href;
