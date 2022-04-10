@@ -18,9 +18,11 @@ This is a comprehensive list of all items that [Traitors](Traitor.md) and [Nucle
 |  .357 speedloader  | .357 ammo, used by the lucifer. | 4TC |
 | <font color="red">**EXPLOSIVES**</font>            | Explosives, used for AOE damage or destruction of important objects. |  |
 |  Syndicate Minibomb  | stronger blast than a grenade, but hits a smaller total area. The detonation time after being activated is 5 seconds. | 6TC |
-|  C4  | A bomb that can be attached to walls, objects, and people. It can be configured to detonate on a timer (minimum time 10 seconds), or can be paired with a remote signaller to be remotely triggered. To pair it, simply click the remote signaller on the C4 brick and they are paired. | 1TC |
+|  C4  | A bomb that can be attached to walls, objects, and people while on harm intent. It can be configured to detonate on a timer (minimum time 10 seconds), or can be paired with a remote signaller to be remotely triggered. To pair it, simply click the remote signaller on the C4 brick and they are paired. | 1TC |
 |  X4  | C4 but more explosive. | 4TC |
 |  Pizza Bomb | A bomb concealed in a pizza box. | 10TC |
+|  Powersink | A bomb that charges up from a wire under it while anchored with a screwdriver. How fast and how strong it exploads depends on how much power is flowing under it and will cause a black out as long as a nearby department battery is offline. | 15TC |
+|  Syndicate Bomb | A huge bulky bomb that is twice as strong as a single X4. When ordered it will give the user a device that will summon the bomb and a remote upon activating directly at where the user is standing. | 20TC |
 | <font color="red">**STEALTHY WEAPONS**</font> | Easily concealed and hard to trace weapons. |  |
 |  Energy Dagger | A smaller and weaker esword disguised as a pen, can be placed anywhere you can fit a pen, like your PDA. | 2TC |
 |  Miniature Energy Crossbow | An (expensive) self charging and easily hideable pocket crossbow that stuns and poisons those it hits. basically a self charging concealable tazer. When fired, it does not leave a message in the chat that would give away your identity | 10TC |
@@ -99,4 +101,4 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+{% include 'html/rolesnavbar.md' %}
