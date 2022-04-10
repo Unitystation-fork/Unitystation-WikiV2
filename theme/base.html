@@ -102,14 +102,12 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
  #}
 {%- if is_top -%}
   {% include 'topbar.html' %}
-
   <div id="main-content" class="wm-page-top-frame">
     {% include 'nav-pane.html' %}
     <div class="wm-content-pane">
       <iframe class="wm-article add-border" name="article"></iframe>
     </div>
   </div>
-
 {%- endif -%}
 
 {# Code for the main template for all content pages. #}
@@ -157,14 +155,6 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
   <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
 {%- endblock %}
 
-<div>1 - {{ base_url }}</div>
-<div>2 - {{ i18n_page_lang }}</div>
-<div>3 - {{ i18n_page_file_locale }}</div>
-<div>4 - {{ page.canonical_url }}</div>
-<div>5 - {{ page }}</div>
-<div>6 - {{ page.url }}</div> 
-<div>7 - {{ config.current_lang }}</div>
-<div>8 - {{ url }}</div>
 </footer>
 
 </body>

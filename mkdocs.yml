@@ -36,6 +36,16 @@ theme:
 extra:
     version: 0.1.4
     logo: assets/images/logo.png
+    alternate:
+    - name: English
+      link: ./en/
+      lang: en
+    - name: Français
+      link: ./fr/
+      lang: fr
+    - name: Русский
+      link: ./ru/
+      lang: ru
 
 markdown_extensions:
   - admonition

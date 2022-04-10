@@ -25,7 +25,7 @@
     </div>
 
     {# Language Selector #}
-    {% if "i18n" in config.plugins %}
+    {% if config.extra.alternate %}
         {% include "i18n_languages.html" %}
     {% endif %}
 
