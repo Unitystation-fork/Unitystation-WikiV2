@@ -1,3 +1,9 @@
+Version 0.0.9
+Date 2022/06/16
+Dev  Dae
+Ajout
+    - Traduction des page cargo
+-----------------------------------------------
 Version 0.0.8
 Date 2022/04/03
 Dev  GemInee
