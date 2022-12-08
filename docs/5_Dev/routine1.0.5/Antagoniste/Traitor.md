@@ -1,3 +1,4 @@
+```properties
 Traitor
 	Basic
 	Spawn with banner overhead reading "Traitor"
@@ -34,3 +35,4 @@ Traitor
 		screen
 		The player should be able to enter this menu as many times as needed as
 		long as they enter the correct traitor code
+```
