@@ -2,6 +2,13 @@ Version 0.0.10
 Date 2022/08/28
 Dev  Dae
 Ajout
+    - section 5-Dev qui servira a centralisé les information de contributeur
+    - pages routines
+-----------------------------------------------
+Version 0.0.10
+Date 2022/08/28
+Dev  Dae
+Ajout
     - Page Chem from unitystation
     - page cargo bounties
 -----------------------------------------------
