@@ -1,26 +1,47 @@
-# unitystation-wiki
+##  Unitystation-wiki
 
-This is the github project for the [Unitystation wiki](https://unitystation.github.io/unitystation-wiki/#).
+### Description du projet
 
-## Contribution
+Unitystation-wikiV2 est une mise au propre de la documentation du jeu, un manuel d'utilisation.
+Présentant le projet, l'installation, l'interface et l'univers. 
 
-The easiest way to make a change is to click the pencil in the top right of a page in github, or, if you're looking at a page on [unitystation.github.io/unitystation-wiki/](https://unitystation.github.io/unitystation-wiki/#), click the *Edit on unitystation/unitystation-wiki* link at the bottom of the page. Make your change, then send a PR (pull request). It will be reviewed and, if approved, added to the wiki. You will need to have a github account for this.
+-------------
 
-All contributions to the unitystation wiki must follow the Unitystation wiki guidelines in order to be accepted to the wiki. Read them here: https://docs.google.com/document/d/16E6ju6rFt29Xl936TdufwYYIlef7gzdIZUBCJQjKZ2c/edit?usp=sharing
 
-The `docs` folder contains the actual contents of the wiki, while `theme` contains fonts, layouts, styling, etc. If you're looking to add to the wiki, check `docs`, navigate to a category, and either make a new page or edit an existing one.
+### Language utilisé
 
-The docs are written in [Markdown](https://daringfireball.net/projects/markdown/) with a couple of different extensions. MkDocs has a [guide](https://www.mkdocs.org/user-guide/writing-your-docs/#writing-with-markdown) on this.
+Ce projet est développer en:
 
-## Building the wiki locally
+- HTML/CSS (bootstrap)
+- Javasript (Jquery, Bootstrap, elasticlundr, highlightjs)
+- Markdown
+- python (Mkdocs)
 
-If you want to build and check the wiki locally before pushing a change to the actual wiki, you can start a local server. Here are the steps:
+-------------
 
-- Clone the project
-- Install python and pip
-- *Optional:* Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
-- Run `pip install -r requirements.txt`
-- Start the local server with `mkdocs serve`
+### But du projet / public cible
 
-The wiki is built using [MkDocs](https://www.mkdocs.org/), which has its own [installation instructions](https://www.mkdocs.org/#installation). Refer to that for more details.
+Guider l'utlisateur lambda sur les modalités technique du projet tel que l'installation 
+Présentation de l'interface, comment jouer et présentation de l'univers.
+
+-------------
+
+
+### Installation
+
+Pour construire le wiki en local avant de modifier la version actuelle du wiki :
+
+- Cloner/Télécharcher le projet
+- installer python et le gestionnaire de package pip
+- Crée un environnement virtuel (optionnel)
+- lancer `pip install -r requirements.txt`
+- Mkdocs a ses propres instruction d'installation analyser la documentation pour en cas soucis *optionnel*
+- lancer le serveurs local avec la commande `mkdocs serve`. si vous êtes sur windows et que la commande mkdocs est non reconnu utiliser `python -m mkdocs serve`
+
+
+------------
+
+
+### ToDo
+[Todo](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/todo.txt) 
 
