@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AdminTools</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p>{{tag&gt;Game BROUILLON Admin tool interface UI}}</p>
+<h1 id="unitystation-">Unitystation <img src="https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true" alt="unityico"></h1>
+<h2 id="index">Index</h2>
+<p><code>├── 1 - Admin Tool</code><br>
+<code>│	├── 1.1 - Spawn item</code><br>
+<code>│	├── 1.2 - Clone &amp; delete Item</code><br>
+<code>│	└── 1.3 - Variable Viewer</code><br>
+<code>├── 2 - Admin Menu</code><br>
+<code>│	├── 2.1 - MHELP</code><br>
+<code>│	├── 2.2 - [Admin Tool Panel]</code><br>
+<code>│	│	├── 2.2a - Game Mode</code><br>
+<code>│	│	├── 2.2b - Player Manager</code><br>
+<code>│	│	│	├── 2.2b.1 - Kick</code><br>
+<code>│	│	│	├── 2.2b.2 - Ban</code><br>
+<code>│	│	│	├── 2.2b.3 - JobBan</code><br>
+<code>│	│	│	├── 2.2b.4 - Smite</code><br>
+<code>│	│	│	├── 2.2b.5 - Respawn</code><br>
+<code>│	│	│	├── 2.2b.6 - Teleport Admin TO Player - Aghost</code><br>
+<code>│	│	│	├── 2.2b.7 - Teleport Player TO Admin</code><br>
+<code>│	│	│	├── 2.2b.8 - Teleport Player TO Admin</code><br>
+<code>│	│	│	├── 2.2b.9 - Teleport Player TO Admin - ALL</code><br>
+<code>│	│	│	├── 2.2b.10 - heal</code><br>
+<code>│	│	│	└── 2.2b.11 - mentor</code><br>
+<code>│	│	├── 2.2c - CentCom</code><br>
+<code>│	│	├── 2.2d - Events Managers</code><br>
+<code>│	│	├── 2.2e - Round Managers</code><br>
+<code>│	│	├── 2.2f - Dev Tools</code><br>
+<code>│	│	└── 2.2g - Server Settings</code><br>
+<code>│	├── 2.3 - ACHAT</code><br>
+<code>│	├── 2.4 - ALOGS</code><br>
+<code>│	├── 2.5 - AHELP</code><br>
+<code>│	├── 2.6 - [INFO]</code><br>
+<code>│	├── 2.7 - Global Sound</code><br>
+<code>│	├── 2.8 - Global Music</code><br>
+<code>│	├── 2.9 - AGHOST</code><br>
+<code>│	└── 2.10 - ALERTS</code><br>
+<code>└── 3 - CREDIT</code><br>
+<code>=========================================================</code></p>
+<h2 id="admin-tool">1 - Admin Tool</h2>
+<p>Le panneau d’outils d’admin est situé en haut à droite de votre écran, une fois la partie démarrée, vous pourrez utiliser le dernier bouton tout à droite.</p>
+<h3 id="spawn-item">1.1 - Spawn item</h3>
+<p>Disposant d’une barre de recherche, vous trouverez en dessous les résultat.<br>
+un clic gauche sur un élément pour le sélectionner, et un clic gauche sur le terrain pour l’ajouter au jeu.</p>
+<p>================</p>
+<h3 id="clone--delete-item">1.2 -  Clone &amp; delete Item</h3>
+<p>Une fenêtre s’ouvre, tout ce que vous sélectionnerez avec votre curseur sera soit prêt pour une copy (le nom de l’objet sélectionné est noté dans la fenêtre) soit sera supprimé.<br>
+attention, il n’existe pour le moment pas de Ctrl W</p>
+<p>================</p>
+<h3 id="variable-viewer">1.3 -  Variable Viewer</h3>
+<p>La fenêtre de variable est composée ainsi<br>
+<img src="https://i.imgur.com/eGwefyk.png" alt="VariableViewerPannel">Les couleurs de variable peuvent ainsi être différenciées.<br>
+<img src="https://i.imgur.com/jsMibs1.png" alt="VariableColor"><br>
+<strong>1</strong> = rafraîchissement, hiérarchie<br>
+<strong>2</strong> = Bouton de recherche, hiérarchie<br>
+<strong>3</strong> = Recherche dans la hiérarchie, champ<br>
+<strong>4</strong> = Page contenant tous les objets du jeu, dans la hiérarchie.<br>
+<strong>4a</strong> = Nom de l’objet du jeu<br>
+<strong>4b</strong> = Bouton pour afficher ou cacher les enfants de l’objet de jeu<br>
+<strong>4c</strong> = Boîte pour sélectionner l’objet de jeu<br>
+<strong>5</strong> = Nom de l’objet de jeu actuellement sélectionné<br>
+<strong>6</strong> = Défilement à gauche dans la liste des composants attachés à l’objet de jeu sélectionné.<br>
+<strong>7</strong> = Défilement à droite dans la liste des composants attachés à l’objet de jeu sélectionné.<br>
+<strong>8</strong> = Afficher les options de débogage telles que les fonctions et les variables définies par script/variables qui nécessitent plus qu’une simple mise à la valeur.<br>
+<strong>9</strong> = Rafraîchir les variables sélectionnées sur l’objet.<br>
+<strong>10</strong> = Mettre en réseau les changements sur le client pour que les changements soient visibles sur les clients<br>
+<strong>11</strong> = Fermer la fenêtre<br>
+<strong>12</strong> = Faire défiler l’historique des scripts sélectionnés<br>
+<strong>13</strong> = Nom du script actuel<br>
+<strong>14</strong> = Panneau contenant toutes les variables/Fonctions liées au script</p>
+<p>================</p>
+<h2 id="admin-menu">2 - Admin Menu</h2>
+<p><img src="https://i.imgur.com/u6dFEtq.png" alt="AdminToolButton"><br>
+À la différence des outils d’admin, le Menu est disponible dès votre connexion au serveur.</p>
+<h3 id="mhelp">2.1 - MHELP</h3>
+<p><img src="https://i.imgur.com/Kgewtjp.png" alt="MentorChat"><br>
+Mentor Help chat.<br>
+permet aux joueurs de discuter avec un mentor nommé (temporairement ou non)<br>
+sur le coté gauche se trouve la liste des joueurs<br>
+sur le coté droit se trouve l’historique et zone d’écriture.</p>
+<p>================</p>
+<h3 id="admin-tool-panel">2.2 - [Admin Tool Panel]</h3>
+<p><img src="https://i.imgur.com/zWCeQzz.png" alt="Pannel"><br>
+Ce panneau se divise en 7 fenêtres.</p>
+<h4 id="a---game-mode">2.2a - Game Mode</h4>
+<p><img src="https://i.imgur.com/wMViLXt.png" alt="GameModeManager"></p>
+<h4 id="b---player-manager">2.2b - Player Manager</h4>
+<p><img src="https://i.imgur.com/Go0hAUI.png" alt="PlayerManager"><br>
+cette fenêtre rassemble plusieurs outils visuels.<br>
+ainsi que la liste des joueurs sur le coté gauche.<br>
+si la liste est trop longue vous pouvez utiliser la fonction recherche au dessus.</p>
+<p>================</p>
+<h5 id="b.1---kick">2.2b.1 - Kick</h5>
+<p>================</p>
+<h5 id="b.2---ban">2.2b.2 - Ban</h5>
+<p><img src="https://i.imgur.com/sdtcGgo.png" alt="enter image description here"></p>
+<p>================</p>
+<h5 id="b.3---jobban">2.2b.3 - JobBan</h5>
+<p><img src="https://i.imgur.com/iEcdIhM.png" alt="JobBan"><br>
+Permet de bloquer ou bannir un ensemble de joueurs en fonction de leur job. fonctionne aussi pour les antagonistes</p>
+<p>================</p>
+<h5 id="b.4---smite">2.2b.4 - Smite</h5>
+<p><img src="https://i.imgur.com/vAMpcrl.png" alt="Smite"></p>
+<p>================</p>
+<h5 id="b.5---respawn">2.2b.5 - Respawn</h5>
+<p><img src="https://i.imgur.com/AC5pPcj.png" alt="Respawn"> Permet de faire revenir un jouer a la vie (même s’il est toujours vivant)<br>
+le panneau de droite permet de choisir différentes options, et celles ci sont cumulatives.<br>
+ex, vous pouvez faire revivre un personnage en “janitor” +“blob”</p>
+<p>================</p>
+<h5 id="b.6---teleport-admin-to-player---aghost">2.2b.6 - Teleport Admin TO Player - Aghost#####</h5>
+<p><strong>VOUS</strong> téléporte sur un joueur sélectionné en mode fantôme (invisible)</p>
+<p>================</p>
+<h5 id="b.7---teleport-player-to-admin">2.2b.7 - Teleport Player TO Admin</h5>
+<p><strong>VOUS</strong> téléporte sur un joueur sélectionné</p>
+<p>================</p>
+<h5 id="b.8---teleport-player-to-admin">2.2b.8 - Teleport Player TO Admin</h5>
+<p>Téléporte <strong>LE JOUEUR</strong> sélectionné, sur vous</p>
+<p>================</p>
+<h5 id="b.9---teleport-player-to-admin---all">2.2b.9 - Teleport Player TO Admin - ALL</h5>
+<p>Tous le monde est téléporté a l’admin<br>
+ne fonctionne pas si vous etes un fantôme.</p>
+<p>================</p>
+<h5 id="b.10---heal">2.2b.10 - heal</h5>
+<p>Une fois un joueur sélectionné, vous pourrez complètement soigner celui ci.<br>
+attention cela ne fait pas repousser les membres perdus.<br>
+et ne soigne pas la mort.</p>
+<p>================</p>
+<h5 id="b.11---mentor">2.2b.11 - mentor</h5>
+<p>permet de donner au joueurs selectionnés le role mentor.<br>
+-pour le moment- celui-ci ne peux qu’ouvrir l’interface mentor en plus.</p>
+<p>================</p>
+<h4 id="c---centcom">2.2c - CentCom</h4>
+<p><img src="https://i.imgur.com/h1IA8gc.png" alt="CentComm"><br>
+<code>/!\</code> <strong>Ceci est un outils Roleplay</strong> <code>/!\</code><br>
+Le CentComm est l’entité supérieure au capitaine,<br>
+pour plus d’informations.<br>
+consultez les pages<br>
+| <strong>Centcom</strong>     | <a href="Central-Command-Officer.md">Centcom Officer</a>, <a href="Death-Squad.md">Death Squad</a>, <a href="Emergency-Response-Team.md">Emergency Response Team,</a> <a href="Redshield-Officer.md">Redshield Officer</a> |</p>
+<h4 id="d---events-managers">2.2d - Events Managers</h4>
+<p><img src="https://i.imgur.com/1PYvGB4.png" alt="EventManager"><strong>Events Type :</strong></p>
+<ul>
+<li>random</li>
+<li>Fun</li>
+<li>Spetial</li>
+<li>Antagonist</li>
+<li>Debug</li>
+</ul>
+<p>**Event To trigger: ** (sous catégorie de type)</p>
+<p>pour validé, appuyé sur <strong>[trigger event]</strong></p>
+<h4 id="e---round-managers">2.2e - Round Managers</h4>
+<h4 id="f---dev-tools">2.2f - Dev Tools</h4>
+<p><img src="https://i.imgur.com/plGL6aB.png" alt="DevTool"></p>
+<h4 id="g---server-settings">2.2g - Server Settings</h4>
+<p><img src="https://i.imgur.com/7LMIvPP.png" alt="ServerSettings"><br>
+Ici sont rassemblés divers “autres” paramètres de gestion à chaud du serveur, il y en aura prochainement d’autres d’ajouter.</p>
+<h3 id="achat">2.3 - ACHAT</h3>
+<p><img src="https://i.imgur.com/uVoHfiK.png" alt="Achat"><br>
+La fenêtre de conversation ingame des admin, juste entre eux.</p>
+<h3 id="alogs">2.4 - ALOGS</h3>
+<p><img src="https://i.imgur.com/uvhI6EE.png" alt="AdminLogs"><br>
+Admin logs<br>
+logs des opération admin, tel que le spawn d’objets.</p>
+<h3 id="ahelp">2.5 - AHELP</h3>
+<p><img src="https://i.imgur.com/9dd4Vxh.png" alt="Achat"><br>
+La fenêtre de conversation des joueurs vers l’admin<br>
+un joueurs peux ouvrir une fenêtre en appuyant sur entrer, puis en bas à gauche, appuyé sur le bouton [help] le message s’affichera dans cette fenêtre pour l’admin, le coté gauche est la liste des conversation.</p>
+<h3 id="info">2.6 - [INFO]</h3>
+<p><img src="https://i.imgur.com/S3bbx59.png" alt="Info"><br>
+Ce petit bouton (1er bouton, 2e ligne)<br>
+permet d’afficher des information directement en jeu, contenant, le nom du personnage, le nom de compte, son statut ainsi que sa vie.</p>
+<h3 id="global-sound">2.7 - Global Sound</h3>
+<p>Lecteur de Son, entendu par tous le serveur.</p>
+<h3 id="global-music">2.8 - Global Music</h3>
+<p><img src="https://i.imgur.com/NrEMea1.png" alt="MusicPlayer"><br>
+Lecteur de musique, entendu par tout le serveur.</p>
+<h3 id="aghost">2.9 - AGHOST</h3>
+<p><img src="https://i.imgur.com/qPV89TN.png" alt="Aghost">permet de sortir de votre corps,<br>
+utile pour faire apparaître des objet , ou surveiller un joueur sans être vue.</p>
+<h3 id="alerts">2.10 - ALERTS</h3>
+<p><img src="https://i.imgur.com/RdMFluj.png" alt="ALERTS"><br>
+Cette fenêtre permets d’avoir des retour d’événements, tel qu’un joueurs ayant tué un autre</p>
+<h2 id="credit">3 - CREDIT</h2>
+<p>Thanks to Bod (admin/dev) for creating this tool<br>
+<a href="http://twitch.tv/Fr_Dae">Fr_Dae</a> (for write this wikipage)<br>
+@Peulleieo#1996  for correction (fr)</p>
+</div>
+</body>
+
+</html>
