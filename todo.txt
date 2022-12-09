@@ -4,7 +4,7 @@ Texte d'erreur :
 
         'html/rolesnavbar.md'
 
-        Valid syntax:
+        Valid syntax: test
 
         {% include file.ext param='value' param2='value' %}
 Cause probable : Le site utilise le générateur statique jinja et github utilise jekyll.
