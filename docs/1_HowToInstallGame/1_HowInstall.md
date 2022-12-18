@@ -24,6 +24,7 @@ You should have an executable "StationHub.exe".
 To create a shortcut on the desktop, right click => send to => desktop.
 
 ## GNU_Linux ##
+
 [Ctrl] + [Alt] + [T]
 ```bash
 wget https://raw.githubusercontent.com/Peulleieoyukino/UnitySationInstaller/main/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh; sudo chmod 750 ~/UnityStationInstaller.sh; sudo ~/UnityStationInstaller.sh
@@ -32,24 +33,26 @@ the shortcut will be in your Menu/Game
 
 ## MacOS ##
  1. **Command(⌘) + [Space]** write "terminal" and validated with [enter] (⏎)
- 2. Copy past this line 
-```properties
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
-```
- 3. Then
-```properties
-brew install wget
-```
- 4.  Then
+ 2.  Copy past this line 
 ```bash
-mkdir -p ~/Games/Unitystation/ ; cd ~/Games/Unitystation/ ; wget https://github.com/unitystation/stationhub/releases/download/930/osx930.zip ; wget https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png; unzip *.zip ; rm -rfv *.zip ./ ;sudo chmod -R 750 ./StationHub ; killall Terminal
+mkdir -p ~/Games/Unitystation ; cd ~/Games/Unitystation ; curl -O https://github.com/unitystation/stationhub/releases/download/930/osx930.zip ; curl -O https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png; unzip *.zip ; rm -rfv *.zip ./ ; chmod -R 750 ./StationHub ; exit
 ```
-To start the game, just double click on "stationHub".
-~~ln -s ~/Applications/UnityStation~~
+To start the game, just double click on "stationHub". in your game folder
+
+
+
+
+ln -s ~/Applications/UnityStation
+
+
+
 
 ## Requies ##
+
 4Gb Ram (8 recommended)
+
 i5 (i7 recommended)
+
 ~150-200Mio Hdd
 
 
