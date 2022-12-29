@@ -31,6 +31,9 @@ wget https://raw.githubusercontent.com/Peulleieoyukino/UnitySationInstaller/main
 ```
 the shortcut will be in your Menu/Game 
 
+or use the flatpak
+https://flathub.org/apps/details/org.unitystation.StationHub
+
 ## MacOS ##
  1. **Command(⌘) + [Space]** write "terminal" and validated with [enter] (⏎)
  2.  Copy past this line 
