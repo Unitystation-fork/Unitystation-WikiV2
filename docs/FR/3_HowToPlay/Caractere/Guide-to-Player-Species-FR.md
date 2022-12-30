@@ -7,16 +7,16 @@ Apprendre leurs bizarreries peut être la clé pour savoir comment les garder am
 Voici les races que vous pouvez choisir au début du tour. Parce qu'elles sont disponibles gratuitement,
 vous devez vous attendre à avoir affaire à elles presque chaque tour.
 
-### Humains
+### Humains 
 Un peu comme un poulet déplumé, si vous louchez très fort.
 
 ### Lézards
 Les lézards peuvent être de n'importe quelle couleur, avec des queues, des fioritures et d'autres marques.
 
-### Papillons de nuit
+### Papillons de nuit (Moth)
 Des papillons de nuit géants, généralement colorés et dotés d'ailes majestueuses.
 
-### Félinidés
+### Félinidés (Felinids)
 Humains, mais avec des oreilles de chat et une queue !
 
 ### Vulpkanin
@@ -25,5 +25,3 @@ Ce sont des humanoïdes ressemblant à des renards.
 ### Exotiques
 IA
 De gros cubes bleus quelque part près de la science qui vous observent en permanence.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
