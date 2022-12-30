@@ -1,0 +1,2 @@
+Ceci est un dossier visant à restructuré les dossier du projet wiki de base.
+Gardé le nécéssaire et retiré l'inutile pour une meilleurs compréhension du code.

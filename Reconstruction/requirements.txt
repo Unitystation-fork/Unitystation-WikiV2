@@ -1,0 +1,6 @@
+requests
+mkdocs
+mkdocs-macros-plugin
+mkdocs-autolinks-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-bootstrap-tables-plugin
