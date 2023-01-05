@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Unitystation Wiki",
+    "description": "Le titre dans la barre de navigation"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutoriel",
+    "description": "Élément de la barre de navigation avec étiquette Tutorial"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Élément de la barre de navigation avec l'étiquette Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Élément de la barre de navigation avec l'étiquette GitHub"
+  }
+}

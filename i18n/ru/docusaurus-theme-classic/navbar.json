@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Unitystation Вики",
+    "description": "Заголовок на панели навигации"
+  },
+  "item.label.Tutorial": {
+    "message": "Учебник",
+    "description": "Элемент панели навигации с меткой Учебник"
+  },
+  "item.label.Blog": {
+    "message": "Блог",
+    "description": "Элемент панели навигации с меткой Блог"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Элемент панели навигации с меткой GitHub"
+  }
+}

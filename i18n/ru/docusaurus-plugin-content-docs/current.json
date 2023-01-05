@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Следующий",
+    "description": "Метка для текущей версии"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Учебник - Основы",
+    "description": "Метка для категории Tutorial - Basics в боковой панели tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 минут на изучение самых важных понятий Docusaurus.",
+    "description": "Сгенерированное описание страницы индекса для категории Tutorial - Basics в боковой панели tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Учебник - Дополнительные возможности",
+    "description": "Метка для категории Tutorial - Extras в боковой панели tutorialSidebar"
+  }
+}
