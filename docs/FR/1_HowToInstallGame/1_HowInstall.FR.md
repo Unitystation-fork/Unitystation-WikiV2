@@ -33,20 +33,16 @@ le raccourcis sera dans votre Menu/Game
 
 ## MacOS ##
  1. **Command(⌘) + [Space]** write "terminal" and validated with [enter] (⏎)
- 2. Copy past this lign 
-```properties
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
-```
- 3. Puis
-```properties
-brew install wget
-```
- 4.  Puis
+ 2.  Copy past this line 
 ```bash
-mkdir -p ~/Games/Unitystation/ ; cd ~/Games/Unitystation/ ; wget https://github.com/unitystation/stationhub/releases/download/930/osx930.zip ; wget https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png; unzip *.zip ; rm -rfv *.zip ./ ;sudo chmod -R 750 ./StationHub ; killall Terminal
+mkdir -p ~/Games/Unitystation ; cd ~/Games/Unitystation ; curl -O https://github.com/unitystation/stationhub/releases/download/930/osx930.zip ; curl -O https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png; unzip *.zip ; rm -rfv *.zip ./ ; chmod -R 750 ./StationHub ; exit
 ```
-Pour lancer le jeu, il suffit de double cliquer sur "stationHub"
-~~ln -s ~/Applications/UnityStation~~
+To start the game, just double click on "stationHub". in your game folder
+
+
+
+
+ln -s ~/Applications/UnityStation
 
 ## Requies ##
 4Gio de Ram (8 recommendé)
