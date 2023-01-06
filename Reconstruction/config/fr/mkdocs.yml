@@ -1,0 +1,46 @@
+site_name: Unitystation
+site_url: 'https://unitystation.github.io/unitystation-wiki/'
+nav:
+    - github: 'https://github.com/Unitystation-fork/Unitystation-WikiV2'
+    - Home: index.md
+    - About: about.md
+
+
+
+theme:  
+    name: windmill
+    custom_dir: '../../overrides/'                  # This is where the customization of the theme lives
+    logo: assets/images/logo.svg                    # The logo is shared by all languages
+    favicon: assets/images/favicon.ico              # The favicon is shared by all languages
+    language: fr
+
+extra_css:
+  - assets/stylesheets/yesplan.css                  # CSS is shared by all languages
+
+extra:                                              # Language Selection
+  alternate:  
+
+      # Switch to English
+    - name: English
+      link: /en/
+      lang: en
+
+    # Switch to Dutch
+    - name: Russia
+      link: /ru/
+      lang: ru
+
+    # Switch to French
+    - name: Français
+      link: /fr/
+      lang: fr
+
+plugins:
+  - search:                                         
+      lang: fr                                      # Set language for search
+
+nav:
+- Welcome: index.md
+
+
+

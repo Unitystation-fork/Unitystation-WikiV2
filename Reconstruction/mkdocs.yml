@@ -5,8 +5,6 @@ nav:
     - Home: index.md
     - About: about.md
 
-
-
 theme: windmill
     - name: null
     - custom_dir: theme/
@@ -19,5 +17,20 @@ theme: windmill
     - article_nav_bottom: true
     - language: en
 
+extra:                                              # Language Selection
+  alternate:  
 
+      # Switch to English
+    - name: English
+      link: /en/
+      lang: en
 
+    # Switch to Dutch
+    - name: Russia
+      link: /ru/
+      lang: ru
+
+    # Switch to French
+    - name: Français
+      link: /fr/
+      lang: fr

@@ -1,3 +1,12 @@
+Version 0.0.12
+Date 2022/12/30
+Dev  Dae
+Ajout
+    - dossier de langues
+    
+Delet
+	- Dossier doublons a la racine
+-----------------------------------------------
 Version 0.0.11
 Date 2022/08/28
 Dev  Dae
