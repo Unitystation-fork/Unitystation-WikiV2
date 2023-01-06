@@ -43,7 +43,13 @@ Pour construire le wiki en local avant de modifier la version actuelle du wiki :
 
 
 ------------
+### Credit & contributeur
+- Fr_Dae (Dae#5125)
+- GemInee#5127
+- Slycent#3597
+- Warwiren#2517
+- Peulleieo#1996 
 
-
+------------
 ### ToDo
 [Todo](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/todo.txt) 
