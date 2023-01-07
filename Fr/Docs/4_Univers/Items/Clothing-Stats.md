@@ -1,2 +1,0 @@
-# Clothing Stats
-Mega Wip
