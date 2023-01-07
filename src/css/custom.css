@@ -13,9 +13,10 @@
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 95% !important;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-container-width-xl: calc(100% - var(--doc-sidebar-width));
+  --ifm-container-width-xl: 100% !important;
+  --doc-sidebar-width: 250px !important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -30,10 +31,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.docItemCol {
-  max-width: 85% !important;
-}
-
 .col--3 {
-  --ifm-col-width: 15%;
+  --ifm-col-width: 15% !important;
 }
