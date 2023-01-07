@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>1_HowInstall.html</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p>1_HowInstall</p>
+<p>Pour jouer, il vous fait téléchargé deux élément.<br>
+le StationHub ,<br>
+au lancement il vous faudra crée un compte .<br>
+validé l’email reçu et vous connecter.<br>
+vous arriverez alors sur le HUB vous qui,vous propose de téléchargé plusieurs version du jeu.<br>
+une stable et une testing.<br>
+Une fois la version téléchargé vous pouvez vous connecter.<br>
+crée un personnage, (pensez a sauvegardé le serialise dnas un fichier txt)<br>
+vérifier vos job préférence et antag et vous êtes près à vous lancé.</p>
+<p><a href="https://github.com/unitystation/stationhub/releases">https://github.com/unitystation/stationhub/releases</a></p>
+<h2 id="windows">Windows</h2>
+<p>Dans mes documents/Games/ Creer le dossier “Unitystation”<br>
+Téléchargé le Zip “win” <a href="https://github.com/unitystation/stationhub/releases/latest/">Win.zip</a> et placer le dans le dossier précédemment créer.<br>
+Faire ensuite un clic droit sur le Zip, extraire ici. (<a href="https://www.7-zip.org/a/7z2107-x64.msi">7zip</a><br>
+vous devriez avoir un exécutable “StationHub.exe”<br>
+pour crée un raccourcis sur le bureau, faitent un clic droit =&gt; envoyez vers =&gt; bureau.</p>
+<h2 id="gnu_linux">GNU_Linux</h2>
+<p>[Ctrl] + [Alt] + [T]<br>
+<code>sudo apt update ; sudo apt full upgrade ; sudo apt dist-upgrade ; sudo apt install -f ; sudo apt autoremove</code></p>
+<p>Puis</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">sudo</span> apt <span class="token function">install</span> <span class="token function">wget</span> p7zip alacarte
+
+</code></pre>
+<p>Puis</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">mkdir</span> ~/Games/ <span class="token punctuation">;</span> <span class="token function">mkdir</span> ~/Games/Unitystation/ <span class="token punctuation">;</span> <span class="token function">cd</span> ~/Games/Unitystation/ <span class="token punctuation">;</span> <span class="token function">wget</span> https://github.com/unitystation/stationhub/releases/download/930/lin930.zip <span class="token punctuation">;</span> unzip *.zip ./ <span class="token punctuation">;</span> <span class="token function">sudo</span> <span class="token function">chmod</span> -R 750 ./StationHub <span class="token punctuation">;</span> <span class="token function">wget</span> https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png <span class="token punctuation">;</span> <span class="token function">rm</span> -rfv *.zip ./ <span class="token punctuation">;</span> alacarte , <span class="token keyword">exit</span> 
+
+</code></pre>
+<p><strong>Dans alacarte</strong>, aller dans le menu jeux, ajouté un nouvelle élément,<br>
+l’icône = ~/Games/Unitystation/unityico.png<br>
+nom = “unitystation”`<br>
+exécutable = ~/Games/Unitystation/StationHub</p>
+<h2 id="macos">MacOS</h2>
+<ol>
+<li><strong>Command(⌘) + [Space]</strong> write “terminal” and validated with [enter] (⏎)</li>
+<li>Copy past this lign</li>
+</ol>
+<pre class=" language-properties"><code class="prism  language-properties"><span class="token attr-name">/bin/bash</span> <span class="token attr-value">-c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" </span>
+
+</code></pre>
+<ol start="3">
+<li>Puis</li>
+</ol>
+<pre class=" language-properties"><code class="prism  language-properties"><span class="token attr-name">brew</span> <span class="token attr-value">install wget</span>
+
+</code></pre>
+<ol start="4">
+<li>Puis</li>
+</ol>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">mkdir</span> -p ~/Games/Unitystation/ <span class="token punctuation">;</span> <span class="token function">cd</span> ~/Games/Unitystation/ <span class="token punctuation">;</span> <span class="token function">wget</span> https://github.com/unitystation/stationhub/releases/download/930/osx930.zip <span class="token punctuation">;</span> <span class="token function">wget</span> https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png<span class="token punctuation">;</span> unzip *.zip <span class="token punctuation">;</span> <span class="token function">rm</span> -rfv *.zip ./ <span class="token punctuation">;</span><span class="token function">sudo</span> <span class="token function">chmod</span> -R 750 ./StationHub <span class="token punctuation">;</span> <span class="token function">killall</span> Terminal
+
+</code></pre>
+<p>pour lancer le jeu, il suffi de double cliquez sur “stationHub”<br>
+#ln -s bureau</p>
+<h2 id="requies">Requies</h2>
+</div>
+</body>
+
+</html>
