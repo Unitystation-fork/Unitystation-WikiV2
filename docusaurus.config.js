@@ -131,6 +131,9 @@ const config = {
           autoCollapseCategories: true,
         },
       },
+      colorMode: {
+        defaultMode: 'dark'
+      },
     }),
 };
 
