@@ -1,12 +1,12 @@
-![](https://badgen.net/badge/Side/Projet/blue?icon=github) 
+![](https://badgen.net/badge/Side/Projet/blue?icon=github)
  ===
- [![forthebadge cc-by](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tyJX8dx) 
+ [![forthebadge cc-by](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tyJX8dx)
 ##  Unitystation-wiki
 
 ### Description du projet
 
 Unitystation-wikiV2 est une mise au propre de la documentation du jeu, un manuel d'utilisation.
-Présentant le projet, l'installation, l'interface et l'univers. 
+Présentant le projet, l'installation, l'interface et l'univers.
 
 -------------
 
@@ -24,7 +24,7 @@ Ce projet est développer en:
 
 ### But du projet / public cible
 
-Guider l'utlisateur lambda sur les modalités technique du projet tel que l'installation 
+Guider l'utlisateur lambda sur les modalités technique du projet tel que l'installation
 Présentation de l'interface, comment jouer et présentation de l'univers.
 
 -------------
@@ -48,8 +48,8 @@ Pour construire le wiki en local avant de modifier la version actuelle du wiki :
 - GemInee#5127
 - Slycent#3597
 - Warwiren#2517
-- Peulleieo#1996 
+- Peulleieo#1996
 
 ------------
 ### ToDo
-[Todo](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/todo.txt) 
+[Todo](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/todo.txt)
