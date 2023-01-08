@@ -1,55 +1,41 @@
-![](https://badgen.net/badge/Side/Projet/blue?icon=github) 
- ===
- [![forthebadge cc-by](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tyJX8dx) 
-##  Unitystation-wiki
+# Website
 
-### Description du projet
-
-Unitystation-wikiV2 est une mise au propre de la documentation du jeu, un manuel d'utilisation.
-Présentant le projet, l'installation, l'interface et l'univers. 
-
--------------
-
-
-### Language utilisé
-
-Ce projet est développer en:
-
-- HTML/CSS (bootstrap)
-- Javasript (Jquery, Bootstrap, elasticlundr, highlightjs)
-- Markdown
-- python (Mkdocs)
-
--------------
-
-### But du projet / public cible
-
-Guider l'utlisateur lambda sur les modalités technique du projet tel que l'installation 
-Présentation de l'interface, comment jouer et présentation de l'univers.
-
--------------
-
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
-Pour construire le wiki en local avant de modifier la version actuelle du wiki :
+```
+$ yarn
+```
 
-- Cloner/Télécharcher le projet
-- installer python et le gestionnaire de package pip
-- Crée un environnement virtuel (optionnel)
-- lancer `pip install -r requirements.txt`
-- Mkdocs a ses propres instruction d'installation analyser la documentation pour en cas soucis *optionnel*
-- lancer le serveurs local avec la commande `mkdocs serve`. si vous êtes sur windows et que la commande mkdocs est non reconnu utiliser `python -m mkdocs serve`
+### Local Development
 
+```
+$ yarn start
+```
 
-------------
-### Credit & contributeur
-- Fr_Dae (Dae#5125)
-- GemInee#5127
-- Slycent#3597
-- Warwiren#2517
-- Peulleieo#1996 
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-------------
-### ToDo
-[Todo](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/todo.txt) 
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
