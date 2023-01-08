@@ -1,0 +1,210 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.EN": {
+    "message": "EN",
+    "description": "The label for category EN in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.HowToInstallGame": {
+    "message": "HowToInstallGame",
+    "description": "The label for category HowToInstallGame in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.UserInterface": {
+    "message": "UserInterface",
+    "description": "The label for category UserInterface in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.AdminInterface": {
+    "message": "AdminInterface",
+    "description": "The label for category AdminInterface in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.HowToPlay": {
+    "message": "HowToPlay",
+    "description": "The label for category HowToPlay in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Caractere": {
+    "message": "Caractere",
+    "description": "The label for category Caractere in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Engineering_guides": {
+    "message": "Engineering_guides",
+    "description": "The label for category Engineering_guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.General_guides": {
+    "message": "General_guides",
+    "description": "The label for category General_guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Joke_guides": {
+    "message": "Joke_guides",
+    "description": "The label for category Joke_guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Medical_guides": {
+    "message": "Medical_guides",
+    "description": "The label for category Medical_guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Science_guides": {
+    "message": "Science_guides",
+    "description": "The label for category Science_guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security_guides": {
+    "message": "Security_guides",
+    "description": "The label for category Security_guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Service_guides": {
+    "message": "Service_guides",
+    "description": "The label for category Service_guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Jobs": {
+    "message": "Jobs",
+    "description": "The label for category Jobs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Antagonist_roles": {
+    "message": "Antagonist_roles",
+    "description": "The label for category Antagonist_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cargo_roles": {
+    "message": "Cargo_roles",
+    "description": "The label for category Cargo_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Centcom_roles": {
+    "message": "Centcom_roles",
+    "description": "The label for category Centcom_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Command_roles": {
+    "message": "Command_roles",
+    "description": "The label for category Command_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Engineering_roles": {
+    "message": "Engineering_roles",
+    "description": "The label for category Engineering_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Entertainment_Roles": {
+    "message": "Entertainment_Roles",
+    "description": "The label for category Entertainment_Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ghost_roles": {
+    "message": "Ghost_roles",
+    "description": "The label for category Ghost_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Medical_roles": {
+    "message": "Medical_roles",
+    "description": "The label for category Medical_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Science_roles": {
+    "message": "Science_roles",
+    "description": "The label for category Science_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security_roles": {
+    "message": "Security_roles",
+    "description": "The label for category Security_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Service_roles": {
+    "message": "Service_roles",
+    "description": "The label for category Service_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Synthetic_roles": {
+    "message": "Synthetic_roles",
+    "description": "The label for category Synthetic_roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.RP": {
+    "message": "RP",
+    "description": "The label for category RP in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Univers": {
+    "message": "Univers",
+    "description": "The label for category Univers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Items": {
+    "message": "Items",
+    "description": "The label for category Items in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Lore": {
+    "message": "Lore",
+    "description": "The label for category Lore in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Maps": {
+    "message": "Maps",
+    "description": "The label for category Maps in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Gateway_Maps": {
+    "message": "Gateway_Maps",
+    "description": "The label for category Gateway_Maps in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Offical_Station_Maps": {
+    "message": "Offical_Station_Maps",
+    "description": "The label for category Offical_Station_Maps in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Passive Mobs": {
+    "message": "Passive Mobs",
+    "description": "The label for category Passive Mobs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Other": {
+    "message": "Other",
+    "description": "The label for category Other in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Jokes": {
+    "message": "Jokes",
+    "description": "The label for category Jokes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.tools": {
+    "message": "tools",
+    "description": "The label for category tools in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dev": {
+    "message": "Dev",
+    "description": "The label for category Dev in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.routine1.0.5": {
+    "message": "routine1.0.5",
+    "description": "The label for category routine1.0.5 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Antagoniste": {
+    "message": "Antagoniste",
+    "description": "The label for category Antagoniste in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cargo": {
+    "message": "Cargo",
+    "description": "The label for category Cargo in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Command": {
+    "message": "Command",
+    "description": "The label for category Command in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Medical": {
+    "message": "Medical",
+    "description": "The label for category Medical in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Protagoniste": {
+    "message": "Protagoniste",
+    "description": "The label for category Protagoniste in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security": {
+    "message": "Security",
+    "description": "The label for category Security in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Services": {
+    "message": "Services",
+    "description": "The label for category Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.html": {
+    "message": "html",
+    "description": "The label for category html in sidebar tutorialSidebar"
+  }
+}
