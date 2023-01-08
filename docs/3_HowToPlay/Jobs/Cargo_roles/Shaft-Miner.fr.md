@@ -4,7 +4,7 @@
     <div class="card-body">
         <div class="card-img-top d-flex align-items-center">
             <div>
-                <img class="img-fluid" width=64 src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_miner.png" alt="Card image cap">
+                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_miner.png" alt="Card image cap"></img>
                 <b>Role type:</b> <font color= "#734823">Cargo</font>. <b>Access:</b> <font color="#734823">Mining department</font>, <font color="#734823">Cargo department</font>, Maintenance. <b>Difficulty:</b> <font color="Orange">Hard</font>-<font color="Red">Very Hard</font>
             </div>
         </div>
@@ -77,11 +77,11 @@ Pendant ce temps, préparez la navette expéditionnaire pour le lancement. Afin 
 
 **Notez que Lavaland n'est pas complète et ne représente pas un grand défi pour le moment.
 
-Alors, combattre "l'organisme parfait" couvert de pointes et plus grand que vous à plusieurs reprises tout en exploitant des astéroïdes fonçant dans le vide n'est pas un défi suffisant ? 
+Alors, combattre "l'organisme parfait" couvert de pointes et plus grand que vous à plusieurs reprises tout en exploitant des astéroïdes fonçant dans le vide n'est pas un défi suffisant ?
 
-Eh bien bonne nouvelle, car vous pouvez à la place aller miner sur un monde perpétuellement embrumé par les cendres et couvert de lave. C'est là que le niveau "très difficile" entre en jeu. Si vous n'êtes pas compétent ou bien préparé, vous mourrez atrocement et personne ne trouvera votre cadavre rôti. Si vous allez à Laval, il est préférable d'y aller avec des amis, d'emporter une arme et de vous entraîner à combattre les xénos et autres bêtes. 
+Eh bien bonne nouvelle, car vous pouvez à la place aller miner sur un monde perpétuellement embrumé par les cendres et couvert de lave. C'est là que le niveau "très difficile" entre en jeu. Si vous n'êtes pas compétent ou bien préparé, vous mourrez atrocement et personne ne trouvera votre cadavre rôti. Si vous allez à Laval, il est préférable d'y aller avec des amis, d'emporter une arme et de vous entraîner à combattre les xénos et autres bêtes.
 
-La faune extraterrestre n'est pas la seule menace à laquelle vous devrez faire face sur lavaland. Près de votre base, il y a une alcôve qui abrite une ancienne vrille. Cette vrille abrite un méchant collectif de [lézards] (ashwalker.md) qui n'apprécie pas l'arrivée récente de NanoTrasen sur leur ancien terrain de chasse, et ils ont l'intention de le prouver par une démonstration de force. Si un fantôme a pris le rôle, il est possible que vous rencontriez un ennemi plus intelligent que celui auquel vous avez habituellement affaire. 
+La faune extraterrestre n'est pas la seule menace à laquelle vous devrez faire face sur lavaland. Près de votre base, il y a une alcôve qui abrite une ancienne vrille. Cette vrille abrite un méchant collectif de [lézards] (ashwalker.md) qui n'apprécie pas l'arrivée récente de NanoTrasen sur leur ancien terrain de chasse, et ils ont l'intention de le prouver par une démonstration de force. Si un fantôme a pris le rôle, il est possible que vous rencontriez un ennemi plus intelligent que celui auquel vous avez habituellement affaire.
 
 ### Un os à ronger ([traître](traître.md) Mineur de puits)
 

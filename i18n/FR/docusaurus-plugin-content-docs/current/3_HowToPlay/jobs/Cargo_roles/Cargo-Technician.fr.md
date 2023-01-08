@@ -4,7 +4,7 @@
     <div class="card-body">
         <div class="card-img-top d-flex align-items-center">
             <div>
-                <img class="img-fluid" width=64 src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_cargo.png" alt="Card image cap">
+                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_cargo.png" alt="Card image cap"></img>
                 <b>Role type:</b> <font color= "#734823">Cargo</font>. <b>Access</b> <font color="#734823">Cargo Department</font>, <font color="#734823">Mining Department</font>, Maintenance. <b>Difficulty</b> <font color="Green">Easy</font>. Colloquial name: "Tech"
             </div>
         </div>

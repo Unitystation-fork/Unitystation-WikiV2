@@ -1,42 +1,42 @@
 ﻿
 {# {{tag>Game BROUILLON Admin tool interface UI}} #}
-# Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)## 
-Index ##<br>
-`├── 1 - Admin Tool`<br>
-`│	 ├── 1.1 - Spawn item`<br>
-`│	 ├── 1.2 - Clone & delete Item`<br>
-`│	 └── 1.3 - Variable Viewer`<br>
-`├── 2 - Admin Menu`<br>
-`│	 ├── 2.1 - MHELP`<br>
-`│	 ├── 2.2 - [Admin Tool Panel]`<br>
-`│	 │ 	 ├── 2.2a - Game Mode`<br>
-`│	 │ 	 ├── 2.2b - Player Manager`<br>
-`│	 │ 	 │	 ├── 2.2b.1 - Kick`<br>
-`│	 │ 	 │	 ├── 2.2b.2 - Ban`<br>
-`│	 │ 	 │	 ├── 2.2b.3 - JobBan`<br>
-`│	 │ 	 │	 ├── 2.2b.4 - Smite`<br>
-`│	 │ 	 │	 ├── 2.2b.5 - Respawn`<br>
-`│	 │ 	 │	 ├── 2.2b.6 - Teleport Admin TO Player - Aghost`<br>
-`│	 │ 	 │	 ├── 2.2b.7 - Teleport Player TO Admin`<br>
-`│	 │ 	 │	 ├── 2.2b.8 - Teleport Player TO Admin`<br>
-`│	 │ 	 │	 ├── 2.2b.9 - Teleport Player TO Admin - ALL`<br>
-`│	 │ 	 │	 ├── 2.2b.10 - heal`<br>
-`│	 │ 	 │	 └── 2.2b.11 - mentor`<br>
-`│	 │ 	 ├── 2.2c - CentCom`<br>
-`│	 │ 	 ├── 2.2d - Events Managers`<br>
-`│	 │ 	 ├── 2.2e - Round Managers`<br>
-`│	 │ 	 ├── 2.2f - Dev Tools`<br>
-`│	 │ 	 └── 2.2g - Server Settings`<br>
-`│	 ├── 2.3 - ACHAT`<br>
-`│	 ├── 2.4 - ALOGS`<br>
-`│	 ├── 2.5 - AHELP`<br>
-`│	 ├── 2.6 - [INFO]`<br>
-`│	 ├── 2.7 - Global Sound`<br>
-`│	 ├── 2.8 - Global Music`<br>
-`│	 ├── 2.9 - AGHOST`<br>
-`│	 └── 2.10 - ALERTS`<br>
-`└── 3 - CREDIT`<br>
-`========================================================`<br>
+# Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)##
+Index ##<br></br>
+`├── 1 - Admin Tool`<br></br>
+`│	 ├── 1.1 - Spawn item`<br></br>
+`│	 ├── 1.2 - Clone & delete Item`<br></br>
+`│	 └── 1.3 - Variable Viewer`<br></br>
+`├── 2 - Admin Menu`<br></br>
+`│	 ├── 2.1 - MHELP`<br></br>
+`│	 ├── 2.2 - [Admin Tool Panel]`<br></br>
+`│	 │ 	 ├── 2.2a - Game Mode`<br></br>
+`│	 │ 	 ├── 2.2b - Player Manager`<br></br>
+`│	 │ 	 │	 ├── 2.2b.1 - Kick`<br></br>
+`│	 │ 	 │	 ├── 2.2b.2 - Ban`<br></br>
+`│	 │ 	 │	 ├── 2.2b.3 - JobBan`<br></br>
+`│	 │ 	 │	 ├── 2.2b.4 - Smite`<br></br>
+`│	 │ 	 │	 ├── 2.2b.5 - Respawn`<br></br>
+`│	 │ 	 │	 ├── 2.2b.6 - Teleport Admin TO Player - Aghost`<br></br>
+`│	 │ 	 │	 ├── 2.2b.7 - Teleport Player TO Admin`<br></br>
+`│	 │ 	 │	 ├── 2.2b.8 - Teleport Player TO Admin`<br></br>
+`│	 │ 	 │	 ├── 2.2b.9 - Teleport Player TO Admin - ALL`<br></br>
+`│	 │ 	 │	 ├── 2.2b.10 - heal`<br></br>
+`│	 │ 	 │	 └── 2.2b.11 - mentor`<br></br>
+`│	 │ 	 ├── 2.2c - CentCom`<br></br>
+`│	 │ 	 ├── 2.2d - Events Managers`<br></br>
+`│	 │ 	 ├── 2.2e - Round Managers`<br></br>
+`│	 │ 	 ├── 2.2f - Dev Tools`<br></br>
+`│	 │ 	 └── 2.2g - Server Settings`<br></br>
+`│	 ├── 2.3 - ACHAT`<br></br>
+`│	 ├── 2.4 - ALOGS`<br></br>
+`│	 ├── 2.5 - AHELP`<br></br>
+`│	 ├── 2.6 - [INFO]`<br></br>
+`│	 ├── 2.7 - Global Sound`<br></br>
+`│	 ├── 2.8 - Global Music`<br></br>
+`│	 ├── 2.9 - AGHOST`<br></br>
+`│	 └── 2.10 - ALERTS`<br></br>
+`└── 3 - CREDIT`<br></br>
+`========================================================`<br></br>
 
 ## 1 - Admin Tool ##
 Le panneau d’outils d’admin est situé en haut à droite de votre écran, une fois la partie démarrée, vous pourrez utiliser le dernier bouton tout à droite.
@@ -58,7 +58,7 @@ La fenêtre de variable est composée ainsi
 ![VariableViewerPannel](https://i.imgur.com/eGwefyk.png) Les couleurs de variable peuvent ainsi être différenciées.
 ![VariableColor](https://i.imgur.com/jsMibs1.png)
 **1** = Rafraîchissement, hiérarchie
-**2** = Bouton de recherche, hiérarchie 
+**2** = Bouton de recherche, hiérarchie
 **3** = Recherche dans la hiérarchie, champ
 **4** = Page contenant tous les objets du jeu, dans la hiérarchie.
 **4a** = Nom de l'objet du jeu
@@ -83,8 +83,8 @@ La fenêtre de variable est composée ainsi
 
 ### 2.1 - MHELP ###
 ![MentorChat](https://i.imgur.com/Kgewtjp.png)
-Mentor Help chat permet aux joueurs de discuter avec un mentor nommé (temporairement ou non).  
-Sur le coté gauche se trouve la liste des joueurs.  
+Mentor Help chat permet aux joueurs de discuter avec un mentor nommé (temporairement ou non).
+Sur le coté gauche se trouve la liste des joueurs.
 Sur le coté droit se trouve l’historique et la zone d’écriture.
 
 ================
@@ -111,7 +111,7 @@ Si la liste est trop longue vous pouvez utiliser la fonction "recherche" au dess
 ================
 #####  2.2b.3 - JobBan #####
 ![JobBan](https://i.imgur.com/iEcdIhM.png)
-Permet de bloquer ou bannir un ensemble de joueurs en fonction de leurs jobs. 
+Permet de bloquer ou bannir un ensemble de joueurs en fonction de leurs jobs.
 Fonctionne aussi pour les antagonistes
 
 ================
@@ -120,7 +120,7 @@ Fonctionne aussi pour les antagonistes
 
 ================
 #####  2.2b.5 - Respawn #####
-![Respawn](https://i.imgur.com/AC5pPcj.png) 
+![Respawn](https://i.imgur.com/AC5pPcj.png)
 Permet de faire revenir un joueur à la vie (même s'il est toujours vivant).
 Le panneau de droite permet de choisir différentes options, et celles-ci sont cumulatives.
 Ex : vous pouvez faire revivre un personnage en "janitor" + "blob"
@@ -136,7 +136,7 @@ Ex : vous pouvez faire revivre un personnage en "janitor" + "blob"
 
 
 ================#####  2.2b.8 - Teleport Player TO Admin #####
-Téléporte **LE JOUEUR** sélectionné, sur vous 
+Téléporte **LE JOUEUR** sélectionné, sur vous
 
 
 ================#####  2.2b.9 - Teleport Player TO Admin - ALL #####
@@ -145,7 +145,7 @@ Ne fonctionne pas si vous êtes un fantôme.
 
 ================#####  2.2b.10 - heal #####
 Une fois un joueur sélectionné, vous pourrez complètement soigner celui-ci.
-Attention cela ne fait pas repousser les membres perdus et ne soigne pas la mort.  
+Attention cela ne fait pas repousser les membres perdus et ne soigne pas la mort.
 
 ================#####  2.2b.11 - mentor #####
 Permet de donner aux joueurs sélectionnés le rôle "mentor".
@@ -154,9 +154,9 @@ Permet de donner aux joueurs sélectionnés le rôle "mentor".
 
 ================
 ####  2.2c - CentCom ####
-![CentComm](https://i.imgur.com/h1IA8gc.png)`/!\` 
+![CentComm](https://i.imgur.com/h1IA8gc.png)`/!\`
 **Ceci est un outils Roleplay** `/!\`
-Le CentComm est l'entité supérieure au capitaine. 
+Le CentComm est l'entité supérieure au capitaine.
 Pour plus d'informations, consultez les pages
 | **Centcom**     | [Centcom Officer](Central-Command-Officer.md), [Death Squad](Death-Squad.md), [Emergency Response Team,](Emergency-Response-Team.md) [Redshield Officer](Redshield-Officer.md) |
 ####  2.2d - Events Managers ####
@@ -171,12 +171,12 @@ Pour plus d'informations, consultez les pages
 
 Pour valider, appuyer sur **[trigger event]**
 
-####  2.2e - Round Managers 
+####  2.2e - Round Managers
 ########  2.2f - Dev Tools ####
-![DevTool](https://i.imgur.com/plGL6aB.png)####  
+![DevTool](https://i.imgur.com/plGL6aB.png)####
 2.2g - Server Settings ####
 ![ServerSettings](https://i.imgur.com/7LMIvPP.png)
-Ici sont rassemblés divers “autres” paramètres de gestion à chaud du serveur, il y en aura prochainement d’autres d’ajoutés. 
+Ici sont rassemblés divers “autres” paramètres de gestion à chaud du serveur, il y en aura prochainement d’autres d’ajoutés.
 
 ### 2.3 - ACHAT ###
 ![Achat](https://i.imgur.com/uVoHfiK.png)
@@ -194,9 +194,9 @@ Un joueurs peut ouvrir une fenêtre en appuyant sur "Entrée", puis en bas à ga
 ### 2.6 - [INFO] ###
 ![Info](https://i.imgur.com/S3bbx59.png)
 Ce petit bouton (1er bouton, 2ème ligne) permet d'afficher des informations directement en jeu, contenant :
-- le nom du personnage, 
-- le nom de compte, 
-- son statut 
+- le nom du personnage,
+- le nom de compte,
+- son statut
 - ainsi que sa vie.
 
 ### 2.7 - Global Sound ###
@@ -214,6 +214,6 @@ Utile pour faire apparaître des objets  ou surveiller un joueur sans être vu.
 Cette fenêtre permet d'avoir des retours d'événements, tel qu'un joueur en ayant tué un autre.
 ## 3 - CREDIT ##
 Thanks to Bod (admin/dev) for creating this tool
-[Fr_Dae](http://twitch.tv/Fr_Dae) (for write this wikipage) 
+[Fr_Dae](http://twitch.tv/Fr_Dae) (for write this wikipage)
 @Peulleieo#1996  for correction (fr)
 Fr_Maevis
