@@ -4,7 +4,7 @@ Relevent guides: [Construction](Construction.md) , [Nuclear Reactor](Guide-to-th
 Note: This is not a guide to the operation of the nuclear reactor or building electrical equipment, that is linked directly above.
 
 ## Overview
-Electricity in US is a system that appears very complex on the surface but is in reality very simple to understand. This guide will cover safety, electricity consuming devices, types of wires, 
+Electricity in US is a system that appears very complex on the surface but is in reality very simple to understand. This guide will cover safety, electricity consuming devices, types of wires,
 APCs (not the armoured vehicles), department/local batteries, transformers, station power storage, and simple generators as well as how to sabotage and repair the electrical grid.
 
 ## How not to become a lightbulb
@@ -21,11 +21,11 @@ also not function without power, meaning dead bodies will pile up and not be rev
 
 ## Types of Wires
 Rather than a single type of wire, the station's power supply is made of a network of many types of wires. Low voltage wires are cheap, but can only handle smaller amounts of power.
-Medium power wires are the most common type of wire and are used in [hacking]() doors. High voltage wires are the rarest type of wires and can handle the enormous loads made by
+Medium power wires are the most common type of wire and are used in [hacking](Hacking-Guide.md) doors. High voltage wires are the rarest type of wires and can handle the enormous loads made by
 nuclear reactors and generators, they act as the spine upon which the rest of the station's grid is built.
 
 ## Area Power Controllers (APCs)
-These devices (most of them) receive power from their local APC. APCs can be found just about everywhere, and typically control the power distribution of a single room. If an APC is receiving power, 
+These devices (most of them) receive power from their local APC. APCs can be found just about everywhere, and typically control the power distribution of a single room. If an APC is receiving power,
 it will automatically distribute it to other devices. Devices not powered by an APC can instead be powered by a physical wire connection to a power supply. APCs themselves are connected by low voltage wires
 to department batteries. If clicked on, they will open a menu, on which you can read various statistics about the APC.
 
@@ -35,11 +35,11 @@ to APCs which distribute power for them. Department batteries are connected by M
 to SMES devices. Batteries can be turned on and off by clicking on them.
 
 ## SMES devices
-SMES devices are effectively just upscaled department batteries. They distribute power to department batteries through medium voltage wires. They receive their power from 
+SMES devices are effectively just upscaled department batteries. They distribute power to department batteries through medium voltage wires. They receive their power from
 Transformers, to which they are connected by medium-voltage wires. When clicked on they open a menu from which how much power they store and how much they distribute per tick can
 be altered.
 
-## Transformers 
+## Transformers
 Transformers are simple, in effect, they are just a way of linking high voltage wires with medium voltage wires. they do not have a menu when clicked on and cannot be turned on or off.
 They serve an important role in allowing the station's power source to connect to SMES devices which distribute the power it generates.
 

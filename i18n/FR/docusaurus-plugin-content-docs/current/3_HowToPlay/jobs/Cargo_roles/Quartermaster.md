@@ -11,7 +11,7 @@
     </div>
 </div>
 
-Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician]() and/or [Shaft Miner]()
+Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician](Cargo-Technician.md) and/or [Shaft Miner](Shaft-Miner.md)
 
 "[*Move Freight. Miners*,](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)" - A wise QM
 
