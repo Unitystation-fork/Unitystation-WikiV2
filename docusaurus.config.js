@@ -24,12 +24,12 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'fr', 'ru'],
+    locales: ['en'],
   },
 
   presets: [
     [
-      '@docusaurus/preset-classic',
+      'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Unitystation Wiki',
+        title: 'My Site',
         logo: {
-          alt: 'Unitystation Wiki Logo',
-          src: 'img/Unitystation.png',
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
