@@ -166,9 +166,9 @@ If you want to combine items have one in each of your hands and then left-click 
 
 | Picture      | Name    | Ingredients | Description |
 | ------------ | ------- | ----------- | ----------- |
-| ![Flour]()   | Flour   | 1 wheat     | N/A         |
-| ![Rice]()    | Rice    | 1 rice      | N/A         |
-| ![Sugar]()   | Sugar   | 1 sugarcane | N/A         |
-| ![Ketchup]() | Ketchup | 1 tomato    | N/A         |
+| ![Flour](No_image.png)   | Flour   | 1 wheat     | N/A         |
+| ![Rice](No_image.png)    | Rice    | 1 rice      | N/A         |
+| ![Sugar](No_image.png)   | Sugar   | 1 sugarcane | N/A         |
+| ![Ketchup](No_image.png) | Ketchup | 1 tomato    | N/A         |
 
 

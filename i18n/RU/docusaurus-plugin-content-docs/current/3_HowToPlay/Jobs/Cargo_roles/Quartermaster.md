@@ -4,14 +4,14 @@
     <div class="card-body">
         <div class="card-img-top d-flex align-items-center">
             <div>
-                <img class="img-fluid" width=64 src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_qm.png" alt="Card image cap">
+                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_qm.png" alt="Card image cap"></img>
                 <b>Role type:</b>  <font color= "#734823">Cargo</font>. <b>Access:</b> ???  <b>Difficulty:</b> <font color="Yellow"> Medium</font>. Colloquial name: "QM"
             </div>
         </div>
     </div>
 </div>
 
-Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician]() and/or [Shaft Miner]()
+Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician](Cargo-Technician.md) and/or [Shaft Miner](Shaft-Miner.md)
 
 "[*Move Freight. Miners*,](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)" - A wise QM
 

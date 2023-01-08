@@ -3,40 +3,40 @@
 ## Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
 ## Content ##
 
-`├── 1 - Admin Tool`<br>
-`│        ├── 1.1 - Spawn item`<br>
-`│        ├── 1.2 -  Clone & delete Item`<br>
-`│        └── 1.3 -  Variable Viewer`<br>
-`├── 2 - Admin Menu`<br>
-`│        ├── 2.1 - MHELP`<br>
-`│        ├── 2.2 - [Admin Tool Panel]`<br>
-`│        │        ├──  2.2a - Game Mode`<br>
-`│        │        ├──  2.2b - Player Manager`<br>
-`│        │        │        ├──  2.2b.1 - Kick`<br>
-`│        │        │        ├──  2.2b.2 - Ban`<br>
-`│        │        │        ├──  2.2b.3 - JobBan`<br>
-`│        │        │        ├──  2.2b.4 - Smite`<br>
-`│        │        │        ├──  2.2b.5 - Respawn`<br>
-`│        │        │        ├──  2.2b.6 - Teleport Admin TO Player - Aghost`<br>
-`│        │        │        ├──  2.2b.7 - Teleport Player TO Admin`<br>
-`│        │        │        ├──  2.2b.8 - Teleport Player TO Admin`<br>
-`│        │        │        ├──  2.2b.9 - Teleport Player TO Admin - ALL`<br>
-`│        │        │        ├──  2.2b.10 - heal`<br>
-`│        │        │        └──  2.2b.11 - mentor`<br>
-`│        │        ├──  2.2c - CentCom`<br>
-`│        │        ├──  2.2d - Events Managers`<br>
-`│        │        ├──  2.2e - Round Managers`<br>
-`│        │        ├──  2.2f - Dev Tools`<br>
-`│        │        └──  2.2g - Server Settings`<br>
-`│        ├── 2.3 - ACHAT`<br>
-`│        ├── 2.4 - ALOGS`<br>
-`│        ├── 2.5 - AHELP`<br>
-`│        ├── 2.6 - [INFO]`<br>
-`│        ├── 2.7 - Global Sound`<br>
-`│        ├── 2.8 - Global Music`<br>
-`│        ├── 2.9 - AGHOST`<br>
-`│        └── 2.10 - ALERTS`<br>
-`└── 3 - CREDIT`<br>
+`├── 1 - Admin Tool`<br></br>
+`│        ├── 1.1 - Spawn item`<br></br>
+`│        ├── 1.2 -  Clone & delete Item`<br></br>
+`│        └── 1.3 -  Variable Viewer`<br></br>
+`├── 2 - Admin Menu`<br></br>
+`│        ├── 2.1 - MHELP`<br></br>
+`│        ├── 2.2 - [Admin Tool Panel]`<br></br>
+`│        │        ├──  2.2a - Game Mode`<br></br>
+`│        │        ├──  2.2b - Player Manager`<br></br>
+`│        │        │        ├──  2.2b.1 - Kick`<br></br>
+`│        │        │        ├──  2.2b.2 - Ban`<br></br>
+`│        │        │        ├──  2.2b.3 - JobBan`<br></br>
+`│        │        │        ├──  2.2b.4 - Smite`<br></br>
+`│        │        │        ├──  2.2b.5 - Respawn`<br></br>
+`│        │        │        ├──  2.2b.6 - Teleport Admin TO Player - Aghost`<br></br>
+`│        │        │        ├──  2.2b.7 - Teleport Player TO Admin`<br></br>
+`│        │        │        ├──  2.2b.8 - Teleport Player TO Admin`<br></br>
+`│        │        │        ├──  2.2b.9 - Teleport Player TO Admin - ALL`<br></br>
+`│        │        │        ├──  2.2b.10 - heal`<br></br>
+`│        │        │        └──  2.2b.11 - mentor`<br></br>
+`│        │        ├──  2.2c - CentCom`<br></br>
+`│        │        ├──  2.2d - Events Managers`<br></br>
+`│        │        ├──  2.2e - Round Managers`<br></br>
+`│        │        ├──  2.2f - Dev Tools`<br></br>
+`│        │        └──  2.2g - Server Settings`<br></br>
+`│        ├── 2.3 - ACHAT`<br></br>
+`│        ├── 2.4 - ALOGS`<br></br>
+`│        ├── 2.5 - AHELP`<br></br>
+`│        ├── 2.6 - [INFO]`<br></br>
+`│        ├── 2.7 - Global Sound`<br></br>
+`│        ├── 2.8 - Global Music`<br></br>
+`│        ├── 2.9 - AGHOST`<br></br>
+`│        └── 2.10 - ALERTS`<br></br>
+`└── 3 - CREDIT`<br></br>
 
 ## 1 - Administrator toolbar
 The admin toolbar is located at the top right of the screen, after starting the game you can use the last button on the far right.
@@ -59,7 +59,7 @@ La fenêtre de variable est composée ainsi
 ![VariableColor](https://i.imgur.com/jsMibs1.png)
 **1 ** = refresh hierarchy
 
-**2 ** = Search button hierarchy 
+**2 ** = Search button hierarchy
 
 **3 ** = search hierarchy field
 
@@ -100,11 +100,11 @@ Unlike the admin tools, the Menu is available as soon as you connect to the serv
 ### 2.1 - MHELP ##
 ![MentorChat](https://i.imgur.com/Kgewtjp.png)
 
-MentorChat.  
+MentorChat.
 
-Allows players to chat with the specified mentor (temporarily or not)  
+Allows players to chat with the specified mentor (temporarily or not)
 
-on left - list of players  
+on left - list of players
 
 on the right - history and correspondence area.
 
@@ -145,7 +145,7 @@ Allows you to block or ban players based on their profession. Also works for ant
 
 ================
 ##### 2.2b.5 - Revive #####
-![Respawn](https://i.imgur.com/AC5pPcj.png) 
+![Respawn](https://i.imgur.com/AC5pPcj.png)
 Allows you to bring a player back to life (even if he is still alive).
 
 The right panel allows you to select different options, and they are cumulative.
@@ -163,7 +163,7 @@ For example, you can revive a character with "cleaner" + "blob".
 
 ================
 ##### 2.2b.8 - Teleport player to administrator #####
-Teleports **selected **player** to you 
+Teleports **selected **player** to you
 
 
 ================
@@ -179,13 +179,13 @@ Once a player is selected, you can fully heal them.
 
 Be aware that this cure does not restore lost limbs.
 
-Nor does it heal death.  
+Nor does it heal death.
 
 ================
 ##### 2.2b.11 - Assign Mentor #####
 Allows you to give selected players the role of mentor.
 
--at the moment 
+-at the moment
 -this can only open up the mentor interface in addition.
 
 
@@ -195,7 +195,7 @@ Allows you to give selected players the role of mentor.
 
 This is a role-playing tool** `/!\* **This is a role-playing tool** `/!\*`.
 
-CentComm is a unit above the captain. 
+CentComm is a unit above the captain.
 
 For more information, see
 
@@ -227,7 +227,7 @@ press **[run event]** to confirm.
 #### 2.2g - Server settings ####
 ![ServerSettings](https://i.imgur.com/7LMIvPP.png)
 
-Various "other" server control settings are collected here, new ones will be added soon. 
+Various "other" server control settings are collected here, new ones will be added soon.
 
 ### 2.3 - ACHAT ###
 [Purchasing] (https://i.imgur.com/uVoHfiK.png)
@@ -246,7 +246,7 @@ player can open the window by pressing Enter, then press [help] button at the bo
 
 ### 2.6 - [INFO] ###
 ![Info](https://i.imgur.com/S3bbx59.png)
-This little button (1st button, 2nd line) 
+This little button (1st button, 2nd line)
 
 allows you to display information directly in the game, containing character name, account name, status and health.
 
@@ -260,7 +260,7 @@ Sound player, audible to the whole server.
 Music player audible to the entire server.
 
 ### 2.9 - APRIZRAK ###
-![APPRISER](https://i.imgur.com/qPV89TN.png) allows you to step out of your body, 
+![APPRISER](https://i.imgur.com/qPV89TN.png) allows you to step out of your body,
 
 useful for making objects appear or observe the player without being seen.
 
@@ -271,7 +271,7 @@ This window allows you to get feedback on events, such as a player killing anoth
 
 ## 3 - THANKS ##
 Thanks to Bod (admin/dev) for creating this tool
-[Fr_Dae](http://twitch.tv/Fr_Dae) (for writing this wiki page) 
+[Fr_Dae](http://twitch.tv/Fr_Dae) (for writing this wiki page)
 @Peulleieo#1996 for the correction (en)
 @CV514#7004 for corrections (ru)
 @GemInee#5127 for code

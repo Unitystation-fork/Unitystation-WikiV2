@@ -1,7 +1,7 @@
 # Chemistry
 The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click [here](Chemist.md)
 
-<font color= red>(Disclaimer: at the current time of this edit, these are all working recipes/reactons for the game; all others turn to ash or out right don't work)</font>
+<font color="red">(Disclaimer: at the current time of this edit, these are all working recipes/reactons for the game; all others turn to ash or out right don't work)</font>
 
 ## General
 
@@ -9,7 +9,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 | ------ | :--------------------------------------------|
 | Step 1 | Add 1 part Oxygen                            |
 | Step 2 | Add 1 part Silicon                           |
-| Step 3 | Add 1 part Water                             | 
+| Step 3 | Add 1 part Water                             |
 
 
 
@@ -35,27 +35,27 @@ The Chemistry that has been implemented into the game has been copied from tg st
 ## Medical
 
 
-|        | AntiToxin                                 | 
+|        | AntiToxin                                 |
 | ------ | ----------------------------------------- |
 | Step 1 | 1 part Nitrogen                           |
 | Step 2 | 1 part Silicon                            |
 | Step 3 | 1 part Potassium                          |
 | Effect:| Heals 1 random toxin damage per tick      |
 
-|        | Bicaridine                                | 
+|        | Bicaridine                                |
 | ------ | ----------------------------------------- |
 | Step 1 | 1 part Carbon                             |
 | Step 2 | 1 part Oxygen                             |
 | Step 3 | 1 part Surgar                             |
 | Effect:| Heals 1 random brute damage per tick      |
 
-|        | Kelotane                                  | 
+|        | Kelotane                                  |
 | ------ | ----------------------------------------- |
 | Step 1 | 1 part Carbon                             |
 | Step 2 | 1 part Silicon                            |
 | Effect:| Heals 1 random burn damage per tick       |
 
-|        | Tricordrazine                                              | 
+|        | Tricordrazine                                              |
 | ------ | -----------------------------------------------------------|
 | Step 1 | 1 part AntiToxin                                           |
 | Step 2 | 1 part Bicaridine                                          |
@@ -74,7 +74,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 | Step 2 | 1 part Acetone                                                       |
 | Step 3 | 1 part Unstable Mutagen                                              |
 | Effect:| Heals 1 random damage of every type per tick (Not Radiation)         |
-|        | *Exept clone damage, it only heals 0.2 clone damge per tick          | 
+|        | *Exept clone damage, it only heals 0.2 clone damge per tick          |
 
 |        | Mannitol                                                             |
 | ------ | ---------------------------------------------------------------------|
