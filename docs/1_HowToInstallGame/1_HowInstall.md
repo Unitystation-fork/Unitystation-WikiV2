@@ -1,4 +1,4 @@
-﻿To play, you need to download two items.
+To play, you need to download two items.
 
 The StationHub, at launch you will have to create an account, validate the email you received and connect.
 

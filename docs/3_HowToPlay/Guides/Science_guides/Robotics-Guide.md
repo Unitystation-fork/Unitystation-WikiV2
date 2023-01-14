@@ -6,7 +6,7 @@ So you're interested in making robots? Great! This guide will explain to you eve
 
 (don't expect a fancy page, i only know the absolute basics about making a wiki page)
 
-## Items 
+## Items
 
 This section will explain every item you (currently) need in order to make robots. The items needed for robot creation are as followed:
 
@@ -43,7 +43,7 @@ Now that you know the materials and machines needed, let's get started
 
 6. Click Process Queue, and the fabricator should start building the parts
 
-   
+
 
 ## Making robots themselves
 
@@ -59,7 +59,7 @@ Now that we have robot parts, we're ready to make robots.
 
 Congratulations! You now have a Cleaning bot.
 
-![YOUTUBE](NvRSzqQQEHo)
+![YOUTUBE](https://youtu.be/NvRSzqQQEHo)
 
 ## Floor bots
 
@@ -74,7 +74,7 @@ Congratulations! You now have a Cleaning bot.
 
 
 Congratulations! You now have a Clean bot.
-![YOUTUBE](Pwc-BqR-ziE)
+![YOUTUBE](https://youtu.be/Pwc-BqR-ziE)
 
 ## Medical bots
 
@@ -88,7 +88,7 @@ Congratulations! You now have a Medical bot.
 
 
 
-![YOUTUBE](LcTxIvPBN_k)
+![YOUTUBE](https://youtu.be/LcTxIvPBN_k)
 
 
 

@@ -5,27 +5,27 @@ The Palace is one of the possible teleporter destinations. It is currently unfin
 
 ## Village
 
-![village](village.png)
+![village](\img\No_image.png)
 
 ##  Grand Church
 
-![grandchurch](grandchurch.PNG)
+![grandchurch](\img\Gateway\Palace\grandchurch.PNG)
 
 ##  Southwest Tower
 
-![southwesttower](southwesttower.PNG)
+![southwesttower](\img\Gateway\Palace\southwesttower.PNG)
 
 ##  Southeast Tower
 
-![tower](southeasttower.png)
+![tower](\img\Gateway\Palace\southeasttower.png)
 
 ## Northeast Tower
 
-![tower](northeasttower.png)
+![tower](\img\Gateway\Palace\northeasttower.png)
 
 ##  Northwest Tower
 
- ![northwesttower](northwesttower.PNG)
+ ![northwesttower](\img\Gateway\Palace\northwesttower.PNG)
 
 
 

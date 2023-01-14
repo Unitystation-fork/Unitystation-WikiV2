@@ -1,4 +1,4 @@
-﻿![UserInterface](https://i.imgur.com/H4nqllh.png)
+![UserInterface](https://i.imgur.com/H4nqllh.png)
  L'interface utilisateur est composée ainsi
  (certains boutons ne seront disponibles que dans certaines situations)
 
