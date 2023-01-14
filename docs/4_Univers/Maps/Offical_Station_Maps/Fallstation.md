@@ -1,6 +1,6 @@
 # Fallstation
 
-![map](FallStation.png)
+![map](\img\Stations\FallStation.png)
 
 
 

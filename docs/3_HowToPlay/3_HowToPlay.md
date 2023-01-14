@@ -1,4 +1,4 @@
-﻿## Playing solo ##
+## Playing solo ##
 after downloading the build
 you can go to the "installation" folder 
 then press "run" on the version that suits you.

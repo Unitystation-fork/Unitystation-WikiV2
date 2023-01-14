@@ -1,4 +1,4 @@
-﻿
+
 {# {{tag>Интерфейс пользовательского интерфейса инструмента администратора игры BROUILLON}} #}
 # Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
 ## Содержание ##

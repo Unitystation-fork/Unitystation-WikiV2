@@ -2,40 +2,40 @@
 
 Relicta is a abandoned station filled with [Zombies](Zombie.md), [Husks](Husk.md), and [Ghosts](Ghost.md). The Station is on emergency power, so bulkhead shutters cannot be opened and lighting is terrible. Standard procedure for exploring Relicta involves turning the power on in engineering, or flipping the backup battery systems in each department on.
 
-![Relicta](Relicta.png)
+![Relicta](\img\Relicta.png)
 
 ### Church
 
-### ![Zchruch](zchruch.png)
+### ![Zchruch](\img\Gateway\Relicta\zchruch.png)
 
 
 
 ### Engineering
-![Zengi](zengi.png)
+![Zengi](\img\Gateway\Relicta\zengi.png)
 
 ### Kitchen
 
-![Zlounge](zlounge.png)
+![Zlounge](\img\Gateway\Relicta\zlounge.png)
 
 
 ### Security
-![Zsec](zsec.png)
+![Zsec](\img\Gateway\Relicta\zsec.png)
 
 ### Command
 
-![Zcommand](zcommand.png)		
+![Zcommand](\img\Gateway\Relicta\zcommand.png)		
 
 ### Arrivals
 
-![arrival](arrivles.png)
+![arrival](\img\Gateway\Relicta\arrivles.png)
 
 ###  Botany
 
-![bot](bot.png)
+![bot](\img\Gateway\Relicta\bot.png)
 
 ### Mining/Cargo 
 
-![cargo](mining.png)
+![cargo](\img\Gateway\Relicta\mining.png)
 
 
 
