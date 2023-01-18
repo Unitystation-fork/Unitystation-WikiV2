@@ -14,7 +14,7 @@ These files are stored in **UnityProject\Assets\Prefabs\UI** and is what the pla
 
 Make sure to **tick to disable auto save**  when you open this prefab to modify the placement of elements, otherwise Unity will attempt to save the layout everytime you touch an element on this prefab.
 
-![](../assets/images/HowToUI/auto_save_location.png)
+![](/img/5_dev/HowToUI/auto_save_location.png)
 
 When building your UI in the editor, it is good to group each menu of the UI into a NetPageSwitcher, you don't have to have one. It is possible to nest NetPageSwitchers if a menu requires submenus.
 
@@ -32,7 +32,7 @@ Copy an existing UI script and attach to your copied Tab object via the inspecto
 
 This next section will explain the GUI script, going from the top of the GUI script component in the inspector. IsPopOut checkbox if ticked, will not be anchored to the top right menu, instead it will be a standalone menu occupying the centre of your screen.
 
-![](../assets/images/HowToUI/is_pop_out_pic.png)
+![](/img/5_dev/HowToUI/is_pop_out_pic.png)
 
 ##### Type
 
@@ -40,11 +40,11 @@ Type is important as this enumerical used to bring up the UI from the object/ite
 
 ##### NetObjects
 
-![](../assets/images/HowToUI/editor_UI_elements.png)
+![](/img/5_dev/HowToUI/editor_UI_elements.png)
 
 Make sure you reference the necessary objects from the hierarchy into your GUI_NAME script so they can be called (**red box**). If you want your UI to change it's appearance depending on a player/item attribute it is best to store them as separate 2D Textures so they can be tailored (**yellow box**). Doing this allows you to reference them in your code and be able to manipulate them using your backend script.
 
-One of the most important functions to include in your GUI_Script is an *UpdateDisplay()* function, this function should update the UI by calling *SetValueServer* for all necessary UI elements.  For regular menus switching can be handled by attaching the <function name> to a NetButton, however *.SetActivePage()* function will allow you to switch between your submenus in your code so long as you make a variable stating it is a *NestedSwitcher*. **Your class from the backend script should also be stored as a variable inside GUI_NAME as well so you can call it.**
+One of the most important functions to include in your GUI_Script is an *UpdateDisplay()* function, this function should update the UI by calling *SetValueServer* for all necessary UI elements.  For regular menus switching can be handled by attaching the ```html <function name></code>``` to a NetButton, however *.SetActivePage()* function will allow you to switch between your submenus in your code so long as you make a variable stating it is a *NestedSwitcher*. **Your class from the backend script should also be stored as a variable inside GUI_NAME as well so you can call it.**
 
 ### Backend
 
@@ -52,7 +52,7 @@ One of the most important functions to include in your GUI_Script is an *UpdateD
 
 These files are stored in **UnityProject\Assets\Scripts** this file contains any backend code that does not directly dictate what the UI does, but manages all other components. Place these scripts inside the corresponding folder so it matches where you put the GUI Script, so Scripts\Core for Scripts\UI\Core and so on. The player-to-item or player-to-object interaction step is not handled in the manager script as it is treated as external to the UI. Create the script inside either Core, Items, Objects, etc. in **UnityProject\Assets\Scripts**, call a public GUI class inside it if modifications through items to the object are required, block out all unnecessary trait with the WillInteract function, etc.. Attach this component to the object on that will be on the map.
 
-#### Tips 
+#### Tips
 
 To be expanded. Include AddListener() and explain that all Server, Validations and Inventory functions should appear here. Adding #region will help a lot in remembering what section does what.
 
@@ -64,7 +64,7 @@ This subsection will be describing NetUI elements and how to use them.
 
 1. `NetTab` stores all `NetUIElement` at the start in the dictionary; because of that, we can use `netTab["elementName"]` to get reference to elements. However, it gives us a restriction - all `NetUIElement` must have unique names in current tab. If you have two `NetLabel` named "text" as children of `NetTab` gameobject - you will get duplicate dictionary key error.
 2. `NetUIElement` has two methods for setting value - `Value` and `SetValue`. The only difference is that `SetValue` calls net update immediately.
-   <br>
+   <br></br>
    If you don't understand how to use a particular component - check examples to see how they are used in existing UI.
    If you still can't understand something - be sure to ask on Discord.
 
@@ -101,23 +101,23 @@ Usage:
 ### NetButton
 
 NetButton is a component that lets the client call a function on the server when interacting with the Button component locally.
-   
+
    Usage:
 
 1. Add `NetButton` to gameobject with `Button` component.
 2. Change button's `OnClick()` to `NetButton.ExecuteClient`.
 3. Change netButton's `ServerMethod()` to method you wish to call as a server.
-   In the end, it should look like that: <br>
-   ![](https://cdn.discordapp.com/attachments/295186861377323009/583209885299245056/unknown.png) <br>
+   In the end, it should look like that: <br></br>
+   ![](https://cdn.discordapp.com/attachments/295186861377323009/583209885299245056/unknown.png) <br></br>
    Examples:
    `TabCargo` prefab has lots of buttons with `NetButton` component.
-   
-   Note : `NetToggle` is setup and works exactly like this. 
+
+   Note : `NetToggle` is setup and works exactly like this.
 
 ### NetPages
 
-NetPages is a concept of making UI in several pages instead of one ([cargo console](https://www.youtube.com/watch?v=fFuLGzgH9Ck)). It is done by switching on/off gameobjects that represent sub-page in one window. The structure looks like this:<br>
-![](https://cdn.discordapp.com/attachments/295186861377323009/583235140038426627/unknown.png)<br>
+NetPages is a concept of making UI in several pages instead of one ([cargo console](https://www.youtube.com/watch?v=fFuLGzgH9Ck)). It is done by switching on/off gameobjects that represent sub-page in one window. The structure looks like this:<br></br>
+![](https://cdn.discordapp.com/attachments/295186861377323009/583235140038426627/unknown.png)<br></br>
 Where current tab's gameobject will be enabled and all others disabled.
 
 Usage:
@@ -137,8 +137,8 @@ Usage:
 
 1. Add `SpawnedObjectList` to gameobject that will act as a holder to list elements.
 2. Set its EntryPrefab in the editor. If you won't set it, it will try to Resource.Load gameobject with name `%NetTabType%Entry` (i.e. CargoEntry).
-3. Use `AddObjects(List<GameObject>)` to populate the list with items you need. <br>
+3. Use `AddObjects(List<GameObject>)` to populate the list with items you need. <br></br>
    If you need to access entry, you can do `TypeYouNeed entry = myDynamicList.Entries[i] as TypeYouNeed`
    Examples:
-   `GUI_Spawner` which uses `ItemList`. <br>
+   `GUI_Spawner` which uses `ItemList`. <br></br>
    Cargo uses inherited class - `GUI_CargoItemList`. You can see usages of it in `GUI_CargoPageSupplies` and `GUI_CargoPageCart`.

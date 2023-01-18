@@ -16,7 +16,7 @@ All Unity related files are contained in the /UnityProject folder.
 
 |  Folder 		|  Description 	|
 |---			|---	|
-|/Assets/Animations	| Contains most of the animations used in-game 	|   	
+|/Assets/Animations	| Contains most of the animations used in-game 	|
 |/Assets/Data   	|   	|
 |/Assets/Interface   	|   	|
 |/Assets/Light2D   	| Contains the Light2D plugin  	|
@@ -46,14 +46,14 @@ The following things should be changed to get a more clear directory structure.
 |/Assets/Scripts/_Plugin-Name_ | Contains all Scripts from a certain plugin |
 |/Assets/Scripts/_Plugin-Name_/Editor | Contains all editor Scripts from a certain plugin |
 
-**Resources**<br>
+**Resources**<br></br>
 We should create a script to recursively load all resources from /Assets/Resources/_Sub-Folder_
 for ex. RecursiveResourceLoad(Subfolder, Filename)
 
-This would enable us to put all resources in a subfolder under /Assets/Resources <br>
+This would enable us to put all resources in a subfolder under /Assets/Resources <br></br>
 `One Folder To Find Them, And In-Game Load them`
 
 Eventually, even plugin related resources could be moved here, but that may require editing the scripts first, which may or may not be a good thing.
 
-**Prefabs**<br>
+**Prefabs**<br></br>
 Almost all prefabs are networked and should/will need to be in a resource folder eventually. When a good standardised script is created to recursively load resources from a /Resources/Sub-Directory, we can move most, if not all, prefabs over to the resources directory
