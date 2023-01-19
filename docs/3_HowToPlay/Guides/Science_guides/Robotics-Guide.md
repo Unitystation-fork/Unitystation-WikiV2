@@ -94,4 +94,11 @@ Congratulations! You now have a Medical bot.
 
 **More will be added once more is added to robotics in-game**
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

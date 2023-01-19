@@ -23,4 +23,11 @@ La plupart des dommages que la chimie peut causer se présentent sous deux forme
 
 La chimie est facile à apprendre et difficile à maîtriser. vous pouvez fabriquer une grenade simple avec juste de l'eau et du potassium, mais elle ne s'approchera pas des grenades à la nitroglycérine qui brisent le plafond et qui sont fabriquées par un chimiste charismatique et compétent. Pour progresser en chimie, vous devriez commencer par des recettes simples, comme le lubrifiant spatial, divers médicaments et des toxines simples, et vous essayer à des recettes intermédiaires comme les médicaments avancés et les narcotiques de base. Une fois que vous avez la main sur ces produits, passez aux explosifs, aux poisons et aux produits chimiques plus avancés comme la méthamphétamine. Une fois que vous avez l'impression d'avoir maîtrisé la fabrication de poneys à un tour, vous devez passer à la combinaison de plusieurs médicaments, poisons ou explosifs pour obtenir un effet plus important, jusqu'à ce que vous trouviez le moyen de déchaîner les feux de l'enfer sur la station.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

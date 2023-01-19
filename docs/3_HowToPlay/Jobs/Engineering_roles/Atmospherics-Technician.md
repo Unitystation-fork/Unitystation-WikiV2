@@ -13,7 +13,7 @@ However, if you feel like causing trouble (and feel like risking a ban), you hav
 
 ### How to make sure those greyshirted bastards dont choke
 
-The atmosphere on the station is a mix of 20% oxygen and 80% nitrogen at 300 KPA, with some co2 for taste. If (when) something breaks, something breaches, or a fire breaks out, your first job will be to help the ordinary [engineers](Engineer.md) patch up holes leading to space or put out fires. 
+The atmosphere on the station is a mix of 20% oxygen and 80% nitrogen at 300 KPA, with some co2 for taste. If (when) something breaks, something breaches, or a fire breaks out, your first job will be to help the ordinary [engineers](Engineer.md) patch up holes leading to space or put out fires.
 
 After thats done, make sure no [idiots](Assistant.md) try and run into workspace and die, block off access with very clear warnings and firelocks if need-be. once everything has been sealed, your job is to get the atmosphere back up to snuff while the other engineers go about fixing chairs, tables, machines, and the like. To do this you will make use of the tanks of gasses you find in your section of engineering, set an oxygen tank and nitrogen tank (preferably two nitro tanks) in the atmosphere-less area and crank them to 300 kpa, let them flood fill the area, and use your atmos scanner to know when its time to seal them (when pressure reaches 300 kpa).
 
@@ -25,4 +25,11 @@ While all the other members of the crew can still use extinguishers to put out f
 
 [Traitor](traitor.md) atmos techs have the potential to become one of the most devastating forces on station. If you know what you are doing, you can flood the station with whatever harmful gas you want, just don't forget to have your internals ready. The most likely individual to interfere with your work is another atmos tech or the [AI](station-AI.md), so be careful if either of those sorts are present.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

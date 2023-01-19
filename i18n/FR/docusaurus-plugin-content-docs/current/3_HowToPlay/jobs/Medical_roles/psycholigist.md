@@ -20,4 +20,10 @@ C'est une bonne idée de commencer à faire de la publicité autour de la statio
 
 Être sélectionné pour être un [traître](traître.md) en tant que psychologue est fondamentalement une blague cruelle. Vous devrez faire preuve d'intelligence dans la façon dont vous tirez parti de votre titre d'emploi doux et désarmant, parce que c'est la seule chose que vous en retirez, à part une chambre bien isolée dans le bunker. La seule astuce dont vous disposez est d'inviter toutes vos cibles dans votre bureau pour une séance de thérapie, et cela ne fonctionnera pas souvent.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

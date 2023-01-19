@@ -6,7 +6,7 @@ Utilisez un tournevis sur une porte (sur n'importe quelle [intention](Intent.md)
 
 Le piratage de la porte présente un risque d'électrocution, il est donc conseillé de porter des gants isolants !
 
-Le panneau contient deux rangées de prises avec plusieurs fils entre elles. Cliquez sur un fil avec la pince coupante sélectionnée pour le couper et le retirer. Avec une main vide sélectionnée, cliquer sur une prise vide de la rangée du bas puis sur une autre de la rangée du haut permettra de connecter les deux prises avec un fil. 
+Le panneau contient deux rangées de prises avec plusieurs fils entre elles. Cliquez sur un fil avec la pince coupante sélectionnée pour le couper et le retirer. Avec une main vide sélectionnée, cliquer sur une prise vide de la rangée du bas puis sur une autre de la rangée du haut permettra de connecter les deux prises avec un fil.
 
 Essayez de couper un fil, d'essayer la porte, puis de replacer le fil tel que vous l'avez trouvé. Notez toute différence entre les effets de la coupure de différents fils individuels. Faites d'autres expériences en isolant et en travaillant avec des fils associés à un seul type de comportement.
 
@@ -16,13 +16,13 @@ Une fois que vous avez réussi, essayez de le reproduire avec une autre porte.
 
 Allez-y étape par étape. Si vous cassez une porte de manière irrémédiable, passez à une autre et essayez d'être plus lent et méthodique dans votre expérimentation.
 
-Le même fil coloré fera la même chose sur chaque porte. 
+Le même fil coloré fera la même chose sur chaque porte.
 
-Les positions des fils seront cependant aléatoires. 
+Les positions des fils seront cependant aléatoires.
 
 Préparez une bonne excuse pour le cas où le [Chef de la sécurité] (Chef-de-la-sécurité.md) (inévitablement) passerait par là alors que vous avez des fils électriques qui bourdonnent et qui font des étincelles jusqu'aux poignets gantés de jaune.
 
-Vous pouvez commencer par une porte à l'extérieur du bâtiment, là où personne ne peut vous attraper. 
+Vous pouvez commencer par une porte à l'extérieur du bâtiment, là où personne ne peut vous attraper.
 
 ### Quelques types de fils importants
 
@@ -34,4 +34,10 @@ Vous pouvez commencer par une porte à l'extérieur du bâtiment, là où person
 
 La compréhension du câblage de la porte peut prendre une minute ou deux au départ, mais l'investissement en temps en vaut la peine, car un modèle de travail peut être répété avec d'autres portes en quelques secondes.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

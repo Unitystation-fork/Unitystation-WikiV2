@@ -14,7 +14,7 @@ For the most part, all you need to do is guard the cells, feed the prisoners, pu
 ### Mr. Dispatch
 
 
-If you have nothing to do and no prisoners to beat, you should be coordinating the [Security Officers](Security-Officer.md) over the security channel. Since you should always be in the brig, you can fill out arrest records as the officers or [Detective](Detective.md) report them. You have the opportunity to make Security run like a well-oiled machine if you put the work in. 
+If you have nothing to do and no prisoners to beat, you should be coordinating the [Security Officers](Security-Officer.md) over the security channel. Since you should always be in the brig, you can fill out arrest records as the officers or [Detective](Detective.md) report them. You have the opportunity to make Security run like a well-oiled machine if you put the work in.
 
 A note on authority and the Chain of Command: You are equal in rank'' to other Security Officers and the Detective. You have authority over what happens to prisoners and how the brig is run in absence of the HoS, but you can't really order them around, though they typically ''will listen to you anyways. You only gain true authority if there is no Head of Security or if they have been killed. In addition to that, the [HoP](Head-of-Personnel.md) is not your superior, and you do not need to listen to them at all, unless they have taken over in absence of the Captain. The HoP also does not have the right to bear weapons whenever they feel like it as well, so if they try to take things from the armory without reason, you should stop them and call the HoS.
 
@@ -22,4 +22,10 @@ Keep watch for any [suspicious](Assistant.md) [individuals](Clown.md) loitering 
 
 If you've got all that handled and you've got spare time, have a philosophical chat with the [Lawyer](Lawyer.md) about Securitization versus the Social Contract.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

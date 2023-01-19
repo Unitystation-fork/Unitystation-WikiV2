@@ -19,7 +19,7 @@ Now it's time to get down to the nitty-gritty. You have a lot more power (and wi
 
 The AI has the ability to access every *electronic* mechanism on the entire station. These include things like Airlocks, APCs, Computers, and Fire Alarms. However, the AI cannot operate anything *physically*, and can be rendered useless in one area due to a simple power outage.
 
-Besides saving the crew from itself, a lot of what you're going to be doing is opening doors. 
+Besides saving the crew from itself, a lot of what you're going to be doing is opening doors.
 
 ### Your home: the AI Satellite
 
@@ -36,5 +36,12 @@ As an AI, you have your own secure radio channel (binary) to speaking with other
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+
 

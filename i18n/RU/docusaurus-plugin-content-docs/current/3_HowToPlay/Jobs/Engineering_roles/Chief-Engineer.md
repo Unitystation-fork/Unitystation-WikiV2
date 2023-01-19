@@ -30,8 +30,15 @@ The eventual end of most shifts, there are holes into space everywhere and almos
 
 ### Chief Screw-Loose ([traitor](traitor.md) CE)
 
-A [traitor](traitor.md) CE has a lot of fun option available to them to cause absolute *havoc* on the station. You have access to almost all critical rooms and machines in the station, the highlight options being the engine room, the bridge, department batteries, the [AI](station-AI.md) upload room, and ACUs. You also come with the best construction tools on the station, a very good hardsuit, advanced magboots, and whatever equipment that's in engineering's storage room. 
+A [traitor](traitor.md) CE has a lot of fun option available to them to cause absolute *havoc* on the station. You have access to almost all critical rooms and machines in the station, the highlight options being the engine room, the bridge, department batteries, the [AI](station-AI.md) upload room, and ACUs. You also come with the best construction tools on the station, a very good hardsuit, advanced magboots, and whatever equipment that's in engineering's storage room.
 
 Because you have access to the engine bay, you also have the most effective way to create an excuse to call the evac shuttle by setting loose the engine, whether it's a Singularity, Tesla, or Supermatter. Just be sure that the shuttle is called *immediately,* as you won't have long once you sabotage any of them before they begin tearing the station apart.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

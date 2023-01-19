@@ -4,4 +4,10 @@
 
 "il c'est changé lui même en slime capitain, c'est la connerie la plus drôle que j'ai jamais vue"
 
-{# {% include 'html/rolesnavbar.md' %} #}
+<br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

@@ -84,4 +84,11 @@ Shaft miners get a lot of useful tools to start that assist in completing [trait
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

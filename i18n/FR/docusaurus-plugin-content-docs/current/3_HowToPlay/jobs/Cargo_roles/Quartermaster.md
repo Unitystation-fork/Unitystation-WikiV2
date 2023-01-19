@@ -125,4 +125,11 @@ Vous avez également accès à l'Autolathe, qui est pratique si vous avez besoin
 
 Dans l'ensemble, si vous avez eu la chance d'être traître en tant que quartier-maître, vous allez probablement passer un bon moment.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

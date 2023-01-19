@@ -11,8 +11,9 @@ const config = {
   url: 'http://31.211.16.159:8203/fr/docs/',
   baseUrl: '/',
   staticDirectories: ['static'],
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
+  onDuplicateRoutes: 'ignore',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
@@ -70,7 +71,6 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'localeDropdown',
             position: 'right',
@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://example.com',
               },
               {
                 label: 'Discord',
@@ -107,17 +107,13 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://example.com',
               },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Unitystation-fork/Unitystation-WikiV2',

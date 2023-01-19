@@ -39,4 +39,11 @@ Suicide bombing a shuttle or other space craft into the station. Most common exa
 
 i'll add more when i stop procrastinating
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

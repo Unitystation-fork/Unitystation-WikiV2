@@ -4,14 +4,14 @@
 
 ## Vue d'ensemble
 
-Être concierge est un travail ingrat, mais important. 
+Être concierge est un travail ingrat, mais important.
 
-Non seulement c'est simple, mais c'est aussi l'un des deux principaux postes qui empêchent la station de devenir un spectacle de merde, l'autre étant la [Sécurité] (Security.md). 
+Non seulement c'est simple, mais c'est aussi l'un des deux principaux postes qui empêchent la station de devenir un spectacle de merde, l'autre étant la [Sécurité] (Security.md).
 
-Plus la station ressemble à un enclos pour animaux, plus les membres de l'équipage [agiront comme si c'en était un] (Battle-royale.md). 
+Plus la station ressemble à un enclos pour animaux, plus les membres de l'équipage [agiront comme si c'en était un] (Battle-royale.md).
 C'est plus amusant qu'il n'y paraît.
 
-Gardez les sols propres. Ramassez les ordures.  
+Gardez les sols propres. Ramassez les ordures.
 Changez les ampoules cassées. Passez la serpillière.
  Montrez votre panneau "sol mouillé" lorsque quelqu'un glisse inévitablement.
 
@@ -55,4 +55,11 @@ L'équipement du concierge est hautement spécialisé dans le nettoyage des sale
 
 Gardez à l'esprit que, bien que la bouteille soit plus rapide et ne mouille pas le sol, il y a une quantité limitée de nettoyant dans la bouteille, et vous avez besoin d'un [compétent](Tellement proche de l'impossible que ça pourrait ne pas exister.md) [chimiste](chimiste.md) afin d'en obtenir plus.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

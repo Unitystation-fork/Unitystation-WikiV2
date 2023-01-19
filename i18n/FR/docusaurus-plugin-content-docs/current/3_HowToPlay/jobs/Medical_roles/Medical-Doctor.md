@@ -54,4 +54,10 @@ Vous ne savez pas quoi faire ? Voici un ensemble pratique d'opérations que vous
 
 5) En général, vous constaterez que les trousses de premiers secours sont surchargées de pommade pour brûlures, et vous devriez en remplacer une pile par des packs pour contusions ou de la gaze. Il existe également des kits de traitement des brûlures, mais ils sont excessivement efficaces dans la plupart des situations, à l'exception des brûlures de masse comme les feux de plasma dans toute la station.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

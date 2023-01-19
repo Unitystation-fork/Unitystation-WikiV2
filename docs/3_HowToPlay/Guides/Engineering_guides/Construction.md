@@ -236,4 +236,11 @@ On specifically how to build all machines:
 | Toximate 3000 <br/> ![Toximate 3000](\img\machines\vending_generic.png)                                          | 1 machine base <br/> 1 Custom Vendor (Machine Board) ![Custom Vendor (\img\machines\module_id_mod.png) <br/> 1 glass ![glass](\img\construction\glass.png) <br/>1 Toximate 3000 restocking unit ![Toximate 3000 restocking unit](\img\machines\vending_restock_refill_smoke.png) <br/>                                                                                                                                                                                                                                  |
 | Vendomat <br/> ![Vendomat](\img\machines\vending_generic.png)                                                    | 1 machine base <br/> 1 Custom Vendor (Machine Board) ![Custom Vendor (\img\machines\module_id_mod.png) <br/> 1 glass ![glass](\img\construction\glass.png) <br/>1 Vendomat restocking unit. ![Vendomat restocking unit.](\img\machines\vending_restock_refill_engi.png) <br/>
 
-{# {% include 'html/rolesnavbar.md' %} #}
+<br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+
