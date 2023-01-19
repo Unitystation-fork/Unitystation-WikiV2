@@ -1,3 +1,7 @@
+---
+title: Welcome
+sidebar_position: 1
+---
 
 # Welcome to Unitystation Documentation ! #
 ## Qu'est-ce que Unitystation ? ##
@@ -20,7 +24,7 @@ Selon votre job vous avez divers objectifs.
 
 Faire fonctionner, en collaboration avec les membres d'équipage, la station spatiale et accomplir les objectifs commerciaux envoyés par la société vous employant, Nanotrasen.
 
-  
+
 
 Par exemple :
 
@@ -36,17 +40,17 @@ Le concierge garde le sol propre et reste en vie. :broom:
 
 Les gardes essayent de rester en vie et de garder la station sûre.:police_officer:
 
-  
+
 
 Il se peut que vous rencontriez des imprévus, que ce soit : une pluie de météorites, une épidemie, des aliens ayant envahis la station, ou encore un agent infiltré ayant reçu l'ordre de vous tuer dans un couloir de maintenance.
 
-  
+
 
 A vous de faire de votre mieux pour faire votre job et survivre.
 
-  
 
-  
+
+
 
 ## Peut-on gagner ? ##
 
@@ -54,11 +58,11 @@ A vous de faire de votre mieux pour faire votre job et survivre.
 
 Le jeu prend toute sa richesse dans l'interaction avec les autres joueurs,  dans vos objectifs individuels, ou collectifs.
 
-  
+
 
 Bien que vous puissiez mourir, être cloné ou revivre sous les traits d'un autre personnage,le joueur à une liberté de création, d'expression, dans le cadre de son job ou de manière plus secrète.
 
-  
+
 
 ## Peut-on mourir ? ##
 
@@ -68,7 +72,7 @@ Abattu, poignardé, asphyxié dans le vide de l'espace, dévoré par une créatu
 
 Il y a du choix !
 
-  
+
 
 ## Et après ? ##
 
@@ -86,9 +90,9 @@ D'incroyables projets d'ingénierie, au pur chaos de la destruction, laissez lib
 
 Partagez vos stories, anecdotes, fan-arts.
 
-  
 
-  
+
+
 
 ## **À bord il existe quelques règles:** ##
 
@@ -102,6 +106,6 @@ DO YOUR JOB ! (ou faites de votre mieux pour)
 
 [https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png](https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png)
 
-  
+
 
 **======= __Welcome to the UnityStation, Enjoy your stay__ ! =======**
