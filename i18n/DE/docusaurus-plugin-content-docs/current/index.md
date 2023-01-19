@@ -1,107 +1,101 @@
 
-# Welcome to Unitystation Documentation ! #
-## Qu'est-ce que Unitystation ? ##
+# Willkommen bei Unitystation Dokumentation! #
+## Was ist Unitystation? ##
 
-**Unitystation** est un jeu online multiplayers RPG 2D tournant avec le moteur Unity.
+**Unitystation** ist ein Online-Multiplayer-2D-RPG-Spiel, das mit der Unity-Engine läuft.
 
-c'est un jeu encourageant le Roleplay, gratuit et opensources.
+Es ist ein Spiel, das Roleplay fördert, kostenlos und opensources.
 
-Unitystation est un outil vidéo ludique qui met à disposition des joueurs tous les outils pour s’immerger dans la vie spatiale et pratiquer le **Role Play**
+Unitystation ist ein spielerisches Video-Tool, das den Spielern alle Werkzeuge zur Verfügung stellt, um in das Leben im Weltraum einzutauchen und das **Role Play** zu praktizieren.
 
 
-Vous incarnez un personnage, membre d’équipage de la station spatiale militaro-industriel de Nanotrasen.
+Sie schlüpfen in die Rolle eines Charakters, der ein Besatzungsmitglied der militärisch-industriellen Raumstation Nanotrasen ist.
 
-Selon votre job vous avez divers objectifs.
+Je nach Job haben Sie verschiedene Ziele.
 
 ## SS13 ? byond ?Unity? ##
 
 
-## Quel est le but. ##
+## Was ist das Ziel. ##
 
-Faire fonctionner, en collaboration avec les membres d'équipage, la station spatiale et accomplir les objectifs commerciaux envoyés par la société vous employant, Nanotrasen.
-
-  
-
-Par exemple :
-
-Le cuisinier doit garder tout le monde bien nourri. :cut_of_meat:
-
-Le botaniste doit faire pousser des légumes pour le cuisinier et le médecin. :seedling:
-
-Le médecin essaye de garder ses patients en vie. :medical_symbol:
-
-La scientifique tente de percer les secrets de l'univers. :microscope:
-
-Le concierge garde le sol propre et reste en vie. :broom:
-
-Les gardes essayent de rester en vie et de garder la station sûre.:police_officer:
+Zusammen mit den Besatzungsmitgliedern die Raumstation betreiben und die Geschäftsziele erreichen, die von Ihrem Arbeitgeber, der Firma Nanotrasen, vorgegeben werden.
 
   
 
-Il se peut que vous rencontriez des imprévus, que ce soit : une pluie de météorites, une épidemie, des aliens ayant envahis la station, ou encore un agent infiltré ayant reçu l'ordre de vous tuer dans un couloir de maintenance.
+Beispiel:
+
+Der Koch muss dafür sorgen, dass alle gut genährt sind. :cut_of_meat:
+
+Der Botaniker muss Gemüse für den Koch und den Arzt anbauen. :seedling:
+
+Der Arzt versucht, seine Patienten am Leben zu erhalten. :medical_symbol:
+
+Die Wissenschaftlerin versucht, die Geheimnisse des Universums zu entschlüsseln. :microscope:
+
+Der Hausmeister hält den Boden sauber und bleibt am Leben. :broom:
+
+Die Wachen versuchen, am Leben zu bleiben und die Station sicher zu halten:police_officer:
 
   
 
-A vous de faire de votre mieux pour faire votre job et survivre.
+Es kann vorkommen, dass Sie auf Unvorhergesehenes stoßen, sei es ein Meteoritenschauer, eine Epidemie, Aliens, die in die Station eingedrungen sind, oder ein verdeckter Ermittler, der den Befehl hat, Sie in einem Wartungskorridor zu töten.
 
   
 
-  
-
-## Peut-on gagner ? ##
-
-(Techniquement, )c'est un jeu Roleplay, au sens où l'experience collective est une fin en soit.
-
-Le jeu prend toute sa richesse dans l'interaction avec les autres joueurs,  dans vos objectifs individuels, ou collectifs.
-
-  
-
-Bien que vous puissiez mourir, être cloné ou revivre sous les traits d'un autre personnage,le joueur à une liberté de création, d'expression, dans le cadre de son job ou de manière plus secrète.
-
-  
-
-## Peut-on mourir ? ##
-
-Oui ! Et ce ne sont pas les causes qui manquent:
-
-Abattu, poignardé, asphyxié dans le vide de l'espace, dévoré par une créature, avalé dans un trou noir, d'une maladie inconnue sortant du laboratoire, démembré, électrocuté et bien d'autres possibilités ...
-
-Il y a du choix !
-
-  
-
-## Et après ? ##
-
-Vous pouvez interagir avec bon nombre d'objets, les créer ou les détruire.
-
-Jouez, expérimentez, discutez, apprenez, minez, craftez, soignez, mangez, courez, mourez,
-
-recommencez (différemment ou non).
-
-(Les joueurs ont la possibilité de tout détruire, tout construire et modifier.
-
-Chaque câble électrique, chaque canalisation peut avoir son importance.
-
-D'incroyables projets d'ingénierie, au pur chaos de la destruction, laissez libre cours à votre imagination.
-
-Partagez vos stories, anecdotes, fan-arts.
+Es liegt an Ihnen, Ihr Bestes zu geben, um Ihren Job zu erledigen und zu überleben.
 
   
 
   
 
-## **À bord il existe quelques règles:** ##
+## Kann man gewinnen? ##
 
-Don't be a Asshole
+(Technisch gesehen )ist es ein Roleplay-Spiel in dem Sinne, dass die kollektive Erfahrung ein Zweck an sich ist.
 
-No Metagaming/powergaming
-
-DO YOUR JOB ! (ou faites de votre mieux pour)
-
-[https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg](https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg)
-
-[https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png](https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png)
+Das Spiel erhält seinen Reichtum durch die Interaktion mit anderen Spielern, durch Ihre individuellen oder kollektiven Ziele.
 
   
 
-**======= __Welcome to the UnityStation, Enjoy your stay__ ! =======**
+Obwohl Sie sterben, geklont werden oder als ein anderer Charakter wiederbelebt werden können, hat der Spieler die Freiheit, sich kreativ auszudrücken, sei es im Rahmen seines Jobs oder im Verborgenen.
+
+  
+
+## Kann man sterben? ##
+
+Ja, und es mangelt nicht an Ursachen:
+
+Erschossen, erstochen, im Vakuum des Weltraums erstickt, von einer Kreatur gefressen, in einem schwarzen Loch verschluckt, an einer unbekannten Krankheit aus dem Labor, zerstückelt, durch Stromschlag getötet und viele andere Möglichkeiten ...
+
+Es gibt eine große Auswahl!
+
+  
+
+## Und was kommt danach? ##
+
+Sie können mit einer Vielzahl von Objekten interagieren, sie erschaffen oder zerstören.
+
+Spielen, experimentieren, diskutieren, lernen, abbauen, craften, heilen, essen, rennen, sterben,
+
+beginnen Sie erneut (anders oder nicht).
+
+(Die Spieler haben die Möglichkeit, alles zu zerstören, alles zu bauen und zu verändern.
+
+Jedes Stromkabel, jede Wasserleitung kann von Bedeutung sein.
+
+Von unglaublichen technischen Projekten bis hin zum puren Chaos der Zerstörung - lassen Sie Ihrer Fantasie freien Lauf.
+
+Teilen Sie Ihre Stories, Anekdoten und Fan-Arts.
+
+  
+
+  
+
+## **An Bord gibt es einige Regeln:** ##
+
+Don't be a Asshole (Sei kein Arschloch)
+
+No Metagaming/powergaming (Kein Metagaming/Powergaming).
+
+DO YOUR JOB! (oder gib dein Bestes für).
+
+[https://cdn.discordapp.com/atta
