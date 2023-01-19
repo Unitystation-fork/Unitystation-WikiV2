@@ -1,11 +1,13 @@
+# User Interface
 ![UserInterface](https://i.imgur.com/H4nqllh.png)
  The user interface consists of the following elements
  (some buttons will only be available in certain situations)
 
  1. current build version
 
-### Communication
-2 Conversation history / logs
+## Communication
+
+2. Conversation history / logs
 3. textbox (see section 2 for shortcuts)
 4. HELP button, opens mentor/admin panel
 5. Local (around you), compatible with /w
@@ -20,7 +22,8 @@
 14. Services (include kitchen, botany, lawyer, caretaker)
     (does not appear in: Binary, CentCom, Syndicate)
 
-### Equipment ###
+## Equipment ###
+
 15. Open/close clothing control.
          15a. Hand/Glove
          15b. Chest

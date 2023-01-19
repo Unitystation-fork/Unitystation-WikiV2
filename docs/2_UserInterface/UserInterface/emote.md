@@ -1,35 +1,35 @@
-backflip
-clap
-cough
-cross
-cry
-dance
-drool
-felinepurr
-frown
-gag
-giggle
-grimace
-inhale
-jump
-laugh
-merp
-pout
-scream
-shake
-sign
-sit
-smile
-smug
-snap
-sneeze
-stare
-stretch
-sulk
-surrender
-SurrenderSimple
-sway
-tremple
-twitch
-whimper
-yawn
+ - backflip 
+ - clap
+ - cough
+ - cross
+ - cry
+ - dance
+ - drool
+ - felinepurr
+ - frown
+ - gag
+ - giggle
+ - grimace
+ - inhale
+ - jump
+ - laugh
+ - merp
+ - pout
+ - scream
+ - shake
+ - sign
+ - sit
+ - smile
+ - smug
+ - snap
+ - sneeze
+ - stare
+ - stretch
+ - sulk
+ - surrender
+ - SurrenderSimple
+ - sway
+ - tremple
+ - twitch
+ - whimper
+ - yawn

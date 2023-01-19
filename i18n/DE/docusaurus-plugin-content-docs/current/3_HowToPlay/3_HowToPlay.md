@@ -1,4 +1,4 @@
-﻿# Key
+﻿# Play
 ## Einzelspieler ##
 
 Nach dem Herunterladen des Builds
@@ -14,7 +14,7 @@ Sie werden der lokale Host (Administrator).
 
 2. Bestätigen Sie die Anmeldung.
 
-3.Geben Sie Ihr Passwort ein und bestätigen Sie es.
+3. Geben Sie Ihr Passwort ein und bestätigen Sie es.
 
 (unter Ubuntu müssen Sie den Sicherheitsschlüsselring (security keyring) bestätigen)
 
