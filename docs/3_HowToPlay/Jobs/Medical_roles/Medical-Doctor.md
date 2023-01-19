@@ -43,7 +43,7 @@ Well, you clone them, of course. Cloning is the ultimate mulligan. It can be don
 
 When it comes to the intersection between cloning and role-playing; it is generally assumed that a clone <u>does not</u> know how exactly they died, or, if they were murdered, who did it. Their memory will be foggy and unclear, and they may have some confusion when it comes to understanding that they are a clone. Treat the circumstance of their death with a polite sensitivity.
 
-Note that the one critical flaw of the cloning process is that it requires a corpse in the first place; one that has not been too chewed up, as well. If the body is lost in space, lacks a brain, gibbed by explosions, butchered by the [chef](Cook.md), or taken extensive enough fire damage as to be turned into a husk, then they cannot be scanned in the DNA scanner. One preventative measure that can be taken against this outcome is to scan high-risk people (or really any takers) in the DNA scanner in advance. 
+Note that the one critical flaw of the cloning process is that it requires a corpse in the first place; one that has not been too chewed up, as well. If the body is lost in space, lacks a brain, gibbed by explosions, butchered by the [chef](Cook.md), or taken extensive enough fire damage as to be turned into a husk, then they cannot be scanned in the DNA scanner. One preventative measure that can be taken against this outcome is to scan high-risk people (or really any takers) in the DNA scanner in advance.
 
 The other problem is the aforementioned cellular damage inflicted by the cloning process. A fresh clone will be weak and need time to recover from the cloning process. Because of the cumulative effects, it is not a good idea to clone a person multiple times in quick succession. They will come out weaker and weaker until they cannot move and might die on the spot.
 
@@ -62,4 +62,10 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 5) Typically, you will find that first aid kits are over-provisioned with burn ointment, and you should replace a stack with bruise packs or gauze. Burn treatment kits are also a thing, but they are mega overkill for most situations except mass-casualty burn incidents like station-wide plasma fires.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

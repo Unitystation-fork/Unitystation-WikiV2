@@ -22,4 +22,10 @@ Soigner les gens sur la ligne de front d'une catastrophe ou d'une bataille et le
 
 Vous avez accès à l'élimination des corps, l'accès aux EVA pour une action de meurtre dans l'espace, et l'accès à la maintenance en plus! Sans compter que vous n'avez l'air à votre place dans aucun service et que les gens ne trouveront rien d'étrange à vous voir déambuler dans les couloirs avec un cadavre, pour autant que vous le colliez sur votre lit à roulettes au préalable.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

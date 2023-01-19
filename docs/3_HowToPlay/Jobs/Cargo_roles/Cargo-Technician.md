@@ -52,4 +52,11 @@ Being a [traitor](traitor.md) as a Cargo Tech is pretty nice. You don't have any
 
 Whether you have an Emag or not, there's loads of purchasable items on the cargo console that won't immediately elicit suspicion. Peruse the options and you should be able to find some items that will help you develop a plan of action.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

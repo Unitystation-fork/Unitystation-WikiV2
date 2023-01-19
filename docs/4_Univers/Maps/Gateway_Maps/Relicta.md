@@ -23,7 +23,7 @@ Relicta is a abandoned station filled with [Zombies](Zombie.md), [Husks](Husk.md
 
 ### Command
 
-![Zcommand](\img\Gateway\Relicta\zcommand.png)		
+![Zcommand](\img\Gateway\Relicta\zcommand.png)
 
 ### Arrivals
 
@@ -33,10 +33,16 @@ Relicta is a abandoned station filled with [Zombies](Zombie.md), [Husks](Husk.md
 
 ![bot](\img\Gateway\Relicta\bot.png)
 
-### Mining/Cargo 
+### Mining/Cargo
 
 ![cargo](\img\Gateway\Relicta\mining.png)
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

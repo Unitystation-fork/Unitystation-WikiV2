@@ -1,5 +1,5 @@
 # Outpost
- Outpost Station is the oldest, and most changed station in the game.  
+ Outpost Station is the oldest, and most changed station in the game.
 
 
 !!Headder|Header## |titleMining!!
@@ -65,4 +65,10 @@ Where the [true dictatorial overlords](Security.md) of the station send their vi
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

@@ -12,13 +12,20 @@ A mime has a variety of unique mime-specific tools and gear, such as his mask, u
 
 ## *waves hand as if using a wand*
 
-| Name | Description | 
+| Name | Description |
 | - | - |
 | Speech | Make or break a vow of silence, either allowing you to speak or use mime spells. |
-| Invisible box  | Create a box that is invisible. | 
-| Invisible chair   | Create an invisible chair. | 
-| Invisible wall   | Create an invisible wall. | 
+| Invisible box  | Create a box that is invisible. |
+| Invisible chair   | Create an invisible chair. |
+| Invisible wall   | Create an invisible wall. |
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

@@ -3,4 +3,10 @@
 
 "He turned himself into a slime captain, funniest shit ive ever seen"
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

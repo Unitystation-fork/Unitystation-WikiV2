@@ -22,4 +22,11 @@ While combat is out of the question, your job thankfully does not call for it. I
 
 The CCO doesn't have much gear of his own, surprisingly. You have a bottle of Badmin Brew, A Mateba revolver which acts identically to the .357 revolvers, and a set of clothing that is just re-textured [captains](Captain.md) gear. Depending on the whims of your [supervisors](Admin.md), you may, rarely, receive additional gear or help from other centcom personnel.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

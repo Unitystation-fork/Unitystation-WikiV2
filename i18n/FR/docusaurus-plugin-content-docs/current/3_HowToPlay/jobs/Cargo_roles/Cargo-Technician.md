@@ -52,4 +52,11 @@ Parfois, les gens vous demandent de commander quelque chose de douteux ; à ce m
 
 Que vous ayez un antag ou non, il y a beaucoup d'articles achetables sur la console de chargement qui n'éveilleront pas immédiatement les soupçons. Parcourez les options et vous devriez pouvoir trouver des objets qui vous aideront à élaborer un plan d'action.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

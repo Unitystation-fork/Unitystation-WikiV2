@@ -9,7 +9,7 @@ Très peu de ces conditions sont habitables, et c'est le travail des techniciens
 Les réservoirs de gaz, communément confondus avec les bidons de gaz, sont de petites méthodes portables de stockage et de distribution de gaz. Tous les métiers commencent avec une bouteille d'oxygène et un masque dans la boîte de leur sac à dos ce qui est utile si l'atmosphère en est dépourvue. Il existe des variantes plus rares de plus grande capacité, de couleur jaune, et de grands réservoirs qui ne peuvent pas tenir dans le sac à dos mais qui contiennent beaucoup plus d'oxygène que les petites bouteilles de secours.
 d'oxygène que les petites bouteilles d'urgence et sont utiles pour les sorties dans l'espace et les opérations prolongées comme l'exploitation minière.
 
-Ces réservoirs ne contiennent pas et ne peuvent pas contenir une quantité infinie de gaz. Si vous comptez sur eux pour une sortie dans l'espace, ils finiront par s'épuiser pour les sorties très longues. Les réservoirs peuvent être remplis de gaz à partir de bidons après avoir été insérés dans ceux-ci, bien qu'il soit recommandé de vider les réservoirs d'abord. 
+Ces réservoirs ne contiennent pas et ne peuvent pas contenir une quantité infinie de gaz. Si vous comptez sur eux pour une sortie dans l'espace, ils finiront par s'épuiser pour les sorties très longues. Les réservoirs peuvent être remplis de gaz à partir de bidons après avoir été insérés dans ceux-ci, bien qu'il soit recommandé de vider les réservoirs d'abord.
 
 ## Bidons
 Les canisters sont des conteneurs de gaz beaucoup plus grands. Ils ne peuvent pas être portés à la main et doivent être tirés un par un, et nécessitent des outils pour s'interfacer et interagir avec les différents systèmes atmos.
@@ -54,7 +54,7 @@ En résumé des gaz et leur disponibilité roundstart dans plusieurs conteneurs 
 |             | Dioxyde de carbone        | Remplissage de l'espace, inerte.                                  | Non                | Parfois | Oui |
 |             | N2O                       | Inerte, non fonctionnelle                                         | Oui (rare)         | Oui |
 |             | BZ                        | Non-fonctionnel Hallucinations/lésions cérébrales                 | Non                | parfois |
-|             | Pluoxium                  | Remplacement de l'oxygène, inerte                                 | Non                | Non          
+|             | Pluoxium                  | Remplacement de l'oxygène, inerte                                 | Non                | Non
 |             | Tritium                   | accélérateur de feu : non,                                        |non                 |non.
 |             | Miasme                    | dégoût, vomissement, mauvaise odeur non fonctionnels              | non                |non.
 |             | "air"                     | azote et oxygène prémélangés,                                     |peut-être ?         | Oui.
@@ -88,10 +88,10 @@ Ce guide n'expliquera pas les différentes régions du sous-département atmosph
 | La jonction d'échange thermique n'égalise pas la température comme les tuyaux d'échange thermique. Permet de connecter des tuyaux normaux à des tuyaux d'échange de chaleur et vice versa. | La jonction d'échange thermique n'égalise pas la température comme les tuyaux d'échange thermique.                                    |
 | Manifold | Change la couche des tuyaux. peut être vu comme un "niveau z" les tuyaux sur un niveau ne se connecteront qu'aux tuyaux du même niveau.          | Aucun, se connecter aux pompes/valves pour le contrôle dont vous aurez probablement besoin.                          |
 | Tuyau ordinaire, égalise le contenu, la pression et la température avec les tuyaux adjacents.                                                 | Aucun, utilisez des vannes/pompes.
-| Jonction de tuyaux : région où plusieurs tuyaux se rencontrent, égalisant chacun d'entre eux entre eux et avec lui-même.                                                        | Aucun, utiliser des vannes/pompes.    
+| Jonction de tuyaux : région où plusieurs tuyaux se rencontrent, égalisant chacun d'entre eux entre eux et avec lui-même.                                                        | Aucun, utiliser des vannes/pompes.
 
 ## properties/Math/Equations
-Bien entendu, chaque tuile possède sa propre pression, son contenu, son volume, sa molarité (quantité de molécules) et d'autres propriétés permettant de simuler les gaz. 
+Bien entendu, chaque tuile possède sa propre pression, son contenu, son volume, sa molarité (quantité de molécules) et d'autres propriétés permettant de simuler les gaz.
 dans le jeu par l'équation PV=NRT, où P est la pression, V le volume, N la molarité, R une constante et T la température. Chacun de ces paramètres peut provoquer des phénomènes différents à des valeurs différentes.
 
 Une pression faible ou élevée provoque des dégâts bruts. Cela signifie que le fait d'être frappé par une onde de choc de pression et de marcher dans l'espace sans combinaison spatiale est mauvais pour la santé.
@@ -105,7 +105,7 @@ et égalisée avec l'air, augmentera massivement la pression.
 Les températures basses et élevées provoquent des brûlures. Cela ne signifie pas que vous devez être en feu, une pièce très chaude ressemblant à un four vous cuira tout aussi bien. Le froid de l'espace fera aussi des dégâts à ceux qui sont mal isolés.
 
 ## properties/Math/Equations
-Bien entendu, chaque tuile possède sa propre pression, son contenu, son volume, sa molarité (quantité de molécules) et d'autres propriétés permettant de simuler les gaz. 
+Bien entendu, chaque tuile possède sa propre pression, son contenu, son volume, sa molarité (quantité de molécules) et d'autres propriétés permettant de simuler les gaz.
 dans le jeu par l'équation PV=NRT, où P est la pression, V le volume, N la molarité, R une constante et T la température. Chacun de ces paramètres peut provoquer des phénomènes différents à des valeurs différentes.
 
 Une pression faible ou élevée provoque des dégâts bruts. Cela signifie que le fait d'être frappé par une onde de choc de pression et de marcher dans l'espace sans combinaison spatiale est mauvais pour la santé.
@@ -124,4 +124,10 @@ de se demander à quel point le plasma est chaud. Un maître technicien de l'atm
 Ce qui rend l'ATMOS particulièrement puissant, c'est son autonomie. Alors que des métiers comme le roboticien et le chimiste dépendent d'autres métiers, comme l'exploitation minière et la botanique, pour devenir puissants, la technologie ATMOS peut construire des systèmes d'alimentation en énergie.
 Alors que des métiers comme le roboticien ou le chimiste dépendent d'autres personnes, comme l'exploitation minière ou la botanique, pour devenir puissants, le technicien ATMOS peut construire une chambre qui fait passer le soleil pour le Canada en comparaison avec son propre savoir-faire et ses outils, sans aucun autre service. Apprendre l'ATMOS ne se limite pas à savoir ce que fait chaque partie, et pour vraiment le comprendre, il est recommandé de jouer au tech atmos et d'expérimenter et de communiquer avec d'autres tech atmos expérimenté pour partager vos idées.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

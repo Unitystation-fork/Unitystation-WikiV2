@@ -16,6 +16,8 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-container-width-xl: 100%;
+  --ifm-table-cell-padding: 0.1rem;
+
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */

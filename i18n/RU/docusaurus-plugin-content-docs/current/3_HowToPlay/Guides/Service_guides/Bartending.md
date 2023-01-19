@@ -181,4 +181,11 @@
 | ![Welder Fuel](\img\construction\glass.png)                     | Welder Fuel         | Unless you are an industrial tool, this is probably not safe for consumption.                |
 |                                                              |
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

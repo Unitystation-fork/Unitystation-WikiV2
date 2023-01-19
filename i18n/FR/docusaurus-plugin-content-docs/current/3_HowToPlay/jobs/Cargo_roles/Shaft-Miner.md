@@ -89,4 +89,11 @@ Les mineurs de puits reçoivent au départ de nombreux outils utiles qui les aid
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+
