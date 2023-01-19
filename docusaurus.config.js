@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Unitistation Wiki',
-  tagline: 'Unitystation are cool',
-  url: 'https://example.com',
+  title: 'Unitystation Documentation',
+  tagline: 'Unitystation Documentation',
+  url: 'http://31.211.16.159:8203/fr/docs/',
   baseUrl: '/',
   staticDirectories: ['static'],
   onBrokenLinks: 'ignore',
@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Unitystation-fork', // Usually your GitHub org/user name.
-  projectName: 'Unitystation-WikiV2', // Usually your repo name.
+  organizationName: 'https://github.com/Unitystation-fork/Unitystation-WikiV2', // Usually your GitHub org/user name.
+  projectName: 'Rework V2 Wiki', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -59,9 +59,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Unitystation Wiki',
+        title: 'Unitystation Documentation',
         logo: {
-          alt: 'Unitystation Wiki logo',
+          alt: 'Unitystation's Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://example.com',
+                href: 'https://discord.gg/tFcTpBp',
               },
               {
                 label: 'Twitter',
@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Unitystation Wiki. Built with Docusaurus.`,
+        copyright: `Copyright CCBYSA ${new Date().getFullYear()} Unitystation-wiki_V2, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
