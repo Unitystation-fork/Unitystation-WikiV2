@@ -11,7 +11,7 @@ which is useful if the atmosphere happens to have none. There exist rarer larger
 more oxygen than the small emergency canisters and are good for spacewalks and extended operations such as mining.
 
 These tanks do not and cannot contain an infinite amount of gas. if you are relying on them for a spacewalk, they will eventually run out, so it is recommended you bring a backup
-on very extended walks. The tanks can be filled with gasses from canisters after being inserted into them, though it is recommended to empty the tanks first. 
+on very extended walks. The tanks can be filled with gasses from canisters after being inserted into them, though it is recommended to empty the tanks first.
 
 ## Canisters
 Canisters are far larger containers of gas. They cannot be carried and hand and must be pulled one at a time, and require tools to interface and interact with various atmos systems.
@@ -77,7 +77,7 @@ purposes criss-cross the entire station in an enormous web, all converging onto 
 
 Outside of atmospherics itself, most of the more complex types of pipes and pipe-interfacers won't be found, and most crew will only have to worry about a few types.
 
-Air pipes, connecting to vents, that distribute air (or whatever atmos has substituted) throughout the station, waste pipes (connected to scrubbers) that carry away plasma and carbon dioxide when on, 
+Air pipes, connecting to vents, that distribute air (or whatever atmos has substituted) throughout the station, waste pipes (connected to scrubbers) that carry away plasma and carbon dioxide when on,
 and junctions, regions where several pipes converge or split off.
 
 Within atmospherics, however, it is an entirely different beast. Many types of filters and distributors and heaters and coolers litter the area, and the pipes form an incredibly complex spider web.
@@ -99,11 +99,11 @@ This guide will not be explaining the various regions of the atmospherics sub-de
 |         | Heat exchange junction | Does not equalize temperature like heat exchange pipes. Allows for normal pipes to connect to heat exchange pipes and vice versa. | None, connect to pumps/valves for control if needed.                                    |
 |         | Manifold               | Changes the layer of the pipes. can be seen as a "z level" pipes on a level will only connect to pipes on the same level.          | None, connect to pumps/valves for the control you'll probably need.                          |
 |         | Pipe                   | Ordinary pipe, equalizes contents, pressure, and temperature with adjacent pipes.                                                 | None, use valves/pumps                                                                  |
-|         | Pipe Junction          | Region where several pipes meet, equalizing each with each other and itself.                                                        | none, use valves/pumps.    
+|         | Pipe Junction          | Region where several pipes meet, equalizing each with each other and itself.                                                        | none, use valves/pumps.
 
 ## properties/Math/Equations
-Of course, each tile has its own pressure, contents, volume, molarity (molecule amount), and other properties to allow for the simulation of gasses. these are inter-related 
-in-game through the equation PV=NRT, wherein P is pressure, V is volume, N is molarity, R is a constant, and T is temperature. Each of these can cause varying things to occur 
+Of course, each tile has its own pressure, contents, volume, molarity (molecule amount), and other properties to allow for the simulation of gasses. these are inter-related
+in-game through the equation PV=NRT, wherein P is pressure, V is volume, N is molarity, R is a constant, and T is temperature. Each of these can cause varying things to occur
 at different values
 
 Low and high pressure will both cause brute damage. This is to say that getting hit by a shockwave of pressure and walking in space without a spacesuit will both be bad for
@@ -126,4 +126,11 @@ powerful, the atmos tech can build a chamber that makes the sun look like Canada
 is more than just knowing what each part does, and to really understand it it is recommended that you play atmos tech and experiment and communicate with other experienced atmos techs
 to share ideas.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

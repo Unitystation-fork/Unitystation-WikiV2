@@ -23,7 +23,7 @@ Remember, if you ever need a reminder of what they are (or need to remember your
 
 One of the most important items to you as a traitor is your PDA. In order to assist in your mission, the syndicate have incorporated an uplink that allows you to purchase a limited selection from a large list of weapons and tools.
 
-At the start of your round as traitor, you will be given a *case-sensitive* password composed of a NATO alphabet letter and three numbers that you put on the ringtone changer under the options menu in your PDA. You will get to a screen that has weapons. Be sure to have your off hand empty or the items you purchase will drop onto the floor. However, the items cost a special finite resource called telecrystals (TC), and you have only 20 to spend, so make your purchases carefully. 
+At the start of your round as traitor, you will be given a *case-sensitive* password composed of a NATO alphabet letter and three numbers that you put on the ringtone changer under the options menu in your PDA. You will get to a screen that has weapons. Be sure to have your off hand empty or the items you purchase will drop onto the floor. However, the items cost a special finite resource called telecrystals (TC), and you have only 20 to spend, so make your purchases carefully.
 
 Acquiring more TC is functionally improbable, as it requires you to kill another traitor who has their own uplink *still unlocked* and *they haven't spent it all.*
 
@@ -33,7 +33,7 @@ Acquiring more TC is functionally improbable, as it requires you to kill another
 
 ## [Theft](High-Risk-Items.md) objectives
 
-Often one or both of your objectives requires you to steal something. How hard this is depends on the item and whether the job that starts with it is filled by another player. 
+Often one or both of your objectives requires you to steal something. How hard this is depends on the item and whether the job that starts with it is filled by another player.
 
 Theft objectives will often require you to break into secure areas or to steal the items directly off of other players. Sometimes it will be shockingly easy, easier than taking candy from a baby. Other times it will be [so impossible](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) that you should probably take the L and try to have fun getting up to shenanigans with your exclusive traitor items. It all depends on what state the station is in and how many players are alive. Still, woe betide anyone who gets the objective `steal the Justitia.`
 
@@ -41,15 +41,15 @@ Theft objectives will often require you to break into secure areas or to steal t
 
 ## Murder objectives
 
-Another common objective is to murder a particular crewmember on the station. Sometimes this can be challenging, but engineering someone's death can often be as simple as asking them to come to your office to look at this 'problem' and then shooting them in the back of the head with a silenced makarov. The harder part is usually getting away with it, especially if you commit the murder early in the round. 
+Another common objective is to murder a particular crewmember on the station. Sometimes this can be challenging, but engineering someone's death can often be as simple as asking them to come to your office to look at this 'problem' and then shooting them in the back of the head with a silenced makarov. The harder part is usually getting away with it, especially if you commit the murder early in the round.
 
 Honestly, one of the best pieces of advice to take to heart with murder objectives it to take your time, play it safe, build up a relationship with the target and other gullible crewmembers, and waiting for a perfect time to strike. Heck, given how a typical round of UnityStation goes, it's likely that after a long enough amount of time, they will have died to some other threat on the station, taking care of your objective for you. When that happens, just ensure that they *stay dead.* If their body ends up being brought to medical, they will likely get revived or cloned, which will set you back to square one.
 
-## General Tips: 
+## General Tips:
 
 #### Consider saving some TC for a rainy day.
 
-Its UnityStation, you never know what is going to happen. You may have lost your gun or you just ran out of ammo. Maybe you're trapped in a rapidly deteriorating station and all you need is a toolbox to hack yourself out of a depowered room. Not spending all of your TC at once will lend you some valuable flexibility in the late game. 
+Its UnityStation, you never know what is going to happen. You may have lost your gun or you just ran out of ammo. Maybe you're trapped in a rapidly deteriorating station and all you need is a toolbox to hack yourself out of a depowered room. Not spending all of your TC at once will lend you some valuable flexibility in the late game.
 
 #### Acquire access.
 
@@ -57,9 +57,9 @@ One great way to improve your odds of success is to acquire additional access, e
 
 #### Be polite
 
-This may be the best advice you can take. Somehow, if you are polite people can even turn a blind eye on you *trying to murder them* if they are not entirely aware of your status as a traitor. When people start to look for others to blame, they are inclined to pick the mean guy, so being friendly, helpful, and generally cooperative can often set you up for success under quite incriminating circumstances. 
+This may be the best advice you can take. Somehow, if you are polite people can even turn a blind eye on you *trying to murder them* if they are not entirely aware of your status as a traitor. When people start to look for others to blame, they are inclined to pick the mean guy, so being friendly, helpful, and generally cooperative can often set you up for success under quite incriminating circumstances.
 
-This can extend even as far as when you've already been captured and brigged, as a positive and understanding attitude can keep your sentence short. Please, if you are lucky enough to have a [lawyer](Lawyer.md) available to you, *consult with them. They are your best chance at avoiding a permanent sentence or execution. They might even get your charges completely thrown out on occasion.* 
+This can extend even as far as when you've already been captured and brigged, as a positive and understanding attitude can keep your sentence short. Please, if you are lucky enough to have a [lawyer](Lawyer.md) available to you, *consult with them. They are your best chance at avoiding a permanent sentence or execution. They might even get your charges completely thrown out on occasion.*
 
 #### Miscellaneous tips:
 
@@ -70,4 +70,11 @@ This can extend even as far as when you've already been captured and brigged, as
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

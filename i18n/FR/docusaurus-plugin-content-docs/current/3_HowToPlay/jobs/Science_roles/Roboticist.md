@@ -19,4 +19,10 @@ c'est un court résumé de votre travail en tant que roboticien. Pour un guide p
 Simple. Crée des robots. Au moment de la réalisation de cette page, Vous avez trois robots que vous pouvez fabriquer: Les robots de sol, qui remplacent les dalles de sol retirées;Les robots ménagers, qui nettoient les sols ensanglantés (sans laisser le sol glissants derrière eux !); et les robots médicale, qui ne font rien actuellement, cependant ils seront capable de soigner les gens à l'avenir.
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

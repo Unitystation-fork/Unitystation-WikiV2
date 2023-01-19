@@ -3,4 +3,10 @@
 
 Malheureusement, le seul virus présent à Unity Station en ce moment est la stupidité incurable, alors cherchez ailleurs pour le moment.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

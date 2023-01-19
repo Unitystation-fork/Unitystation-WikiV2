@@ -2,15 +2,15 @@
 
 ## Back to Basics
 
-Unitystation, like it's predecessor Space Station 13, has an incredibly steep learning curve. Death early on will force you into a ghost state where you watch over the round until someone clones you (there is a way to keep playing after death currently under implementation). But unlike Space Station 13, you can't respawn in anyway. If you are new to Unitystation here is a small list for you so you can try to not die instantly. 
+Unitystation, like it's predecessor Space Station 13, has an incredibly steep learning curve. Death early on will force you into a ghost state where you watch over the round until someone clones you (there is a way to keep playing after death currently under implementation). But unlike Space Station 13, you can't respawn in anyway. If you are new to Unitystation here is a small list for you so you can try to not die instantly.
 
 
 ### How not to die instantly
 
 1) To not die you need to know the controls - W A S D for walking and mouse for interacting. You have two hands to pickup things with, you can swap between them with the X key. Using actual hands to move stuff arround can be confusing at first, but with some practice it gets done. See [intents](Intents.md) to find out how to interact with things and beings.
-    
+
 1a) Other controls: Q to drop the thing you are currently holding on the ground, Z to "activate" the item you are holding (it can also be done by clicking the item), R to throw the item you are holding far away, Ctrl + Click to drag something (a body or locker usually), and Shift + Click to see a description on something or someone.
-    
+
 1b) Talk controls: T to talk normally, Y to radio chat
 
 
@@ -70,4 +70,11 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 
 (Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](Combat.md). How much is enough you ask? Well there's no real measure.)
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

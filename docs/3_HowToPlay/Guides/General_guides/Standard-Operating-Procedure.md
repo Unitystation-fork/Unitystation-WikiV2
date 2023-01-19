@@ -34,4 +34,11 @@ The station's self destruct mechanism has been engaged due to overwhelming threa
 
 
 
-    {# {% include 'html/rolesnavbar.md' %} #}
+    <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

@@ -43,7 +43,7 @@ Well, you clone them, of course. Cloning is the ultimate mulligan. It can be don
 
 When it comes to the intersection between cloning and role-playing; it is generally assumed that a clone <u>does not</u> know how exactly they died, or, if they were murdered, who did it. Their memory will be foggy and unclear, and they may have some confusion when it comes to understanding that they are a clone. Treat the circumstance of their death with a polite sensitivity.
 
-Note that the one critical flaw of the cloning process is that it requires a corpse in the first place; one that has not been too chewed up, as well. If the body is lost in space, lacks a brain, gibbed by explosions, butchered by the [chef](Cook.md), or taken extensive enough fire damage as to be turned into a husk, then they cannot be scanned in the DNA scanner. One preventative measure that can be taken against this outcome is to scan high-risk people (or really any takers) in the DNA scanner in advance. 
+Note that the one critical flaw of the cloning process is that it requires a corpse in the first place; one that has not been too chewed up, as well. If the body is lost in space, lacks a brain, gibbed by explosions, butchered by the [chef](Cook.md), or taken extensive enough fire damage as to be turned into a husk, then they cannot be scanned in the DNA scanner. One preventative measure that can be taken against this outcome is to scan high-risk people (or really any takers) in the DNA scanner in advance.
 
 The other problem is the aforementioned cellular damage inflicted by the cloning process. A fresh clone will be weak and need time to recover from the cloning process. Because of the cumulative effects, it is not a good idea to clone a person multiple times in quick succession. They will come out weaker and weaker until they cannot move and might die on the spot.
 
@@ -70,16 +70,22 @@ Surgery, the best way to look at people's insides. It is very useful for augment
 
 Make sure the patient is lying down, either on a surgical bed or the floor.
 
-With a surgical tool in hand, such as a scalpel, alt-click on the patient. 
+With a surgical tool in hand, such as a scalpel, alt-click on the patient.
 
-A menu listing body parts will open up, each labeled something like "Pick HumanHead".  There will also be an "Attach procedure." 
+A menu listing body parts will open up, each labeled something like "Pick HumanHead".  There will also be an "Attach procedure."
 
-Clicking on one of the body parts will open another menu giving you the option of removing that bodypart, or for some bodyparts, opening it up. 
+Clicking on one of the body parts will open another menu giving you the option of removing that bodypart, or for some bodyparts, opening it up.
 
-Clicking on a procedure will start that procedure. 
+Clicking on a procedure will start that procedure.
 
-After starting the procedure, you need to use a specific sequence of surgical tools on the patient (make sure to be on help intent). 
+After starting the procedure, you need to use a specific sequence of surgical tools on the patient (make sure to be on help intent).
 
-You can just try to use all your tools on the patient until one works. 
+You can just try to use all your tools on the patient until one works.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+<br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />

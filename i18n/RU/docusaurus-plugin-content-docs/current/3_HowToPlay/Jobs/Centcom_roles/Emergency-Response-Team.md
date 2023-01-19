@@ -22,7 +22,7 @@ The ERT security officer acts as the spearpoint of any ERT team. They are armed 
 ### ERT Medic, Walking Medkits
 
 
-The ERT medical officers are deployed to handle large scale medical emergencies, but sometimes are deployed not to save the crew, but to heal the ERT squad should they face especially heavy resistance. They wear a white marked hardsuit and are equipped with first aid kit and a medibelt. 
+The ERT medical officers are deployed to handle large scale medical emergencies, but sometimes are deployed not to save the crew, but to heal the ERT squad should they face especially heavy resistance. They wear a white marked hardsuit and are equipped with first aid kit and a medibelt.
 ### ERT Engineers, The Only Competent Engineers
 
 ERT engineers are only typically sent when something onboard the station has, or is about to, blow up horribly. Their job is to fix the damage to the station or prevent further damage, and in this they act more like emergency repairmen than engineers. They are the type of ERT that will most often split from the squad, simply because while the other ERT are sent to deal with people, the engineer is sent to deal with walls and reactors, both of which tend not to have legs. Along with the usual gun and baton, they come with a tool belt, industrial welding tool, and a first aid kit.
@@ -41,4 +41,11 @@ Clown ERT, sent to bring joy and annoyance to the crew. The clown ERT does come 
 
 
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

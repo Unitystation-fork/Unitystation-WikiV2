@@ -14,7 +14,7 @@ to know to reduce how often you die, and allow you to more effectively choose ta
 There are 4 [intents](Intents.md). Help, grab, disarm and harm
 
 ### Help (green)
-Help intent, as implied by the name, is mainly used for non-combat interactions. It is still useful to know. If you on help intent, and not carrying a weapon in your hands, 
+Help intent, as implied by the name, is mainly used for non-combat interactions. It is still useful to know. If you on help intent, and not carrying a weapon in your hands,
 you cannot injure others, and will swap places/pass those you run into rather than stopping (good for chasing someone or being on the run). Using help intent on someone (including yourself) with medecine
 in hand will apply the medecine to a selected body part, healing it (assuming you apply the correct meds).
 
@@ -23,7 +23,7 @@ Grab intent will grab the person you use it on. By moving, they can break out of
 If someone is handcuffed, they will be unable to break out of your grab, letting you pull them into a prison cell if your merciful, or into a discrete location if your not.
 
 ### Disarm (blue)
-Dont let the name fool you, disarm plays a far bigger role than just wrenching a weapon out of someones hands. If used on another player, they have a very good chance to drop their weapon, 
+Dont let the name fool you, disarm plays a far bigger role than just wrenching a weapon out of someones hands. If used on another player, they have a very good chance to drop their weapon,
 which you can then pick up, and possibly use (note, some guns are locked by id-based firing pins). If you absolutely must fight someone who is equipped, and are unarmed, DONT use the harm intent.
 use the disarm intent and use their own weapons against them. This also works in reverse, dont get in melee range if you have a gun, as you will likely get disarmed and lit up with
 your own gun. While you cant avoid getting in melee range if your using a melee weapon, you can minimize the risk of being disarmed by spending as little time in melee range as possible (in open combat)
@@ -32,7 +32,7 @@ and instead using Hit-and-Retreat methods, or by surprising/ambushing your foe t
 Disarm doesnt stop there, though. Each individual disarm has a small chance to knock over the person being disarmed. While knocked down, people are stunned, and cannot shoot or melee back against attacks.
 The time given by a disarm knockdown is NOT enough to handcuff people, dont make the mistake of coming close to an angry man with a gun with only one free hand of your own. When someone is knocked down, if
 you are very quick, you can loot a few items from them. This can be anything on their person, from backpacks, to hidden guns, to their ID. If you plan on doing this to get your hands on a juicy ID or
-traitor objective, be sure you know where they are probably located in the persons inventory. 
+traitor objective, be sure you know where they are probably located in the persons inventory.
 
 ### Harm (red)
 Harm intent, as is obvious from the name, is used to injure others with raw brute force. If you are on harm intent, you will attempt to hit those you click on in melee range (even if holding a gun!)
@@ -42,13 +42,13 @@ has a proper weapon.
 
 ## The health system
 In unitystation, health is much more complex than in most games. health can be decreased directly by 4 types of damage, two of which are applied to individual limbs. The total health is the base health, minus damage dealt to limbs,
-and minus damage dealt by other causes. This means that enough damage to a single limb can kill, even if it is the only limb damaged. 
+and minus damage dealt by other causes. This means that enough damage to a single limb can kill, even if it is the only limb damaged.
 
 ### Damage types
 Brute damage is dealt by ballistic weapons, most melee weapons, and punches. It can be healed with bandages, and is applied to individual limbs. Burn damage is similarly applied to individual limbs. it can be
 healed with ointment, and is dealt by lasers and fires. oxygen damage is caused by being in critical condition, or by a lack of air. It can be slowed with CPR (help intent on downed critical person) and is best healed
 by getting somewhere one can breathe, or by healing to take a person out of a critical state. Toxin/poision damage is caused mainly by toxins, and is harder to heal than other damage types, requiring specific
-chemicals to fix. 
+chemicals to fix.
 
 ### Limb targetting
 On your hud, there is a small doll. when bodyparts are clicked, they will be targeted. this allows you to heal or injure specific regions. different parts have different chances to be successfully
@@ -63,7 +63,7 @@ Players can be stunned in several ways. Disarms can disable them for a short per
 It should be noted, again, that tazers and disarms will not give you enough time to fill the handcuff progress bar before the person your arresting gets back up. Stunned players can
 be looted by dragging their sprite onto your own, as can handcuffed people.
 
-### Handcuffs 
+### Handcuffs
 Handcuffs can be applied at any time, but require time to put on. This means you cant just approach a man with a knife and cuff him, not without disabling him first. one of the
 few reliable methods to get this time is the stun baton, which can knock someone to the ground long enough to let you handcuff them. Those in cuffs cannot harm, punch, pick up objects,
 or resist grabs, meaning they can be safely moved to a different location. Keep in mind they can still talk on the radio, unless you take that too.
@@ -91,7 +91,7 @@ more damaging than lasers, but the requirment of carrying around clips and lack 
 ### Fully automatic weapons
 Full auto weapons, such as smgs and machine guns, will continue firing for as long as you hold down the mouse. While capeable of rapidly killing people, they burn through ammo equally
 fast, and thus must be reloaded often. they are also rather inaccurate. Per-shot, they typically deal less damage than other weapons. They are great at mowing down single targets if you have plenty of down-time to reload
-and prepare, and are great at killing those you are chasing, but struggle in more extended fights, when there is little opportunity to recover, and struggle at long range, forcing you close to danger.. 
+and prepare, and are great at killing those you are chasing, but struggle in more extended fights, when there is little opportunity to recover, and struggle at long range, forcing you close to danger..
 
 ### Semi automatic weapons
 These fire once when you press the mouse button, are typically higher damage per shot, and are rather accurate. This means you can kill people without placing yourself in too much danger, and conserve
@@ -113,7 +113,7 @@ are great for self defence.
 Purpouse made melee weapons, such as eswords and sabers, are rarer, but a lot more devestating. their main weakness is less their own, and more because they can be disarmed and
 used against you, and you cant easily get another one. Therefore, when you have one of these, you want to minimize how much time they can disarm you. This can be done either by
 chopping them up before they can react in an ambush, or by only taking short periods to attack. Rather than berserk at your foe, you want to stay a tile or two seperate from them, and
-pop into melee range unexpectedly to give them a quick stab before jumping back out. 
+pop into melee range unexpectedly to give them a quick stab before jumping back out.
 
 ## Thrown weapons
 There are three main types of throwing weapons. improvised, dedicated, and grenades. objects can be thrown after using the "throw" button, or after using the (default) hotkey "r".
@@ -171,7 +171,7 @@ All the gear in the world cant help you if you dont actually possess it. To this
 
 # Fighting
 Combat in unitystation is fundamentally based in knowledge, gear, and planning. Raw reflexive skill plays a part, but the victor in a fight is most often the one who strikes first and stacks
-the most advantages while reducing those of the opponent, meaning it is almost always better to wait and prepare if you can, rather than rushing in. 
+the most advantages while reducing those of the opponent, meaning it is almost always better to wait and prepare if you can, rather than rushing in.
 
 ## Planning
 A good plan is a great way of ensuring that you win a fight. If you go in prepared, equipped, and ready, against someone who is unaware or still plotting, you will have an enormous
@@ -189,7 +189,7 @@ have a set plan in mind.
 ### Access
 something that is difficult to determine but very helpful to know is the access level of the person you are fighting as well as your own, and how they stack up. If you dont take this into account, you may end up setting up
 ambushes that cant be tripped and run into areas they can still hunt you down in. Having higher amounts of access opens up easier access to equipment aswell as escape routes, while having low access oftentimes
-limits you to open and exposed areas with little gear. 
+limits you to open and exposed areas with little gear.
 
 If you are fighting someone with more access, it is best to stage an ambush, especilly in a region they feel safe, so that you can kill them before they can bring their equipment to bear
 or escape.
@@ -230,7 +230,7 @@ engage in favourable situations, while also allowing for easier escapes and an e
 anything that can reduce your movement speed, such as hardsuits or magboots.
 
 ### Open combat
-How you approach open combat movement wise differs depending on what weapons you are equipped with. In all cases, it is best to remain further away, but in range, until you 
+How you approach open combat movement wise differs depending on what weapons you are equipped with. In all cases, it is best to remain further away, but in range, until you
 intend to attack.
 
 Melee vs Melee: Stay a tile or two away, when ready, charge at your opponent, rapidly clicking infront of you on their predicted position. when you get a hit in, retreat back. To trade blows (if you are better equipped)
@@ -254,7 +254,7 @@ When you are chasing someone you are entirely on the back foot. They can slip or
 of success.
 
 Knowing when to slow down or dodge to avoid slips is critical to hunting someone down, as a single slip can mean game over. If you are equipped with magboots, you can disregard this,
-though you will be slower overall. 
+though you will be slower overall.
 
 If someone escapes out of sight, follow their trail of open doors. If the trail stops be sure to stop and look around for lockers where they could have hidden and search them.
 
@@ -271,7 +271,7 @@ But this is not always possible, or feasable. the person chasing you may simply 
 towards and doors you plan to enter. Corners are useful for breaking up lines of sight, while intersections will make your pursuer choose between routes. If you are far enough ahead, be sure to open doors to fool your pursuers
 into going down incorrect paths.
 
-Should this fail, you can choose to hide, typically in a locker, or escape into an area your pursuer cannot access or doesnt want to enter (such as space). 
+Should this fail, you can choose to hide, typically in a locker, or escape into an area your pursuer cannot access or doesnt want to enter (such as space).
 
 ## Groups
 Fighting as a cohesive group is very difficult in unitystation, but is also very rewarding, and practically necessary for antagonists such as nuke ops. If your opponent is a group, cohesive or not, there are ways to fight them, though they may be risky.
@@ -287,7 +287,7 @@ Fighting groups can take two routes, depending on the form of the group. a rarer
 
 Fighting a clumped up together group as a lone person is HARD, simply due to the fact that there are more people. One of the best things you can do to give yourself an advantage is to simply spread the group out. a grenade or other explosive will force a group to split up somewhat, allowing you to pick off a member or two. If they are in a tight space with limited exits, a grenade can spell death for the entire group, making them incredibly powerful. In tight groups, people may split off momentarily to deal with injured or other small tasks. if you've only got single target weapons, this is a great time to strike. If the person you find is a doctor of the team tending to an injured person, shoot the injured person. this will often lend you a free kill, and make the doctor either have to leave them dead or drag them to cloning, the latter giving you the opportunity to take them down as well. Fighting melee against tight groups is typically suicide, and not recommended.
 
-Fighting spread out groups is far, far easier than fighting a tight group. if youre fighting a spread out group, treat every person you fight as someone peeled off from a tight group, and use the same tactics discussed above for dealing with them. in this case, a quick melee attack can be viable, unlike with tight groups. 
+Fighting spread out groups is far, far easier than fighting a tight group. if youre fighting a spread out group, treat every person you fight as someone peeled off from a tight group, and use the same tactics discussed above for dealing with them. in this case, a quick melee attack can be viable, unlike with tight groups.
 
 Fighting groups with your own groups can go a few ways. Spread out vs Spread out is a toss up, and typically decided by a few robust players. Tight vs Tight typically turns into a bloodbath where nobody wins. Tight vs spread out will nearly always result in the tight group winning.
 
@@ -295,7 +295,7 @@ Fighting groups with your own groups can go a few ways. Spread out vs Spread out
 Well, you killed someone, or a lot of people. Turns out, killing people can have repercussions.  There are typically three routes you can go down, with varying degrees of legality and possibility for revenge.
 
 ### Taking responsibility
-You see that fella you killed? time to unkill him. This is the best way to avoid the wrath of [sec](Security.md), the guy you killed and any admins, though it isnt a good option for when you [need them dead](Antagonist.md) for your employers and may be impossible to do depending on how wanted you are already. The best case scenario is dragging them to cloning yourself, second best is leaving them outside medbay, and third best is just dragging them out into the hall and leaving them there for someone else to clone. 
+You see that fella you killed? time to unkill him. This is the best way to avoid the wrath of [sec](Security.md), the guy you killed and any admins, though it isnt a good option for when you [need them dead](Antagonist.md) for your employers and may be impossible to do depending on how wanted you are already. The best case scenario is dragging them to cloning yourself, second best is leaving them outside medbay, and third best is just dragging them out into the hall and leaving them there for someone else to clone.
 
 ### The null outcome
 Simply dont touch the body after your done. This can be taken as a sign of mercy, incompetence, or mocking, depending on the whims of the person you killed. It wont let you avoid the wrath of [sec](Security.md), and can leave the guy you killed mad, but it can be enough to make admins brush it aside, so long as you had reason to kill them in the first place. Definitely not the best option, but sometimes necessary, especially if your on the run already.
@@ -306,7 +306,14 @@ The least legal option, by far, the one most likely to leave both the guy you ki
 ## Getting Better
 Even if you read this page a thousand times, without practice your still going to get your ass beat. the best way to learn to fight in game is to simply fight. stage ragecage matches, play [sec](Security.md), be an [antag](Antagonist.md), just don't get mad when your tossed in a cell to rot or turned into swiss cheese by gunfire.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+
 
 
 

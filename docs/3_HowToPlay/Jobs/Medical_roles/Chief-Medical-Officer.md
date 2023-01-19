@@ -11,7 +11,7 @@ Note: for the guide to ordinary doctoring and first aid treatment, check [here](
 ## How to keep everyone alive
 
 
-Seeing as the kinds of unique medical emergencies that the station can face is pretty basic right now, the CMO does not operate much differently then a regular [Medical Officer](Medical-Doctor.md). This means that your purpose is much more about general logistical medical management right now. You need to manage the morgue, the cloner, wound treatment, crisis response, chemical distribution, and psychological diagnosis for the occasional trial. 
+Seeing as the kinds of unique medical emergencies that the station can face is pretty basic right now, the CMO does not operate much differently then a regular [Medical Officer](Medical-Doctor.md). This means that your purpose is much more about general logistical medical management right now. You need to manage the morgue, the cloner, wound treatment, crisis response, chemical distribution, and psychological diagnosis for the occasional trial.
 
 
 The general procedures of operation is to make sure that there is one [general practitioner](Medical-Doctor.md) and one person with access to the cloner (which is you and the [Geneticist](Geneticist.md)) in Medical at any given moment. The rest of your doctors, if you have any, should be on patrol acting as paramedics across the station. Make sure they are telling you whenever they treat somebody, though.
@@ -35,4 +35,11 @@ As the CMO, it is your job to direct aid operations when a crisis occurs.
 
 If, say, a team of [commandos](Nuclear-Emergency.md) boards the station, you will have a lot of casualties, some of which will inevitably be your own [medics](Medical-Doctor.md). As such, it is advised that during such a crisis you [hack](Hacking-Guide.md) open or [deconstruct](Construction.md) your front doors to create a safe place for injured people to come heal themselves, but if you do, it is advised that you get at least one [Security Officer](Security.md) stationed in front of medical for the duration, because shit will go down. Send [doctors](Medical-Doctor.md) on patrol to bring back bodies. Anyone who can walk is able to heal themselves, and should be ignored so that those in critical condition and those that are dead can get needed help.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

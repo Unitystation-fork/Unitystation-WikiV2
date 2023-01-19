@@ -10,10 +10,17 @@ You are the Clown. The Funnyman. Mortal enemy of the [Mime](Mime.md). The one wh
 
 ### Just a prank bro HONK! HONK!
 
-Your job is simple. Make jokes, make people laugh, get beat up by the [people](Security.md) [in](Detective.md) [red](Warden.md) [suits](Nuclear-Emergency.md) for placing a banana peel. But, because of Clown's tendencies to mess the station up, very few people actually trust you with anything, and you are disliked by most; even more disliked than [the people in gray jumpsuits](Assistant.md). 
+Your job is simple. Make jokes, make people laugh, get beat up by the [people](Security.md) [in](Detective.md) [red](Warden.md) [suits](Nuclear-Emergency.md) for placing a banana peel. But, because of Clown's tendencies to mess the station up, very few people actually trust you with anything, and you are disliked by most; even more disliked than [the people in gray jumpsuits](Assistant.md).
 
 But, [there are some times where people actually trust you](So-close-to-impossible-that-it-might-as-well-not-even-exist.md), instead of just immediately voting to introduce you to the cold, airless vacuum of space. Value these moments, because it could be the only time your life isn't in danger 24/7.
 
 Don't forget that your PDA is slippery, and can be used when you lose your banana peel.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

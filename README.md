@@ -53,3 +53,15 @@ Pour construire le wiki en local avant de modifier la version actuelle du wiki :
 ------------
 ### ToDo
 [Todo](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/todo.txt)
+
+### Branch organization
+
+- ```main``` is for current modifications
+- ```dev``` is a copy of main but has an etas +1 (under test)
+- ```release``` is a copy of /main with an etas -1 (later) but WHICH WORKS.
+
+Example:
+
+- release-2.1
+- main-2.2
+- dev-2.2.0.1

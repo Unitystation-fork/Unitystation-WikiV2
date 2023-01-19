@@ -7,11 +7,11 @@ Les assistants sont les personnes les plus faciles à remplacer sur la station, 
 
 ### Votre "travail"
 
-Selon [Nanotrasen](Groups.md), les personnes en costume qui vous ont engagé, votre devoir sur la station est d'aider les gens de toutes les manières possibles. 
+Selon [Nanotrasen](Groups.md), les personnes en costume qui vous ont engagé, votre devoir sur la station est d'aider les gens de toutes les manières possibles.
 
-Parfois, vous vous retrouvez à l'intérieur de l'infirmerie, où vous aidez les médecins en apportant des cadavres à cloner ou des personnes blessées à soigner. 
+Parfois, vous vous retrouvez à l'intérieur de l'infirmerie, où vous aidez les médecins en apportant des cadavres à cloner ou des personnes blessées à soigner.
 
-Mais le plus souvent, vous vous retrouvez à apporter du café à l'un des chefs de service. 
+Mais le plus souvent, vous vous retrouvez à apporter du café à l'un des chefs de service.
 
 Si vous voulez vraiment aider la station et faire ce que vous êtes censé faire, rendez-vous au bureau du [Chef du personnel] (HoP.md), en espérant qu'il soit là et qu'il n'abuse pas de l'accès illimité qu'il s'est si généreusement octroyé, et demandez un emploi.
 
@@ -28,10 +28,17 @@ Si tout cela vous semble ennuyeux, j'ai une nouvelle à vous annoncer : l'un des
 Un assistant [traître](traître.md). Une arme parfaite.
 Un cerveau sous couverture. Vous savez, tant que cet assistant n'a pas été choisi comme traître la première fois qu'il a joué, auquel cas, *oh boy.*
 
-Le fait que vous n'ayez pas de fonctions signifie que vous pouvez facilement vous faufiler et accomplir vos objectifs assez facilement, si vous jouez bien vos cartes. 
+Le fait que vous n'ayez pas de fonctions signifie que vous pouvez facilement vous faufiler et accomplir vos objectifs assez facilement, si vous jouez bien vos cartes.
 
-Votre accès aux couloirs de maintenance vous offre également un moyen facile d'atteindre votre cible, tant que la pièce dans laquelle elle se trouve n'est pas entourée de murs renforcés. 
+Votre accès aux couloirs de maintenance vous offre également un moyen facile d'atteindre votre cible, tant que la pièce dans laquelle elle se trouve n'est pas entourée de murs renforcés.
 
 Faites-vous passer pour un simple crétin et votre cible n'aura aucune idée que vous vous approchez furtivement d'elle avec une boîte à outils sur le point de lui botter le cul.
 
-  {# {% include 'html/rolesnavbar.md' %} #}
+  <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+

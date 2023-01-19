@@ -30,4 +30,10 @@ En tant que CMO, c'est à vous de diriger les opérations d'aide lorsqu'une cris
 
 Si, par exemple, une équipe de [commandos](Nuclear-Emergency.md) attaque la station, vous aurez de nombreuses victimes, dont certaines seront inévitablement vos propres [médecins](Medical-Doctor.md). Il est donc conseillé, lors d'une telle crise, de [hacker](Hacking-Guide.md) l'ouverture ou de [détruire](Construction.md) vos portes d'entrée afin de créer un endroit sûr où les personnes blessées pourront venir se soigner, mais si vous le faites, il est conseillé d'avoir au moins un [agent de sécurité](Security.md) posté devant l'infirmerie pendant toute la durée de l'opération, parce que ça va barder. Envoyez des [médecins](Medical-Doctor.md) en patrouille pour récupéré les corps. Toute personne pouvant ce déplacer est capable de se soigner elle-même, doivent être ignorée afin que les personnes dans un état critique et celles qui sont mortes puissent recevoir l'aide nécessaire.
 
-{# {% include 'html/rolesnavbar.md' %} #}
+<br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
