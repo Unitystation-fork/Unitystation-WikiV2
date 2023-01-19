@@ -1,42 +1,45 @@
 
 {# {{tag>UI interface of the BROUILLON game admin tool}} #}
-## Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
+![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
+# Admin Interface
 ## Content ##
 
-`├── 1 - Admin Tool`<br></br>
-`│        ├── 1.1 - Spawn item`<br></br>
-`│        ├── 1.2 -  Clone & delete Item`<br></br>
-`│        └── 1.3 -  Variable Viewer`<br></br>
-`├── 2 - Admin Menu`<br></br>
-`│        ├── 2.1 - MHELP`<br></br>
-`│        ├── 2.2 - [Admin Tool Panel]`<br></br>
-`│        │        ├──  2.2a - Game Mode`<br></br>
-`│        │        ├──  2.2b - Player Manager`<br></br>
-`│        │        │        ├──  2.2b.1 - Kick`<br></br>
-`│        │        │        ├──  2.2b.2 - Ban`<br></br>
-`│        │        │        ├──  2.2b.3 - JobBan`<br></br>
-`│        │        │        ├──  2.2b.4 - Smite`<br></br>
-`│        │        │        ├──  2.2b.5 - Respawn`<br></br>
-`│        │        │        ├──  2.2b.6 - Teleport Admin TO Player - Aghost`<br></br>
-`│        │        │        ├──  2.2b.7 - Teleport Player TO Admin`<br></br>
-`│        │        │        ├──  2.2b.8 - Teleport Player TO Admin`<br></br>
-`│        │        │        ├──  2.2b.9 - Teleport Player TO Admin - ALL`<br></br>
-`│        │        │        ├──  2.2b.10 - heal`<br></br>
-`│        │        │        └──  2.2b.11 - mentor`<br></br>
-`│        │        ├──  2.2c - CentCom`<br></br>
-`│        │        ├──  2.2d - Events Managers`<br></br>
-`│        │        ├──  2.2e - Round Managers`<br></br>
-`│        │        ├──  2.2f - Dev Tools`<br></br>
-`│        │        └──  2.2g - Server Settings`<br></br>
-`│        ├── 2.3 - ACHAT`<br></br>
-`│        ├── 2.4 - ALOGS`<br></br>
-`│        ├── 2.5 - AHELP`<br></br>
-`│        ├── 2.6 - [INFO]`<br></br>
-`│        ├── 2.7 - Global Sound`<br></br>
-`│        ├── 2.8 - Global Music`<br></br>
-`│        ├── 2.9 - AGHOST`<br></br>
-`│        └── 2.10 - ALERTS`<br></br>
-`└── 3 - CREDIT`<br></br>
+```properties
+├── 1 - Admin Tool
+│        ├── 1.1 - Spawn item
+│        ├── 1.2 -  Clone & delete Item
+│        └── 1.3 -  Variable Viewer
+├── 2 - Admin Menu
+│        ├── 2.1 - MHELP
+│        ├── 2.2 - [Admin Tool Panel]
+│        │        ├──  2.2a - Game Mode
+│        │        ├──  2.2b - Player Manager
+│        │        │        ├──  2.2b.1 - Kick
+│        │        │        ├──  2.2b.2 - Ban
+│        │        │        ├──  2.2b.3 - JobBan
+│        │        │        ├──  2.2b.4 - Smite
+│        │        │        ├──  2.2b.5 - Respawn
+│        │        │        ├──  2.2b.6 - Teleport Admin TO Player - Aghost
+│        │        │        ├──  2.2b.7 - Teleport Player TO Admin
+│        │        │        ├──  2.2b.8 - Teleport Player TO Admin
+│        │        │        ├──  2.2b.9 - Teleport Player TO Admin - ALL
+│        │        │        ├──  2.2b.10 - heal
+│        │        │        └──  2.2b.11 - mentor
+│        │        ├──  2.2c - CentCom
+│        │        ├──  2.2d - Events Managers
+│        │        ├──  2.2e - Round Managers
+│        │        ├──  2.2f - Dev Tools
+│        │        └──  2.2g - Server Settings
+│        ├── 2.3 - ACHAT
+│        ├── 2.4 - ALOGS
+│        ├── 2.5 - AHELP
+│        ├── 2.6 - [INFO]
+│        ├── 2.7 - Global Sound
+│        ├── 2.8 - Global Music
+│        ├── 2.9 - AGHOST
+│        └── 2.10 - ALERTS
+└── 3 - CREDIT
+```
 
 ## 1 - Administrator toolbar
 The admin toolbar is located at the top right of the screen, after starting the game you can use the last button on the far right.
@@ -45,53 +48,41 @@ The admin toolbar is located at the top right of the screen, after starting the 
 Querying in the search bar will display the results just below.
 Left click on the item to select it and left click on the field to add it to the game.
 
-================
+------------
+
 
 ### 1.2 - Clone and delete items
 A window will open. Anything you select with your cursor will either be ready to be copied (the name of the selected item is marked in the window) or it will be deleted.
 Note there is currently no Ctrl+W.
 
-================
+------------
+
 
 ### 1.3 -  Variable Viewer ###
 La fenêtre de variable est composée ainsi
 ![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)Les couleurs de variable peuvent ainsi être différenciées.
 ![VariableColor](https://i.imgur.com/jsMibs1.png)
-**1 ** = refresh hierarchy
 
-**2 ** = Search button hierarchy
+1. refresh hierarchy
+2. Search button hierarchy
+3. search hierarchy field
+4. page containing All the game objects in the game , in the hierarchy
+	4a.  Name of game object
+	4b.  Button to show or hide children of game object
+	4c.  Box to select the game object
+5.  name of the game object currently selected
+6. scroll left in list of components attached to selected game object
+7. scroll Right in listin list of components attached to selected game object
+8. Show debug options such as functions and  script set variables/Variables that require more than just setting to value
+9. refresh selected variables on object
+10. Network changes to client so that changes are visible on clients
+11. close the window
+12. Scroll through history of selected scripts
+13. Name of current script
+14. Panel containing all the variables/Functions related with the script
 
-**3 ** = search hierarchy field
+------------
 
-**4 ** = page containing All the game objects in the game , in the hierarchy
-
-**4a** = Name of game object
-
-**4b** = Button to show or hide children of game object
-
-**4c** = Box to select the game object
-
-**5 ** = name of the game object currently selected
-
-**6 **  = scroll left in list of components attached to selected game object
-
-**7 ** = scroll Right in listin list of components attached to selected game object
-
-**8 ** = Show debug options such as functions and  script set variables/Variables that require more than just setting to value
-
-**9 ** = refresh selected variables on object
-
-**10** = Network changes to client so that changes are visible on clients
-
-**11** = close the window
-
-**12** = Scroll through history of selected scripts
-
-**13** = Name of current script
-
-**14** = Panel containing all the variables/Functions related with the script
-
-================
 ## 2 - Admin Menu ##
 ![AdminToolButton](https://i.imgur.com/u6dFEtq.png)
 
@@ -108,7 +99,8 @@ on left - list of players
 
 on the right - history and correspondence area.
 
-================
+------------
+
 ### 2.2 - [Admin Toolbar] ###
 ![Pannel](https://i.imgur.com/zWCeQzz.png)
 
@@ -126,24 +118,29 @@ And there is a list of players on the left side.
 
 If the list is too long, you can use the search function above.
 
-================
+------------
+
 ##### 2.2b.1 - Kick a player #####
 
-================
+------------
+
 ##### 2.2b.2 - Ban a player #####
 ![enter image description here] (https://i.imgur.com/sdtcGgo.png)
 
-================
+------------
+
 ##### 2.2b.3 - Ban a profession #####
 ![JobBan](https://i.imgur.com/iEcdIhM.png)
 
 Allows you to block or ban players based on their profession. Also works for antagonists.
 
-================
+------------
+
 ##### 2.2b.4 - Damage #####
 ![Smite](https://i.imgur.com/vAMpcrl.png)
 
-================
+------------
+
 ##### 2.2b.5 - Revive #####
 ![Respawn](https://i.imgur.com/AC5pPcj.png)
 Allows you to bring a player back to life (even if he is still alive).
@@ -152,28 +149,29 @@ The right panel allows you to select different options, and they are cumulative.
 
 For example, you can revive a character with "cleaner" + "blob".
 
-================
+------------
+
 ##### 2.2b.6 - Teleport admin to player - AGHOST #####
 **You** are teleported to the selected player in ghost mode (invisible)
 
-================
+------------
+
 ##### 2.2b.7 - Teleport an administrator to a player #####
 **You** teleport to the selected player
+------------
 
-
-================
 ##### 2.2b.8 - Teleport player to administrator #####
 Teleports **selected **player** to you
+------------
 
-
-================
 ##### 2.2b.9 - Teleport to Admin - ALL players #####
 
 All players teleported to the admin
 
 Doesn't work if you are a ghost.
 
-================
+------------
+
 ##### 2.2b.10 - Cure #####
 Once a player is selected, you can fully heal them.
 
@@ -181,15 +179,15 @@ Be aware that this cure does not restore lost limbs.
 
 Nor does it heal death.
 
-================
+------------
+
 ##### 2.2b.11 - Assign Mentor #####
 Allows you to give selected players the role of mentor.
 
 -at the moment
 -this can only open up the mentor interface in addition.
+------------
 
-
-================
 #### 2.2c - CC (Central Command, CentComm) ####
 ![CentComm](https://i.imgur.com/h1IA8gc.png)
 
@@ -205,16 +203,10 @@ For more information, see
 ![EventManager](https://i.imgur.com/1PYvGB4.png)** Event Type:**.
 
 * Random
-
 * Fun
-
 * special
-
 * Antagonist
-
 * debugger
-
-
 **Event to trigger: **(subtype category)
 
 press **[run event]** to confirm.
@@ -271,7 +263,12 @@ This window allows you to get feedback on events, such as a player killing anoth
 
 ## 3 - THANKS ##
 Thanks to Bod (admin/dev) for creating this tool
+
 [Fr_Dae](http://twitch.tv/Fr_Dae) (for writing this wiki page)
+
 @Peulleieo#1996 for the correction (en)
+
 @CV514#7004 for corrections (ru)
+
 @GemInee#5127 for code
+
