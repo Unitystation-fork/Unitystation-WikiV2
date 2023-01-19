@@ -8,6 +8,9 @@ Medics are arguably the most vital role to a thriving station, except for [Secur
 
 
 While it's not a required part of the role, it should be noted that non-[antagonist](Antagonist.md) Medical Doctors are generally expected to do no harm unless your own life or the life of an innocent is at stake; Your purpose is to preserve human life above all else. This doesn't mean you can't make people harm themselves or make other people do the harm for you, but it means that your most efficient tool to fight is running away. Screaming is a close second.
+<a href="#Surgery">
+Surgery
+</a>
 
 
 ### Don't worry, ribs grow back!
@@ -61,5 +64,25 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 4) Open up the cloning bay for everyone to come get preemptively scanned just in case. Brings a whole new meaning to life insurance.
 
 5) Typically, you will find that first aid kits are over-provisioned with burn ointment, and you should replace a stack with bruise packs or gauze. Burn treatment kits are also a thing, but they are mega overkill for most situations except mass-casualty burn incidents like station-wide plasma fires.
+
+# <div class="Surgery">Surgery</div>
+
+Surgery, the best way to look at people's insides. It is very useful for augmenting other players, or yourself.  ~~Or creating monstrosities.~~
+
+### How to do it.
+
+Make sure the patient is lying down, either on a surgical bed or the floor.
+
+With a surgical tool in hand, such as a scalpel, alt-click on the patient. 
+
+A menu listing body parts will open up, each labeled something like "Pick HumanHead".  There will also be an "Attach procedure." 
+
+Clicking on one of the body parts will open another menu giving you the option of removing that bodypart, or for some bodyparts, opening it up. 
+
+Clicking on a procedure will start that procedure. 
+
+After starting the procedure, you need to use a specific sequence of surgical tools on the patient (make sure to be on help intent). 
+
+You can just try to use all your tools on the patient until one works. 
 
   {# {% include 'html/rolesnavbar.md' %} #}
