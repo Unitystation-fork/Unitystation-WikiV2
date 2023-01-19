@@ -60,8 +60,8 @@ const config = {
       navbar: {
         title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Unitystation Wiki logo',
+          src: 'img/logo.png',
         },
         items: [
           {
