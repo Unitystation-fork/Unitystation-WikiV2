@@ -8,9 +8,6 @@ Medics are arguably the most vital role to a thriving station, except for [Secur
 
 
 While it's not a required part of the role, it should be noted that non-[antagonist](Antagonist.md) Medical Doctors are generally expected to do no harm unless your own life or the life of an innocent is at stake; Your purpose is to preserve human life above all else. This doesn't mean you can't make people harm themselves or make other people do the harm for you, but it means that your most efficient tool to fight is running away. Screaming is a close second.
-<a href="#Surgery">
-Surgery
-</a>
 
 
 ### Don't worry, ribs grow back!
@@ -65,7 +62,7 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 5) Typically, you will find that first aid kits are over-provisioned with burn ointment, and you should replace a stack with bruise packs or gauze. Burn treatment kits are also a thing, but they are mega overkill for most situations except mass-casualty burn incidents like station-wide plasma fires.
 
-# <div class="Surgery">Surgery</div>
+# Surgery
 
 Surgery, the best way to look at people's insides. It is very useful for augmenting other players, or yourself.  ~~Or creating monstrosities.~~
 
