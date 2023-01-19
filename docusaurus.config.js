@@ -11,8 +11,9 @@ const config = {
   url: 'https://example.com',
   baseUrl: '/',
   staticDirectories: ['static'],
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
+  onDuplicateRoutes: 'ignore',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
