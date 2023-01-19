@@ -62,4 +62,24 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 5) Typically, you will find that first aid kits are over-provisioned with burn ointment, and you should replace a stack with bruise packs or gauze. Burn treatment kits are also a thing, but they are mega overkill for most situations except mass-casualty burn incidents like station-wide plasma fires.
 
+# Surgery
+
+Surgery, the best way to look at people's insides. It is very useful for augmenting other players, or yourself.  ~~Or creating monstrosities.~~
+
+### How to do it.
+
+Make sure the patient is lying down, either on a surgical bed or the floor.
+
+With a surgical tool in hand, such as a scalpel, alt-click on the patient. 
+
+A menu listing body parts will open up, each labeled something like "Pick HumanHead".  There will also be an "Attach procedure." 
+
+Clicking on one of the body parts will open another menu giving you the option of removing that bodypart, or for some bodyparts, opening it up. 
+
+Clicking on a procedure will start that procedure. 
+
+After starting the procedure, you need to use a specific sequence of surgical tools on the patient (make sure to be on help intent). 
+
+You can just try to use all your tools on the patient until one works. 
+
   {# {% include 'html/rolesnavbar.md' %} #}
