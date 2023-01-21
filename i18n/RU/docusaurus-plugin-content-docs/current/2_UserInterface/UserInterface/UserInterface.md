@@ -1,3 +1,8 @@
+---
+title: User Interface
+sidebar_position: 1
+---
+
 ![UserInterface](https://i.imgur.com/H4nqllh.png)
  Пользовательский интерфейс состоит из следующих элементов
  (некоторые кнопки будут доступны только в определённых ситуациях)

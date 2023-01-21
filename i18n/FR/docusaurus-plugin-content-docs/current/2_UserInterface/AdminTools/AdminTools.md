@@ -1,7 +1,12 @@
+---
+title: Admin Interface
+sidebar_position: 2
+---
 
 {# {{tag>Game BROUILLON Admin tool interface UI}} #}
-# Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)##
-Index ##<br></br>
+# Unitystation 
+![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)##
+## Index <br></br>
 `├── 1 - Admin Tool`<br></br>
 `│	 ├── 1.1 - Spawn item`<br></br>
 `│	 ├── 1.2 - Clone & delete Item`<br></br>
