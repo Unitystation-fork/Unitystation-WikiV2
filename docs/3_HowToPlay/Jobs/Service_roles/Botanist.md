@@ -19,10 +19,10 @@ Despite Botanist being classed as Medium, it's currently one of the easiest role
 If the vending machine ever runs out of seeds, put some of your produce in the seed extractor or just ask [Cargo](Cargo-Technician.md) to order some more. If you fail at your job and plants die, then use the gardening spade to dig them up.
 ### Why aren't you playing stardew valley then?
 
-Even if many people think this job is more of a farm simulator rather than a true space station 13 role, the truth is that the biggest interaction the botanist has is with the [Cook](Cook.md), and it's a complicated one. Also, a plasma incident is bad for the crops, so you are not just watching the plants grow, you are protecting them from the raising chaos of the station while they slowly develop into a fully grown plant, not just waiting for them to be harvested.
+Even if many people think this job is more of a farm simulator rather than a true space station 13 role, the truth is that the biggest interaction the botanist has is with the [Cook](Cook.md), and it's a complicated one. Also, a plasma incident is bad for the crops, so you are not just watching the plants grow, you are protecting them from the raising chaos of the station while they slowly develop into a fully grown plant, not just waiting for them to be harvested. 
 
 
-At the moment, the amount of things the botanist can do is limited. Grow apples to supplement the hunger for meat and grow wheat so the [Cook](Cook.md) can blend it into flour for burgers. When civil station life [disintegrates](Battle-royale.md), grow bananas and lay a minefield of peels around your turf to dissuade attackers. If you're an [Antagonist](Antagonist.md), you should mass produce as many lemons as you can, destroying the plants after each harvest and planting new ones from your yield or simply using unstable mutagen with a non-help intent to get mass producible grenades.
+At the moment, the amount of things the botanist can do is limited. Grow apples to supplement the hunger for meat and grow wheat so the [Cook](Cook.md) can blend it into flour for burgers. When civil station life [disintegrates](Battle-royale.md), grow bananas and lay a minefield of peels around your turf to dissuade attackers. If you're an [Antagonist](Antagonist.md), you should try to get your hands on some unstable mutagen to speed up the breeding process so you can acquire the *fun* plants like lemon-nades, gatfruit, and bluespace bananas.
 
 ### The [traitor](traitor.md) botanist
 

@@ -20,27 +20,31 @@ This is a comprehensive list of all items that [Traitors](Traitor.md) and [Nucle
 |  Syndicate Minibomb  | stronger blast than a grenade, but hits a smaller total area. The detonation time after being activated is 5 seconds. | 6TC |
 |  C4  | A bomb that can be attached to walls, objects, and people while on harm intent. It can be configured to detonate on a timer (minimum time 10 seconds), or can be paired with a remote signaller to be remotely triggered. To pair it, simply click the remote signaller on the C4 brick and they are paired. | 1TC |
 |  X4  | C4 but more explosive. | 4TC |
-|  Pizza Bomb | A bomb concealed in a pizza box. | 10TC |
+|  Pizza Bomb | A bomb concealed in a pizza box. sneaky, and yet, so obvious. | 10TC |
 |  Powersink | A bomb that charges up from a wire under it while anchored with a screwdriver. How fast and how strong it exploads depends on how much power is flowing under it and will cause a black out as long as a nearby department battery is offline. | 15TC |
 |  Syndicate Bomb | A huge bulky bomb that is twice as strong as a single X4. When ordered it will give the user a device that will summon the bomb and a remote upon activating directly at where the user is standing. | 20TC |
 | <font color="red">**STEALTHY WEAPONS**</font> | Easily concealed and hard to trace weapons. |  |
 |  Energy Dagger | A smaller and weaker esword disguised as a pen, can be placed anywhere you can fit a pen, like your PDA. | 2TC |
-|  Miniature Energy Crossbow | An (expensive) self charging and easily hideable pocket crossbow that stuns and poisons those it hits. basically a self charging concealable tazer. When fired, it does not leave a message in the chat that would give away your identity | 10TC |
+|  Miniature Energy Crossbow | An (expensive) self charging and easily hideable pocket crossbow that stuns and poisons those it hits. Basically a discrete poison tazer. When fired, it does not leave a message in the chat that would give away your identity. This weapon desperately needs to be paired with another, as the damage and rate of fire are insufficient to kill anyone quickly, but the stun and quiet firing are immensely helpful in an ambush. | 10TC |
 |  Syndicate Holster | A holster for storing all the guns you buy. Cannot currently be disguised, so it's not a very effective stealth tool at the moment. | 1TC |
 |  Suppressor | Reduces the volume of guns with threaded barrels and it does not leave chat messages saying who fired it. Current weapons that can be silenced are Makarovs and Stalker SMGs. | 3TC |
 | <font color="red">**SUITS**</font> | Various suits, typically of the spaceworthy variety. |  |
-|  Syndicate Spacesuit | A spacesuit that can be used similarly to other softsuits on the station. Despite being a softsuit, it is actually very protective, providing better stats than standard security officer armor. while it's main utility is for Traitors, don't forget that as a nuclear operative, this is a good option if you plan to sneak aboard the station and adopt a disguise as it is small enough to fit inside a backpack, allowing you to keep it for when you need to go loud or escape the station. | 4TC |
+|  Syndicate Spacesuit | A spacesuit that can be used similarly to other softsuits on the station. Despite being a softsuit, it is actually very protective, providing slightly better stats than standard security officer armor. while it's main utility is for Traitors, don't forget that as a nuclear operative, this is a good option if you plan to sneak aboard the station and adopt a disguise as it is small enough to fit inside a backpack, allowing you to keep it for when you need to go loud or escape the station. | 6TC |
 |  Syndicate Hardsuit | The same armoured blood-red hardsuit used by nuclear operatives. Very distinct looking, very robust. | 8TC |
 | <font color="red">**MISC. GADGETS**</font> | Gadgets that don't fit in with others |  |
 |  Chest Rig | Acts as an 8 slot belt that can store guns, ammo, grenades, and all manner of other devices. Very cheap, very flexible storage, but also can't be hidden when worn. | 1TC |
 |  Cryptographic Sequencer | Otherwise known as the Emag. It causes doors to open, and certain other machinery to malfunction. Generally, the effects of the Emag are permanent unless someone repairs the affected machines; For example, doors will stay permanently open until repaired. The effects of the Emag are powerful, but it does mean that you leave an obvious trail to follow if you are being pursued. The Emag has 5 regenerating charges, and you can see roughly how many you have left on the card's sprite. It regenerates one charge after 30 seconds. | 6TC |
 |  Surgical Equipment Bundle | Comes with all the tools for surgery in a conspicuous, red and black duffel bag. | 3TC |
+| Combat Med Kit | A slightly larger than normal military first aid kit that comes with the basic medical consumables. | 4TC |
 |  Full Syndicate Toolbox | A mechanical toolbox full of tools, but eviler. Small serrations on the exterior of the toolbox also give it slightly increased melee damage. | 1TC |
 |  Syndicate Soap | Soap, but red, menacing. good for cleaning up any blood from your assassinations. | 1TC |
 | <font color="red">**(POINTLESS) BADASSERY**</font> | Useless fun, or with very niche or RP oriented uses. |  |
 |  Syndicate Balloon | A baloon to show everyone you are with the syndicate, great for getting yourself shot. | 20TC |
 |  Briefcase Full of Cash | A Briefcase full of cash, need I say more? | 1TC |
 |  Syndicate Smokes | A pack of syndicate smokes, operate in style! | 2TC |
+| Clown Costume | everything you need to dress yourself as a clown, with a crayon box and a disguised syndicate headset | 4TC |
+| Greytide Costume | provides more than just an assistant's uniform and disguised headset, it also comes with insulated gloves and an old gas mask | 4TC |
+| Centcom Officer Costume | comes with a centcom officer's uniform and a disguised syndicate headset, but no revolver, so it's a bit risky if other people know to look for that. | 20TC |
 | <font color="red">**BUNDLES**</font> |  |  |
 |  Raw Telecrystals | The currency for transactions made with the syndicate. Add them to a PDA by clicking on it with them in hand. If you kill another traitor, check to see if their uplink is still unlocked on their PDA and take their telecrystals for yourself. | 1, 5, 10, or 20 TC |
 
@@ -93,12 +97,6 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 | <font color="red">**BUNDLES**</font>             | Think of the savings!                                        |         |
 | Bioterror bundle                                 | Currently not worth getting as chemistry is underdeveloped. 12 TC saved. | 30TC    |
 | Bulldozer bundle                                 | Comes with a Bulldozer shotgun, a 12g *stun* slug drum and buckshot drum. Stun slugs are a useful way to get stuns if you need to take someone alive for one reason or another. Saves you 3TC | 13TC    |
-| Stalker bundle                                   | A duffel bag that comes with a stalker with a supressor and two extra magazines. | 14TC    |
+| Stalker bundle                                   | A duffel bag that comes with a stalker with a supressor and an AP magazine and an Incendiary magazine. It saves you 7TC, but since nukies already start with a stalker, really, it's -3TC. This mainly has utility under the very specific circumstances of when you need to arm another person for whatever reason. | 15TC    |
 | Sniper bundle                                    | A briefcase that comes with a Migraine, two spare magazines, and a worn out suit and tie. Saves you 6TC | 20TC    |
-| Spetznas Pyro Bundle                             | Currently not worth getting as it doesn't come with all items it is supposed to. | 30TC    |
-
-
-
-
-
-{% include 'html/rolesnavbar.md' %}
+| Spetznas Pyro Bundle                             | comes with an elite syndicate hardsuit, a stechkin pistol, 2 magazines of stechkin incendiary ammo, a minibomb, and vodka. Not very effective, but definitely fun. | 30TC    |
