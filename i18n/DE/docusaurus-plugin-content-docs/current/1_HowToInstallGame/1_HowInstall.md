@@ -1,4 +1,7 @@
-
+---
+title: Wie man das Spiel installiert
+sidebar_position: 2
+---
 Für das Spiel benötigen Sie zwei Komponenten.
 
 1. StationHub: Dort müssen SIe sich mit ihrem Konto anmelden. Falls Sie noch kein Konto besitzen, müssen Sie ein Konto registrieren. Folgen Sie den Anweisungen in der E-Mail, die an Sie gesendet wurde.

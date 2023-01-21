@@ -1,3 +1,7 @@
+---
+title: Comment Installer le jeu ?
+sidebar_position: 2
+---
 Pour jouer, il vous faut télécharger deux éléments.
 
 Le StationHub , au lancement il vous faudra créer un compte, valider l'email reçu et vous connecter.
