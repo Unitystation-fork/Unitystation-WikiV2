@@ -13,7 +13,7 @@ sidebar_position: 2
 
 # Admin Interface
 
-![unityico]([https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true))
+![unityico](https://raw.githubusercontent.com/unitystation/stationhub/develop/UnitystationLauncher/Assets/unityico.png)
 
 ## Content ##
 
@@ -77,9 +77,9 @@ Beachten Sie, dass es derzeit kein Ctrl+W gibt.
 
 Das Variablenfenster setzt sich wie folgt zusammen
 
-![VariableViewerPannel]([https://i.imgur.com/eGwefyk.png)Les](https://i.imgur.com/eGwefyk.png)Les) couleurs de variable peuvent ainsi être différenciées.
+![VariableViewerPannel](https://i.imgur.com/eGwefyk.png) couleurs de variable peuvent ainsi être différenciées.
 
-![VariableColor]([https://i.imgur.com/jsMibs1.png](https://i.imgur.com/jsMibs1.png))
+![VariableColor](https://i.imgur.com/jsMibs1.png)
 
 1. Aktualisierungshierarchie
 2. Hierarchie der Suchschaltflächen
@@ -103,13 +103,13 @@ Das Variablenfenster setzt sich wie folgt zusammen
 
 ## 2 - Admin-Menü ##
 
-![AdminToolButton]([https://i.imgur.com/u6dFEtq.png](https://i.imgur.com/u6dFEtq.png))
+![AdminToolButton]((https://i.imgur.com/u6dFEtq.png)
 
 Im Gegensatz zu den Admin-Tools ist das Menü verfügbar, sobald Sie sich mit dem Server verbinden.
 
 ### 2.1 - MHELP ##
 
-![MentorChat]([https://i.imgur.com/Kgewtjp.png](https://i.imgur.com/Kgewtjp.png))
+![MentorChat](https://i.imgur.com/Kgewtjp.png)
 
 - MentorChat.
 
@@ -123,17 +123,17 @@ Im Gegensatz zu den Admin-Tools ist das Menü verfügbar, sobald Sie sich mit de
 
 ### 2.2 - [Admin-Symbolleiste] ###
 
-![Pannel]([https://i.imgur.com/zWCeQzz.png](https://i.imgur.com/zWCeQzz.png))
+![Pannel](https://i.imgur.com/zWCeQzz.png)
 
 Dieses Panel ist in 7 Fenster unterteilt.
 
 #### 2.2a - [GameModeManager] ####
 
-![GameModeManager]([https://i.imgur.com/wMViLXt.png](https://i.imgur.com/wMViLXt.png))
+![GameModeManager](https://i.imgur.com/wMViLXt.png)
 
 #### 2.2b - SpielerManager ####
 
-![PlayerManager]([https://i.imgur.com/Go0hAUI.png](https://i.imgur.com/Go0hAUI.png))
+![PlayerManager](https://i.imgur.com/Go0hAUI.png)
 
 - In diesem Fenster sind mehrere visuelle Werkzeuge zusammengefasst.
 
@@ -149,13 +149,13 @@ Dieses Panel ist in 7 Fenster unterteilt.
 
 ##### 2.2b.2 - Einen Spieler sperren #####
 
-![hier Bildbeschreibung eingeben] ([https://i.imgur.com/sdtcGgo.png](https://i.imgur.com/sdtcGgo.png))
+![hier Bildbeschreibung eingeben](https://i.imgur.com/sdtcGgo.png)
 
 ------------
 
 ##### 2.2b.3 - Verbot eines Berufs #####
 
-![JobBan]([https://i.imgur.com/iEcdIhM.png](https://i.imgur.com/iEcdIhM.png))
+![JobBan](https://i.imgur.com/iEcdIhM.png))
 
 
 Ermöglicht es dir, Spieler aufgrund ihres Berufs zu sperren oder zu verbannen. Funktioniert auch für Antagonisten.
@@ -164,13 +164,13 @@ Ermöglicht es dir, Spieler aufgrund ihres Berufs zu sperren oder zu verbannen. 
 
 ##### 2.2b.4 - Schaden #####
 
-![Smite]([https://i.imgur.com/vAMpcrl.png](https://i.imgur.com/vAMpcrl.png))
+![Smite](https://i.imgur.com/vAMpcrl.png)
 
 ------------
 
 ##### 2.2b.5 - Wiederbelebung #####
 
-![Respawn]([https://i.imgur.com/AC5pPcj.png](https://i.imgur.com/AC5pPcj.png))
+![Respawn](https://i.imgur.com/AC5pPcj.png)
 
 Ermöglicht es Ihnen, einen Spieler wieder zum Leben zu erwecken (auch wenn er noch lebt).
 
@@ -228,7 +228,7 @@ kann damit nur zusätzlich das Mentor-Interface geöffnet werden.
 
 #### 2.2c - CC (Zentralkommando, CentComm) ####
 
-![CentComm]([https://i.imgur.com/h1IA8gc.png](https://i.imgur.com/h1IA8gc.png))
+![CentComm](https://i.imgur.com/h1IA8gc.png)
 
 Dies ist ein Werkzeug für Rollenspiele** `/!\* **Dies ist ein Werkzeug für Rollenspiele** `/!\*`.
 
@@ -240,7 +240,7 @@ Für weitere Informationen, siehe
 
 #### 2.2d - Ereignis-Manager ####
 
-![EventManager]([https://i.imgur.com/1PYvGB4.png](https://i.imgur.com/1PYvGB4.png))** Ereignistyp:**.
+![EventManager](https://i.imgur.com/1PYvGB4.png)** Ereignistyp:**.
 
 * Zufällig
 * Spaß
@@ -256,11 +256,11 @@ zur Bestätigung **[Ereignis ausführen]** drücken.
 
 #### 2.2f - Entwickler-Tools ####
 
-![DevTool]([https://i.imgur.com/plGL6aB.png](https://i.imgur.com/plGL6aB.png))
+![DevTool](https://i.imgur.com/plGL6aB.png)
 
 #### 2.2g - Server-Einstellungen ####
 
-![ServerSettings]([https://i.imgur.com/7LMIvPP.png](https://i.imgur.com/7LMIvPP.png))
+![ServerSettings](https://i.imgur.com/7LMIvPP.png)
 
 Verschiedene "andere" Einstellungen zur Serversteuerung werden hier gesammelt, neue werden bald hinzugefügt.
 
@@ -268,7 +268,7 @@ Verschiedene "andere" Einstellungen zur Serversteuerung werden hier gesammelt, n
 
 ### 2.3 - ACHAT ###
 
-[Einkaufen] ([https://i.imgur.com/uVoHfiK.png](https://i.imgur.com/uVoHfiK.png))
+![Einkaufen](https://i.imgur.com/uVoHfiK.png)
 
 Chat-Fenster im Spiel für Administratoren, nur zwischen ihnen.
 
@@ -276,7 +276,7 @@ Chat-Fenster im Spiel für Administratoren, nur zwischen ihnen.
 
 ### 2.4 - ALOGS ###
 
-![AdminLogs]([https://i.imgur.com/uvhI6EE.png](https://i.imgur.com/uvhI6EE.png))
+![AdminLogs](https://i.imgur.com/uvhI6EE.png)
 
 Administratoren-Logs
 
@@ -286,7 +286,7 @@ Logs von Admin-Operationen, wie z.B. das Spawnen von Gegenständen.
 
 ### 2.5 - AHELP ###
 
-![AHELP]([https://i.imgur.com/9dd4Vxh.png](https://i.imgur.com/9dd4Vxh.png))
+![AHELP](https://i.imgur.com/9dd4Vxh.png)
 
 Chat-Fenster vom Spieler zum Admin
 
@@ -297,7 +297,7 @@ Der Spieler kann das Fenster öffnen, indem er die Eingabetaste drückt, dann dr
 
 ### 2.6 - [INFO] ###
 
-![Info]([https://i.imgur.com/S3bbx59.png](https://i.imgur.com/S3bbx59.png))
+![Info](https://i.imgur.com/S3bbx59.png)
 
 Diese kleine Taste (1. Taste, 2. Zeile)
 
@@ -315,7 +315,7 @@ Sound-Player, hörbar für den gesamten Server.
 
 ### 2.8 - Globale Musik ###
 
-![MusicPlayer]([https://i.imgur.com/NrEMea1.png](https://i.imgur.com/NrEMea1.png))
+![MusicPlayer](https://i.imgur.com/NrEMea1.png)
 
 
 Musikplayer, der auf dem gesamten Server hörbar ist.
@@ -324,7 +324,7 @@ Musikplayer, der auf dem gesamten Server hörbar ist.
 
 ### 2.9 - APRIZRAK ###
 
-![APPRISER]([https://i.imgur.com/qPV89TN.png](https://i.imgur.com/qPV89TN.png)) erlaubt es Ihnen, aus Ihrem Körper herauszutreten,
+![APPRISER](https://i.imgur.com/qPV89TN.png) erlaubt es Ihnen, aus Ihrem Körper herauszutreten,
 
 
 nützlich, um Objekte erscheinen zu lassen oder den Spieler zu beobachten, ohne gesehen zu werden.
@@ -333,7 +333,7 @@ nützlich, um Objekte erscheinen zu lassen oder den Spieler zu beobachten, ohne 
 
 ### 2.10 - WARNUNGEN ###
 
-![ALERTS]([https://i.imgur.com/RdMFluj.png](https://i.imgur.com/RdMFluj.png))
+![ALERTS](https://i.imgur.com/RdMFluj.png)
 
 
 In diesem Fenster erhalten Sie Rückmeldungen zu Ereignissen, z. B. wenn ein Spieler einen anderen Spieler tötet.

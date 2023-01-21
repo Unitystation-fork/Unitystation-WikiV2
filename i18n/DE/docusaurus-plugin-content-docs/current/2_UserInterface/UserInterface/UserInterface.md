@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 # User Interface
-![UserInterface]([https://i.imgur.com/H4nqllh.png](https://i.imgur.com/H4nqllh.png))
+![UserInterface](https://i.imgur.com/H4nqllh.png)
 
 Die Benutzeroberfläche besteht aus den folgenden Elementen:
 (Einige Schaltflächen sind nur in bestimmten Situationen verfügbar)
@@ -47,21 +47,21 @@ Die Benutzeroberfläche besteht aus den folgenden Elementen:
 15. Kleidungskontrolle öffnen/schließen.
 
 	15a. Hand/Handschuh
-	
+
 	15b. Brust
-	
+
 	15c. Kopfhörer
-	
+
 	15d. Gesicht
-	
+
 	15e. Schuhe
-	
+
 	15f. Jacke/Rüstung
-	
+
 	15g. Hals
-	
+
 	15h. Augen
-	
+
 	15i. Kopf
 
 16. Der Gürtel
@@ -69,9 +69,9 @@ Die Benutzeroberfläche besteht aus den folgenden Elementen:
 17. Rucksack
 
 	17a. Anzahl der verfügbaren Steckplätze/gesamte Steckplätze
-	
+
 	17б. Mittlerer Schlitz
-	
+
 	17c. Schließender Behälter
 
 18. PDA/ID
@@ -107,4 +107,3 @@ Die Benutzeroberfläche besteht aus den folgenden Elementen:
 33. Option (oder Spielmenü)
 
 34. Serverantwort (Verzögerung in ms)
-

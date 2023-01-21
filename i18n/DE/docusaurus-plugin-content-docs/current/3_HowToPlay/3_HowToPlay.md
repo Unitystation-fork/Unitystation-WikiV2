@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 ## Einzelspieler ##
 
 Nach dem Herunterladen des Builds

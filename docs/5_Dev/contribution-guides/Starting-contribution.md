@@ -15,7 +15,7 @@ You will need these to start your journey:
 - [Unity Hub](https://unity3d.com/get-unity/download) Manages your Unity installations. It will install the proper Unity version for you, so you don't really need to worry about that. (but if you want to know, it is **2021.3.0f1 LTS** at the time of writing this guide 17.04.2022).
 - A [GitHub account](https://github.com/).
 
-- You'll also need to download Git from this link https://git-scm.com/, this is different from GitHub and will allow unity to download its dependencies. 
+- You'll also need to download Git from this link https://git-scm.com/, this is different from GitHub and will allow unity to download its dependencies.
 
 - An SSD drive is *highly* recommended to store project files on – this will greatly affect first import time.
 
@@ -25,7 +25,7 @@ You will need these to start your journey:
 
 If you already know what you're doing, go to our [GitHub](https://github.com/unitystation/unitystation) and fork. Otherwise, look at this picture, from now on this will be the **contribution cycle**. This is how our workflow will look at the end of the tutorial.
 
-<img src="https://i.imgur.com/qPg9XmQ.png" alt="Contribution cycle" style="zoom:120%;" />
+<img src="https://i.imgur.com/qPg9XmQ.png" alt="Contribution cycle" />
 
 
 
@@ -37,13 +37,13 @@ First, you did your [GitHub account](https://github.com/) account as suggested, 
 
 As the hint suggests, this will create your very own copy of Unitystation under your account. This copy is yours and you can do whatever you want with it, but in order to contribute, you will need to comply with some good practices I'll tell you in a second.
 
-Good, now we just need GIT. You don't know what a GIT is? Well, GIT is a [Version Control Software](https://en.wikipedia.org/wiki/Version_control) designed to deal with the problem of having multiple people modifying the same files at the same time. In other words, we need it. If we don't use it, the project would descend into chaos. 
+Good, now we just need GIT. You don't know what a GIT is? Well, GIT is a [Version Control Software](https://en.wikipedia.org/wiki/Version_control) designed to deal with the problem of having multiple people modifying the same files at the same time. In other words, we need it. If we don't use it, the project would descend into chaos.
 
 At this point, you have a very important decision to make. It is like the type of Pokémon you choose to start your adventure... You want [GIT with GUI](https://desktop.github.com/) or [CLI](https://gitforwindows.org/)? I will describe the starting steps for both now, so you can make your mind. (OSX and Linux come with GIT CLI installed!)
 
 ##### Cloning from your GitHub
 
-**You are here**:  <img src="https://i.imgur.com/jLPqKL9.png" alt="cloning" style="zoom: 80%;" />
+**You are here**:  <img src="https://i.imgur.com/jLPqKL9.png" alt="cloning" />
 
 After **Forking** from Unitystation official repo (**upstream**), we need to **clone** from our fork so we get the files into your computer (**Local repo**).
 
@@ -51,7 +51,7 @@ After **Forking** from Unitystation official repo (**upstream**), we need to **c
 
 |                        GitHub Desktop                        |                           Git Bash                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![desk1](https://i.imgur.com/a0LNXEG.png)<br /><img src="https://i.imgur.com/mVoz1Kp.pnghttps://i.imgur.com/QYUSgJQ.png" alt="desk2" style="zoom:80%;" /> | Navigate to the folder where you want to save the files<br />``git clone https://github.com/YourUser/YourRepo.git`` |
+| ![desk1](https://i.imgur.com/a0LNXEG.png)<br /><img src="https://i.imgur.com/mVoz1Kp.pnghttps://i.imgur.com/QYUSgJQ.png" alt="desk2" /> | Navigate to the folder where you want to save the files<br />``git clone https://github.com/YourUser/YourRepo.git`` |
 
 
 
@@ -109,7 +109,7 @@ Let's close Unity Editor for now. After our import/test play you will notice it 
 
 You will be doing this **a lot** so make sure to learn it!
 
-Now that our **develop** branch is completely clean we will create a new branch from it. Try to always have a **feature branch** you can play with and keep **develop** pristine. 
+Now that our **develop** branch is completely clean we will create a new branch from it. Try to always have a **feature branch** you can play with and keep **develop** pristine.
 
 What's a branch? Well, let's say it is like having a multiverse in your folder. In **branch A** you have a file called "greeting.txt" and its content is "hello world", while in **branch B** you have the same file but now its content is "hello universe". You can see how this is useful for us, so we have a version of the game that is common to everyone and you have your own version with the feature you're adding. We can later **merge** both branches and GIT will try its best to do it smoothly.
 
