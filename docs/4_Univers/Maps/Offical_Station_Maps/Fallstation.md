@@ -12,7 +12,7 @@ Fallstation also has it's own unique syndicate and centcom bases. The [Nuke Ops]
 
 
 
-![map](FallStation.png)
+![map](\img\Stations\FallStation.png)
 
 
   <br/>
