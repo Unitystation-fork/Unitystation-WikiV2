@@ -1,6 +1,11 @@
+---
+title: Admin Interface
+sidebar_position: 2
+---
 
 {# {{tag>Интерфейс пользовательского интерфейса инструмента администратора игры BROUILLON}} #}
-# Unitystation ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
+![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
+# Admin Interface
 ## Содержание ##
 
 `├── 1 - Инструмент администратора`<br></br>

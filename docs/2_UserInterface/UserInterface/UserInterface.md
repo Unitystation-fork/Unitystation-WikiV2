@@ -1,3 +1,8 @@
+---
+title: User Interface
+sidebar_position: 1
+---
+
 # User Interface
 ![UserInterface](https://i.imgur.com/H4nqllh.png)
  The user interface consists of the following elements

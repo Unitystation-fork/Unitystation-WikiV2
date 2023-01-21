@@ -1,102 +1,105 @@
+---
+title: Welcome
+sidebar_position: 1
+---
 
-# Welcome to Unitystation Documentation ! #
-## Qu'est-ce que Unitystation ? ##
+# Добро пожаловать в документацию Unitystation! #
+## Что такое Unitystation? ##
 
-**Unitystation** est un jeu online multiplayers RPG 2D tournant avec le moteur Unity.
+**Unitystation** - это многопользовательская онлайновая 2D RPG игра на движке Unity.
 
-c'est un jeu encourageant le Roleplay, gratuit et opensources.
+Это бесплатная ролевая игра с открытым исходным кодом.
 
-Unitystation est un outil vidéo ludique qui met à disposition des joueurs tous les outils pour s’immerger dans la vie spatiale et pratiquer le **Role Play**
+Unitystation - это увлекательное видео, которое предоставляет игрокам все инструменты для погружения в космическую жизнь и практики **Ролевой игры**.
 
 
-Vous incarnez un personnage, membre d’équipage de la station spatiale militaro-industriel de Nanotrasen.
+Вы играете за персонажа, члена экипажа военно-промышленной космической станции Nanotrasen.
 
-Selon votre job vous avez divers objectifs.
+В зависимости от вашей работы перед вами стоят различные задачи.
 
 ## SS13 ? byond ?Unity? ##
 
 
-## Quel est le but. ##
+## Какова цель? ##
 
-Faire fonctionner, en collaboration avec les membres d'équipage, la station spatiale et accomplir les objectifs commerciaux envoyés par la société vous employant, Nanotrasen.
-
-  
-
-Par exemple :
-
-Le cuisinier doit garder tout le monde bien nourri. :cut_of_meat:
-
-Le botaniste doit faire pousser des légumes pour le cuisinier et le médecin. :seedling:
-
-Le médecin essaye de garder ses patients en vie. :medical_symbol:
-
-La scientifique tente de percer les secrets de l'univers. :microscope:
-
-Le concierge garde le sol propre et reste en vie. :broom:
-
-Les gardes essayent de rester en vie et de garder la station sûre.:police_officer:
+Работать вместе с экипажем над управлением космической станцией и достижением бизнес-целей, направленных вам нанимающей вас компанией "Нанотрасен".
 
   
 
-Il se peut que vous rencontriez des imprévus, que ce soit : une pluie de météorites, une épidemie, des aliens ayant envahis la station, ou encore un agent infiltré ayant reçu l'ordre de vous tuer dans un couloir de maintenance.
+Например:
+
+Повар должен следить за тем, чтобы все были сыты. :cut_of_meat:
+
+Ботаник должен выращивать овощи для повара и врача. :seedling:
+
+Врач пытается сохранить жизнь своим пациентам. :medical_symbol:
+
+Ученый пытается раскрыть секреты Вселенной. :microscope:
+
+Смотритель поддерживает чистоту и жизнь на этаже. :broom:
+
+Охранники пытаются выжить и сохранить станцию в безопасности :police_officer:
 
   
 
-A vous de faire de votre mieux pour faire votre job et survivre.
+Вы можете столкнуться с непредвиденными обстоятельствами, будь то метеоритный дождь, эпидемия, вторжение инопланетян на станцию или агент под прикрытием, которому приказано убить вас в коридоре технического обслуживания.
 
   
 
-  
-
-## Peut-on gagner ? ##
-
-(Techniquement, )c'est un jeu Roleplay, au sens où l'experience collective est une fin en soit.
-
-Le jeu prend toute sa richesse dans l'interaction avec les autres joueurs,  dans vos objectifs individuels, ou collectifs.
-
-  
-
-Bien que vous puissiez mourir, être cloné ou revivre sous les traits d'un autre personnage,le joueur à une liberté de création, d'expression, dans le cadre de son job ou de manière plus secrète.
-
-  
-
-## Peut-on mourir ? ##
-
-Oui ! Et ce ne sont pas les causes qui manquent:
-
-Abattu, poignardé, asphyxié dans le vide de l'espace, dévoré par une créature, avalé dans un trou noir, d'une maladie inconnue sortant du laboratoire, démembré, électrocuté et bien d'autres possibilités ...
-
-Il y a du choix !
-
-  
-
-## Et après ? ##
-
-Vous pouvez interagir avec bon nombre d'objets, les créer ou les détruire.
-
-Jouez, expérimentez, discutez, apprenez, minez, craftez, soignez, mangez, courez, mourez,
-
-recommencez (différemment ou non).
-
-(Les joueurs ont la possibilité de tout détruire, tout construire et modifier.
-
-Chaque câble électrique, chaque canalisation peut avoir son importance.
-
-D'incroyables projets d'ingénierie, au pur chaos de la destruction, laissez libre cours à votre imagination.
-
-Partagez vos stories, anecdotes, fan-arts.
+Все зависит от вас, чтобы сделать все возможное для выполнения своей работы и выжить.
 
   
 
   
 
-## **À bord il existe quelques règles:** ##
+## Мы можем победить? ##
 
-Don't be a Asshole
+(Технически, )это ролевая игра, в том смысле, что коллективный опыт является самоцелью.
 
-No Metagaming/powergaming
+Игра становится богаче во взаимодействии с другими игроками, в ваших индивидуальных или коллективных целях.
 
-DO YOUR JOB ! (ou faites de votre mieux pour)
+  
+
+Хотя вы можете умереть, быть клонированным или вернуться к жизни в качестве другого персонажа, у игрока есть свобода творчества и самовыражения, в рамках своей работы или более тайным образом.
+
+  
+
+## Вы можете умереть? ##
+
+Да, и в причинах нет недостатка:
+
+Застреленный, зарезанный, задохнувшийся в вакууме космоса, пожираемый тварью, проглоченный в черной дыре, от неизвестной болезни, вышедшей из лаборатории, расчлененный, убитый током и множество других возможностей...
+
+Есть из чего выбрать!
+
+  
+
+## И что потом? ##
+
+Вы можете взаимодействовать со многими объектами, создавать или разрушать их.
+
+Играйте, экспериментируйте, обсуждайте, учитесь, добывайте, взламывайте, лечитесь, ешьте, бегайте, умирайте,
+
+начать все сначала (по-другому или нет).
+
+(Игроки могут разрушать, строить и модифицировать все.
+
+Каждый электрический кабель, каждая труба могут быть важны.
+
+Дайте волю своему воображению - от невероятных инженерных проектов до полного хаоса разрушений.
+
+Поделитесь своими историями, анекдотами, фан-артом.
+
+  
+
+
+## На борту есть несколько правил:** ##
+
+Не будь мудаком
+
+Нет метагейминга/пауэргейминга
+
+ВЫПОЛНЯЙТЕ СВОЮ РАБОТУ! (или сделайте все возможное для этого)
 
 [https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg](https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg)
 
@@ -104,4 +107,5 @@ DO YOUR JOB ! (ou faites de votre mieux pour)
 
   
 
-**======= __Welcome to the UnityStation, Enjoy your stay__ ! =======**
+======= __Добро пожаловать на UnityStation, приятного пребывания__! =======**
+

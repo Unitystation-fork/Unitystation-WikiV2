@@ -1,4 +1,7 @@
-
+---
+title: Welcome
+sidebar_position: 1
+---
 # Welcome to Unitystation Documentation ! #
 ## Qu'est-ce que Unitystation ? ##
 
