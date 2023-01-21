@@ -28,3 +28,5 @@ import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
 <Jobs />
 
+# Space Law
+please check "security officer page"
