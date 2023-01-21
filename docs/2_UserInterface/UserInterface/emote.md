@@ -1,35 +1,37 @@
- - backflip 
- - clap
- - cough
- - cross
- - cry
- - dance
- - drool
- - felinepurr
- - frown
- - gag
- - giggle
+ - backflip
+ - clap 
+ - cough 
+ - cross 
+ - cry 
+ - dance 
+ - drool 
+ - felinepurr 
+ - frown 
+ - gag 
+ - giggle 
  - grimace
- - inhale
- - jump
- - laugh
- - merp
- - pout
- - scream
- - shake
- - sign
- - sit
- - smile
- - smug
+ - inhale 
+ - jump 
+ - laugh 
+ - merp 
+ - pout 
+ - scream 
+ - shake 
+ - sign 
+ - sit 
+ - smile 
+ - smug 
  - snap
- - sneeze
- - stare
- - stretch
- - sulk
- - surrender
- - SurrenderSimple
- - sway
+ - sneeze 
+ - stare 
+ - stretch 
+ - sulk 
+ - surrender 
+ - SurrenderSimple 
+ - sway 
  - tremple
- - twitch
- - whimper
+ - twitch 
+ - whimper 
  - yawn
+ - o7 (salut)
+
