@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Unitystation Documentation',
   tagline: 'Unitystation Documentation',
-  url: 'http://31.211.16.159:8203/fr/docs/',
+  url: 'http://31.211.16.159:8203/',
   baseUrl: '/',
   staticDirectories: ['static'],
   onBrokenLinks: 'ignore',
@@ -61,7 +61,7 @@ const config = {
       navbar: {
         title: 'Unitystation Documentation',
         logo: {
-          alt: 'Unitystation's Logo',
+          alt: 'Unitystation\'s Logo',
           src: 'img/logo.png',
         },
         items: [
