@@ -28,9 +28,8 @@ Different maps will have different engines for you to work with. The plasma gene
 
 The alternative choices to powering the station are much more complicated, and can go horribly wrong if you don't manage things closely. It is highly recommended to not mess with them without having read the guides or having a more experienced engineer walk you through the steps.
 
- [click here for the guide to starting the Singularity and Tesla Engines](Guide to the Singularity and Tesla.md)
 
- [click here for the guide to starting the nuclear reactor](Guide-to-the-nuclear-reactor.md)
+[](/static/img/jobs/GIF99.gif)
 
 
 ### Tools
