@@ -15,10 +15,9 @@ Présentant le projet, l'installation, l'interface et l'univers.
 
 Ce projet est développer en:
 
-- HTML/CSS (bootstrap)
-- Javasript (Jquery, Bootstrap, elasticlundr, highlightjs)
+- HTML/CSS 
+- Javasript (Node.js, Docusaurus)
 - Markdown
-- python (Mkdocs)
 
 -------------
 
@@ -34,12 +33,9 @@ Présentation de l'interface, comment jouer et présentation de l'univers.
 
 Pour construire le wiki en local avant de modifier la version actuelle du wiki :
 
+- installer node.js
 - Cloner/Télécharcher le projet
-- installer python et le gestionnaire de package pip
-- Crée un environnement virtuel (optionnel)
-- lancer `pip install -r requirements.txt`
-- Mkdocs a ses propres instruction d'installation analyser la documentation pour en cas soucis *optionnel*
-- lancer le serveurs local avec la commande `mkdocs serve`. si vous êtes sur windows et que la commande mkdocs est non reconnu utiliser `python -m mkdocs serve`
+- Lancement en local ```npm i``` pour la version dev ```npm run start``` pour build ```npm run build``` puis ```npm run serve```
 
 
 ------------
