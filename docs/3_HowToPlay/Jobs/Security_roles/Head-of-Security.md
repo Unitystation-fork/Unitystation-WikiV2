@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Head of Security
 **Role type:** <font color= "#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
 
