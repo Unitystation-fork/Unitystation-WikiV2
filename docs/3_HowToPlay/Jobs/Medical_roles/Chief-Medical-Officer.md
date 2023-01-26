@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Chief Medical Officer
 
 **Role type**: <font color= "#d673b2">Medical</font> . **Access**: <font color="#d673b2">Medbay</font>. **Difficulty**: <font color="Red">Extreme</font>.
