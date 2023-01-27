@@ -17,6 +17,8 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-container-width-xl: 100%;
   --ifm-table-cell-padding: 0.1rem;
+  --ifm-menu-link-padding-vertical: 0;
+  --ifm-navbar-sidebar-width: auto;
 
 }
 
@@ -30,4 +32,8 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.navbar-sidebar__back {
+  display: none;
 }
