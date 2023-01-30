@@ -40,9 +40,13 @@ The [nuke disk](Nuclear-Authentication-Disk.md) is an item that spawns in the [c
 
 With nuke disk pinpointers and a variety of antag roles specialized on taking this disk away, this is THE MOST risky item to have on your person. People interested in this item would be:
 
-    1) [Nuke Ops](Nuclear%20Operative.md). The most consistent and a force to be reckoned with. Their objective is to use this item to blow up the station. They are well armed and have disk pinpointers.
-    2) [Wizards](Wizard.md). Very dangerous and consistent, very well armed with their spells and magic weapons, they present a big threat to the station. They most of the time don't have a disk pinpointer, but they have teleportation so beware.
-    3) [Traitors](Traitor.md). The least dangerous and somewhat inconsistent. They may be assigned to steal the disk and leave the station, which leaves them vulnerable to be killed while trying to leave.
-    4) [Death Squad](Death-Squad.md). *The most dangerous bar none,* but very inconsistent, as they only appear during admin events. They are BY FAR the most well equipped people you will find, and ARE NOT to be taken slightly. The best option is setting the escape shuttle to arrive in the least time possible and getting out ASAP. They have access to disk pinpointers.
-    5) The station command. Of course, the [Cap](Captain.md) is going to be on the lookout for the disk if its lost, so beware of him if you are an antag.
+1) [Nuke Ops](Nuclear%20Operative.md). The most consistent and a force to be reckoned with. Their objective is to use this item to blow up the station. They are well armed and have disk pinpointers.
+
+2) [Wizards](Wizard.md). Very dangerous and consistent, very well armed with their spells and magic weapons, they present a big threat to the station. They most of the time don't have a disk pinpointer, but they have teleportation so beware.
+
+3) [Traitors](Traitor.md). The least dangerous and somewhat inconsistent. They may be assigned to steal the disk and leave the station, which leaves them vulnerable to be killed while trying to leave.
+
+4) [Death Squad](Death-Squad.md). *The most dangerous bar none,* but very inconsistent, as they only appear during admin events. They are BY FAR the most well equipped people you will find, and ARE NOT to be taken slightly. The best option is setting the escape shuttle to arrive in the least time possible and getting out ASAP. They have access to disk pinpointers.
+
+5) The station command. Of course, the [Cap](Captain.md) is going to be on the lookout for the disk if its lost, so beware of him if you are an antag.
 
