@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Access
 Note: This guide is about access and getting it, for the job that changes it, look for the HoP guide [here](HoP.md).
 

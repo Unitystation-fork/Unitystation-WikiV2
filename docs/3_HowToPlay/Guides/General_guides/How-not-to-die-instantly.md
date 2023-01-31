@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # How not to die instantly
 
 ## Back to Basics
@@ -77,4 +81,3 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
 <Jobs />
-
