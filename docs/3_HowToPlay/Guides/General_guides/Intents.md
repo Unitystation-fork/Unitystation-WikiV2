@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Intents
 The intent selector of the UI has four modes: 'Help**, **Disarm**, **Grab**, and **Harm'.
 
