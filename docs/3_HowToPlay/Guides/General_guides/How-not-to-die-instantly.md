@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # How not to die instantly
 
 ## Back to Basics
