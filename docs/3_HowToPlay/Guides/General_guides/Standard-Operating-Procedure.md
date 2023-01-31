@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Standard Operating Procedure
 
 ## <font color= "#green">Code Green - All Clear</font>.
