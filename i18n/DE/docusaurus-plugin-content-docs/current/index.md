@@ -1,4 +1,5 @@
 ---
+slug: /
 title: Welcome
 sidebar_position: 1
 ---
@@ -24,7 +25,7 @@ Je nach Job haben Sie verschiedene Ziele.
 
 Zusammen mit den Besatzungsmitgliedern die Raumstation betreiben und die Geschäftsziele erreichen, die von Ihrem Arbeitgeber, der Firma Nanotrasen, vorgegeben werden.
 
-  
+
 
 Beispiel:
 
@@ -40,17 +41,17 @@ Der Hausmeister hält den Boden sauber und bleibt am Leben. :broom:
 
 Die Wachen versuchen, am Leben zu bleiben und die Station sicher zu halten:police_officer:
 
-  
+
 
 Es kann vorkommen, dass Sie auf Unvorhergesehenes stoßen, sei es ein Meteoritenschauer, eine Epidemie, Aliens, die in die Station eingedrungen sind, oder ein verdeckter Ermittler, der den Befehl hat, Sie in einem Wartungskorridor zu töten.
 
-  
+
 
 Es liegt an Ihnen, Ihr Bestes zu geben, um Ihren Job zu erledigen und zu überleben.
 
-  
 
-  
+
+
 
 ## Kann man gewinnen? ##
 
@@ -58,11 +59,11 @@ Es liegt an Ihnen, Ihr Bestes zu geben, um Ihren Job zu erledigen und zu überle
 
 Das Spiel erhält seinen Reichtum durch die Interaktion mit anderen Spielern, durch Ihre individuellen oder kollektiven Ziele.
 
-  
+
 
 Obwohl Sie sterben, geklont werden oder als ein anderer Charakter wiederbelebt werden können, hat der Spieler die Freiheit, sich kreativ auszudrücken, sei es im Rahmen seines Jobs oder im Verborgenen.
 
-  
+
 
 ## Kann man sterben? ##
 
@@ -72,7 +73,7 @@ Erschossen, erstochen, im Vakuum des Weltraums erstickt, von einer Kreatur gefre
 
 Es gibt eine große Auswahl!
 
-  
+
 
 ## Und was kommt danach? ##
 
@@ -90,9 +91,9 @@ Von unglaublichen technischen Projekten bis hin zum puren Chaos der Zerstörung 
 
 Teilen Sie Ihre Stories, Anekdoten und Fan-Arts.
 
-  
 
-  
+
+
 
 ## **An Bord gibt es einige Regeln:** ##
 
