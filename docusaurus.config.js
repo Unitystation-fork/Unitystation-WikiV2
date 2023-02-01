@@ -136,6 +136,10 @@ const config = {
         defaultMode: 'dark'
       },
     }),
+  markdown: {
+    mermaid: true
+  },
+  themes: ['@docusaurus/theme-mermaid'],
 };
 
 module.exports = config;
