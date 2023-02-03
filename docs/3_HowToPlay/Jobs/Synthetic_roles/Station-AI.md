@@ -1,3 +1,6 @@
+---
+title: Station AI
+---
 # Station Artificial Intelligence
 **Role type**: <font color="#a85fb9">Synthetic.</font> **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">medium to hard</font>.
 
