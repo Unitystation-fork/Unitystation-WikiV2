@@ -37,3 +37,7 @@
 .navbar-sidebar__back {
   display: none;
 }
+
+table {
+  display: table;
+}
