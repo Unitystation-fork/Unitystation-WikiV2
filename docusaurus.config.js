@@ -108,6 +108,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/Unitystation-fork/Unitystation-WikiV2',
               },
+              {
+                label: 'How to contribute',
+                href: 'https://docs.github.com/en/get-started/quickstart/contributing-to-projects',
+              },
             ],
           },
         ],
