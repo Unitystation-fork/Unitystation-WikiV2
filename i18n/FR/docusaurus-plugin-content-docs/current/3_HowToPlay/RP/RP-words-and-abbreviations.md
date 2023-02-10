@@ -10,11 +10,11 @@ Abbreviation for Out Of Character. Used for discussions outside of the game (for
 
 Abbreviation for In Character. Used for communicating in-roleplay with other people. IC chat's default key is T (Y for IC chat over communications, if you have a comms headset equipped).
 
-<big>'Metagaming**</big> **[against the rules]'
+<big>'Metagaming**</big> **[against the rules]**
 
 The IC use of information that you gained OOCly, an example being to kill John Doe because someone OOCly is complaining to an admin about how John RDMed. Another, less frequently used form of metagaming is Metagrudging, in which you attack or otherwise interact with someone based on something that happened in a previous round of Unitystation.
 
-<big>'Icky Ocky**</big> **[against the rules]'
+<big>'Icky Ocky**</big> **[against the rules]**
 
 Means IC in OOC. A common example is telling people to clone you and revealing where your body is. Often times giving instructions on how a machine or item works in OOC chat is NOT icky ocky.
 
@@ -26,11 +26,11 @@ Means [Antagonist](Antagonist.md). Used when you're too lazy to just say antagon
 
 When hordes of new players flood servers of Unitystation or SS13. Name comes from the fact that most new players pick [Assistant](Assistant.md), who wear gray jumpsuits. One form of graytide is Tubertide, where new players flood the game because of a popular or semi-popular youtuber making a video on or mentioning the game.
 
-<big>'Plasmabombing**</big> **[against the rules, unless you're an Antagonist]'
+<big>'Plasmabombing**</big> **[against the rules, unless you're an Antagonist]**
 
 Filling the station with plasma and then lighting it on fire.
 
-<big>'Shuttlebombing**</big> **[against the rules, unless you're an Antagonist]'
+<big>'Shuttlebombing**</big> **[against the rules, unless you're an Antagonist]**
 
 Suicide bombing a shuttle or other space craft into the station. Most common example is either [Mining](Shaft-Miner.md) taking their shuttle and ramming it into the station, or [Nuke Ops](Nuclear-Emergency.md) adapting some new strategies.
 
