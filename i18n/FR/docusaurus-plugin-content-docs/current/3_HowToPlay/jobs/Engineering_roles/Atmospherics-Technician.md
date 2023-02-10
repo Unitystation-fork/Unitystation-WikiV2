@@ -1,3 +1,31 @@
+# Atmospherics Technician
+Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
+
+Note: this is the job guide, for the gas/pipe guide, go [here](Guide-to-Atmospherics.md)
+
+En tant que technicien atmosphérique, votre travail consiste essentiellement à [stop the station's crew members from suffocating to death](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
+
+### Pour l'amour de Dieu, ne remplissez pas la station de plasma.
+
+Les Atmos Techs sont censés empêcher la station de devenir irrespirable. Pour l'instant, vous n'avez pas grand-chose à faire ; les Atmos sont à peine présents dans le jeu, et vous pouvez donc vous détendre. Assurez-vous simplement que l'[Ingénieur en chef](Chief-Engineer.md) ne vous prenne pas en défaut, et tout ira bien.
+
+Cependant, si vous avez envie de causer des problèmes (et de risquer une interdiction), vous avez accès à des outils puissants : Plasma Canisters''. These are filled with Plasma, a highly flammable gas that can fill the station rather quickly, and can easily be set on fire if you either fire a gun or tazer, or activate a welder while inside plasma. **Gardez à l'esprit** que [plasmabombing] (RP-words-and-abbreviations.md) est une infraction bannissable si vous n'êtes pas un Antagoniste.
+
+### Comment s'assurer que ces bâtards à la chemise grise ne s'étouffent pas.
+
+L'atmosphère de la station est un mélange de 20% d'oxygène et 80% d'azote à 300 KPA, avec un peu de co2 pour le goût. Si (quand) quelque chose se brise, une brèche ou un incendie se déclare, votre première tâche sera d'aider les [ingénieurs] ordinaires (Engineer.md) à colmater les trous menant à l'espace ou à éteindre les incendies.
+
+Une fois que c'est fait, assurez-vous qu'aucun [idiot] (Assistant.md) n'essaie de pénétrer dans l'espace de travail et de mourir, bloquez l'accès avec des avertissements très clairs et des verrous anti-incendie si nécessaire. Pour ce faire, vous utiliserez les réservoirs de gaz que vous trouverez dans votre section d'ingénierie, placez un réservoir d'oxygène et un réservoir d'azote (de préférence deux réservoirs de nitro) dans la zone sans atmosphère et faites-les monter à 300 kpa, laissez-les remplir la zone et utilisez votre scanner d'atmosphère pour savoir quand il est temps de les sceller (lorsque la pression atteint 300 kpa).
+
+### AIDEZ-MOI, JE SUIS EN FEU
+
+Alors que tous les autres membres de l'équipage peuvent toujours utiliser des extincteurs pour éteindre le feu, vous pouvez mieux le faire dans votre combinaison rigide en amiante, qui vous rend complètement immunisé contre tout* feu. Il vous suffit de détacher votre extincteur et de faire feu. Sinon, vous pouvez essayer de faire des coupe-feu ou d'enlever ces étranges confettis roses inflammables dans l'air.
+
+### Remplissez la station de plasma ([traître](traître.md) Atmos Tech).
+
+Les technologies atmos [Traitor](traitor.md) ont le potentiel de devenir l'une des forces les plus dévastatrices de la station. Si vous savez ce que vous faites, vous pouvez inonder la station de tous les gaz nocifs que vous voulez, mais n'oubliez pas de préparer vos internes. L'individu le plus susceptible d'interférer avec votre travail est un autre technicien ATMOS ou l'[IA] (station-AI.md), donc soyez prudent si l'un de ces types est présent.
+
+
 # Guide de l'atmosphérique
 Remarque : Il ne s'agit PAS d'un guide pour le poste de technicien en atmosphère, bien qu'il soit extrêmement utile pour eux de le connaître.
 
@@ -125,6 +153,15 @@ Ce qui rend l'ATMOS particulièrement puissant, c'est son autonomie. Alors que d
 Alors que des métiers comme le roboticien ou le chimiste dépendent d'autres personnes, comme l'exploitation minière ou la botanique, pour devenir puissants, le technicien ATMOS peut construire une chambre qui fait passer le soleil pour le Canada en comparaison avec son propre savoir-faire et ses outils, sans aucun autre service. Apprendre l'ATMOS ne se limite pas à savoir ce que fait chaque partie, et pour vraiment le comprendre, il est recommandé de jouer au tech atmos et d'expérimenter et de communiquer avec d'autres tech atmos expérimenté pour partager vos idées.
 
   <br/>
+<br/>
+<br/>
+
+import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+
+<Jobs />
+
+
+<br/>
 <br/>
 <br/>
 
