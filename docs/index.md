@@ -5,97 +5,97 @@ sidebar_position: 1
 ---
 
 # Welcome to Unitystation Documentation ! #
-## Qu'est-ce que Unitystation ? ##
+## What is Unitystation? ##
 
-**Unitystation** est un jeu online multiplayers RPG 2D tournant avec le moteur Unity.
+**Unitystation** is an online multiplayer 2D RPG game running on the Unity engine.
 
-c'est un jeu encourageant le Roleplay, gratuit et opensources.
+It is a free, open-source, role-playing game.
 
-Unitystation est un outil vidéo ludique qui met à disposition des joueurs tous les outils pour s’immerger dans la vie spatiale et pratiquer le **Role Play**
+Unitystation is a fun video tool that provides players with all the tools to immerse themselves in space life and practice **Role Play**
 
 
-Vous incarnez un personnage, membre d’équipage de la station spatiale militaro-industriel de Nanotrasen.
+You play as a character, a crew member of the military-industrial space station of Nanotrasen.
 
-Selon votre job vous avez divers objectifs.
+Depending on your job, you have various objectives.
 
 ## SS13 ? byond ?Unity? ##
 
 
-## Quel est le but. ##
+## What is the goal? ##
 
-Faire fonctionner, en collaboration avec les membres d'équipage, la station spatiale et accomplir les objectifs commerciaux envoyés par la société vous employant, Nanotrasen.
-
-
-
-Par exemple :
-
-Le cuisinier doit garder tout le monde bien nourri. :cut_of_meat:
-
-Le botaniste doit faire pousser des légumes pour le cuisinier et le médecin. :seedling:
-
-Le médecin essaye de garder ses patients en vie. :medical_symbol:
-
-La scientifique tente de percer les secrets de l'univers. :microscope:
-
-Le concierge garde le sol propre et reste en vie. :broom:
-
-Les gardes essayent de rester en vie et de garder la station sûre.:police_officer:
+To work with the crew to operate the space station and to achieve the business objectives sent to you by the company that employs you, Nanotrasen.
 
 
 
-Il se peut que vous rencontriez des imprévus, que ce soit : une pluie de météorites, une épidemie, des aliens ayant envahis la station, ou encore un agent infiltré ayant reçu l'ordre de vous tuer dans un couloir de maintenance.
+For example:
+
+The cook must keep everyone well fed. :cut_of_meat:
+
+The botanist must grow vegetables for the cook and the doctor. :seedling:
+
+The doctor tries to keep his patients alive. :medical_symbol:
+
+The scientist is trying to unlock the secrets of the universe. :microscope:
+
+The caretaker keeps the floor clean and alive. :broom:
+
+The guards try to stay alive and keep the station safe :police_officer:
 
 
 
-A vous de faire de votre mieux pour faire votre job et survivre.
+You may encounter unforeseen circumstances, whether it be a meteor shower, an epidemic, aliens invading the station, or an undercover agent ordered to kill you in a maintenance corridor.
 
 
 
-
-
-## Peut-on gagner ? ##
-
-(Techniquement, )c'est un jeu Roleplay, au sens où l'experience collective est une fin en soit.
-
-Le jeu prend toute sa richesse dans l'interaction avec les autres joueurs,  dans vos objectifs individuels, ou collectifs.
-
-
-
-Bien que vous puissiez mourir, être cloné ou revivre sous les traits d'un autre personnage,le joueur à une liberté de création, d'expression, dans le cadre de son job ou de manière plus secrète.
-
-
-
-## Peut-on mourir ? ##
-
-Oui ! Et ce ne sont pas les causes qui manquent:
-
-Abattu, poignardé, asphyxié dans le vide de l'espace, dévoré par une créature, avalé dans un trou noir, d'une maladie inconnue sortant du laboratoire, démembré, électrocuté et bien d'autres possibilités ...
-
-Il y a du choix !
-
-
-
-## Et après ? ##
-
-Vous pouvez interagir avec bon nombre d'objets, les créer ou les détruire.
-
-Jouez, expérimentez, discutez, apprenez, minez, craftez, soignez, mangez, courez, mourez,
-
-recommencez (différemment ou non).
-
-(Les joueurs ont la possibilité de tout détruire, tout construire et modifier.
-
-Chaque câble électrique, chaque canalisation peut avoir son importance.
-
-D'incroyables projets d'ingénierie, au pur chaos de la destruction, laissez libre cours à votre imagination.
-
-Partagez vos stories, anecdotes, fan-arts.
+It's up to you to do your best to do your job and survive.
 
 
 
 
 
-## **À bord il existe quelques règles:** ##
+## Can we win? ##
+
+(Technically, )it's a roleplay game, in the sense that the collective experience is an end in itself.
+
+The game is richer in the interaction with other players, in your individual or collective goals.
+
+
+
+Although you can die, be cloned or come back to life as another character, the player has a freedom of creation and expression, within the framework of his job or in a more secret way.
+
+
+
+## Can you die? ##
+
+Yes, and there is no shortage of causes:
+
+Shot, stabbed, asphyxiated in the vacuum of space, devoured by a creature, swallowed in a black hole, of an unknown disease coming out of the laboratory, dismembered, electrocuted and many other possibilities...
+
+There's plenty to choose from!
+
+
+
+## And then what? ##
+
+You can interact with many objects, create or destroy them.
+
+Play, experiment, discuss, learn, mine, crack, heal, eat, run, die,
+
+start over (differently or not).
+
+(Players can destroy, build and modify everything.
+
+Every electrical cable, every pipe can be important.
+
+From incredible engineering projects, to the sheer chaos of destruction, let your imagination run wild.
+
+Share your stories, anecdotes, fan art.
+
+
+
+
+
+## **On board there are a few rules:** ##
 
 Don't be a Asshole
 
