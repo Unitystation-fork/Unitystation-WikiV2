@@ -1,5 +1,5 @@
 # Medical Doctor
-**Role type:** <font color= "#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Surgery</font> , **Difficulty:** <font color="Yellow">Medium</font>.
+**Role type:** <font color# "#d673b2">Medical</font>. **Access:** <font color#"#d673b2">Medbay</font>, <font color#"#d673b2">Cloning</font>,  <font color#"#d673b2">Morgue</font>, <font color#"#d673b2">Surgery</font> , **Difficulty:** <font color#"Yellow">Medium</font>.
 
 
 ## Overview
@@ -64,26 +64,43 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 --------
 
-## Surgery
+# Surgery
 
 Surgery, the best way to look at people's insides. It is very useful for augmenting other players, or yourself.  ~~Or creating monstrosities.~~
 
-### How to do it.
+## So how does it work? ##
 
-Make sure the patient is lying down, either on a surgical bed or the floor.
+### Tools required for the Job ###
+So far the surgery tools in the game are the Scalpel, Circular Saw, Cautery, Surgical Drill, Retractor, Gauze, and the Hemostat. However currently the Circular Saw and the Hemostat don't do anything in surgery. These tools can be found in the surgery part of medical, robotics, or in a emergency surgery kit.
 
-With a surgical tool in hand, such as a scalpel, alt-click on the patient.
+### Step by step Surgery ###
+To begin any surgery you'll need to make sure your target whether you or someone else is laying down, whether on operating table, bed, or even the ground doesn't matter.
 
-A menu listing body parts will open up, each labeled something like "Pick HumanHead".  There will also be an "Attach procedure."
+To start the surgery you want to alt-click on your target with a surgery tool (I recommend the scalpel if you are starting it.) A menu should open up giving you the options, there should be two major options, picking a body part or the attach procedure. If you select a body part a menu should open for it, things like the torso and head can be cut open to access organs inside it, otherwise the only option will be to heal or remove it.
 
-Clicking on one of the body parts will open another menu giving you the option of removing that bodypart, or for some bodyparts, opening it up.
+#### Attaching/Implanting ####
+This could be attaching a robotic limb, giving yourself a tail, implanting a cybernetic, or whatever zany thing you might wanna do. Start by selecting "Attach Procedure" or "Implant item in..." then you will need to use these tools in order: '''Scalpel > Hemostat > Retractor''' then you can click on yourself and implant or attach whatever it is you are trying to (NOTE only things that make sense can actually be implanted or attached, things like body parts or organs etc.).
 
-Clicking on a procedure will start that procedure.
+#### Cut Open ####
+To cut a part open for example something like your head you will first want to select it in the menu then use these tools in order: '''Scalpel > Retractor > Hemostat'''. After doing that when you alt-click on your target again it should show whatever is inside that part. (For example in the head would be the brain, eyes, tongue, etc.)
 
-After starting the procedure, you need to use a specific sequence of surgical tools on the patient (make sure to be on help intent).
+#### Remove ####
+To remove a body part or organ first select the "Remove..." option in the surgery menu. Then use these tools in order: '''Scalpel > Hemostat > Scalpel'''. (WARNING: You might start bleeding afterwards, make sure to have some gauze handy to prevent blood loss and making a mess.)
 
-You can just try to use all your tools on the patient until one works.
+#### Closing a body part  ####
+After you're done messing around inside a body part like your torso you'll want to close it up for next time. Start by selecting "Close..." then simply use the '''Cautery''' and it should seal back up. 
 
+#### Important things to note ####
+Currently you are unable to continue or cancel mid-surgery so make sure you have all of the tools needed and have something you can actually implant or you won't be able to continue.
+
+If you come across a surgical procedure and unsure what tools to use you can usually brute force it by just trying all the tools until the next step advances.
+
+Surgery is still somewhat work-in-progress so while most things work perfectly fine some things might be a bit wonky or not yet implemented fully.
+
+## Why you might want to do surgery ##
+Luckily since this is just a game it won't hurt at all (physically at least). While you'd think doctors would mostly be concerned with surgery a lot of science is done with the system as well. When you are applying cybernetics for example a Roboticist needs to do surgery to implant cybernetics or give you shiny new robot limbs. These robot limbs and cybernetics can increase your natural abilities like letting you run faster, carry more, or even special abilities like having an automatic reviver! Surgery can also give you a chance to survive a facehugger as if you are quick enough you can remove the embryo from the stomach before the larvae bursts out of you. Cargo might even try to convince you to give up your kidneys so they can sell them for a pretty penny. 
+
+While surgery may seem daunting at first it offers a lot of great opportunities and can do a lot to help your fellow crewmate. So goodluck and have fun going out there cutting up your fellow crew and stitching them back together!
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

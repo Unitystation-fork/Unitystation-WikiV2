@@ -24,11 +24,11 @@ Alors comment guérir les personnes blessées ? Eh bien, les médecins ont accè
 
 ### Les trucs et astuces du métier
 
-La RCP se fait en cliquant sur le patient avec une main vide sur l'intention d'aide alors qu'il est adjacent à vous. La réanimation prend 5 secondes et, pendant que vous la pratiquez, le patient arrête de prendre de PertOxy. Une fois que vous avez terminé une série de RCP, le patient reçoit une petite quantité de PertOxy. La RCP n'est jamais une bonne solution pour sauver la vie de quelqu'un. Il ne fait que les maintenir en vie le temps que vous les emmeniez à l'infirmerie pour leur appliquer un traitement plus avancé. C'est là que l'aide d'autres membres du personnel médical ou même de passants peut être indispensable. Le fait que quelqu'un d'autre effectue la RCP pendant que vous diagnostiquez et traitez le patient augmentera considérablement les chances de survie de ce dernier, surtout si plusieurs patients sont dans un état critique.
+La RCP (réanimation cardiopulmonaire) se fait en cliquant sur le patient avec une main vide sur l'intention d'aide alors qu'il est adjacent à vous. La réanimation prend 5 secondes et, pendant que vous la pratiquez, le patient arrête de prendre de PertOxy. Une fois que vous avez terminé une série de RCP, le patient reçoit une petite quantité de PertOxy. La RCP n'est jamais une bonne solution pour sauver la vie de quelqu'un. Il ne fait que les maintenir en vie le temps que vous les emmeniez à l'infirmerie pour leur appliquer un traitement plus avancé. C'est là que l'aide d'autres membres du personnel médical ou même de passants peut être indispensable. Le fait que quelqu'un d'autre effectue la RCP pendant que vous diagnostiquez et traitez le patient augmentera considérablement les chances de survie de ce dernier, surtout si plusieurs patients sont dans un état critique.
 
 La chirurgie est initiée en faisant allonger le patient, en prenant en main le premier outil chirurgical dont vous avez besoin, puis **alt + click** votre patient sur l'intention d'aide.
 
-### Viande factice
+### Corp de remplacement
 
 Disons que vous avez appliqué ce que vous savez en tant que médecin professionnel et que votre patient est quand même mort. Ou peut-être que quelqu'un a juste trouvé un stiffy froid dans un casier à la maintenance. Que faite-vous dans ce cas ?
 
@@ -53,6 +53,46 @@ Vous ne savez pas quoi faire ? Voici un ensemble pratique d'opérations que vous
 4) Ouvrez la baie de clonage pour que tout le monde vienne se faire scanner préventivement, au cas où. Cela donne un tout nouveau sens à l'assurance vie.
 
 5) En général, vous constaterez que les trousses de premiers secours sont surchargées de pommade pour brûlures, et vous devriez en remplacer une pile par des packs pour contusions ou de la gaze. Il existe également des kits de traitement des brûlures, mais ils sont excessivement efficaces dans la plupart des situations, à l'exception des brûlures de masse comme les feux de plasma dans toute la station.
+
+------
+
+# Chirurgie
+
+La chirurgie, le meilleur moyen de voir l'intérieur des gens. Elle est très utile pour augmenter d'autres joueurs, ou vous-même.  ~~Ou créer des monstruosités.~~
+
+## Alors, comment ça marche ? ##
+
+### Outils nécessaires à la tâche
+Pour l'instant, les outils chirurgicaux du jeu sont le scalpel, la scie circulaire, le cautère, le foret chirurgical, l'écarteur, la gaze et l'hémostatique. Cependant, la scie circulaire et l'hémostat ne font rien en chirurgie. Ces outils peuvent être trouvés dans la partie chirurgie de la médecine, de la robotique, ou dans un kit de chirurgie d'urgence.
+
+### La chirurgie étape par étape
+Pour commencer une opération, vous devez vous assurer que votre cible, que ce soit vous ou quelqu'un d'autre, est allongée, que ce soit sur une table d'opération, un lit ou même le sol, peu importe.
+
+Pour commencer la chirurgie, vous devez alt-cliquer sur votre cible avec un outil de chirurgie (je recommande le scalpel si vous la commencez.) Un menu devrait s'ouvrir et vous donner les options, il devrait y avoir deux options principales, choisir une partie du corps ou la procédure d'attachement. Si vous sélectionnez une partie du corps, un menu devrait s'ouvrir pour elle, des choses comme le torse et la tête peuvent être coupées pour accéder aux organes à l'intérieur, sinon la seule option sera de la guérir ou de la retirer.
+
+#### Fixer/implanter ####
+Il peut s'agir d'attacher un membre robotique, de se donner une queue, d'implanter une cybernétique, ou toute autre chose loufoque que vous pourriez vouloir faire. Commencez par sélectionner "Attach Procedure" ou "Implant item in..." puis vous devrez utiliser ces outils dans l'ordre : Ensuite, vous pouvez cliquer sur vous-même et implanter ou attacher ce que vous voulez (NOTE : seules les choses qui ont un sens peuvent être implantées ou attachées, comme des parties du corps ou des organes, etc.)
+
+#### Ouvrir une partie ####
+Pour découper une partie, par exemple votre tête, vous devez d'abord la sélectionner dans le menu, puis utiliser ces outils dans l'ordre : '''Scalpel > Retractor > Hemostat'''. Après avoir fait cela, lorsque vous faites un alt-click sur votre cible, il devrait montrer ce qui se trouve à l'intérieur de cette partie. (Par exemple, dans la tête, il y aurait le cerveau, les yeux, la langue, etc.)
+
+#### Supprimer ####
+Pour retirer une partie du corps ou un organe, sélectionnez d'abord l'option "Retirer..." dans le menu chirurgie. Utilisez ensuite ces outils dans l'ordre : '''Scalpel > Hemostat > Scalpel''' (AVERTISSEMENT : vous risquez de vous mettre à saigner ensuite, assurez-vous d'avoir de la gaze à portée de main pour éviter de perdre du sang et de faire des dégâts).
+
+#### Fermeture d'une partie du corps ####
+Une fois que tu as fini de t'amuser à l'intérieur d'une partie du corps, comme ton torse, tu dois la fermer pour la prochaine fois. Commencez par sélectionner "Close..." puis utilisez simplement le '''Cautère''' et il devrait se refermer. 
+
+#### Points importants à noter ####
+Actuellement, il est impossible de poursuivre ou d'annuler une opération en cours. Assurez-vous d'avoir tous les outils nécessaires et de pouvoir implanter quelque chose, sinon vous ne pourrez pas continuer.
+
+Si vous rencontrez une procédure chirurgicale et que vous ne savez pas quels outils utiliser, vous pouvez généralement la forcer en essayant tous les outils jusqu'à ce que l'étape suivante avance.
+
+La chirurgie est toujours en cours d'élaboration et, bien que la plupart des choses fonctionnent parfaitement, certaines d'entre elles peuvent être un peu bancales ou pas encore complètement implémentées.
+
+## Pourquoi vous voulez faire de la chirurgie ?
+Heureusement, comme il ne s'agit que d'un jeu, cela ne fera pas mal du tout (du moins physiquement). Bien que l'on puisse penser que les médecins s'occupent principalement de chirurgie, le système permet également de faire beaucoup de sciences. Lorsque vous appliquez la cybernétique, par exemple, un roboticien doit pratiquer une intervention chirurgicale pour implanter la cybernétique ou vous donner de nouveaux membres de robot. Ces membres de robot et cette cybernétique peuvent augmenter vos capacités naturelles, par exemple en vous permettant de courir plus vite, de porter plus de choses, ou même des capacités spéciales, comme un réanimateur automatique ! La chirurgie peut également vous donner une chance de survivre à un facehugger car si vous êtes assez rapide, vous pouvez retirer l'embryon de l'estomac avant que la larve n'éclate de votre corps. Cargo pourrait même essayer de vous convaincre de donner vos reins afin de les vendre pour une jolie somme. 
+
+Bien que la chirurgie puisse sembler intimidante au début, elle offre de nombreuses opportunités et permet d'aider votre coéquipier. Alors bonne chance et amusez-vous bien à découper vos camarades et à les recoudre !
 
   <br/>
 <br/>
