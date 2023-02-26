@@ -1,66 +1,98 @@
 # Medical Doctor
 **Role type:** <font color= "#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Surgery</font> , **Difficulty:** <font color="Yellow">Medium</font>.
 
+## Обзор
 
-## Overview
+Роль врача, пожалуй, самая важная для поддержания спокойствия на станции, за исключением [Security](Security.md) и [Control](Captain.md). Их работа заключается в лечении раненых, возвращении к жизни умерших членов экипажа и снабжении камбуза трупами, когда заканчиваются другие источники пищи.
 
-Medics are arguably the most vital role to a thriving station, except for [Security](Security.md) and [Command](Captain.md). Their job is to heal injured people, bring back dead crew members, and provide the kitchen with dead bodies when other food sources run out.
-
-
-While it's not a required part of the role, it should be noted that non-[antagonist](Antagonist.md) Medical Doctors are generally expected to do no harm unless your own life or the life of an innocent is at stake; Your purpose is to preserve human life above all else. This doesn't mean you can't make people harm themselves or make other people do the harm for you, but it means that your most efficient tool to fight is running away. Screaming is a close second.
+Хотя это и не является обязательной частью роли, следует отметить, что медики, не являющиеся антагонистами, как правило, не причиняют вреда, если на кону не стоит их собственная жизнь или жизнь невинных; ваша цель - прежде всего сохранить жизнь. Это не означает, что вы не можете заставить людей причинить вред себе или другим ради вас, но это означает, что ваш самый эффективный инструмент в борьбе - бегство. Далее следует крик.
 
 
-### Don't worry, ribs grow back!
+### Не волнуйтесь, ребра отрастают!
 
+Давайте перейдем к искусству лечения и диагностики. Первое, что вам нужно знать, это то, что все персонажи имеют 100 хит-поинтов, но здоровье может упасть до -100. Пока у персонажа больше 0 очков здоровья, он находится в сознании и активен. Когда их количество падает ниже 0, они находятся в критическом состоянии, могут только очень медленно ползать и говорить низким голосом. При -100 у них случается сердечный приступ, и они умирают.
 
-Let's get into the art of treatment and diagnosis. So the first thing you need to know is that all characters have 100 health, but health can go negative down to -100. While a character is above 0 health, they are conscious and functioning. Once they go below 0, they are in critical condition, only able to crawl around very slowly and talk quietly. At -100 they suffer a heart attack and die.
+Как же лечить раненых? Ну, у врачей есть доступ к аптечкам первой помощи и ожоговым наборам, в которых есть все необходимое для лечения всех поверхностных повреждений. Первое необходимое - это сканер здоровья. Это инструмент, который при использовании на пациенте показывает все накопленные повреждения, разбитые по типам и частям тела, позволяя оценить, как продолжить лечение.
 
-So how do you heal hurt people? Well, Medics have access to first aid kits and burn treatment kits, which come with everything you need to treat all surface injuries. The first must-have-at-all-times is the health scanner. It's a tool that when used on a patient, tells you all accumulated damage broken down by type and by body part, allowing you to assess how to proceed with treatment.
+### Тип повреждений
 
-### Damage types
+- **Жестокий урон** - самый распространенный тип. Токсинный урон достигается при употреблении токсинов и яда, дыхании плазменным газом, а также при использовании некоторых редких видов оружия, например энергетического арбалета. Он также накапливается от радиационного отравления. Повреждение токсинами медленно перерабатывается печенью, поэтому проверьте, есть ли она у вашего пациента. Его также можно лечить с помощью таблеток древесного угля, поэтому попросите аптекаря изготовить их, если это необходимо.
 
-- **Brute damage** is the most commonly seen type. It is from physical trauma, I.E. bullets to the chest and toolboxes to the head, as well as damage from low or high pressure environments, such as the vacuum of space. Brute damage is treated with bruise packs. These are found in first aid kits, the medical vending machine, as well as medibelts. You will typically run through quite a few of these, so refills will probably be necessary from time to time. Bruise packs heal 40 brute damage per use, but only will heal damage on the selected body part you apply it to.
+- **Последний тип повреждения**, с которым часто приходится сталкиваться, - это **потеря кислорода**, которая является скорее симптомом других повреждений, чем собственным типом повреждения. Оно ведет себя точно так же, как и любое другое повреждение, но возникает из-за недостатка кислорода в организме. Это часто вызывается как внешними факторами, так и внутренними проблемами со здоровьем. Если проблема вызвана разгерметизацией и изменением атмосферы, то для ее устранения достаточно переместить пациента в среду с достаточным количеством кислорода. Сердечно-легочная реанимация может помочь повысить шансы на выздоровление. Однако вы можете столкнуться с ситуациями, когда члены экипажа страдают от PertOxy без непосредственной внешней причины. Это часто связано с повреждением органов, либо легких, либо сердца. Со временем состояние может улучшиться, но возможно, что люди могут попасть в смертельную спираль, когда сердце и легкие уже не могут обеспечить организм достаточным количеством кислорода, что приводит к отказу органов и, в конечном итоге, к остановке сердца. Чтобы предотвратить это, потребуется хирургическое вмешательство.
 
-- The second main source of damage is **Burn damage.** This is mostly caused from fires and energy weapons, such as E-guns, flamethrowers, and E-swords. It shows up, but not as frequently as brute damage. Burn damage is primarily treated with ointment. Each ointment use heals 40 burn damage.
+- **Клеточные повреждения;** первый из редких видов повреждений, которые будут наблюдаться при определенных обстоятельствах. Клеточные повреждения в настоящее время встречаются только при клонировании человека. У клеточного повреждения есть только один метод лечения - правильное питание и время.
 
-- **Toxin damage** is another somewhat commonly encountered type. Toxin damage is gained through consuming toxins and poison, breathing in plasma gas, and by a few rare weapons, such as the energy crossbow. It is also accumulated from radiation poisoning. Toxin damage is slowly treated by the liver, so check to make sure your patient has one. It also can be treated with charcoal pills, so ask the chemist to craft some if needed.
-- **OxyLoss;** The last commonly encountered damage type is **oxygen loss**, which is more of a symptom of other damage than it is its own damage type. It behaves exactly like any other damage, but is a result of the body not getting supplied with sufficient oxygen. This is both frequently caused by external factors or by internal health problems. If it's caused by a depressurization and atmospherics tampering, simply moving the patient to an environment with sufficient oxygen will do the trick. CPR can help improve the odds of their recover. However, you may encounter situations where crewmembers are suffering from OxyLoss with no immediate outside cause. This often implies organ damage either to the lungs or the heart. This may get improved over time, but it is possible for people to get locked into death spirals where their heart and lungs cannot sufficiently supply oxygen to the body which causes the organs to begin shutting down, eventually leading to cardiac arrest. To prevent this, surgical intervention will be required.
-- **Cellular damage;** the first of the uncommon damage types that will be seen under specific circumstances. Cellular damage is currently only encountered when a person is cloned. Cellular damage has one treatment method, and that is proper nutrition and time.
-- **Organ damage;** similar to OxyLoss, organ damage is not a traditional type of damage. Each organ has it's own health pool. The amount of health an organ has dictates how efficient the organ is, so an organ at 0 health is not functioning at all, while an organ at 75 health is functioning at 75% capacity. Organs in a particular body part take small amounts of damage whenever that body part takes damage and organs also take damage if they are not supplied oxygen by the circulatory system. When the heart is at 0 health, the body suffers a heart attack. When the brain is at 0 health, the body is brain dead.
+- **Как и в случае с PertOxy**, повреждение органов не является традиционным типом повреждения. Каждый орган имеет свой запас здоровья. Уровень здоровья органа определяет его эффективность, поэтому орган с 0 здоровья не функционирует вообще, а орган с 75 здоровья функционирует на 75% своей мощности. Органы в определенной части тела получают небольшие повреждения всякий раз, когда эта часть тела получает повреждения. Органы также получают повреждения, если они не снабжаются кислородом через систему кровообращения. Когда здоровье сердца равно 0, тело страдает от сердечного приступа. Когда здоровье мозга равно 0, тело мертво.
 
-### Tricks of the Trade
+### Советы и хитрости профессии
+CPR (сердечно-легочная реанимация), выполняется нажатием на пациента с пустой рукой с намерением оказать помощь, пока он находится рядом с вами. Реанимация занимает 5 секунд, и пока вы ее проводите, пациент перестает принимать PertOxy. Как только вы завершите раунд сердечно-легочной реанимации, пациент получает небольшое количество PertOxy. Искусственное дыхание никогда не является хорошим решением для спасения жизни человека. Оно лишь поддерживает жизнь пациента, пока вы везете его в лазарет для более сложного лечения. Именно здесь может понадобиться помощь других медицинских работников или даже случайных прохожих. Если кто-то другой будет делать искусственное дыхание, пока вы диагностируете и лечите пациента, это значительно повысит его шансы на выживание, особенно если несколько пациентов находятся в критическом состоянии.
 
-CPR is done by clicking on the patient with an empty hand on help intent while they are adjacent to you. CPR takes 5 seconds to be performed, and while you are doing it, the patient stops taking OxyLoss. Once you have completed a round of CPR, the patient heals a small amount of OxyLoss. CPR is never a good solution to save someone's life. It only keeps them alive while you take them to the medbay to apply more advanced treatment. This is where help from other medical personnel or even passers-by can be indispensable. Having someone else performing CPR while you diagnose and treat will greatly increase the odds of survival for the patient, especially if there are multiple patients in critical condition.
+Хирургия начинается с того, что вы заставляете пациента лечь, берете первый необходимый вам хирургический инструмент, затем **alt + click** на вашего пациента с намерением помочь.
 
-Surgery is initiate by having the patient lay down, taking the first surgical tool you need in hand, and then **alt + click** your patient on help intent.
+### Мясо манекена
 
+Допустим, вы применили все, что знаете как профессиональный врач, а ваш пациент все равно умер. Или, может быть, кто-то просто нашел холодное жесткое мясо в шкафчике в техническом отделе. Что вы делаете в этом случае?
 
-###  Imitation Meat
+Ну, конечно же, клонировать их. Клонирование - это самый лучший вариант. Вы можете делать это снова и снова, пока у вас есть тело для клонирования. Когда персонаж умирает, отнесите его в комнату для клонирования и пропустите через сканер ДНК. Для этого просто нажмите и перетащите тело в сканер ДНК, когда оно окажется рядом с ним. Как только тело окажется на месте, а сканер закроется, перейдите к консоли клонирования и нажмите кнопку сканера, чтобы создать запись ДНК. Как только вы получите их запись, перейдите к ней и нажмите кнопку клонирования. Если игрок не вышел из игры, не отключил клонирование и в его теле все еще есть мозг, начнется клонирование его тела. Клонирование происходит очень быстро, всего за 10-15 секунд. После клонирования не забудьте удалить старое тело из сканера, чтобы игрок мог заново экипировать свое снаряжение.
 
-So let's say you've applied what you know as a professional medical practitioner and your patient still died. Or maybe someone just found a cold stiffy shoved in a locker in maintenance. What do you do then?
+Когда речь заходит о пересечении клонирования и ролевых игр, обычно предполагается, что клон <u>не знает</u>, как именно он умер, или, если его убили, кто это сделал. Их память будет туманной и неясной, и у них может быть некоторое замешательство, когда они поймут, что они клон. Отнеситесь к обстоятельствам их смерти с вежливой деликатностью.
+Обратите внимание, что критический недостаток процесса клонирования заключается в том, что для него в первую очередь необходим труп, причем такой, который не был бы слишком пережеван. Если тело потеряно в космосе, если оно лишено мозга, если его изгрызли взрывы, если его зарезал [шеф](Cook.md), или если оно получило достаточно сильные повреждения от огня, чтобы превратиться в шелуху, оно не может быть проанализировано сканером ДНК.
 
-Well, you clone them, of course. Cloning is the ultimate mulligan. It can be done over and over as long as you've got a body to clone. When a character dies, take them to the cloning room and put them in the DNA scanner. This can be done by click-and-dragging their body into the DNA scanner while they are adjacent to it. once they are in and the scanner is shut, go to the cloning console and hit the scan button to create a DNA record. Once you've got their record, navigate to it and hit clone. So long as the player has not left the game, disabled cloning, and their body still has a brain in it, then it will start cloning their body. Cloning is really fast, only taking 10~15 seconds. Once they are cloned, make sure to pull their old body out of the scanner so they can re-equip their gear.
+Другая проблема заключается в вышеупомянутом повреждении клеток в процессе клонирования. Свежий клон будет слабым, и ему потребуется время, чтобы восстановиться после процесса клонирования. Из-за кумулятивного эффекта не стоит клонировать человека несколько раз подряд. Они будут становиться все слабее и слабее, пока не перестанут двигаться и могут умереть на месте.
 
-When it comes to the intersection between cloning and role-playing; it is generally assumed that a clone <u>does not</u> know how exactly they died, or, if they were murdered, who did it. Their memory will be foggy and unclear, and they may have some confusion when it comes to understanding that they are a clone. Treat the circumstance of their death with a polite sensitivity.
+### Медицинская процедура
 
-Note that the one critical flaw of the cloning process is that it requires a corpse in the first place; one that has not been too chewed up, as well. If the body is lost in space, lacks a brain, gibbed by explosions, butchered by the [chef](Cook.md), or taken extensive enough fire damage as to be turned into a husk, then they cannot be scanned in the DNA scanner. One preventative measure that can be taken against this outcome is to scan high-risk people (or really any takers) in the DNA scanner in advance.
+Не знаете, что делать? Вот практический набор операций, которым вы можете следовать:
 
-The other problem is the aforementioned cellular damage inflicted by the cloning process. A fresh clone will be weak and need time to recover from the cloning process. Because of the cumulative effects, it is not a good idea to clone a person multiple times in quick succession. They will come out weaker and weaker until they cannot move and might die on the spot.
+1) Окажите помощь тяжелораненым членам экипажа в бункере. Они являются главным приоритетом. Мертвецы, ожидающие клонирования, могут подождать еще немного. Большого риска при выполнении этой операции нет, так как у людей часто есть другие приоритеты, кроме как убить вас, когда они еще не мертвы.
 
-###  Medical Modus Operandi
+2) Клонируйте мертвецов, которых вам принесли медики или другие члены команды. НИКОГДА не ищите трупы сами, так как вы можете случайно оживить отвратительного [Антагониста] (Antagonist.md), который посадит вас в ящик и выбросит в шлюз. Также не помешает поинтересоваться у службы безопасности, нет ли у будущих мертвых клонов, которых вы получите, непогашенных уголовных обвинений.
 
+3) Проверьте [заключенных](Assistant.md) [заключенных](Clown.md) в камере и самих [охранников](Security.md). Охрана](Security.md) обычно является горячей точкой для травм, и это также возможность оказать давление на [Shitsec.md] за нарушение прав человека, возможно, даже заставить их [изменить свои методы](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Адвокаты] (Lawyer.md) будут любить вас за это.
 
-Not sure what to do? Here's a handy set of operations that you can follow:
+4) Открыть отсек клонирования, чтобы каждый мог зайти и пройти сканирование, на всякий случай. Это придаст совершенно новый смысл страхованию жизни.
 
-1) Heal critically injured crew members that are around medbay. They are the top priority. Dead people waiting to be cloned can wait a little longer. There is no heavy risk in doing this activity since people often have other priorities over killing you when they haven't died yet.
+5) Обычно вы обнаружите, что аптечки перегружены мазью от ожогов, и вам следует заменить их на пакеты от синяков или марлю. Существуют также противоожоговые наборы, но они слишком эффективны в большинстве ситуаций, за исключением массовых ожогов, таких как плазменные пожары по всей станции.
 
-2) Clone dead people that were brought to you by the paramedics or another crew member. NEVER go find bodies on your own, as you might accidentally end up reviving a filthy [antagonist](Antagonist.md) that puts you into a box and throws you out an airlock. It also might not be a bad idea to ask [Security](Security.md) if any dead to-be-clones that you get have any outstanding criminal charges.
+------
 
-3) Check on [the](Assistant.md) [prisoners](Clown.md) in the brig and the [security officers](Security.md) themselves. [Security](Security.md) tends to be a hotspot for injuries, and its also an opportunity to flex on [shitcurity](Shitsec.md) for human rights abuse, maybe even inspiring them to [change their ways](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Lawyers](Lawyer.md) will love you for this.
+# Хирургия
 
-4) Open up the cloning bay for everyone to come get preemptively scanned just in case. Brings a whole new meaning to life insurance.
+Хирургия - лучший способ заглянуть внутрь человека. Она очень полезна для улучшения других игроков или себя.  ~~Или создавать чудовищ~~.
 
-5) Typically, you will find that first aid kits are over-provisioned with burn ointment, and you should replace a stack with bruise packs or gauze. Burn treatment kits are also a thing, but they are mega overkill for most situations except mass-casualty burn incidents like station-wide plasma fires.
+## Итак, как это работает? ##
+
+### Инструменты, необходимые для выполнения задания
+На данный момент хирургическими инструментами в игре являются скальпель, циркулярная пила, каутери, хирургическая дрель, ретрактор, марля и гемостатик. Однако циркулярная пила и гемостат ничего не делают в хирургии. Эти инструменты можно найти в разделе хирургии в медицине, робототехнике или в наборе для экстренной хирургии.
+
+### Пошаговая операция
+Чтобы начать операцию, необходимо убедиться, что объект операции, будь то вы или кто-то другой, лежит, будь то на операционном столе, кровати или даже на полу, это не имеет значения.
+
+Чтобы начать операцию, вам нужно нажать на цель с помощью хирургического инструмента (я рекомендую скальпель, если вы начинаете операцию). Должно открыться меню, в котором вам будут предложены варианты, там должно быть два основных варианта: выбрать часть тела или процедуру вложения. Если вы выберете часть тела, откроется меню для нее, такие вещи, как туловище и голова, могут быть отрезаны, чтобы получить доступ к органам внутри, в противном случае единственным вариантом будет исцеление или удаление.
+
+#### Прикрепить/имплантировать ####
+Это может быть прикрепление роботизированной конечности, создание хвоста, имплантация кибернетического устройства или любая другая причудливая вещь, которую вы захотите сделать. Начните с выбора "Прикрепить процедуру" или "Вживить элемент в...", а затем используйте эти инструменты по порядку: Затем вы можете нажать на себя и вживить или прикрепить то, что хотите (ПРИМЕЧАНИЕ: вживлять или прикреплять можно только то, что имеет смысл, например, части тела, органы и т.д.).
+
+#### Открыть деталь ####
+Чтобы вырезать часть, например, голову, нужно сначала выбрать ее в меню, затем использовать эти инструменты по порядку: "Скальпель > Ретрактор > Гемостат". После этого, когда вы нажмете на цель, она должна показать, что находится внутри этой части. (Например, в голове будет мозг, глаза, язык и т.д.).
+
+#### Удалить ####
+Чтобы удалить часть тела или орган, сначала выберите опцию "Удалить..." в меню хирургии. Затем используйте эти инструменты в следующем порядке: "Скальпель > Гемостат > Скальпель" (ВНИМАНИЕ: после этого может начаться кровотечение, убедитесь, что у вас под рукой есть марля, чтобы избежать потери крови и беспорядка).
+
+#### Закрытие части тела ####
+После того, как вы закончили играть внутри части тела, например, туловища, вам нужно закрыть его для следующего раза. Для этого выберите "Закрыть...", затем просто используйте "Прижигание", и она закроется. 
+
+#### Важные моменты, на которые следует обратить внимание ####
+В настоящее время невозможно продолжить или отменить текущую операцию. Убедитесь, что у вас есть все необходимые инструменты и вы можете что-то имплантировать, иначе вы не сможете продолжить операцию.
+
+Если вы столкнулись с хирургической процедурой и не знаете, какие инструменты использовать, обычно вы можете форсировать ее, перепробовав все инструменты, пока не будет сделан следующий шаг.
+
+Хирургия все еще находится в процессе работы, и хотя большинство вещей работает идеально, некоторые вещи могут быть немного странными или еще не полностью реализованы.
+
+## Почему вы хотите заниматься хирургией?
+К счастью, поскольку это всего лишь игра, это будет совсем не больно (по крайней мере, физически). Хотя вы можете подумать, что врачи в основном занимаются хирургией, система также позволяет вам заниматься наукой. Например, когда вы применяете кибернетику, робототехник должен провести операцию, чтобы имплантировать кибернетику или сделать вам новые конечности робота. Эти роботизированные конечности и кибернетика могут увеличить ваши природные способности, например, позволить вам быстрее бегать, переносить больше вещей или даже особые способности, например, автоматический реаниматор! Хирургия также может дать вам шанс выжить в фасхаггере, потому что, если вы будете достаточно быстры, вы сможете удалить эмбрион из желудка до того, как личинка вырвется из вашего тела. Карго может даже попытаться убедить вас пожертвовать свои почки, чтобы потом продать их за солидную сумму. 
+
+Хотя поначалу операция может показаться пугающей, она открывает множество возможностей и шанс помочь своему товарищу по команде. Так что удачи и веселитесь, разрезая своих товарищей и сшивая их обратно!
 
   <br/>
 <br/>
