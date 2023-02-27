@@ -7,7 +7,7 @@
 The Head of Personnel, also commonly referred to as the HoP, is one of the command roles on the station, and arguably one of the most important jobs on the station, with the ability to change people's access levels using the terminal in their office, taking over for the captain when they inevitably get stabbed in the back, and keeping [Ian](\4_Univers\Mobs\Ian.md) the dog alive at all costs.
 ### Lawful Neutral
 
-The job of the HoP is relatively simple: sit in your office, change people's job or access levels if they ask for it for good reasons, and resist the urge to give yourself or [other](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) [people](\3_HowToPlay\Jobs\Service_roles\Assistant.md) all-access cards. On top of that, you're also the one making sure the Service roles are keeping the station running, and that [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) isn't ordering in guns to help [Cargonia](Cargonia.md) become an independent station-state. However, your job can get slightly hectic;
+The job of the HoP is relatively simple: sit in your office, change people's job or access levels if they ask for it for good reasons, and resist the urge to give yourself or [other](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) [people](\3_HowToPlay\Jobs\Service_roles\Assistant.md) all-access cards. On top of that, you're also the one making sure the Service roles are keeping the station running, and that [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) isn't ordering in guns to help [Cargonia](Cargonia.md) become an independent station-state. However, your job can get slightly hectic;
 
 
 ### Officer by interim

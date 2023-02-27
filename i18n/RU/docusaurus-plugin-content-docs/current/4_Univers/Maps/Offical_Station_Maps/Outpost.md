@@ -49,7 +49,7 @@ A den of the most disgusting filth imaginable.![Doorm](\img\No_image.png)
 ### Command
 A very large section of the station containing the rooms of both the [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) and his [best bud](HoP.md), along with the stations command deck.![Command](\img\Command.png)
 ### Funny Room
-A room containing essentials for both the [mime](\3_HowToPlay\Jobs\Entertainment_Roles\Mime.md) and [clown](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md). HONK!![Clown and mime](\img\No_image.png)
+A room containing essentials for both the [mime](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md) and [clown](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md). HONK!![Clown and mime](\img\No_image.png)
 ### Artificial Intelligence Satellite
 A super-reinforced fortress surrounded on all sides with he vacuum of space designed to house the AI.![AI](\img\No_image.png)
 ### Engineering
@@ -61,7 +61,7 @@ Where all the [scientists](\3_HowToPlay\Jobs\Science_roles\Scientist.md) gather 
 ### Security
 Where the [true dictatorial overlords](Security.md) of the station send their victims.![Sec](\img\Sec.png)
 ### Church
-[Sacerdos](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md) in templum laborat et [vocat cum deus](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](\img\Chruch.png)
+[Sacerdos](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md) in templum laborat et [vocat cum deus](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](\img\Chruch.png)
 
 
 

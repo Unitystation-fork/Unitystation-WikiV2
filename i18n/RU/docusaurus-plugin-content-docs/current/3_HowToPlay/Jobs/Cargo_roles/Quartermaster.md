@@ -35,7 +35,7 @@ When the [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) actually [surviv
 *Give [solid plasma](Plasma.md) and uranium to engineering for powering the station.
 
 * Sell gold, silver, bananium, bluespace crystals, and diamonds. Or give them to the [Roboticist](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) and taunt them for their current lack of job functionality.
-*take all recovered [Xenomorph](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) bodies to the [chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) for some green steaks.
+*take all recovered [Xenomorph](\4_Univers\Mobs\Xenomorph.md) bodies to the [chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) for some green steaks.
 
 
 

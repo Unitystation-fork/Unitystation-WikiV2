@@ -12,7 +12,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 2) Beware of people trying to disarm you.
 
-3) [Clowns](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) and [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) are your nemesis.
+3) [Clowns](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) and [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) are your nemesis.
 
 4) Don't expect people to respect you.
 

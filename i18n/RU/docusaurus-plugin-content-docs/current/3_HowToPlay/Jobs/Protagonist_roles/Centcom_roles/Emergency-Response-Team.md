@@ -29,7 +29,7 @@ ERT engineers are only typically sent when something onboard the station has, or
 
 ### Paranormal Response Team, Spanish Ghostbusters
 
-Technically a separate team, the PRT's purpose is to respond to and handle paranormal and cultish threats to the station. PRTs are similarly equipped to ERTs, apart from their custom magically fortified hardsuits, and come in 2 varieties; the inquisitor and the knight. Besides the armor, and the standard carbine, cuffs, and baton, the only unique item the inquisitor carries is the obsidian rod, just like the like the [chaplain's](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md).
+Technically a separate team, the PRT's purpose is to respond to and handle paranormal and cultish threats to the station. PRTs are similarly equipped to ERTs, apart from their custom magically fortified hardsuits, and come in 2 varieties; the inquisitor and the knight. Besides the armor, and the standard carbine, cuffs, and baton, the only unique item the inquisitor carries is the obsidian rod, just like the like the [chaplain's](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md).
 
 ### Joke ERT
 

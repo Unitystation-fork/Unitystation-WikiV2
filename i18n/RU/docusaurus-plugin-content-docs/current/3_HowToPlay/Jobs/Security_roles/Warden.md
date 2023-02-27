@@ -18,7 +18,7 @@ If you have nothing to do and no prisoners to beat, you should be coordinating t
 
 A note on authority and the Chain of Command: You are equal in rank'' to other Security Officers and the Detective. You have authority over what happens to prisoners and how the brig is run in absence of the HoS, but you can't really order them around, though they typically ''will listen to you anyways. You only gain true authority if there is no Head of Security or if they have been killed. In addition to that, the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) is not your superior, and you do not need to listen to them at all, unless they have taken over in absence of the Captain. The HoP also does not have the right to bear weapons whenever they feel like it as well, so if they try to take things from the armory without reason, you should stop them and call the HoS.
 
-Keep watch for any [suspicious](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [individuals](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) loitering outside the Brig. A lot of Officers die just after they walk out the doors of the brig, usually by surprise disarming or lubed floors.
+Keep watch for any [suspicious](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [individuals](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) loitering outside the Brig. A lot of Officers die just after they walk out the doors of the brig, usually by surprise disarming or lubed floors.
 
 If you've got all that handled and you've got spare time, have a philosophical chat with the [Lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md) about Securitization versus the Social Contract.
 

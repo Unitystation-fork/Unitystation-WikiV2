@@ -2,7 +2,7 @@
 
 **Type de rôle**: <font color= "#d673b2">Medicale</font>.**Access**: <font color="#d673b2">Infirmerie</font><font color="#d673b2">Morgue</font>, maintenance,**Difficulté**: <font color="Yellow">Moyenne</font> à <font color="Red">élevée</font>
 
-Note: Pour le guide de médecine ordinaire et les premiers soins, cliquer [ici](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md).
+Note: Pour le guide de médecine ordinaire et les premiers soins, cliquer [ici](\3_HowToPlay\jobs\Medical_roles\Medical-Doctor.md).
 
 ### M. Gurney
 

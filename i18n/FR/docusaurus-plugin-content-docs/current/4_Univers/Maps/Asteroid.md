@@ -1,7 +1,7 @@
 # Asteroids
-Asteroids are randomly located chunks of rock scattered floating around the station. There are 9 asteroids at round start. Each asteroid has a set layout, but randomly generated ore and somewhat randomly generated threats; mostly lots of space carp, but occasionally [Xenomorphs.](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) 
+Asteroids are randomly located chunks of rock scattered floating around the station. There are 9 asteroids at round start. Each asteroid has a set layout, but randomly generated ore and somewhat randomly generated threats; mostly lots of space carp, but occasionally [Xenomorphs.](\4_Univers\Mobs\Xenomorph.md) 
 
-These rocks are where [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) go to die.
+These rocks are where [miners](\3_HowToPlay\jobs\Cargo_roles\Shaft-Miner.md) go to die.
 
 ### Xenoartifacts
 

@@ -24,7 +24,7 @@ Voici un guide pratique pour réussir en esquade de la mort:
     * Si vous voyez quelque chose qui est vivant sur le chemin, tuez-le.
 
 
-1. Attraper le disque, vous aurez peut-être à tuez [celui](\3_HowToPlay\Jobs\Command_roles\Captain.md) qui le tient.
+1. Attraper le disque, vous aurez peut-être à tuez [celui](\3_HowToPlay\jobs\Command_role\Captain.md) qui le tient.
 
 1. Avancer jusqu'a la bombe à bord de la station.
 

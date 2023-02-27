@@ -12,7 +12,7 @@ Well settle down kid, because you wont. That's right, your a librarian on some s
 
 ### Summoning Satan
 
-If lifes got you down, why not change something and summon the lord of hell? As curator, you can also act as a non-religiously aligned chaplain if you want, gathering weird eldritch books and making deals with whatever bizarre daemon you summon, just make sure [the gods are on to hear your prayers](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) beforehand. Go summon Beelzebub and later shake hands with herma-mora so he gives you cool books. Alternatively, work with the [chaplain](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md), providing him eldritch tomes or whatever religious books he requests to summon some fish god and make a cult surrounding it, before going on a holy crusade to seafood aisle to liberate his borthers.
+If lifes got you down, why not change something and summon the lord of hell? As curator, you can also act as a non-religiously aligned chaplain if you want, gathering weird eldritch books and making deals with whatever bizarre daemon you summon, just make sure [the gods are on to hear your prayers](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) beforehand. Go summon Beelzebub and later shake hands with herma-mora so he gives you cool books. Alternatively, work with the [chaplain](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md), providing him eldritch tomes or whatever religious books he requests to summon some fish god and make a cult surrounding it, before going on a holy crusade to seafood aisle to liberate his borthers.
 
 
 

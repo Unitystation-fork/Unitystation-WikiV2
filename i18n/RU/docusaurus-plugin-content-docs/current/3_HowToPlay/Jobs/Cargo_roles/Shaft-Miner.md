@@ -13,7 +13,7 @@
 
 ## Overview
 
-Shaft Miner is one of the most dangerous roles that is not a Command role. Not because you have a lot of responsibilities (you don't, you only have two: fulfill the mining quota and [come back alive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). It's hard because you will often run into hordes of [Xenomorphs](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) and space carp that will kill you fast if you're not good at the [combat](Combat.md) system.
+Shaft Miner is one of the most dangerous roles that is not a Command role. Not because you have a lot of responsibilities (you don't, you only have two: fulfill the mining quota and [come back alive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). It's hard because you will often run into hordes of [Xenomorphs](\4_Univers\Mobs\Xenomorph.md) and space carp that will kill you fast if you're not good at the [combat](Combat.md) system.
 
 ## This is Mining, someone stole our shuttle. Anyone know who it was?
 

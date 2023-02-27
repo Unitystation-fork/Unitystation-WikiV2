@@ -24,7 +24,7 @@ The other fancy laser pistol. Can be found in the [Captain](\3_HowToPlay\Jobs\Co
 
 ## The Chain of Command
 
-A symbolic chain kept in the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md)'s office, on his person or in some rare occasions with the [mime](\3_HowToPlay\Jobs\Entertainment_Roles\Mime.md) for some reason. It is wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md), [traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md), and the [mime](\3_HowToPlay\Jobs\Entertainment_Roles\Mime.md). The [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) usually does not care about this item, and it is left in his office.
+A symbolic chain kept in the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md)'s office, on his person or in some rare occasions with the [mime](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md) for some reason. It is wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md), [traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md), and the [mime](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md). The [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) usually does not care about this item, and it is left in his office.
 
 ## The Advanced Magboots
 

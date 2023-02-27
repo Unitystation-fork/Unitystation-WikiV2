@@ -17,9 +17,9 @@ Il est généralement recommandé aux nouveaux joueurs d'essayer le jeu avec ce 
 
 Être cuisinier est un travail relativement simple.
 
-Vous avez un devoir : vous assurer que la station ne meurt pas de faim. Pour ce faire, vous avez deux possibilités : faire cuire des steaks crus au micro-ondes, ou [botany](\3_HowToPlay\Jobs\Service_roles\Botanist.md) qui sait comment fonctionne son travail.
+Vous avez un devoir : vous assurer que la station ne meurt pas de faim. Pour ce faire, vous avez deux possibilités : faire cuire des steaks crus au micro-ondes, ou [botany](\3_HowToPlay\jobs\Service_roles\Botanist.md) qui sait comment fonctionne son travail.
 
-Pour ce qui est des steaks, vous pouvez soit vous rendre dans la salle du boucher (dans l'avant-poste, c'est la pièce située au nord de la cuisine, il suffit d'aller dans les tunnels de maintenance au-dessus de vous et la pièce sera de l'autre côté), soit demander des corps à [Medical](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) une fois qu'ils ont cloné lesdits corps.
+Pour ce qui est des steaks, vous pouvez soit vous rendre dans la salle du boucher (dans l'avant-poste, c'est la pièce située au nord de la cuisine, il suffit d'aller dans les tunnels de maintenance au-dessus de vous et la pièce sera de l'autre côté), soit demander des corps à [Medical](\3_HowToPlay\jobs\Medical_roles\Medical-Doctor.md) une fois qu'ils ont cloné lesdits corps.
 
 Pour faire un steak, vous devez prendre la viande, la mettre dans un micro-ondes, attendre 10 secondes et servir.
 

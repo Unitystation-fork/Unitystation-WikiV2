@@ -20,7 +20,7 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 | Heart                                       | Send 1 Heart.                                                | 1250   |
 | Medical Supplies                            | Send a health analyzer and one stack each of bruise packs, gauze, ointment and regen mesh. | 500    |
 | **[Mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) Bounties**       |                                                              |        |
-| Ashwalker Artifacts                         | Send over two [ashwalker](\3_HowToPlay\Jobs\Protagonist_roles\Ghost_roles\Ashwalker.md) artifacts for study. | 2500   |
+| Ashwalker Artifacts                         | Send over two [ashwalker](\3_HowToPlay\Jobs\Ghost_roles\Ashwalker.md) artifacts for study. | 2500   |
 | bluespace crystal                           | Send a bluespace crystal for study.                          | 500    |
 | Goliath Steaks                              | Send 3 lava-cooked goliath steaks.                           | 2000   |
 | glass x30                                   | Bonus alloy quota: send 30 plain glass sheets.               | 350    |

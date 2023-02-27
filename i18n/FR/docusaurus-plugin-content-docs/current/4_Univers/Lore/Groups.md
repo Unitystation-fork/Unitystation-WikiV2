@@ -9,7 +9,7 @@ However, in the decades leading up to the present, the company was losing money 
 
 ## The Syndicate
 
-The Syndicate isn't so much one corporation, as it is a union of multiple companies, mercenary organizations, and raider groups. A loose coalition at best, each member group of the Syndicate works with the rest only as necessary to undermine their common enemy: NanoTrasen. As a well-funded, conspiratorial, and militant group, NanoTrasen regards the Syndicate as their number one enemy, and with good reason; The Syndicate have many times been responsible for the [destruction](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [of](Nuclear-Emergency.md) NanoTrasen's advanced research space stations.
+The Syndicate isn't so much one corporation, as it is a union of multiple companies, mercenary organizations, and raider groups. A loose coalition at best, each member group of the Syndicate works with the rest only as necessary to undermine their common enemy: NanoTrasen. As a well-funded, conspiratorial, and militant group, NanoTrasen regards the Syndicate as their number one enemy, and with good reason; The Syndicate have many times been responsible for the [destruction](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [of](Nuclear-Emergency.md) NanoTrasen's advanced research space stations.
 
 
 

@@ -9,7 +9,7 @@ Note: for the more detailed guide to food preparation, look [Here](Guide-to-Food
 ## Overview
 
 
-The Cook is one of the most simple roles on the station: Make food, serve it to customers, and say no to the [Chaplain](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md) when they ask you to give them a knife for "[ritualistic purposes](\3_HowToPlay\Guides\General_guides\Battle-royale.md)". Its usually recommended for new players to try the game with this role if they are on their own.
+The Cook is one of the most simple roles on the station: Make food, serve it to customers, and say no to the [Chaplain](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md) when they ask you to give them a knife for "[ritualistic purposes](\3_HowToPlay\Guides\General_guides\Battle-royale.md)". Its usually recommended for new players to try the game with this role if they are on their own.
 
 
 ### Dinner's ready

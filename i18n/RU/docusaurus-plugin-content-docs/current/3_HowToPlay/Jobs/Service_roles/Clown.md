@@ -5,7 +5,7 @@
 ## Overview
 
 
-You are the Clown. The Funnyman. Mortal enemy of the [Mime](\3_HowToPlay\Jobs\Entertainment_Roles\Mime.md). The one who's supposed to be making the crew members laugh, and act as stress relief. Instead, most see you as a threat due to most clown's tendencies to lube up the hallways and hide banana peels under doors. As such, don't be surprised if no one trusts you. The best clowns mix actual clown stuff into their pranks. Having a funny gimmick and telling some jokes now and then can mean the difference between being murdered in a hallway and getting All Access.
+You are the Clown. The Funnyman. Mortal enemy of the [Mime](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md). The one who's supposed to be making the crew members laugh, and act as stress relief. Instead, most see you as a threat due to most clown's tendencies to lube up the hallways and hide banana peels under doors. As such, don't be surprised if no one trusts you. The best clowns mix actual clown stuff into their pranks. Having a funny gimmick and telling some jokes now and then can mean the difference between being murdered in a hallway and getting All Access.
 
 
 ### Just a prank bro HONK! HONK!

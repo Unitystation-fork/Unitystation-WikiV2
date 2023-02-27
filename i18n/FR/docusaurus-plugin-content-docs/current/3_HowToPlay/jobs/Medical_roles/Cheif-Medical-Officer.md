@@ -4,13 +4,13 @@
 
 
 
-Note: Pour le guide de la médecine ordinaire et des premiers soins, voir [ici](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md).
+Note: Pour le guide de la médecine ordinaire et des premiers soins, voir [ici](\3_HowToPlay\jobs\Medical_roles\Medical-Doctor.md).
 
 
 
 ## Comment garder tout le monde en vie
 
-Étant donné que les types d'urgences médicales uniques auxquelles la station peut faire face sont assez basiques pour l'instant, le CMO ne fonctionne pas de manière très différente d'un [Chef Medical](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md). Cela signifie que votre objectif est beaucoup plus la gestion médicale logistique générale pour le moment. Vous devez gérer la morgue, le cloneur, le traitement des blessures, la réponse aux crises, la distribution de produits chimiques et le diagnostic psychologique pour les procès occasionnels.
+Étant donné que les types d'urgences médicales uniques auxquelles la station peut faire face sont assez basiques pour l'instant, le CMO ne fonctionne pas de manière très différente d'un [Chef Medical](\3_HowToPlay\jobs\Medical_roles\Medical-Doctor.md). Cela signifie que votre objectif est beaucoup plus la gestion médicale logistique générale pour le moment. Vous devez gérer la morgue, le cloneur, le traitement des blessures, la réponse aux crises, la distribution de produits chimiques et le diagnostic psychologique pour les procès occasionnels.
 
 Les procédures générales de fonctionnement consistent à s'assurer qu'il y a un [médecin généraliste](Medical-Doctor.md) et une personne ayant accès au cloneur (c'est-à-dire vous et le [généticien] (Geneticist.md)). en médecine à un moment donné. Le reste de vos médecins, si vous en avez, devraient être en patrouille et jouer le rôle de secouristes dans toute la station. Assurez-vous qu'ils vous informent chaque fois qu'ils traitent quelqu'un, cependant.
 

@@ -1,7 +1,7 @@
 # Security Officer
 Role type:  <font color= "#711e25">Security</font>. Access levels: <font color="#711e25">Security & cells</font>, Maintenance, Difficulty: <font color="Red">hard</font>.
 
-La sécurité est la force de police de la station, et souvent la deuxième ligne de défense contre les membres de l'équipage qui transforment la station en bataille royale (la première ligne étant les [Janitors](\3_HowToPlay\Jobs\Service_roles\Janitor.md)). Souvent, votre travail est simple : Emprisonner les criminels et veiller à ce que [aucun](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [un](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) ne pénètre dans les zones où il ne devrait pas être.
+La sécurité est la force de police de la station, et souvent la deuxième ligne de défense contre les membres de l'équipage qui transforment la station en bataille royale (la première ligne étant les [Janitors](\3_HowToPlay\jobs\Service_roles\Janitor.md)). Souvent, votre travail est simple : Emprisonner les criminels et veiller à ce que [aucun](\3_HowToPlay\jobs\Service_roles\Assistant.md) [un](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) ne pénètre dans les zones où il ne devrait pas être.
 
 Vous êtes un gardien entre les idéaux de la justice et les fous sauvages que votre entreprise a choisis pour faire avancer ses intérêts dans l'espace. Cependant, ce n'est pas parce que tous les autres sont fous que vous avez le droit de vous déchaîner et de les battre tous jusqu'à ce qu'ils soient inconscients pour les attacher à des lits. Les professionnels ont des normes.
 
@@ -11,7 +11,7 @@ Vous êtes un gardien entre les idéaux de la justice et les fous sauvages que v
 
 Pour une raison inconnue, NanoTrasen a choisi de remplir cette station de recherche de premier ordre avec des babouins simples d'esprit qui aiment le carnage. En conséquence, la sécurité est surtout une nécessité pour empêcher les membres de l'équipage de la détruire. La plupart du temps, ce n'est pas trop difficile : vous disposez d'un tazer, d'une matraque paralysante (appuyez sur w Dans 90% des cas, c'est tout ce dont vous avez besoin, car quelqu'un avec un pied de biche de l'autre côté de la pièce ne peut pas vraiment faire grand-chose quand vous pouvez très facilement le tazer et l'étourdir avec votre matraque, puis le menotter et l'emmener en cellule. 
 
-Cependant, parfois, ce n'est pas suffisant. Peut-être que des [Xénomorphes](Xenomorph.md) ont envahi la station. Ils ne peuvent pas être assommés ou menottés, donc votre stratégie normale ne fonctionnera pas vraiment. Ne vous inquiétez pas, si la situation devient incontrôlable, le [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) vous permettra, si tout va bien, d'obtenir une arme mortelle de l'armurerie. Assurez-vous simplement que les [Assistants](\3_HowToPlay\Jobs\Service_roles\Assistant.md) n'y mettent pas leurs mains grasses, et tout ira bien ; faites _très_ attention aux personnes qui se trouvent à côté de vous lorsque vous les arrêtez avec des armes. Dans l'ensemble, il suffit d'obéir aux ordres du [HoS](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md), de garder les assistants en dehors des zones interdites et d'arrêter [tout](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [indésirable](Nuclear-Operative.md) [l'équipage](Cargonia.md), et avec un peu de chance, vous serez en mesure [d'empêcher la station de se transformer en un pur chaos non filtré](So-close-to-impossible-that-might-as-well-not-even-exist.md)
+Cependant, parfois, ce n'est pas suffisant. Peut-être que des [Xénomorphes](Xenomorph.md) ont envahi la station. Ils ne peuvent pas être assommés ou menottés, donc votre stratégie normale ne fonctionnera pas vraiment. Ne vous inquiétez pas, si la situation devient incontrôlable, le [Warden](\3_HowToPlay\jobs\Security_roles\Warden.md) vous permettra, si tout va bien, d'obtenir une arme mortelle de l'armurerie. Assurez-vous simplement que les [Assistants](\3_HowToPlay\jobs\Service_roles\Assistant.md) n'y mettent pas leurs mains grasses, et tout ira bien ; faites _très_ attention aux personnes qui se trouvent à côté de vous lorsque vous les arrêtez avec des armes. Dans l'ensemble, il suffit d'obéir aux ordres du [HoS](\3_HowToPlay\jobs\Security_roles\Head-of-Security.md), de garder les assistants en dehors des zones interdites et d'arrêter [tout](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [indésirable](Nuclear-Operative.md) [l'équipage](Cargonia.md), et avec un peu de chance, vous serez en mesure [d'empêcher la station de se transformer en un pur chaos non filtré](So-close-to-impossible-that-might-as-well-not-even-exist.md)
 
 
 ## Connaître sa place
@@ -49,7 +49,7 @@ Ou plus communément appelés "merdeux", sont le genre d'officiers qui croient q
 
 2) Méfiez-vous des gens qui essaient de vous désarmer.
 
-3) Les [Clowns](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) et [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) sont vos ennemis jurés.
+3) Les [Clowns](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) et [cargo](\3_HowToPlay\jobs\Cargo_roles\Cargo-Technician.md) sont vos ennemis jurés.
 
 4) Ne vous attendez pas à ce que les gens vous respectent.
 
