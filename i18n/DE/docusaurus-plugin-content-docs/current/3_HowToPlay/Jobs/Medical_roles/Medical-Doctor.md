@@ -4,7 +4,7 @@
 
 ## Überblick
 
-Sanitäter sind wohl die wichtigste Funktion auf einer florierenden Station, abgesehen von [Sicherheit](Security.md) und [Kommando](Captain.md). Ihre Aufgabe ist es, Verletzte zu heilen, tote Besatzungsmitglieder zurückzubringen und die Küche mit Leichen zu versorgen, wenn andere Nahrungsquellen versiegen.
+Sanitäter, sind wohl die wichtigste Funktion auf einer florierenden Station, abgesehen von [Sicherheit](Security.md) und [Kommando](Captain.md). Ihre Aufgabe ist es, Verletzte zu heilen, tote Besatzungsmitglieder zurückzubringen und die Küche mit Leichen zu versorgen, wenn andere Nahrungsquellen versiegen.
 
 
 Es ist zwar kein vorgeschriebener Teil der Rolle, aber es sollte beachtet werden, dass von Nicht-[Antagonist](Antagonist.md) Ärzten im Allgemeinen erwartet wird, dass sie keinen Schaden anrichten, es sei denn, ihr eigenes Leben oder das eines Unschuldigen steht auf dem Spiel; Ihr Ziel ist es, menschliches Leben vor allem anderen zu bewahren. Das bedeutet nicht, dass du Menschen nicht dazu bringen kannst, sich selbst zu verletzen oder andere dazu zu bringen, den Schaden für dich zu beheben, aber es bedeutet, dass dein effizientestes Mittel im Kampf die Flucht ist. Schreien kommt erst an zweiter Stelle.
