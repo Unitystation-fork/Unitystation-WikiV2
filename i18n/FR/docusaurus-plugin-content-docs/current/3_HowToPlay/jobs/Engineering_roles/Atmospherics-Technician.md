@@ -152,14 +152,6 @@ de se demander à quel point le plasma est chaud. Un maître technicien de l'atm
 Ce qui rend l'ATMOS particulièrement puissant, c'est son autonomie. Alors que des métiers comme le roboticien et le chimiste dépendent d'autres métiers, comme l'exploitation minière et la botanique, pour devenir puissants, la technologie ATMOS peut construire des systèmes d'alimentation en énergie.
 Alors que des métiers comme le roboticien ou le chimiste dépendent d'autres personnes, comme l'exploitation minière ou la botanique, pour devenir puissants, le technicien ATMOS peut construire une chambre qui fait passer le soleil pour le Canada en comparaison avec son propre savoir-faire et ses outils, sans aucun autre service. Apprendre l'ATMOS ne se limite pas à savoir ce que fait chaque partie, et pour vraiment le comprendre, il est recommandé de jouer au tech atmos et d'expérimenter et de communiquer avec d'autres tech atmos expérimenté pour partager vos idées.
 
-  <br/>
-<br/>
-<br/>
-
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
-
-<Jobs />
-
 
 <br/>
 <br/>

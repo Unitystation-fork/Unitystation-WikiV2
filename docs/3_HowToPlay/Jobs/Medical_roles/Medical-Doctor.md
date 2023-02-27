@@ -1,5 +1,5 @@
 # Medical Doctor
-**Role type:** <font color# "#d673b2">Medical</font>. **Access:** <font color#"#d673b2">Medbay</font>, <font color#"#d673b2">Cloning</font>,  <font color#"#d673b2">Morgue</font>, <font color#"#d673b2">Surgery</font> , **Difficulty:** <font color#"Yellow">Medium</font>.
+**Role type:** <font color="#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Surgery</font> , **Difficulty:** <font color="Yellow">Medium</font>.
 
 
 ## Overview
@@ -88,7 +88,7 @@ To cut a part open for example something like your head you will first want to s
 To remove a body part or organ first select the "Remove..." option in the surgery menu. Then use these tools in order: '''Scalpel > Hemostat > Scalpel'''. (WARNING: You might start bleeding afterwards, make sure to have some gauze handy to prevent blood loss and making a mess.)
 
 #### Closing a body part  ####
-After you're done messing around inside a body part like your torso you'll want to close it up for next time. Start by selecting "Close..." then simply use the '''Cautery''' and it should seal back up. 
+After you're done messing around inside a body part like your torso you'll want to close it up for next time. Start by selecting "Close..." then simply use the '''Cautery''' and it should seal back up.
 
 #### Important things to note ####
 Currently you are unable to continue or cancel mid-surgery so make sure you have all of the tools needed and have something you can actually implant or you won't be able to continue.
@@ -98,7 +98,7 @@ If you come across a surgical procedure and unsure what tools to use you can usu
 Surgery is still somewhat work-in-progress so while most things work perfectly fine some things might be a bit wonky or not yet implemented fully.
 
 ## Why you might want to do surgery ##
-Luckily since this is just a game it won't hurt at all (physically at least). While you'd think doctors would mostly be concerned with surgery a lot of science is done with the system as well. When you are applying cybernetics for example a Roboticist needs to do surgery to implant cybernetics or give you shiny new robot limbs. These robot limbs and cybernetics can increase your natural abilities like letting you run faster, carry more, or even special abilities like having an automatic reviver! Surgery can also give you a chance to survive a facehugger as if you are quick enough you can remove the embryo from the stomach before the larvae bursts out of you. Cargo might even try to convince you to give up your kidneys so they can sell them for a pretty penny. 
+Luckily since this is just a game it won't hurt at all (physically at least). While you'd think doctors would mostly be concerned with surgery a lot of science is done with the system as well. When you are applying cybernetics for example a Roboticist needs to do surgery to implant cybernetics or give you shiny new robot limbs. These robot limbs and cybernetics can increase your natural abilities like letting you run faster, carry more, or even special abilities like having an automatic reviver! Surgery can also give you a chance to survive a facehugger as if you are quick enough you can remove the embryo from the stomach before the larvae bursts out of you. Cargo might even try to convince you to give up your kidneys so they can sell them for a pretty penny.
 
 While surgery may seem daunting at first it offers a lot of great opportunities and can do a lot to help your fellow crewmate. So goodluck and have fun going out there cutting up your fellow crew and stitching them back together!
 
