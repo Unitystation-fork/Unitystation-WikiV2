@@ -11,7 +11,7 @@ All crew members that have just been shipped from Central Command arrive at the 
 
 ### Primary Tool Storage
 
-Primary Tool Storage is exactly what it says on the tin, a storage room where construction tools and supplies are stored. A great variety of goodies are available here, so naturally it's one of the first places hit by [The Tide](Assistant.md) at the start of a round. It is the only public source of insulated gloves other than lucky loot drops in maintenance.
+Primary Tool Storage is exactly what it says on the tin, a storage room where construction tools and supplies are stored. A great variety of goodies are available here, so naturally it's one of the first places hit by [The Tide](\3_HowToPlay\Jobs\Service_roles\Assistant.md) at the start of a round. It is the only public source of insulated gloves other than lucky loot drops in maintenance.
 
 ### Evacuation Dock
 
@@ -91,7 +91,7 @@ The [QM's](quartermaster.md) home. Typically has a redundant supply console and 
 
 ### Mining Bay
 
-[Shaft miners](Shaft-Miner.md) start their shift here, and it's also the only direct access to Lavaland. It contains a few equipment lockers, the Ore Redemption Machine, and the mining equipment vendor.
+[Shaft miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) start their shift here, and it's also the only direct access to Lavaland. It contains a few equipment lockers, the Ore Redemption Machine, and the mining equipment vendor.
 
 
 
@@ -155,16 +155,16 @@ currently under construction. come back later.
 
 All of the tunnels outside of the main halls are probably maintenance. This is the most common access on the station, though not completely ubiquitous, and the area is marked by its proximity to every other area, its poor lighting, and its exposed pipes. Maintenance is typical filled with a smattering of random items and trash. If you bother to look, occasionally you might find something rather useful.
 
-[Fugitives](fugitive.md) and a number of [miscellaneous](Mobs.md) creatures spawn here.
+[Fugitives](fugitive.md) and a number of [miscellaneous](\4_Univers\Mobs\Mobs.md) creatures spawn here.
 
 ### Custodial Closet
 
-The [Janitor's](Janitor.md) home. A janitor's locker and vendor are located here along with loose janitorial supplies.
+The [Janitor's](\3_HowToPlay\Jobs\Service_roles\Janitor.md) home. A janitor's locker and vendor are located here along with loose janitorial supplies.
 
 ### Waste Disposal
 
 Waste Disposal is a special maintenance area. It is typically worked by [Cargo Technicians](cargo-technician.md) or the [Janitor](janitor.md). This is the final destination of all those items that get disposed of properly in the Delivery Office in Cargo. The lever controls the conveyor system while the two buttons on the left wall control the blast door and mass driver.
 
-The [AI](Station-AI.md) has no cameras in this area, making it the perfect location to perform [crimes](traitor.md).
+The [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) has no cameras in this area, making it the perfect location to perform [crimes](traitor.md).
 
 On some maps, Waste Disposal is located *outside* the station's boundaries, meaning if you jump into a disposal bin without a means of space walking, you might trap yourself.

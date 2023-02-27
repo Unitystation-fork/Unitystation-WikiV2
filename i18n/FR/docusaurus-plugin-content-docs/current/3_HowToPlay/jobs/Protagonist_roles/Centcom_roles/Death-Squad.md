@@ -5,7 +5,7 @@ Note: L'escadron de la mort, pour des raisons qui devraient être claires d'ici 
 
 ### Repose en paix et Pleure
 
-Votre but est simple. Tuez tout ce qui bouge sur la station et faites-la exploser avec la bombe nucléaire embarquée. C'est généralement parce que la station a décidé de "former un syndicat", est infesté d'une manière ou d'une autre, ou est si mal en point qu'il est préférable pour [NT](The-Lore.md) de tuer tout le monde et d'étouffer l'affaire. La résistance que vous rencontrerez sera très variable, mais cela ne pose généralement pas de problème, as you are equipped with the most flat out overpowered gear anyone can lay hands on. Sans exagération, deux ou trois death troopers [robustes](Combat.md) peuvent détruire une station entière.
+Votre but est simple. Tuez tout ce qui bouge sur la station et faites-la exploser avec la bombe nucléaire embarquée. C'est généralement parce que la station a décidé de "former un syndicat", est infesté d'une manière ou d'une autre, ou est si mal en point qu'il est préférable pour [NT](\4_Univers\Lore\The-Lore.md) de tuer tout le monde et d'étouffer l'affaire. La résistance que vous rencontrerez sera très variable, mais cela ne pose généralement pas de problème, as you are equipped with the most flat out overpowered gear anyone can lay hands on. Sans exagération, deux ou trois death troopers [robustes](Combat.md) peuvent détruire une station entière.
 
 ### GROS FLINGUE
 
@@ -24,7 +24,7 @@ Voici un guide pratique pour réussir en esquade de la mort:
     * Si vous voyez quelque chose qui est vivant sur le chemin, tuez-le.
 
 
-1. Attraper le disque, vous aurez peut-être à tuez [celui](Captain.md) qui le tient.
+1. Attraper le disque, vous aurez peut-être à tuez [celui](\3_HowToPlay\Jobs\Command_roles\Captain.md) qui le tient.
 
 1. Avancer jusqu'a la bombe à bord de la station.
 

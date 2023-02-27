@@ -10,7 +10,7 @@ NanoTrasen cares deeply about the mental health of its employees, and to this en
 
 Your job is primarily to simply talk and listen to any and all who request it, and secondarily to write and dispense prescriptions and doctor's notes for patients as you see fit.
 
-*You are not another [Doctor](Medical-Doctor.md), your job is to help mentally, not physically.* This is largely a **roleplay-based** role - whether you have fun with it is largely tied to how much effort you and your patients put into it, as it is not tied to game mechanics at all.
+*You are not another [Doctor](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md), your job is to help mentally, not physically.* This is largely a **roleplay-based** role - whether you have fun with it is largely tied to how much effort you and your patients put into it, as it is not tied to game mechanics at all.
 
 ### Hearts and Minds
 

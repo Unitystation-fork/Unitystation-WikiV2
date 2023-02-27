@@ -11,7 +11,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 
 ### Comment ne pas mourir instantanément
 
-1) Pour ne pas mourir, vous devez connaître les contrôles - W A S D pour marcher et la souris pour interagir. Vous avez deux mains pour ramasser des choses avec, vous pouvez passer de l'une à l'autre avec la touche X. Utiliser les mains pour déplacer les objets peut être déroutant au début, mais avec un peu de pratique, on y arrive. Voir [intents](Intents.md) pour savoir comment interagir avec les objets et les êtres.
+1) Pour ne pas mourir, vous devez connaître les contrôles - W A S D pour marcher et la souris pour interagir. Vous avez deux mains pour ramasser des choses avec, vous pouvez passer de l'une à l'autre avec la touche X. Utiliser les mains pour déplacer les objets peut être déroutant au début, mais avec un peu de pratique, on y arrive. Voir [intents](\3_HowToPlay\Guides\General_guides\Intents.md) pour savoir comment interagir avec les objets et les êtres.
 
 1a) Autres contrôles : Q pour laisser tomber l'objet que vous tenez au sol, Z pour "activer" l'objet que vous tenez (on peut aussi le faire en cliquant sur l'objet), R pour lancer l'objet que vous tenez au loin, Ctrl + Clic pour faire glisser quelque chose (un corps ou un casier en général), et Shift + Clic pour voir une description de quelque chose ou de quelqu'un.
 

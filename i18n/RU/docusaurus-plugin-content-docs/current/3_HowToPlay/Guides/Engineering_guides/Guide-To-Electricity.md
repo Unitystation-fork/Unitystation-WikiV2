@@ -1,5 +1,5 @@
 ## Guide to electricity
-Relevent guides: [Construction](Construction.md) , [Nuclear Reactor](Guide-to-the-nuclear-reactor.md)
+Relevent guides: [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) , [Nuclear Reactor](\3_HowToPlay\Guides\Engineering_guides\Guide-to-the-nuclear-reactor.md)
 
 Note: This is not a guide to the operation of the nuclear reactor or building electrical equipment, that is linked directly above.
 
@@ -21,7 +21,7 @@ also not function without power, meaning dead bodies will pile up and not be rev
 
 ## Types of Wires
 Rather than a single type of wire, the station's power supply is made of a network of many types of wires. Low voltage wires are cheap, but can only handle smaller amounts of power.
-Medium power wires are the most common type of wire and are used in [hacking](Hacking-Guide.md) doors. High voltage wires are the rarest type of wires and can handle the enormous loads made by
+Medium power wires are the most common type of wire and are used in [hacking](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md) doors. High voltage wires are the rarest type of wires and can handle the enormous loads made by
 nuclear reactors and generators, they act as the spine upon which the rest of the station's grid is built.
 
 ## Area Power Controllers (APCs)

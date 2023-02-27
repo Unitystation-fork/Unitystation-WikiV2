@@ -3,7 +3,7 @@ Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#7465
 
 Note: this is the job guide, for the gas/pipe guide, go [here](Guide-to-Atmospherics.md)
 
-En tant que technicien atmosphérique, votre travail consiste essentiellement à [stop the station's crew members from suffocating to death](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
+En tant que technicien atmosphérique, votre travail consiste essentiellement à [stop the station's crew members from suffocating to death](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
 
 ### Pour l'amour de Dieu, ne remplissez pas la station de plasma.
 

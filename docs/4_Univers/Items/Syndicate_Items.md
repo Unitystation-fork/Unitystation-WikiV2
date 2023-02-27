@@ -1,6 +1,6 @@
 # Syndicate Items
 
-This is a comprehensive list of all items that [Traitors](Traitor.md) and [Nuclear Operatives](Nuclear-Operative.md) can purchase through their Syndicate uplink hidden on their PDAs. Shortly after round spawn, operatives and traitors will receive notifications telling them a code phrase to input into their PDAs in the ringtone configuration under settings. Traitors start with 20 Telecrystals (TC) while operatives start with 25 TC to spend on specialist equipment to complete their objectives.
+This is a comprehensive list of all items that [Traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) and [Nuclear Operatives](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) can purchase through their Syndicate uplink hidden on their PDAs. Shortly after round spawn, operatives and traitors will receive notifications telling them a code phrase to input into their PDAs in the ringtone configuration under settings. Traitors start with 20 Telecrystals (TC) while operatives start with 25 TC to spend on specialist equipment to complete their objectives.
 
 #### Traitor and Operative items:
 
@@ -50,7 +50,7 @@ This is a comprehensive list of all items that [Traitors](Traitor.md) and [Nucle
 
 #### Operative Exclusive Items:
 
-Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md) 
+Some items are only available to [Nuclear Operatives.](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) 
 
 | Category/Name                                    | Description                                                  | TC cost |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------- |
@@ -72,7 +72,7 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 | 12g slug drum                                    | Fires a single slug that deals slightly less total damage than buckshot, but has 20% armor penetration and a higher projectile velocity, so if you are facing armored targets or are fighting over distance, consider picking this. | 3TC     |
 | .45 Magazine                                     | An extra magazine for the stalker SMG. Grab a few of these if you plan to stick with it. | 3TC     |
 | .45 Magazine Incendiary                          | Like other incendiary ammunition, this magazine deals half normal damage in exchange for igniting the target on fire. The stalker doesn't have a lot of synergy with incendiary ammunition, but it isn't a strictly bad purchase either, and it's cheap. | 4TC     |
-| .45 Magazine AP                                  | The stalker *does* have a lot of synergy with AP ammunition. If you know you are going to deal with a station prepared for your arrival or if you expect to encounter [Unusually](Redshield-Officer.md) [Tough](Emergency-Response-Team.md) [Resistance,](Death-Squad.md) since you get the stalker for free, this is a very cost effective way to get 50% armor penetration in an automatic package. | 5TC     |
+| .45 Magazine AP                                  | The stalker *does* have a lot of synergy with AP ammunition. If you know you are going to deal with a station prepared for your arrival or if you expect to encounter [Unusually](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Redshield-Officer.md) [Tough](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Emergency-Response-Team.md) [Resistance,](Death-Squad.md) since you get the stalker for free, this is a very cost effective way to get 50% armor penetration in an automatic package. | 5TC     |
 | 7.12 Box Magazine                                | More lead for the buzzsaw. Useful if the station is well populated or if you plan to use the buzzsaw as a literal saw to cut through windows and walls. | 6TC     |
 | 7.12 AP Box Magazine                             | Expensive, but if you are going against a full squad of [the best and baddest,](Death-Squad.md) accept no substitutes. | 9TC     |
 | 7.12 Incendiary Box Magazine                     | This paired with the Elite Syndicate Hardsuit is a contender for one of the most cancerous weapon-ammo-armor combos in the game. The buzzsaw deals so much damage per shot that the half-damage penalty for incendiary ammo isn't as significant as with other weapons, and lighting people on fire creates a significant problem for them to deal with while they fight you. | 6TC     |
@@ -92,7 +92,7 @@ Some items are only available to [Nuclear Operatives.](Nuclear-Operative.md)
 | Blood-Red Magboots                               | For when you don't like the pair you start with for some reason. | 2TC     |
 | Elite Syndicate Hardsuit                         | an upgrade over your standard blood red hardsuit, this suit's utility isn't derived from extra protection from laser and bullets (it's a bit better than the standard suit, but actually has slightly weaker laser protection). Instead, you get this for the enhanced protection to environmental damages, such as bomb, fire, and acid damage. This is a great choice if you are at risk of damaging yourself with your own AOE weaponry. | 8TC     |
 | <font color="red">**MISC. GADGETS**</font>       | Gadgets that dont fit in with others                         |         |
-| Jaws of Life                                     | A handy power tool that can act as both a crowbar and wirecutters. It's main utility is that while in crowbar mode, it can force open *powered* airlocks, allowing you to force through any doors in your way. Do note that it's a bit loud when it does so, though, and it can't force open bolted doors, so a watchful [AI](Station-AI.md) can stall your progress. | 4TC     |
+| Jaws of Life                                     | A handy power tool that can act as both a crowbar and wirecutters. It's main utility is that while in crowbar mode, it can force open *powered* airlocks, allowing you to force through any doors in your way. Do note that it's a bit loud when it does so, though, and it can't force open bolted doors, so a watchful [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) can stall your progress. | 4TC     |
 | Syndicate Reinforcement                          | This option buys you a small transponder that when activated opens a ghost role that lets one dead player spawn as an extra Nuclear Operative. They start with all the stock equipment, but *no TC of their own,* so you've got to share with them to get them equipped. That, combined with the price of this option means this item is really only viable if you've declared war on the station for extra TC. | 25TC    |
 | <font color="red">**BUNDLES**</font>             | Think of the savings!                                        |         |
 | Bioterror bundle                                 | Currently not worth getting as chemistry is underdeveloped. 12 TC saved. | 30TC    |

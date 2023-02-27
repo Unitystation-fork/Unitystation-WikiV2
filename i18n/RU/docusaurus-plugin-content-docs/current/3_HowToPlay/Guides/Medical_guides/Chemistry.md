@@ -1,5 +1,5 @@
 # Chemistry
-The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click [here](Chemist.md)
+The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click [here](\3_HowToPlay\Jobs\Medical_roles\Chemist.md)
 
 <font color="red">(Disclaimer: at the current time of this edit, these are all working recipes/reactons for the game; all others turn to ash or out right don't work)</font>
 

@@ -14,7 +14,7 @@ Well, surprisingly, getting into an area is something that may appear easy, but 
 If your the goody two shoes sort, there are several ways to get into places without worrying about your moral compass.
 
 - Just use your own ID to open doors you have access to. The most boring and plain way, but the most efficient and legal by far.
-- Get your ID changed legally by the [HoP](HoP.md) or [Captain](Captain.md) to get access, then try option 1 above. This will likely involve talking, but unless your trying to get into an area thought of as secure, it generally fairly easy.
+- Get your ID changed legally by the [HoP](HoP.md) or [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) to get access, then try option 1 above. This will likely involve talking, but unless your trying to get into an area thought of as secure, it generally fairly easy.
 - Convince someone to let you in. If your persuasive enough, have made a bud, or are lacking time, this is a good way to legally get into areas. If its a secure area this will likely not work, but you can probably ask them for the specific thing your after regardless. If you just want the item but they aren't willing to give it up, propose a trade. if you offer the [CMO](Chief-medical-officer.md) an smg for some medicine, he's more than likely to give it to you in a fair exchange.
 
 

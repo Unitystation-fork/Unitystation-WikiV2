@@ -1,7 +1,7 @@
 # Botanist
 **Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
-Les botanistes sont les fermiers de la station, et la principale source de nourriture lorsque la [cuisine](Cook.md) est à court de nourriture.
+Les botanistes sont les fermiers de la station, et la principale source de nourriture lorsque la [cuisine](\3_HowToPlay\Jobs\Service_roles\Cook.md) est à court de nourriture.
 
 Vous pouvez également faire pousser des cultures aléatoires au lieu de nourrir les gens.
 Peu importe ce que vous voulez faire.
@@ -22,19 +22,19 @@ Les bacs ont des lumières qui brillent quand ils ont besoin de quelque chose :
 | orange| Les plantes orange ont faim		| Utilise la bouteille de nutriments du distributeur. |
 
 
-Si le distributeur automatique n'a plus de graines, mettez une partie de votre production dans l'extracteur de graines ou demandez simplement à [Cargo](Cargo-Technician.md) d'en commander.
+Si le distributeur automatique n'a plus de graines, mettez une partie de votre production dans l'extracteur de graines ou demandez simplement à [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) d'en commander.
 Si vous échouez dans votre travail et que les plantes meurent, utilisez la bêche de jardinage pour les déterrer.
 
 ### Pourquoi tu ne joues pas à Stardew Valley alors ?
 
-Même si beaucoup de gens pensent que ce travail est plus un simulateur de ferme qu'un véritable rôle dans une station spatiale, la vérité est que la plus grande interaction du botaniste est avec le [Cook](Cook.md), et c'est une interaction compliquée.
+Même si beaucoup de gens pensent que ce travail est plus un simulateur de ferme qu'un véritable rôle dans une station spatiale, la vérité est que la plus grande interaction du botaniste est avec le [Cook](\3_HowToPlay\Jobs\Service_roles\Cook.md), et c'est une interaction compliquée.
 
 De plus, un incident de plasma est mauvais pour les cultures, donc vous ne vous contentez pas de regarder les plantes pousser, vous les protégez du chaos croissant de la station pendant qu'elles se développent lentement en une plante adulte, et vous n'attendez pas seulement qu'elles soient récoltées.
 
 
 Pour l'instant, la quantité de choses que le botaniste peut faire est limitée.
 
-Faire pousser des pommes pour combler la faim de viande et faire pousser du blé pour que le [Cuisinier](Cook.md) puisse le transformer en farine pour les hamburgers.
+Faire pousser des pommes pour combler la faim de viande et faire pousser du blé pour que le [Cuisinier](\3_HowToPlay\Jobs\Service_roles\Cook.md) puisse le transformer en farine pour les hamburgers.
 
 Lorsque la vie de la station civile se [désintègre](Battle-royale.md), cultivez des bananes et disposez un champ de mines de pelures autour de votre territoire pour dissuader les attaquants.
 

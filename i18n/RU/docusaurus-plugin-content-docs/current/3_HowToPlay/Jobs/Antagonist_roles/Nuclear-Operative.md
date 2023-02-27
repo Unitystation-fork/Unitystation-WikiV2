@@ -4,7 +4,7 @@
 ## Overview
 
 
-Ten Hut! You have been hand picked by the [Syndicate](Groups.md) to join an elite commando team with the one goal of blowing [Nanotrasen](Groups.md)'s most valuable asset, Space Station 13, to high hell through the use of a nuclear bomb.
+Ten Hut! You have been hand picked by the [Syndicate](\4_Univers\Lore\Groups.md) to join an elite commando team with the one goal of blowing [Nanotrasen](\4_Univers\Lore\Groups.md)'s most valuable asset, Space Station 13, to high hell through the use of a nuclear bomb.
 
 
 ### How to get started
@@ -25,7 +25,7 @@ The stetchkin is a small but scrappy fallback pistol. Use it if you've run out o
 
 ### How to do your job
 
-You need to get the [Nuclear Authentication Disk](Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> *If* you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
+You need to get the [Nuclear Authentication Disk](\4_Univers\Items\Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> *If* you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
 
 ###  How to use TC Shop
 

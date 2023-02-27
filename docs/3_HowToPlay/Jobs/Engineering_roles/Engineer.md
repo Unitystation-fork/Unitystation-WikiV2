@@ -6,9 +6,9 @@
 
 Engineers are the repairmen and electricians of the station. If there's a hole in the station providing one of the hallways or departments with a fresh view of space, it's the Engineer's job to fix it. If wires have been cut and half the station is out of power, it's the Engineer's job to fix it.
 
-As an Engineer, people expect you to know at least the basics of Construction, how the power system works and how to lay wires, etc. If you're ever confused on what to do, ask the [Chief Engineer](Chief-Engineer.md). They should give you advice, since they are your superior and it's their job to coordinate and assist engineers.
+As an Engineer, people expect you to know at least the basics of Construction, how the power system works and how to lay wires, etc. If you're ever confused on what to do, ask the [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md). They should give you advice, since they are your superior and it's their job to coordinate and assist engineers.
 
-At the bare minimum, you must know how to fix a hull breach and how to turn on the SMES. Learn how to do these as an assistant to the [CE](Chief-Engineer.md) before you play as the only engineer on a low population server. Otherwise, you will have a really angry station on your back.
+At the bare minimum, you must know how to fix a hull breach and how to turn on the SMES. Learn how to do these as an assistant to the [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) before you play as the only engineer on a low population server. Otherwise, you will have a really angry station on your back.
 ### Bob the Builder
 
 this is just a very basic guide to how the construction system works. for a more in-depth guide, see [Construction](Construction.md).
@@ -17,7 +17,7 @@ In Unitystation, there are three materials you'll need to worry about: Metal Pla
 
 Once you've clicked on the item you want to build, wait for the bar above your head to fill up, and boom, you've built the item you want to build. Another note is that some items in the construction menu are intermediary constructions that must be finished with additional construction. For example, to build a wall requires you to construct a metal girder with 2 metal sheets, then finish the wall by clicking on the girder with 2 more sheets.
 
-Construction materials will go very fast, especially with a full engineering department. It will likely be necessary to order more materials from [Cargo](Quartermaster.md). If you have a [CE](Chief-Engineer.md), get in touch with them about what you need. Their status as a head will get things ordered and shipped faster. However, the [Shaft Miners](Shaft-Miner.md) [might](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) randomly show up with a humongous shipment of construction materials, both basic and exotic, to let you go nuts with. Be thankful you don't have to share them with [Science](Roboticist.md) yet.
+Construction materials will go very fast, especially with a full engineering department. It will likely be necessary to order more materials from [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md). If you have a [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md), get in touch with them about what you need. Their status as a head will get things ordered and shipped faster. However, the [Shaft Miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) [might](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) randomly show up with a humongous shipment of construction materials, both basic and exotic, to let you go nuts with. Be thankful you don't have to share them with [Science](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) yet.
 
 
 ### Electricity
@@ -396,7 +396,7 @@ The same colored wire will do the same thing on every door.
 
 The positions of the wires will be randomized though.
 
-Have a good excuse ready for when the [Head of Security](Head-of-Security.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
+Have a good excuse ready for when the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
 
 You may want to start with some door off in maint, where no one can catch you.
 

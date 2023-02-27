@@ -1,4 +1,4 @@
-﻿# Weapons
+# Weapons
 There are many different weapons availble in Unitystation. There are ballistic weapons that use bullets and have magazines and laser weapons that charge up and use batteries.
  Lasers are cool, have a very intimidating visual effect, can bounce off certain surfaces and pass through glass. BUT are dependent on a power outlet and usually only have 10 shots. (to get more you need a high capacity battery) has two modes, disable (which drops the gun to the ground) and kill (which causes burn damage)
  Ballistic weapons, which require ammunition, usually contained in a magazine or clip. A trigger pull causes a detonation, ejects a hot case and projects a warhead (bullet) in the chosen direction and make bruse dommage 8 for the 9mm chageur 20 for the WT550 (4.6x30mm) 30 for the M90 (5.56mm) 

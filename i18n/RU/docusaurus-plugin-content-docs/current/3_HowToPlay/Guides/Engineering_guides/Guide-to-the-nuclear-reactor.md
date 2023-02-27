@@ -1,5 +1,5 @@
 # Guide to the nuclear reactor
-Note: The reactor is VERY complicated, and you shouldn't touch it unless you are experienced as an [engineer](Engineer.md) or fully intend to fuck it up.
+Note: The reactor is VERY complicated, and you shouldn't touch it unless you are experienced as an [engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) or fully intend to fuck it up.
 
 ## Overview
 This guide will cover the basic background info of the reactor, how to start it, how to run it, and how to blow it to hell. Many terms relating to the reactor will also be covered, under the assumption that you are almost certainly not a nuclear physicist. 

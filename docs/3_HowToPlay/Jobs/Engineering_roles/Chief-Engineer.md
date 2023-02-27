@@ -8,12 +8,12 @@ Job type: <font color= "#74652c">Engineer</font>. Access: <font color="#74652c">
 
 "ALRIGHT! what goddamn moron cut the high voltage wire again?"
 
-Relevent guides: [Construction](Construction.md), [Engineer](Engineer.md), [Atmos](Guide-to-Atmospherics.md) and [Atmospherics technician](Atmospherics-Technician.md)
+Relevent guides: [Construction](Construction.md), [Engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmos](Guide-to-Atmospherics.md) and [Atmospherics technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md)
 
 
 ## Your Job
 
-As the CE your main goal is to make sure the rest of the station is airtight, breathable, and functional. To achieve this you have your hired help, ordinary [engineers](Engineer.md) and [atmospherics technicians](Atmospherics-Technician.md). [Engineers](Engineer.md) are easier to order around, and will generally do their job, unlike [atmos techs](Atmospherics-Technician.md), who while usually capable, are more likely dicking about and setting themselves on fire. Don't worry, chances are one of them is a wizard at engineering and will know how to do your job better than you, its almost guaranteed.
+As the CE your main goal is to make sure the rest of the station is airtight, breathable, and functional. To achieve this you have your hired help, ordinary [engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) and [atmospherics technicians](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md). [Engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) are easier to order around, and will generally do their job, unlike [atmos techs](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md), who while usually capable, are more likely dicking about and setting themselves on fire. Don't worry, chances are one of them is a wizard at engineering and will know how to do your job better than you, its almost guaranteed.
 
 
 ### Help the lights are off
@@ -26,7 +26,7 @@ You'll have to ignore many of the calls for engineering that come your way, as y
 
 ### Help someone blew the wall open
 
-The most often thing you'll deal with is breaches, most can be fixed with a single [engineer](Engineer.md) and [atmos tech](Atmospherics-Technician.md), but a shuttleram from the syndicate shuttle is another beast entirely. simply designate someone by name to patch up the wall or floor and make sure they have a space-worthy suit.
+The most often thing you'll deal with is breaches, most can be fixed with a single [engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) and [atmos tech](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md), but a shuttleram from the syndicate shuttle is another beast entirely. simply designate someone by name to patch up the wall or floor and make sure they have a space-worthy suit.
 
 ### OH GOD EVERYTHING IS BURNING AND EXPLODING
 
@@ -41,7 +41,7 @@ Because you have access to the engine bay, you also have the most effective way 
 ------
 
 ## Guide to the nuclear reactor
-Note: The reactor is VERY complicated, and you shouldn't touch it unless you are experienced as an [engineer](Engineer.md) or fully intend to fuck it up.
+Note: The reactor is VERY complicated, and you shouldn't touch it unless you are experienced as an [engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) or fully intend to fuck it up.
 
 ### Overview
 This guide will cover the basic background info of the reactor, how to start it, how to run it, and how to blow it to hell. Many terms relating to the reactor will also be covered, under the assumption that you are almost certainly not a nuclear physicist.
@@ -116,7 +116,7 @@ If you've got a deathwish, and access to the rods themselves, this method guaran
 
 
 ## Guide to the singularity and tesla engines
-Note: while both the singularity and the tesla are simpler than the [nuclear reactor](Guide-to-the-nuclear-reactor.md), the cost for failure is much higher. Because of this you should be familiar with [engineering](Engineer.md)
+Note: while both the singularity and the tesla are simpler than the [nuclear reactor](Guide-to-the-nuclear-reactor.md), the cost for failure is much higher. Because of this you should be familiar with [engineering](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md)
 BEFORE touching it, unless, of course, you intend to make the engine fail from the getgo.
 
 ### Overview

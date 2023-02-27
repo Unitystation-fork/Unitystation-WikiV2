@@ -11,13 +11,13 @@
     </div>
 </div>
 
-Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician](Cargo-Technician.md) and/or [Shaft Miner](Shaft-Miner.md)
+Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) and/or [Shaft Miner](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md)
 
 "[*Move Freight. Miners*,](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)" - A wise QM
 
 ### Roi de l'équipe de livraison
 
-En tant que QM, votre travail est simple, vous supervisez les opérations régulières de la cargaison, qu'il s'agisse de la paperasse, des commandes, des exportations ou de la coordination des opérations minières sur un rocher perdu, depuis le confort de votre bureau. Si les [techniciens du fret] (Cargo-Technician.md) sont bons pour déplacer des caisses et gagner de l'argent, ils ont du mal à gérer les primes et à dépenser cet argent. C'est là que vous intervenez. Vérifiez auprès des autres départements quelles sont les fournitures dont ils manquent, et achetez-les, en personne ou par radio, ils seront plus qu'heureux de vous informer. Vous devriez aussi presque toujours acheter des [caisses de viande](Cooking.md) pour le [Chef](Cook.md) et du métal pour l'ingénierie dès que vous le pouvez, car les stocks des deux s'épuisent rapidement.
+En tant que QM, votre travail est simple, vous supervisez les opérations régulières de la cargaison, qu'il s'agisse de la paperasse, des commandes, des exportations ou de la coordination des opérations minières sur un rocher perdu, depuis le confort de votre bureau. Si les [techniciens du fret] (Cargo-Technician.md) sont bons pour déplacer des caisses et gagner de l'argent, ils ont du mal à gérer les primes et à dépenser cet argent. C'est là que vous intervenez. Vérifiez auprès des autres départements quelles sont les fournitures dont ils manquent, et achetez-les, en personne ou par radio, ils seront plus qu'heureux de vous informer. Vous devriez aussi presque toujours acheter des [caisses de viande](Cooking.md) pour le [Chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) et du métal pour l'ingénierie dès que vous le pouvez, car les stocks des deux s'épuisent rapidement.
 
 ### Demandes
 
@@ -29,13 +29,13 @@ Une partie essentielle de l'exécution des demandes, que vous devez coordonner a
 
 Pour dépenser de l'argent, vous devez en gagner, et le moyen d'y parvenir est d'exporter. La méthode est très simple. Faites glisser ce que vous voulez vendre sur la navette cargo et envoyez-le à Centcom. Les casiers et les caisses (voir plus haut) ont une valeur non négligeable, l'antérieur pouvant être fabriqué avec un peu de métal pour de l'argent facile. Les autres exportations peuvent inclure des matières premières, des primes, des marchandises volées dans d'autres départements, du minerai raffiné, des produits de la botanique et, en général, tout ce que vous pouvez trouver avec votre scanner d'exportation.
 
-Lorsque les [mineurs](Shaft-Miner.md) [survivent](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) à leur expédition et font honneur à votre département avec un nouveau chargement de minerai, vous devriez.. :
+Lorsque les [mineurs](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) [survivent](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) à leur expédition et font honneur à votre département avec un nouveau chargement de minerai, vous devriez.. :
 
 *Distribuer tous les matériaux de [construction](Construction.md) (verre et métal) aux tours ou à l'[Ingénieur](Engineering.md).
 *Donner du [plasma solide](Plasma.md) et de l'uranium à l'ingénierie pour alimenter la station.
 
-* Vendez de l'or, de l'argent, du bananium, des cristaux de bluespace et des diamants. Ou donnez-les au [Roboticist](Roboticist.md) et raillez-les pour leur manque actuel de fonctionnalité.
-*Apportez tous les corps de [Xenomorph](Xenomorph.md) récupérés au [chef](Cook.md) pour des steaks verts.
+* Vendez de l'or, de l'argent, du bananium, des cristaux de bluespace et des diamants. Ou donnez-les au [Roboticist](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) et raillez-les pour leur manque actuel de fonctionnalité.
+*Apportez tous les corps de [Xenomorph](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) récupérés au [chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) pour des steaks verts.
 
 
 

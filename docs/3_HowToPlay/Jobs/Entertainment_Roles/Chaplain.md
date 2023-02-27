@@ -29,19 +29,19 @@ Due to a lack of set goals, you may be a tad overwhelmed, however, here are some
 * Hold service with your followers.
 * Hold burials for anyone important.
 * Renovate the chapel.
-* Hunt down [holy artifacts](Asteroid.md), alone or with your buds.
+* Hunt down [holy artifacts](\4_Univers\Maps\Asteroid.md), alone or with your buds.
 * Tell other cults on the station to fuck off
 * bless random water tanks.
 * break into chemistry and create a holy hand grenade.
 * Perform exorcisms.
-* Convert the [captain](Captain.md) and turn the station into a theocracy.
+* Convert the [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) and turn the station into a theocracy.
 * Perform an elaborate ritual to summon your deity to the mortal plane.
 * Craft ritual gear for your followers.
 * Summon and make pacts with whatever entities you come across.
 * Create a peaceful offshoot of the cult of Nar-Sie or Ratvar.
 * Lead a righteous crusade against other cults.
-* Work with the [lawyer](Lawyer.md), sue god!
-* pray to the [spess gods](Admin.md) for divine gifts or holy tasks.
+* Work with the [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), sue god!
+* pray to the [spess gods](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md) for divine gifts or holy tasks.
 * Whatever other crazy shit you can come up with.
   <br/>
 <br/>

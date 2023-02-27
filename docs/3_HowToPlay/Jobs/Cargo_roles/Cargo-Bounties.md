@@ -15,12 +15,12 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 | Power Control Boards x2                     | Send 2 Power Control Boards.                                 | 500    |
 | Power cells x6                              | Send 6 Power Cells to replace burnouts.                      | 600    |
 | Toolboxes x6                                | There's an absence of robustness at Central Command. Hurry up and ship 6 toolboxes as a solution. | 600    |
-| **[Medical](Medical-Doctor.md) Bounties**   |                                                              |        |
+| **[Medical](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) Bounties**   |                                                              |        |
 | Defibrillator                               | Send 1 Defibrillator unit.                                   | 500    |
 | Heart                                       | Send 1 Heart.                                                | 1250   |
 | Medical Supplies                            | Send a health analyzer and one stack each of bruise packs, gauze, ointment and regen mesh. | 500    |
-| **[Mining](Shaft-Miner.md) Bounties**       |                                                              |        |
-| Ashwalker Artifacts                         | Send over two [ashwalker](Ashwalker.md) artifacts for study. | 2500   |
+| **[Mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) Bounties**       |                                                              |        |
+| Ashwalker Artifacts                         | Send over two [ashwalker](\3_HowToPlay\Jobs\Protagonist_roles\Ghost_roles\Ashwalker.md) artifacts for study. | 2500   |
 | bluespace crystal                           | Send a bluespace crystal for study.                          | 500    |
 | Goliath Steaks                              | Send 3 lava-cooked goliath steaks.                           | 2000   |
 | glass x30                                   | Bonus alloy quota: send 30 plain glass sheets.               | 350    |
@@ -31,7 +31,7 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 | solid plasma                                | Bonus alloy quota: send 10 solid plasma.                     | 500    |
 | volcanic ash sample                         | Send a sample of Lavaland soil for independent testing.      | 500    |
 | PKAs x2                                     | Send 2 Proto Kinetic Accelerators.                           | 500    |
-| **[Science](Scientist.md) Bounties**        |                                                              |        |
+| **[Science](\3_HowToPlay\Jobs\Science_roles\Scientist.md) Bounties**        |                                                              |        |
 | AI Module                                   | We are investigating concerns of an exploit allow AIs to subvert their laws. Send a law module board over for diagnosis. | 1800   |
 | Artifact Detector                           | Send 1 Artifact Detector.                                    | 1000   |
 | Endoskeletons x3                            | Send 3 cyborg endoskeletons.                                 | 1000   |

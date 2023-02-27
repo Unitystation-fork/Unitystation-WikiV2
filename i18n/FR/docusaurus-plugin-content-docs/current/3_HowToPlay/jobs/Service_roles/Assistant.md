@@ -7,7 +7,7 @@ Les assistants sont les personnes les plus faciles à remplacer sur la station, 
 
 ### Votre "travail"
 
-Selon [Nanotrasen](Groups.md), les personnes en costume qui vous ont engagé, votre devoir sur la station est d'aider les gens de toutes les manières possibles.
+Selon [Nanotrasen](\4_Univers\Lore\Groups.md), les personnes en costume qui vous ont engagé, votre devoir sur la station est d'aider les gens de toutes les manières possibles.
 
 Parfois, vous vous retrouvez à l'intérieur de l'infirmerie, où vous aidez les médecins en apportant des cadavres à cloner ou des personnes blessées à soigner.
 
@@ -19,7 +19,7 @@ Ne vous attendez pas à ce qu'on vous donne un poste de haut rang, comme [Chef d
 
 ### Les trucs sympas
 
-Veuillez noter que ces choses peuvent vous attirer des ennuis [IC ou OOC](RP-words-and-abbreviations.md) si vous n'êtes pas un [antagoniste](Antagonist.md).
+Veuillez noter que ces choses peuvent vous attirer des ennuis [IC ou OOC](\3_HowToPlay\RP\RP-words-and-abbreviations.md) si vous n'êtes pas un [antagoniste](Antagonist.md).
 
 Si tout cela vous semble ennuyeux, j'ai une nouvelle à vous annoncer : l'un des avantages de choisir un assistant est que, à moins que le [HoP](HoP.md) ne vous ait confié un travail, vous n'avez exactement aucune tâche à accomplir sur la station. Vous savez ce que cela signifie ? Des méfaits, bébé ! Prenez une soudeuse et soudez des portes, et regardez avec fierté les membres du département que vous avez piégé crier dans les comms qu'ils sont coincés ; passez une demi-heure à pénétrer dans l'armurerie de la sécurité pour vous rendre compte qu'il vous faut un niveau d'accès plus élevé pour ouvrir les caisses ou les casiers ; piratez l'ingénierie et touchez au générateur de plasma ; le choix vous appartient ! Gardez juste à l'esprit que si la [sécurité](Security.md) vous attrape, vous risquez de passer un long moment en prison, alors soyez prudent.
 

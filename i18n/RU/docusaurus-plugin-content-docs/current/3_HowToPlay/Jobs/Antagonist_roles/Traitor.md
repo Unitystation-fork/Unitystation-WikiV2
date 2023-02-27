@@ -9,12 +9,12 @@ Traitor is one of the three types of Antagonist roles that can spawn, with the o
 
 ### MISSION SPECIFICATIONS DECRYPTED. WELCOME TO THE SYNDICATE.
 
-As a Traitor, you spawn as the station role you selected, with no visual distinction from everyone else. However, you are massively different from any other crew member: You're part of the [Syndicate](Groups.md). Maybe you're a hardcore follower of the Syndicate ways; maybe you've just got a score to settle; or maybe you're just some poor sap who was in the wrong place at the wrong time and now you've been blackmailed into service. Whatever your motivation is, you have one job: [Complete your assigned objectives.](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
+As a Traitor, you spawn as the station role you selected, with no visual distinction from everyone else. However, you are massively different from any other crew member: You're part of the [Syndicate](\4_Univers\Lore\Groups.md). Maybe you're a hardcore follower of the Syndicate ways; maybe you've just got a score to settle; or maybe you're just some poor sap who was in the wrong place at the wrong time and now you've been blackmailed into service. Whatever your motivation is, you have one job: [Complete your assigned objectives.](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
 Traitors get 3 objectives, shown at the round start in the chat: Steal a random high-tier item, assassinate a random crew member (often a department head), and survive until the end of the round. An example of what your objectives could be:
 
 - Steal the Chain of Command (found in the captain's quarters)
-- Assassinate Mr. Engineering man sir, [Chief Engineer](Chief-Engineer.md)
+- Assassinate Mr. Engineering man sir, [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md)
 - Escape on the [Emergency Shuttle](Emergency-Shuttle.md) alive
 
 Remember, if you ever need a reminder of what they are (or need to remember your uplink code) hit the objective reminder button at the top of the screen. It looks like a pair of bloody shoes.
@@ -35,7 +35,7 @@ Acquiring more TC is functionally improbable, as it requires you to kill another
 
 Often one or both of your objectives requires you to steal something. How hard this is depends on the item and whether the job that starts with it is filled by another player.
 
-Theft objectives will often require you to break into secure areas or to steal the items directly off of other players. Sometimes it will be shockingly easy, easier than taking candy from a baby. Other times it will be [so impossible](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) that you should probably take the L and try to have fun getting up to shenanigans with your exclusive traitor items. It all depends on what state the station is in and how many players are alive. Still, woe betide anyone who gets the objective `steal the Justitia.`
+Theft objectives will often require you to break into secure areas or to steal the items directly off of other players. Sometimes it will be shockingly easy, easier than taking candy from a baby. Other times it will be [so impossible](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) that you should probably take the L and try to have fun getting up to shenanigans with your exclusive traitor items. It all depends on what state the station is in and how many players are alive. Still, woe betide anyone who gets the objective `steal the Justitia.`
 
 ###### to see a complete list of steal objects you can expect to get, take a look at the [High Risk Items](High-Risk-Items.md) page.
 
@@ -59,7 +59,7 @@ One great way to improve your odds of success is to acquire additional access, e
 
 This may be the best advice you can take. Somehow, if you are polite people can even turn a blind eye on you *trying to murder them* if they are not entirely aware of your status as a traitor. When people start to look for others to blame, they are inclined to pick the mean guy, so being friendly, helpful, and generally cooperative can often set you up for success under quite incriminating circumstances.
 
-This can extend even as far as when you've already been captured and brigged, as a positive and understanding attitude can keep your sentence short. Please, if you are lucky enough to have a [lawyer](Lawyer.md) available to you, *consult with them. They are your best chance at avoiding a permanent sentence or execution. They might even get your charges completely thrown out on occasion.*
+This can extend even as far as when you've already been captured and brigged, as a positive and understanding attitude can keep your sentence short. Please, if you are lucky enough to have a [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md) available to you, *consult with them. They are your best chance at avoiding a permanent sentence or execution. They might even get your charges completely thrown out on occasion.*
 
 #### Miscellaneous tips:
 

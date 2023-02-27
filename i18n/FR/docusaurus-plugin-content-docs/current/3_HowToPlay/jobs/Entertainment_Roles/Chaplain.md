@@ -42,8 +42,8 @@ cependant, voici quelques idées
 * Invoquez et faites des pactes avec toutes les entités que vous rencontrez.
 * Créez une branche pacifique du culte de Nar-Sie ou Ratvar.
 * Menez une croisade vertueuse contre les autres cultes.
-* Travaillez avec l'[avocat](Lawyer.md), poursuivez Dieu !
-* priez les [dieux du spess](Admin.md) pour obtenir des dons divins ou des tâches sacrées.
+* Travaillez avec l'[avocat](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), poursuivez Dieu !
+* priez les [dieux du spess](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md) pour obtenir des dons divins ou des tâches sacrées.
 * N'importe quel autre truc fou que vous pouvez inventer.
 
   <br/>

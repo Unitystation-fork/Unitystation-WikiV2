@@ -4,7 +4,7 @@
 
 ## Overview
 
-Medics are arguably the most vital role to a thriving station, except for [Security](Security.md) and [Command](Captain.md). Their job is to heal injured people, bring back dead crew members, and provide the kitchen with dead bodies when other food sources run out.
+Medics are arguably the most vital role to a thriving station, except for [Security](Security.md) and [Command](\3_HowToPlay\Jobs\Command_roles\Captain.md). Their job is to heal injured people, bring back dead crew members, and provide the kitchen with dead bodies when other food sources run out.
 
 
 While it's not a required part of the role, it should be noted that non-[antagonist](Antagonist.md) Medical Doctors are generally expected to do no harm unless your own life or the life of an innocent is at stake; Your purpose is to preserve human life above all else. This doesn't mean you can't make people harm themselves or make other people do the harm for you, but it means that your most efficient tool to fight is running away. Screaming is a close second.
@@ -43,7 +43,7 @@ Well, you clone them, of course. Cloning is the ultimate mulligan. It can be don
 
 When it comes to the intersection between cloning and role-playing; it is generally assumed that a clone <u>does not</u> know how exactly they died, or, if they were murdered, who did it. Their memory will be foggy and unclear, and they may have some confusion when it comes to understanding that they are a clone. Treat the circumstance of their death with a polite sensitivity.
 
-Note that the one critical flaw of the cloning process is that it requires a corpse in the first place; one that has not been too chewed up, as well. If the body is lost in space, lacks a brain, gibbed by explosions, butchered by the [chef](Cook.md), or taken extensive enough fire damage as to be turned into a husk, then they cannot be scanned in the DNA scanner. One preventative measure that can be taken against this outcome is to scan high-risk people (or really any takers) in the DNA scanner in advance.
+Note that the one critical flaw of the cloning process is that it requires a corpse in the first place; one that has not been too chewed up, as well. If the body is lost in space, lacks a brain, gibbed by explosions, butchered by the [chef](\3_HowToPlay\Jobs\Service_roles\Cook.md), or taken extensive enough fire damage as to be turned into a husk, then they cannot be scanned in the DNA scanner. One preventative measure that can be taken against this outcome is to scan high-risk people (or really any takers) in the DNA scanner in advance.
 
 The other problem is the aforementioned cellular damage inflicted by the cloning process. A fresh clone will be weak and need time to recover from the cloning process. Because of the cumulative effects, it is not a good idea to clone a person multiple times in quick succession. They will come out weaker and weaker until they cannot move and might die on the spot.
 
@@ -56,7 +56,7 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 2) Clone dead people that were brought to you by the paramedics or another crew member. NEVER go find bodies on your own, as you might accidentally end up reviving a filthy [antagonist](Antagonist.md) that puts you into a box and throws you out an airlock. It also might not be a bad idea to ask [Security](Security.md) if any dead to-be-clones that you get have any outstanding criminal charges.
 
-3) Check on [the](Assistant.md) [prisoners](Clown.md) in the brig and the [security officers](Security.md) themselves. [Security](Security.md) tends to be a hotspot for injuries, and its also an opportunity to flex on [shitcurity](Shitsec.md) for human rights abuse, maybe even inspiring them to [change their ways](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Lawyers](Lawyer.md) will love you for this.
+3) Check on [the](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [prisoners](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in the brig and the [security officers](Security.md) themselves. [Security](Security.md) tends to be a hotspot for injuries, and its also an opportunity to flex on [shitcurity](\4_Univers\Other\Jokes\Shitsec.md) for human rights abuse, maybe even inspiring them to [change their ways](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Lawyers](\3_HowToPlay\Jobs\Security_roles\Lawyer.md) will love you for this.
 
 4) Open up the cloning bay for everyone to come get preemptively scanned just in case. Brings a whole new meaning to life insurance.
 

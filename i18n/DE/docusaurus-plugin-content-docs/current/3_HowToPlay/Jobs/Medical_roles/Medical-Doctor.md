@@ -4,7 +4,7 @@
 
 ## Überblick
 
-Sanitäter sind wohl die wichtigste Funktion auf einer florierenden Station, abgesehen von [Sicherheit](Security.md) und [Kommando](Captain.md). Ihre Aufgabe ist es, Verletzte zu heilen, tote Besatzungsmitglieder zurückzubringen und die Küche mit Leichen zu versorgen, wenn andere Nahrungsquellen versiegen.
+Sanitäter sind wohl die wichtigste Funktion auf einer florierenden Station, abgesehen von [Sicherheit](Security.md) und [Kommando](\3_HowToPlay\Jobs\Command_roles\Captain.md). Ihre Aufgabe ist es, Verletzte zu heilen, tote Besatzungsmitglieder zurückzubringen und die Küche mit Leichen zu versorgen, wenn andere Nahrungsquellen versiegen.
 
 
 Es ist zwar kein vorgeschriebener Teil der Rolle, aber es sollte beachtet werden, dass von Nicht-[Antagonist](Antagonist.md) Ärzten im Allgemeinen erwartet wird, dass sie keinen Schaden anrichten, es sei denn, ihr eigenes Leben oder das eines Unschuldigen steht auf dem Spiel; Ihr Ziel ist es, menschliches Leben vor allem anderen zu bewahren. Das bedeutet nicht, dass du Menschen nicht dazu bringen kannst, sich selbst zu verletzen oder andere dazu zu bringen, den Schaden für dich zu beheben, aber es bedeutet, dass dein effizientestes Mittel im Kampf die Flucht ist. Schreien kommt erst an zweiter Stelle.
@@ -41,7 +41,7 @@ Nun, man klont sie natürlich. Klonen ist der ultimative Mulligan. Es kann immer
 
 Wenn es um die Überschneidung zwischen Klonen und Rollenspiel geht, wird im Allgemeinen davon ausgegangen, dass ein Klon <u>nicht</u> weiß, wie genau er gestorben ist, oder, wenn er ermordet wurde, wer es getan hat. Ihr Gedächtnis wird nebelhaft und unklar sein, und sie werden möglicherweise nicht verstehen, dass sie ein Klon sind. Behandeln Sie den Umstand ihres Todes mit höflichem Feingefühl.
 
-Beachten Sie, dass der einzige kritische Punkt des Klonprozesses darin besteht, dass er zunächst eine Leiche benötigt, die nicht zu sehr zerfressen ist. Wenn der Körper im Weltraum verloren gegangen ist, kein Gehirn mehr hat, von Explosionen zerfetzt wurde, vom [Koch](Cook.md) geschlachtet wurde oder durch Feuer so stark beschädigt wurde, dass er zu einer Schale geworden ist, kann er nicht mit dem DNA-Scanner gescannt werden. Eine Präventivmaßnahme, die gegen dieses Ergebnis ergriffen werden kann, ist das vorherige Scannen von Risikopersonen (oder wirklich allen Abnehmern) im DNA-Scanner.
+Beachten Sie, dass der einzige kritische Punkt des Klonprozesses darin besteht, dass er zunächst eine Leiche benötigt, die nicht zu sehr zerfressen ist. Wenn der Körper im Weltraum verloren gegangen ist, kein Gehirn mehr hat, von Explosionen zerfetzt wurde, vom [Koch](\3_HowToPlay\Jobs\Service_roles\Cook.md) geschlachtet wurde oder durch Feuer so stark beschädigt wurde, dass er zu einer Schale geworden ist, kann er nicht mit dem DNA-Scanner gescannt werden. Eine Präventivmaßnahme, die gegen dieses Ergebnis ergriffen werden kann, ist das vorherige Scannen von Risikopersonen (oder wirklich allen Abnehmern) im DNA-Scanner.
 
 Das andere Problem sind die bereits erwähnten Zellschäden, die durch den Klonprozess verursacht werden. Ein frischer Klon wird schwach sein und Zeit brauchen, um sich vom Klonprozess zu erholen. Wegen der kumulativen Wirkungen ist es keine gute Idee, eine Person mehrmals in kurzer Folge zu klonen. Sie werden immer schwächer, bis sie sich nicht mehr bewegen können und vielleicht auf der Stelle sterben.
 
@@ -54,7 +54,7 @@ Sie wissen nicht, was Sie tun sollen? Hier ist ein praktischer Satz von Operatio
 
 2) Klone Tote, die dir von den Sanitätern oder einem anderen Besatzungsmitglied gebracht wurden. Gehe NIEMALS auf eigene Faust auf Leichensuche, denn du könntest versehentlich einen dreckigen [Antagonisten](Antagonist.md) wiederbeleben, der dich in eine Kiste steckt und aus einer Luftschleuse wirft. Es ist auch keine schlechte Idee, die [Sicherheit](Security.md) zu fragen, ob die toten Möchtegern-Klone, die du bekommst, irgendwelche offenen Strafanzeigen haben.
 
-3) Überprüfen Sie [die](Assistent.md) [Gefangenen](Clown.md) in der Arrestzelle und die [Sicherheitsbeamten](Sicherheit.md) selbst. Der [Sicherheitsdienst](Security.md) neigt dazu, ein Hotspot für Verletzungen zu sein, und es ist auch eine Gelegenheit, die [Shitcurity](Shitsec.md) wegen Menschenrechtsverletzungen in die Mangel zu nehmen und sie vielleicht sogar dazu zu inspirieren, [ihr Verhalten zu ändern](So-nahe-zu-unmöglich-dass-es-sogar-nicht-existieren-kann.md). Die [Anwälte](Anwalt.md) werden dich dafür lieben.
+3) Überprüfen Sie [die](Assistent.md) [Gefangenen](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in der Arrestzelle und die [Sicherheitsbeamten](Sicherheit.md) selbst. Der [Sicherheitsdienst](Security.md) neigt dazu, ein Hotspot für Verletzungen zu sein, und es ist auch eine Gelegenheit, die [Shitcurity](\4_Univers\Other\Jokes\Shitsec.md) wegen Menschenrechtsverletzungen in die Mangel zu nehmen und sie vielleicht sogar dazu zu inspirieren, [ihr Verhalten zu ändern](So-nahe-zu-unmöglich-dass-es-sogar-nicht-existieren-kann.md). Die [Anwälte](Anwalt.md) werden dich dafür lieben.
 
 4) Öffne die Klonbucht für alle, damit sie vorsorglich gescannt werden können, nur für den Fall. Das gibt der Lebensversicherung eine ganz neue Bedeutung.
 

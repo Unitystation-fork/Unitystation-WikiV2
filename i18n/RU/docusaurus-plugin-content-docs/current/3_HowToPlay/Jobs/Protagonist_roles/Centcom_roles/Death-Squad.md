@@ -5,7 +5,7 @@ Note: Death squad, for reasons that should be made clear by the end of this guid
 ### RIP AND TEAR
 
 
-Your goal is simple. Kill anything that moves on the station and blow it to high hell with the onboard nuke. This is typically because the station decided to "form a union", is infested in some way, or is so fucked beyond repair that it may just be best for [NT](The-Lore.md) to kill everyone and cover it up. The amount of resistance you'll face will vary wildly, but this wont typically pose a problem, as you are equipped with the most flat out overpowered gear anyone can lay hands on. Without exaggeration, two or three [robust](Combat.md) death troopers can waste an entire station.
+Your goal is simple. Kill anything that moves on the station and blow it to high hell with the onboard nuke. This is typically because the station decided to "form a union", is infested in some way, or is so fucked beyond repair that it may just be best for [NT](\4_Univers\Lore\The-Lore.md) to kill everyone and cover it up. The amount of resistance you'll face will vary wildly, but this wont typically pose a problem, as you are equipped with the most flat out overpowered gear anyone can lay hands on. Without exaggeration, two or three [robust](Combat.md) death troopers can waste an entire station.
 ### HUUUGE GUNS
 
 
@@ -24,7 +24,7 @@ Here's a handy braindead guide to success at Deathsquad:
 
 
 
-1. grab the disk, you may have to kill [whoever](Captain.md) is holding it
+1. grab the disk, you may have to kill [whoever](\3_HowToPlay\Jobs\Command_roles\Captain.md) is holding it
 
 
 
@@ -51,7 +51,7 @@ So, Centcom's sent a station alert saying in no exhaustive terms how much of a d
 
 Well first, you should appraise what tools are available to you, namely; can you get a taser or not? If you have access to security, get a taser as fast as you can. It's the only way you'll stand a chance in a direct confrontation. Other crewmembers will know this, too, so they will go extremely fast. you should also procure other weapons, especially energy weapons to exploit the deathsquad's particular weakness to that type of damage. Also grab a welder if you can easily access one. Try and find people to ally with, one or two people watching your back infinitely increases your survival chances.
 
-Whether you can get these things or not, you must evacuate the station through any available means. Without some really strong [leadership](Captain.md), the station is likely already devolving into a complete [free-for-all](Battle royale), so crew are going to be stealing any docked shuttles fast. Try and get one for yourself. Most station maps give one to [mining](Shaft-Miner.md), [engineering](Engineer.md), and some give one to command. The other more risky choice is the emergency shuttle, It's very likely to become more of a trap than a viable method of escape. Deathsquad will quickly be swarming all over evac, shooting anyone that tries to get on board. If they aren't, then you should find a room to hide in nearby evac. For even further security, take your blowtorch and weld doors shut to slow hunting death squad down. They can destroy doors in half a dozen shots from their disruptor cannons, but that can give ample time to escape and find another hiding place. Also keep in mind that currently Deathsquad's night vision does not work, so take out the lights if you can.
+Whether you can get these things or not, you must evacuate the station through any available means. Without some really strong [leadership](\3_HowToPlay\Jobs\Command_roles\Captain.md), the station is likely already devolving into a complete [free-for-all](Battle royale), so crew are going to be stealing any docked shuttles fast. Try and get one for yourself. Most station maps give one to [mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md), [engineering](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), and some give one to command. The other more risky choice is the emergency shuttle, It's very likely to become more of a trap than a viable method of escape. Deathsquad will quickly be swarming all over evac, shooting anyone that tries to get on board. If they aren't, then you should find a room to hide in nearby evac. For even further security, take your blowtorch and weld doors shut to slow hunting death squad down. They can destroy doors in half a dozen shots from their disruptor cannons, but that can give ample time to escape and find another hiding place. Also keep in mind that currently Deathsquad's night vision does not work, so take out the lights if you can.
 
 So, if all shuttles are taken and the emergency shuttle is destroyed or on its way, then you pretty much have one choice left; you've got to take the fight to them. To be honest, without a taser or other ranged stunning weapons, this is all but impossible. explosives deal no damage to death squad, and all it takes is for them to snap off a handful of shots and you will be dead from full health. So, play super Viet Cong guerilla-fighter style. Pop off one or two shots at them then flee like mad. rinse and repeat. Wear them down, and do NOT let them get access to healing supplies. Make them over-pursue and bleed out from their wounds. Use banana peels and space lube to slip them up as well. Maybe even steal their weapons while they are slipped on the ground.
 

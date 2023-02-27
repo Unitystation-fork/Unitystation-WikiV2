@@ -29,7 +29,7 @@ There will usually be several layers of defense in the AI satellite, as well as 
 
 ### Binary chat
 
-As an AI, you have your own secure radio channel (binary) to speaking with other synthetics. Given that Cyborgs are still MIA, the only time you will get use out of this is in the uncommon, but possible scenario of a station with two or more AI cores. This currently only happens due to Admin fiat, but may become a more common scenarios once station AIs are constructable by [Roboticists.](Roboticist.md)
+As an AI, you have your own secure radio channel (binary) to speaking with other synthetics. Given that Cyborgs are still MIA, the only time you will get use out of this is in the uncommon, but possible scenario of a station with two or more AI cores. This currently only happens due to Admin fiat, but may become a more common scenarios once station AIs are constructable by [Roboticists.](\3_HowToPlay\Jobs\Science_roles\Roboticist.md)
 
 
 ### Emergency evacuation

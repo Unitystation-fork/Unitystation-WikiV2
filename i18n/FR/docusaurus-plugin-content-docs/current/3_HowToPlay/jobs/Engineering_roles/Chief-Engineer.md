@@ -23,7 +23,7 @@ Vous devrez ignorer la plupart des appels à l'ingénierie qui vous seront adres
 
 ### Aidez quelqu'un à faire sauter le mur
 
-La plupart peuvent être réparées avec un seul [ingénieur](Engineer.md) et un [atmos tech](Atmospherics-Technician.md), mais une navette du syndicat, c'est une toute autre histoire. Désignez simplement quelqu'un par son nom pour réparer le mur ou le sol et assurez-vous qu'il a une combinaison digne de l'espace.
+La plupart peuvent être réparées avec un seul [ingénieur](Engineer.md) et un [atmos tech](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md), mais une navette du syndicat, c'est une toute autre histoire. Désignez simplement quelqu'un par son nom pour réparer le mur ou le sol et assurez-vous qu'il a une combinaison digne de l'espace.
 
 ### OH, MON DIEU, TOUT BRÛLE ET EXPLOSE !
 

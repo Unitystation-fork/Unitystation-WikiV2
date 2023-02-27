@@ -14,7 +14,7 @@ Eh bien, étonnamment, entrer dans une zone est quelque chose qui peut sembler f
 Si vous êtes du genre gentil, il existe plusieurs façons d'entrer dans des endroits sans vous soucier de votre sens moral.
 
 - Utilisez simplement votre propre carte d'identité pour ouvrir les portes auxquelles vous avez accès. C'est le moyen le plus ennuyeux et le plus simple, mais le plus efficace et le plus légal de loin.
-- Faites changer légalement votre carte d'identité par le [HoP](HoP.md) ou le [Capitaine](Captain.md) pour obtenir l'accès, puis essayez l'option 1 ci-dessus. Vous devrez probablement parler, mais à moins que vous n'essayiez d'entrer dans une zone considérée comme sécurisée, c'est généralement assez facile.
+- Faites changer légalement votre carte d'identité par le [HoP](HoP.md) ou le [Capitaine](\3_HowToPlay\Jobs\Command_roles\Captain.md) pour obtenir l'accès, puis essayez l'option 1 ci-dessus. Vous devrez probablement parler, mais à moins que vous n'essayiez d'entrer dans une zone considérée comme sécurisée, c'est généralement assez facile.
 - Convainquez quelqu'un de vous laisser entrer. Si vous êtes assez persuasif, que vous avez fait un copain ou que vous manquez de temps, c'est un bon moyen d'entrer légalement dans une zone. S'il s'agit d'une zone sécurisée, cela ne fonctionnera probablement pas, mais vous pouvez probablement leur demander l'objet spécifique que vous recherchez. Si vous voulez juste l'objet mais qu'ils ne veulent pas vous le donner, proposez un échange. Si vous offrez au [CMO] (Chief-medical-officer.md) un smg contre un médicament, il est plus que probable qu'il vous le donnera en échange équitable.
 
 

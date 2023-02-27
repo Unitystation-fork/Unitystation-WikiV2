@@ -11,11 +11,11 @@ Unfortunately (or fortunately?) this makes combat in unitystation very difficult
 introduce and teach the core combat system, aswell as provide practical advice for combat and how to work towards a better understanding.
 
 # Core systems
-The very core of the combat system is a combination of parts of the [intent](Intents.md) and health systems. [Intents](Intents.md) are important to learn to interact with the combat system, and health is good
+The very core of the combat system is a combination of parts of the [intent](\3_HowToPlay\Guides\General_guides\Intents.md) and health systems. [Intents](\3_HowToPlay\Guides\General_guides\Intents.md) are important to learn to interact with the combat system, and health is good
 to know to reduce how often you die, and allow you to more effectively choose targets.
 
 ## Intents
-There are 4 [intents](Intents.md). Help, grab, disarm and harm
+There are 4 [intents](\3_HowToPlay\Guides\General_guides\Intents.md). Help, grab, disarm and harm
 
 ### Help (green)
 Help intent, as implied by the name, is mainly used for non-combat interactions. It is still useful to know. If you on help intent, and not carrying a weapon in your hands,
@@ -171,7 +171,7 @@ All the gear in the world cant help you if you dont actually possess it. To this
 - Acquire it through legitimate means (taking a tazer as [sec](Security Officer.md), for instance)
 - stealing it with or without a disguise
 - killing or mugging the person who has it
-- other strategies that can be found in the [guide to access](Access.md)
+- other strategies that can be found in the [guide to access](\3_HowToPlay\Guides\General_guides\Access.md)
 
 # Fighting
 Combat in unitystation is fundamentally based in knowledge, gear, and planning. Raw reflexive skill plays a part, but the victor in a fight is most often the one who strikes first and stacks
@@ -284,7 +284,7 @@ Fighting as a cohesive group is very difficult in unitystation, but is also very
 Fighting in a cohesive group gives the group a MASSIVE advantage over any Rambo, with very few disadvantages. People in the group are less likely to end up dead, as any injuries can be dealt with while others lay down covering fire. The added firepower is also a great bonus, a man with a taser and e-sword may be an extremely deadly threat, but not to 3 guys with their own weapons. If you wish to fight in a cohesive group, good luck, they are very difficult to form from ordinary crew. If you are a security officer or nuke op however, you can be shoved into one by your superiors or start in a group. One thing typically needed for a cohesive group is an involved leader. In secs case, this is typically the HoS, due to his rank. in nuke op squads or militias however, it may be difficult to find a leader, and the group will start to rapidly lose cohesiveness without one. I have personally seen many nuke ops lose simply because their team split apart and drifted from a lack of leadership.
 
 ### Fighting as a spread out group
-Fighting while spread out is the typical course for non-emergency period security as well as rebels. In this non-cohesive form, the group your in is more prone to take losses, but [assuming everyone is competent](So-close-to-impossible-that-it-might-as-well-not-even-exist.md), is also capable of inflicting far more damage and covering more ground. The fact that each individual in a spread out group needs combat competence is the reason security so often falls to the all consuming entropic force that is the grey tide, because if one link in security doesn't work, thats an unstopped crime, which leads other to more crime, which piles up and piles up until the station is slagged. Spread out groups can form sporadically and with varying degrees of focus. Assistants, as an example can vary widely from the usual random shenanigans, to the razor focused [tunguska revolt](Tunguska.md).
+Fighting while spread out is the typical course for non-emergency period security as well as rebels. In this non-cohesive form, the group your in is more prone to take losses, but [assuming everyone is competent](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md), is also capable of inflicting far more damage and covering more ground. The fact that each individual in a spread out group needs combat competence is the reason security so often falls to the all consuming entropic force that is the grey tide, because if one link in security doesn't work, thats an unstopped crime, which leads other to more crime, which piles up and piles up until the station is slagged. Spread out groups can form sporadically and with varying degrees of focus. Assistants, as an example can vary widely from the usual random shenanigans, to the razor focused [tunguska revolt](Tunguska.md).
 
 ### Fighting groups
 Fighting groups can take two routes, depending on the form of the group. a rarer third route is available if you have a group yourself, however.

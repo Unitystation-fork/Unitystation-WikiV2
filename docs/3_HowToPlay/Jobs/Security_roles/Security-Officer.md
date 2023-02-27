@@ -1,7 +1,7 @@
 # Security Officer
 Role type:  <font color= "#711e25">Security</font>. Access levels: <font color="#711e25">Security & cells</font>, Maintenance, Difficulty: <font color="Red">hard</font>.
 
-Security are the Police force of the station, and often the second line of defense against the crew members turning the station into a battle royale (the first line being [Janitors](Janitor.md)). Often times, you have a simple job: Jail criminals, and make sure [no](Assistant.md) [one](Clown.md) breaks into areas they shouldn't be in.
+Security are the Police force of the station, and often the second line of defense against the crew members turning the station into a battle royale (the first line being [Janitors](\3_HowToPlay\Jobs\Service_roles\Janitor.md)). Often times, you have a simple job: Jail criminals, and make sure [no](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [one](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) breaks into areas they shouldn't be in.
 
 You are a guardian between the ideals of justice and the wild psychotics that your company has chosen to advance its interests in space. Just because everyone else is insane, however, does not mean you are permitted to go hog-wild and beat them all unconscious to strap them to beds. Professionals have standards.
 
@@ -11,15 +11,15 @@ You are a guardian between the ideals of justice and the wild psychotics that yo
 
 For some unknown reason, NanoTrasen has chosen to fill this top-notch research station with simple minded baboons who enjoy carnage. As a result, Security is mostly a necessity to keep crew members from destroying it. For the most part, this isn't too hard; you have a tazer, a stun baton (press Z while selected to activate stun mode, many have made that mistake before), and some handcuffs. 90% of the time, this is all you need, since someone with a crowbar on the other side of the room can't really do much when you can very easily taze them and then stun with your baton, then cuff them and take them to the cells. 
 
-However, sometimes this isn't enough. Maybe [Xenomorphs](Xenomorph.md) have invaded the station. They can't be stunned or cuffed, so your normal strategy won't really work. Not to worry, if the situation is getting out of hand, the [Warden](Warden.md) will hopefully allow you a lethal weapon from the armory. Just make sure the [Assistants](Assistant.md) don't get their greasy, greytider hands on them, and you'll be fine; be _very_ careful of people standing next to you when you are detaining them with weapons. Overall, just obey the orders of the [HoS](Head-of-Security.md), keep assistants out of restricted areas, and arrest the shit out of [any](Traitor.md) [unwanted](Nuclear-Operative.md) [crew](Cargonia.md), and hopefully you're able to [keep the station from turning into pure, unfiltered chaos.](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
+However, sometimes this isn't enough. Maybe [Xenomorphs](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) have invaded the station. They can't be stunned or cuffed, so your normal strategy won't really work. Not to worry, if the situation is getting out of hand, the [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) will hopefully allow you a lethal weapon from the armory. Just make sure the [Assistants](\3_HowToPlay\Jobs\Service_roles\Assistant.md) don't get their greasy, greytider hands on them, and you'll be fine; be _very_ careful of people standing next to you when you are detaining them with weapons. Overall, just obey the orders of the [HoS](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md), keep assistants out of restricted areas, and arrest the shit out of [any](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [unwanted](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) [crew](Cargonia.md), and hopefully you're able to [keep the station from turning into pure, unfiltered chaos.](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
 ## Know Your Place
 
 The station is ultimately _not_ a military operation, but, as a member of Security, you follow the chain of command closer than any other crewmember:
 
-* You take your orders from the [HoS](Head-of-Security.md). 
-* You do _not_ have to obey orders from the [Warden](Warden.md) _unless_ they are acting-HoS. 
-* You also take orders from the [Captain](Captain.md), and their orders superceed the HoS and anyone else except [Central Command](Central-Command-Officer.md). 
+* You take your orders from the [HoS](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md). 
+* You do _not_ have to obey orders from the [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) _unless_ they are acting-HoS. 
+* You also take orders from the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md), and their orders superceed the HoS and anyone else except [Central Command](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md). 
 * You do _not_ have to take orders from the [HoP](HoP.md) _unless_ they are acting-Captain.
 * You are expected to act according to [Space Law](Space-Law.md) during all of this. However, you must also develop a sense of when to apply Space Law and when to ignore it. If you arrest crewmembers for every little infraction, your career as a Security Officer will be a short lived one.
 * You must also act according to Standard Operating Procedure. This defines when you are allowed to have weapons out or not, and when you are allowed to apply lethal force.
@@ -48,7 +48,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 2) Beware of people trying to disarm you.
 
-3) [Clowns](Clown.md) and [cargo](Cargo-Technician.md) are your nemesis.
+3) [Clowns](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) and [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) are your nemesis.
 
 4) Don't expect people to respect you.
 
@@ -58,23 +58,23 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 These kind of officers just go around the station and make sure everything is in order, not intervening unless needed, these types of officers are neutrally perceived by the public so don't expect praise or hate, well except general hate towards security because of the officers mentioned above. Some tips:
 
-1) You should request [AA](Access.md) from [Head of Personnel](HoP.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
+1) You should request [AA](\3_HowToPlay\Guides\General_guides\Access.md) from [Head of Personnel](HoP.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
 
 2) If people tell you to go, don't overstay your welcome.
 
-3) If you have [AA](Access.md), make sure the kitchen and engineering are doing fine.
+3) If you have [AA](\3_HowToPlay\Guides\General_guides\Access.md), make sure the kitchen and engineering are doing fine.
 
 4) If you find any xenomorphs then immediately request backup and wait for them, do not engage alone, unless someone is in direct danger.
 
 ## [Faithful to Death](https://en.wikipedia.org/wiki/New_York_City_Police_Department)
 
-This type is better suited for those who prefer [role play](RP-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
+This type is better suited for those who prefer [role play](\3_HowToPlay\RP\RP-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
 
 1) Wear a blue uniform with a tie, to stand out and so people can tell you apart from the types above.
 
 2) If people get nervous around you, or otherwise don't like you, prove yourself to them by actions, not hollow words, but, don't [https://sites.google.com/view/unitystation-server-rules/server-rules power play].
 
-3) Security goes before faithfulness, so if a fellow officer calls for backup or the [Head of Security](Head-of-Security.md) calls all units, you should respond immediately.
+3) Security goes before faithfulness, so if a fellow officer calls for backup or the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md) calls all units, you should respond immediately.
 
 4) In no case you have the permission to shitcurity, if you do even once, people will remember that and avoid you.
 
