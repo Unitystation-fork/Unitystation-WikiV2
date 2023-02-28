@@ -2,7 +2,7 @@
 
 ## Spoiler-free Hacking Tips [as of build 4105]
 
-Use a screwdriver on a door (on any [intent](Intents.md)) to open the panel. Clicking on the door with wires, or a wirecutter in hand will open the hacking interface. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
+Use a screwdriver on a door (on any [intent](\3_HowToPlay\Guides\General_guides\Intents.md)) to open the panel. Clicking on the door with wires, or a wirecutter in hand will open the hacking interface. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
 
 Door hacking poses a risk of electric shock, so insulated gloves are a good idea!
 

@@ -57,7 +57,7 @@ Where the stations power comes from and where the [engineers](\3_HowToPlay\jobs\
 ### Atmospheric
 The stations [Atmos Techs](\3_HowToPlay\jobs\Engineering_roles\Atmospherics-Technician.md) work tirelessly from here to [hopefully keep the air all around the station breathable](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md).![Atmos](\img\Atmos.png)
 ### R&D
-Where all the [scientists](\3_HowToPlay\Jobs\Science_roles\Scientist.md) gather and make half-life references between getting killed in various science advancing ways.[[File:R&D.PNG|none|thumb|308x308px]]
+Where all the [scientists](\3_HowToPlay\jobs\Science_roles\Scientist.md) gather and make half-life references between getting killed in various science advancing ways.[[File:R&D.PNG|none|thumb|308x308px]]
 ### Security
 Where the [true dictatorial overlords](\3_HowToPlay\jobs\Security_roles\Security-Officer.md) of the station send their victims.![Sec](\img\Sec.png)
 ### Church

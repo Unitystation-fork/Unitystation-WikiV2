@@ -345,7 +345,7 @@ L'alimentation électrique de la station est remarquablement fragile, et un seul
 
 ## Conseils de piratage sans spoiler [à partir de la build 4105]
 
-Utilisez un tournevis sur une porte (sur n'importe quelle [intention](Intents.md)) pour ouvrir le panneau. Cliquez sur la porte avec des fils ou une pince coupante à la main pour ouvrir l'interface de piratage. Le panneau peut être refermé en utilisant un tournevis sur la porte une seconde fois, ce qui rend moins évident le fait que la porte a été manipulée.
+Utilisez un tournevis sur une porte (sur n'importe quelle [intention](\3_HowToPlay\Guides\General_guides\Intents.md)) pour ouvrir le panneau. Cliquez sur la porte avec des fils ou une pince coupante à la main pour ouvrir l'interface de piratage. Le panneau peut être refermé en utilisant un tournevis sur la porte une seconde fois, ce qui rend moins évident le fait que la porte a été manipulée.
 
 Le piratage de la porte présente un risque d'électrocution, il est donc conseillé de porter des gants isolants !
 
