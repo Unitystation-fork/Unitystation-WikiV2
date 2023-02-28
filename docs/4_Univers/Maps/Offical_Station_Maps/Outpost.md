@@ -1,5 +1,5 @@
 # Outpost
-Outpost Station is the oldest, and most changed station in the game, authored by Epicworlds (aka Avalanche) on August 7th, 2017 for testing purposes. Originally being quite a small map, it has grown significantly, now being one of the largest maps in the current map pool. Intending to offer a vanilla experience, Outpost has grid-like disposition with several core departments having multiple access points. 
+Outpost Station is the oldest, and most changed station in the game, authored by Epicworlds (aka Avalanche) on August 7th, 2017 for testing purposes. Originally being quite a small map, it has grown significantly, now being one of the largest maps in the current map pool. Intending to offer a vanilla experience, Outpost has grid-like disposition with several core departments having multiple access points.
 
 Medical and Security are centralized, standing across from each other, with service rooms dotted around them. Engineering and the Chapel make up the east half of the station while Cargo, the Dormitories, and science make up the west. Evac is placed at the south and the bridge and AI satellite cover the entire north section of the station.
 
@@ -43,13 +43,13 @@ The home of the weed loving [botanists](\3_HowToPlay\Jobs\Service_roles\Botanist
 ### Eva
 Stands for extra-vehicular-activity, but this is a station, not a vehicle. has all the essentials for a trip to the void.![EVA room](\img\No_image.png)
 ### Kitchen
-The [cooks](Chef.md) very own barbecue joint, with attached slaughterhouse.![Cooking](\img\No_image.png)
+The [cooks](\3_HowToPlay\Jobs\Service_roles\Cook.md) very own barbecue joint, with attached slaughterhouse.![Cooking](\img\No_image.png)
 ### Gateway
 A room with a portal that can lead you to some (generally very hazardous) special locations.![Portal Room](\img\No_image.png)
 ### Dorms
 A den of the most disgusting filth imaginable.![Doorm](\img\No_image.png)
 ### Command
-A very large section of the station containing the rooms of both the [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) and his [best bud](HoP.md), along with the stations command deck.![Command](\img\Command.png)
+A very large section of the station containing the rooms of both the [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) and his [best bud](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md), along with the stations command deck.![Command](\img\Command.png)
 ### Funny Room
 A room containing essentials for both the [mime](\3_HowToPlay\Jobs\Entertainment_Roles\Mime.md) and [clown](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md). HONK!![Clown and mime](\img\No_image.png)
 ### Artificial Intelligence Satellite
@@ -61,7 +61,7 @@ The stations [Atmos Techs](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Tech
 ### R&D
 Where all the [scientists](\3_HowToPlay\Jobs\Science_roles\Scientist.md) gather and make half-life references between getting killed in various science advancing ways.[[File:R&D.PNG|none|thumb|308x308px]]
 ### Security
-Where the [true dictatorial overlords](Security.md) of the station send their victims. Outpost's armory is particularly well equipped, coming with extra weapons, but lacks a few choices that are typically available on other stations, such as lasguns.![Sec](\img\Sec.png)
+Where the [true dictatorial overlords](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) of the station send their victims. Outpost's armory is particularly well equipped, coming with extra weapons, but lacks a few choices that are typically available on other stations, such as lasguns.![Sec](\img\Sec.png)
 ### Chapel
 [Sacerdos](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md) in templum laborat et [vocat cum deus](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](\img\Chruch.png)
 

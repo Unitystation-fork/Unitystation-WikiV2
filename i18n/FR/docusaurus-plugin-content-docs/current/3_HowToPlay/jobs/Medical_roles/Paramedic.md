@@ -18,7 +18,7 @@ Dans les situations d'urgence, vous avez, sans surprise, l'un des rôles les plu
 
 Soigner les gens sur la ligne de front d'une catastrophe ou d'une bataille et les renvoyer au combat est généralement bien plus efficace que de transporter des cadavres à l'infirmerie et de revenir. Bien que vous puissiez penser que l'ambulancier ferait un bon sauveteur quand il s'agit d'explosifs et de brèches, ils ne le sont pas, et sont au contraire tout aussi susceptibles de s'effondrer en leur répondant que n'importe qui d'autre. laissez les ingénieurs et les techniciens atmos avec leurs combinaisons de luxe traîner les cadavres pour vous et concentrez-vous sur la guérison de ceux qui s'en sont sortis de justesse.
 
-### Technicien des urgences ([traitor](traitor.md) Paramedic)
+### Technicien des urgences ([traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) Paramedic)
 
 Vous avez accès à l'élimination des corps, l'accès aux EVA pour une action de meurtre dans l'espace, et l'accès à la maintenance en plus! Sans compter que vous n'avez l'air à votre place dans aucun service et que les gens ne trouveront rien d'étrange à vous voir déambuler dans les couloirs avec un cadavre, pour autant que vous le colliez sur votre lit à roulettes au préalable.
 

@@ -4,7 +4,7 @@ So you’re an antagonist, maybe a traitor who needs to steal the [nuke disk](\4
 
 ## The Justitia
 
-Fancy laser pistol. Can be found in the [HoS](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md)'s locker or on his person most of the time. It needs the proper keycard to be fired. Has 3 different fire modes; kill, disable, and stun. Wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) and [traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md).
+Fancy laser pistol. Can be found in the [HoS](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md)'s locker or on his person most of the time. It needs the proper keycard to be fired. Has 3 different fire modes; kill, disable, and stun. Wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) and [traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md).
 
 ## The Imperator
 

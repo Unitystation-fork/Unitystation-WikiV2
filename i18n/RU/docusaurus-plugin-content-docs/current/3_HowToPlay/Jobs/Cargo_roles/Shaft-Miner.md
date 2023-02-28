@@ -48,7 +48,7 @@ In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes
 
 ## So you want to be a Space Man...
 
-The most important step to do before you leave is get the [Asteroid](\4_Univers\Maps\Asteroid.md) Coordinates and mining quota sheet from the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md). This is best asked for as soon as possible before they leave their office. If you have a [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), ask them apply pressure to a resistant or distracted Captain, or involve the [Head of Personnel](HoP.md); you cannot do your job quite as effectively without those coordinates. The station is depending upon you to fulfill the quota or everyone misses out on that sweet, sweet greentext.
+The most important step to do before you leave is get the [Asteroid](\4_Univers\Maps\Asteroid.md) Coordinates and mining quota sheet from the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md). This is best asked for as soon as possible before they leave their office. If you have a [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), ask them apply pressure to a resistant or distracted Captain, or involve the [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md); you cannot do your job quite as effectively without those coordinates. The station is depending upon you to fulfill the quota or everyone misses out on that sweet, sweet greentext.
 
 Ore is processed at the **Ore Redemption Machine.** You can load ore into it by hand. Ore boxes are loaded by pulling them adjacent to the ORM and hitting the load ores button in the ORM's interface. Once Ores are loaded, they are added to the station's Material Silo, which lets all lathes around the station instantly have access to the materials for item construction and withdrawal. Pretty handy. An important mechanic to understand about the ORM is Labor points. Labor points are a reward offered at the ORM for all ore you load into the ORM. Once you have finished loading all your ore, hit the claim button to transfer the labor points you have earned to your ID. Labor points can be spent on special and upgraded gear at the **Mining Equipment Vendor:**
 
@@ -78,9 +78,9 @@ Well good news, because you can instead go and mine on a world perpetually fogge
 
 Alien fauna isn't the only threat you will deal with on lavaland. Near your base, there is a an alcove that hosts an ancient tendril. This tendril is home to a nasty collective of [lizards](ashwalker.md) who don't appreciate NanoTrasen's recent arrival on their ancient hunting grounds, and they intend to prove it through a show of force. If a ghost has picked up the role, then it's possible that you might encounter a more intelligent foe than you typically deal with.
 
-### A bone to pick ([traitor](traitor.md) Shaft Miner)
+### A bone to pick ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Shaft Miner)
 
-Shaft miners get a lot of useful tools to start that assist in completing [traitor](traitor.md) objectives. You get a space suit for free, as well as a pretty robust pickaxe, and the PKA, which serves as a decent short ranged weapon that can provide infinite maneuvering in space. People also won't suspect you much wandering around the station so long as you bring a crate full of minerals around with you. You also have your own mining ship to escape from the station if things go badly, as well as Lavaland if you're willing to brave that hostile wasteland.
+Shaft miners get a lot of useful tools to start that assist in completing [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) objectives. You get a space suit for free, as well as a pretty robust pickaxe, and the PKA, which serves as a decent short ranged weapon that can provide infinite maneuvering in space. People also won't suspect you much wandering around the station so long as you bring a crate full of minerals around with you. You also have your own mining ship to escape from the station if things go badly, as well as Lavaland if you're willing to brave that hostile wasteland.
 
 
 

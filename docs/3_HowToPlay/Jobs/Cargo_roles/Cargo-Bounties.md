@@ -47,7 +47,7 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 | Cream Pies x5                               | CC [Clown](clown.md) supplies are getting dangerously low. Send 5 cream pies. | 2000   |
 | Donuts x10                                  | CentCom's security forces are facing heavy losses against the Syndicate. Ship 10 donuts to raise morale. | 800    |
 | Flowers x10                                 | Send 10 flowers for a welcoming wreath for a Centcom Admiral who is inspecting bases in the system. | 1600   |
-| jumpsuits x8                                | A new batch of [assistants](assistant.md) are in transit, but they are short of clothing; Ship 8 plain jumpsuits. | 1000   |
+| jumpsuits x8                                | A new batch of [assistants](\3_HowToPlay\Jobs\Service_roles\Assistant.md) are in transit, but they are short of clothing; Ship 8 plain jumpsuits. | 1000   |
 | Monster Bread                               | CentCom has received reports of strange hostile mutations developing in bread. If you can replicate the process, send over a sample for analysis. | 1350   |
 | Pastries x10                                | Send 10 assorted pastries for a bakesale being hosted at the local orphanage. | 500    |
 | Pens x10                                    | We are hosting the intergalactic pen balancing competition. We need you to send us some standardized ball point pens. | 800    |

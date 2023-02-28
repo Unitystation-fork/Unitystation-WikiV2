@@ -21,9 +21,9 @@ After thats done, make sure no [idiots](\3_HowToPlay\Jobs\Service_roles\Assistan
 
 While all the other members of the crew can still use extinguishers to put out fire, you can do it better in your fancy asbestos-lined hard-suit, which makes you completely immune to all* fire. Simply pop loose your fire extinguisher and blast away. alternatively, you may try making firebreaks or removing that weird flammable pink confetti in the air.
 
-### DO fill the station with plasma ([traitor](traitor.md) Atmos Tech)
+### DO fill the station with plasma ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Atmos Tech)
 
-[Traitor](traitor.md) atmos techs have the potential to become one of the most devastating forces on station. If you know what you are doing, you can flood the station with whatever harmful gas you want, just don't forget to have your internals ready. The most likely individual to interfere with your work is another atmos tech or the [AI](station-AI.md), so be careful if either of those sorts are present.
+[Traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) atmos techs have the potential to become one of the most devastating forces on station. If you know what you are doing, you can flood the station with whatever harmful gas you want, just don't forget to have your internals ready. The most likely individual to interfere with your work is another atmos tech or the [AI](station-AI.md), so be careful if either of those sorts are present.
 
   <br/>
 <br/>

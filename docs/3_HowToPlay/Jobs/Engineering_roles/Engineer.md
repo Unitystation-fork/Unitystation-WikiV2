@@ -48,15 +48,15 @@ Engineers get given a set of tools, both in their toolbelt and in toolboxes stor
 
 In addition, on most stations, each Engineer gets their own hardsuit. Cherish your birthright and never take it off. It will save your life.
 
-### Traitorneering ([traitor](traitor.md) engineer)
+### Traitorneering ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) engineer)
 
-A [traitor](traitor.md) engineer isn't as easy as you might think it is. While you do have good access, a lot of useful equipment (including a hardsuit), and a generally effective excuse to be in lots of places you aren't supposed to ("just making repairs!"), you critically don't get access to any swanky weapons. No matter where you go, you also have a responsibility *to look busy.* Lingering around a place for too long without doing anything will very quickly arouse suspicions, so find things to do.
+A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) engineer isn't as easy as you might think it is. While you do have good access, a lot of useful equipment (including a hardsuit), and a generally effective excuse to be in lots of places you aren't supposed to ("just making repairs!"), you critically don't get access to any swanky weapons. No matter where you go, you also have a responsibility *to look busy.* Lingering around a place for too long without doing anything will very quickly arouse suspicions, so find things to do.
 
 ------
 
 ## Construction
 
-Construction and deconstruction are essential tools for [Engineers](engineer.md) and [Traitors](traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
+Construction and deconstruction are essential tools for [Engineers](engineer.md) and [Traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
 
 A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
 
@@ -396,7 +396,7 @@ The same colored wire will do the same thing on every door.
 
 The positions of the wires will be randomized though.
 
-Have a good excuse ready for when the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
+Have a good excuse ready for when the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
 
 You may want to start with some door off in maint, where no one can catch you.
 

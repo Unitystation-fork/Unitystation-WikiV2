@@ -18,7 +18,7 @@ ERT commanders are the most barebones squad member, equipped with nothing but th
 ### ERT Security, Diet Deathsquad
 
 
-The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent  to apprehend [security](Security.md) or [heads](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) [of](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) [staff](\3_HowToPlay\Jobs\Command_roles\Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peaceful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused for being a [death squad](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md).
+The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent  to apprehend [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) or [heads](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) [of](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) [staff](\3_HowToPlay\Jobs\Command_roles\Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peaceful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused for being a [death squad](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md).
 ### ERT Medic, Walking Medkits
 
 

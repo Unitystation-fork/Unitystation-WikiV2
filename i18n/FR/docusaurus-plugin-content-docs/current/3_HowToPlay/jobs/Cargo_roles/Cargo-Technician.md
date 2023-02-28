@@ -44,7 +44,7 @@ Lorsque les gens viennent chercher des choses, faites-leur remplir les formulair
 
 Une fois que des commandes ont été passées, c'est généralement à vous d'aller livrer les caisses à leurs demandeurs. L'une des clés de la réussite financière du service de fret est la participation au programme de recyclage des caisses du Centcom ; les caisses vides peuvent être chargées à nouveau sur la navette de fret pour être échangées contre une partie de leur prix d'achat. Donc, n'oubliez pas de récupérer les caisses une fois que leurs demandeurs les ont vidées. Si vous oubliez quelles caisses sont allées où, c'est à cela que servent les formulaires.
 
-Parfois, les gens vous demandent de commander quelque chose de douteux ; à ce moment-là, soit vous le faites sans poser de questions, soit vous leur dites de partir. Si vous leur donnez ce qu'ils veulent, ne soyez pas surpris si le [HoP](HoP.md) ou la [Sécurité](Security.md) enfoncent la porte et arrêtent tout le service.
+Parfois, les gens vous demandent de commander quelque chose de douteux ; à ce moment-là, soit vous le faites sans poser de questions, soit vous leur dites de partir. Si vous leur donnez ce qu'ils veulent, ne soyez pas surpris si le [HoP](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md) ou la [Sécurité](Security-Officer.md) enfoncent la porte et arrêtent tout le service.
 
 ### La vengeance du livreur ([traître](traître.md) Cargo Tech)
 

@@ -9,19 +9,19 @@ Vous êtes un gardien entre les idéaux de la justice et les fous sauvages que v
 
 ## SECurité, pas SHITcurity
 
-Pour une raison inconnue, NanoTrasen a choisi de remplir cette station de recherche de premier ordre avec des babouins simples d'esprit qui aiment le carnage. En conséquence, la sécurité est surtout une nécessité pour empêcher les membres de l'équipage de la détruire. La plupart du temps, ce n'est pas trop difficile : vous disposez d'un tazer, d'une matraque paralysante (appuyez sur w Dans 90% des cas, c'est tout ce dont vous avez besoin, car quelqu'un avec un pied de biche de l'autre côté de la pièce ne peut pas vraiment faire grand-chose quand vous pouvez très facilement le tazer et l'étourdir avec votre matraque, puis le menotter et l'emmener en cellule. 
+Pour une raison inconnue, NanoTrasen a choisi de remplir cette station de recherche de premier ordre avec des babouins simples d'esprit qui aiment le carnage. En conséquence, la sécurité est surtout une nécessité pour empêcher les membres de l'équipage de la détruire. La plupart du temps, ce n'est pas trop difficile : vous disposez d'un tazer, d'une matraque paralysante (appuyez sur w Dans 90% des cas, c'est tout ce dont vous avez besoin, car quelqu'un avec un pied de biche de l'autre côté de la pièce ne peut pas vraiment faire grand-chose quand vous pouvez très facilement le tazer et l'étourdir avec votre matraque, puis le menotter et l'emmener en cellule.
 
-Cependant, parfois, ce n'est pas suffisant. Peut-être que des [Xénomorphes](Xenomorph.md) ont envahi la station. Ils ne peuvent pas être assommés ou menottés, donc votre stratégie normale ne fonctionnera pas vraiment. Ne vous inquiétez pas, si la situation devient incontrôlable, le [Warden](\3_HowToPlay\jobs\Security_roles\Warden.md) vous permettra, si tout va bien, d'obtenir une arme mortelle de l'armurerie. Assurez-vous simplement que les [Assistants](\3_HowToPlay\jobs\Service_roles\Assistant.md) n'y mettent pas leurs mains grasses, et tout ira bien ; faites _très_ attention aux personnes qui se trouvent à côté de vous lorsque vous les arrêtez avec des armes. Dans l'ensemble, il suffit d'obéir aux ordres du [HoS](\3_HowToPlay\jobs\Security_roles\Head-of-Security.md), de garder les assistants en dehors des zones interdites et d'arrêter [tout](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [indésirable](Nuclear-Operative.md) [l'équipage](Cargonia.md), et avec un peu de chance, vous serez en mesure [d'empêcher la station de se transformer en un pur chaos non filtré](So-close-to-impossible-that-might-as-well-not-even-exist.md)
+Cependant, parfois, ce n'est pas suffisant. Peut-être que des [Xénomorphes](Xenomorph.md) ont envahi la station. Ils ne peuvent pas être assommés ou menottés, donc votre stratégie normale ne fonctionnera pas vraiment. Ne vous inquiétez pas, si la situation devient incontrôlable, le [Warden](\3_HowToPlay\jobs\Security_roles\Warden.md) vous permettra, si tout va bien, d'obtenir une arme mortelle de l'armurerie. Assurez-vous simplement que les [Assistants](\3_HowToPlay\jobs\Service_roles\Assistant.md) n'y mettent pas leurs mains grasses, et tout ira bien ; faites _très_ attention aux personnes qui se trouvent à côté de vous lorsque vous les arrêtez avec des armes. Dans l'ensemble, il suffit d'obéir aux ordres du [HoS](\3_HowToPlay\jobs\Security_roles\Security-Officer.md), de garder les assistants en dehors des zones interdites et d'arrêter [tout](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [indésirable](Nuclear-Operative.md) [l'équipage](Cargonia.md), et avec un peu de chance, vous serez en mesure [d'empêcher la station de se transformer en un pur chaos non filtré](So-close-to-impossible-that-might-as-well-not-even-exist.md)
 
 
 ## Connaître sa place
 
 La station n'est en fin de compte _pas_ une opération militaire, mais, en tant que membre de la Sécurité, vous suivez la chaîne de commandement plus étroitement que tout autre membre de l'équipage :
 
-* Vous recevez vos ordres du [HoS] (Head-of-Security.md). 
-* Vous n'êtes pas obligé d'obéir aux ordres du [Warden] (Warden.md), sauf s'il s'agit d'un HoS. 
-* Vous recevez également des ordres du [Capitaine] (Captain.md), et ses ordres ont priorité sur ceux du chef de mission et de toute autre personne, à l'exception du [Commandement central] (Central-Command-Officer.md). 
-* Vous n'êtes pas obligé de recevoir des ordres du [HoP] (HoP.md), à moins qu'il ne soit capitaine par intérim.
+* Vous recevez vos ordres du [HoS] (Head-of-Security-Officer.md).
+* Vous n'êtes pas obligé d'obéir aux ordres du [Warden] (Warden.md), sauf s'il s'agit d'un HoS.
+* Vous recevez également des ordres du [Capitaine] (Captain.md), et ses ordres ont priorité sur ceux du chef de mission et de toute autre personne, à l'exception du [Commandement central] (Central-Command-Officer.md).
+* Vous n'êtes pas obligé de recevoir des ordres du [HoP] (Head-of-Personnel.md), à moins qu'il ne soit capitaine par intérim.
 * On attend de vous que vous agissiez conformément au [droit spatial] (Space-Law.md) pendant tout ce temps. Cependant, vous devez également savoir quand appliquer le droit spatial et quand l'ignorer. Si vous arrêtez les membres de l'équipage pour la moindre infraction, votre carrière d'agent de sécurité sera de courte durée.
 * Vous devez également agir conformément aux procédures opérationnelles standard. Cela définit quand vous êtes autorisé à sortir des armes ou non, et quand vous êtes autorisé à appliquer la force létale.
 
@@ -31,7 +31,7 @@ La station n'est en fin de compte _pas_ une opération militaire, mais, en tant 
 * Si vous avez des soupçons sur un membre de l'équipage, gardez vos distances. En tant que défenseur du droit spatial, vous devez généralement obtenir une cause probable avant de prendre l'initiative d'un combat. Cela signifie que la plupart de vos combats se dérouleront sur le pied arrière. Votre armure de sécurité vous permet d'encaisser suffisamment de dégâts pour survivre aux attaques mortelles, mais elle ne fait rien pour empêcher les glissades surprises de la banane, les coups de bâton paralysant, les désarmements et autres mauvais tours. Si vous sentez une menace, gardez au moins 2 tuiles entre vous et votre cible jusqu'à ce que vous soyez prêt à agir.
 * Menotter les gens en leur appliquant des menottes. Une personne menottée ne peut pas bouger si quelqu'un d'autre l'attrape.
 * Dépouillez les gens de leur équipement en les assommant et en faisant un shift-clic lorsque vous êtes à côté d'eux. Ne les mettez pas dans une combinaison de prisonnier sauf si leur séjour en cellule est de 10 minutes ou plus.
-* FAITES ATTENTION AU LUBRIFIANT POUR SOL. C'est une tactique très populaire de lubrifier les carreaux directement devant les portes du département de sécurité. De nombreux membres du personnel de sécurité ont connu une mort prématurée pour avoir glissé directement sur les portes, avoir été traînés et assassinés. 
+* FAITES ATTENTION AU LUBRIFIANT POUR SOL. C'est une tactique très populaire de lubrifier les carreaux directement devant les portes du département de sécurité. De nombreux membres du personnel de sécurité ont connu une mort prématurée pour avoir glissé directement sur les portes, avoir été traînés et assassinés.
 
 ------
 
@@ -59,7 +59,7 @@ Ou plus communément appelés "merdeux", sont le genre d'officiers qui croient q
 
 Ces types d'agents se contentent de faire le tour de la station et de s'assurer que tout est en ordre, n'intervenant que si nécessaire. Ces types d'agents sont perçus de manière neutre par le public, il ne faut donc pas s'attendre à des éloges ou à de la haine, enfin, à l'exception de la haine générale envers la sécurité à cause des agents mentionnés ci-dessus. Quelques conseils :
 
-1) Vous devriez demander l'[AA](\3_HowToPlay\Guides\General_guides\Access.md) au [Chef du personnel](HoP.md) pour être sûr de balayer toute la station, afin de découvrir tout complot caché dans le secteur de la recherche ou autre.
+1) Vous devriez demander l'[AA](\3_HowToPlay\Guides\General_guides\Access.md) au [Chef du personnel](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md) pour être sûr de balayer toute la station, afin de découvrir tout complot caché dans le secteur de la recherche ou autre.
 
 2) Si on vous dit de partir, n'abusez pas de votre hospitalité.
 
@@ -203,7 +203,7 @@ Il existe quelques circonstances où la force meurtrière est autorisée :
 
 - Risques personnels graves
 
-   
+
 
   \- Parfois, s'approcher suffisamment d'une cible pour lui passer les menottes peut entraîner un risque personnel important pour l'agent. L'usage de la force meurtrière à distance est recommandé pour maîtriser les sorciers et les changeants.
 
@@ -211,7 +211,7 @@ Il existe quelques circonstances où la force meurtrière est autorisée :
 
 - Armé et dangereux
 
-   
+
 
   \- Si un suspect est en possession d'armes, y compris d'armes paralysantes, et que vous avez de bonnes raisons de penser qu'il va les utiliser contre vous, la force létale est autorisée. Bien que dans la majorité des cas, il soit préférable de tenter de le retenir sans recourir à la force létale.
 
@@ -303,10 +303,10 @@ Seul le capitaine peut autoriser une exécution ou une cyborgisation forcée.
 | **Self Defense**  								| L'autodéfense est définie comme "la protection de soi-même, la protection de ses collègues et la protection de son lieu de travail". Notez cependant que les personnes qui s'impliquent intentionnellement dans des bagarres qui se produisent dans un département qui n'est pas le leur constituent un acte de vigilantisme, ce qui n'est pas autorisé. | Libération immédiate.                                           |
 | **Coopération avec l'accusation ou la sécurité**. | Le fait d'être utile aux membres de la sécurité, de révéler des choses pendant l'interrogatoire ou de fournir des noms de révolutionnaires en chef. | -25% à la durée de la peine. En cas de révélation d'un chef révolutionnaire : Libération immédiate. |
 | **Reddition**                          	 		| Venir au commissariat, confesser ce que l'on a fait et subir la punition. Se faire arrêter sans faire d'histoires n'est pas une reddition. Pour cela, vous devez vous rendre vous-même au poste de police. | -25% à la durée de la peine, et doit être pris en compte lorsque le choix entre la vie en cellule sécurisée, l'exécution et la cyborgisation est fait. |
-| **Menace immédiate pour le prisonnier**			| La singularité mange quelque chose près de la prison, une explosion se produit, etc. | L'agent doit déplacer le(s) prisonnier(s) dans un endroit sûr, sinon, libération immédiate. |	
+| **Menace immédiate pour le prisonnier**			| La singularité mange quelque chose près de la prison, une explosion se produit, etc. | L'agent doit déplacer le(s) prisonnier(s) dans un endroit sûr, sinon, libération immédiate. |
 | **Raisons médicales**                  			| Les prisonniers ont droit à des soins médicaux s'ils sont malades ou blessés. | Le personnel médical peut être appelé, ou le prisonnier peut être escorté jusqu'au Medbay. Le chronomètre continue à fonctionner pendant ce temps. |
 | **Chasse à l'homme**                   			| En plus de Résister à une arrestation, un prisonnier qui doit être poursuivi pendant au moins 2 minutes après une tentative d'arrestation peut voir sa peine augmentée. | 1 minute ajoutée à sa peine pour chaque tranche de 2 minutes que dure la poursuite. |
-| **Récidive**                         				| Si un condamné récidive après avoir été libéré, il peut recevoir une peine plus sévère. Selon la gravité des crimes commis, après la troisième, voire la deuxième récidive, la peine peut être portée à un emprisonnement permanent. | Un temps de détention supplémentaire.                                        |	
+| **Récidive**                         				| Si un condamné récidive après avoir été libéré, il peut recevoir une peine plus sévère. Selon la gravité des crimes commis, après la troisième, voire la deuxième récidive, la peine peut être portée à un emprisonnement permanent. | Un temps de détention supplémentaire.                                        |
 | **Fuite de la prison**                   	 		| Si un prisonnier s'enfuit de sa cellule pour une raison autre que celle d'échapper à un danger mortel imminent (incendie, brèche dans la coque, meurtre), remettez son compteur à zéro pour la totalité de sa peine initiale. | Remettez le compteur à zéro.                                                 |
 | **Aide et complicité**                	 		| Le fait d'aider sciemment un criminel est un crime. Cela inclut, mais n'est pas limité à : Interférer dans une arrestation, enlever un prisonnier en transit, faire évader un prisonnier de la prison, cacher un fugitif, fournir des soins médicaux (à moins qu'ils ne soient associés à une forte dose de toxines du sommeil). | La même peine que le criminel d'origine.                  |
 

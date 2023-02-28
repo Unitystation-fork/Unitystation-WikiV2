@@ -60,7 +60,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 13) Essayez de ne pas choisir d'antagonistes (antags) les premières fois que vous jouez, du moins jusqu'à ce que vous soyez familiarisé avec les commandes. Si vous voulez commencer à être un antag, essayez d'être un [traître] (Traitor.md), et rappelez-vous qu'en tant que tel, vous êtes autorisé à vous en tirer avec de nombreux crimes de guerre, mais essayez de ne faire qu'un enfer pour votre cible, s'il vous plaît.
 
 
-14) Ne choisissez pas de rôle de sécurité tant que vous n'avez pas au moins une idée du fonctionnement du système de combat (vous êtes assez "robuste"). Si vous êtes un [agent de sécurité](Security.md), ne faites pas de jeux de pouvoir, cela ruine l'expérience de l'autre et vous donne une euphorie temporaire, avec des regrets par la suite.
+14) Ne choisissez pas de rôle de sécurité tant que vous n'avez pas au moins une idée du fonctionnement du système de combat (vous êtes assez "robuste"). Si vous êtes un [agent de sécurité](Security-Officer.md), ne faites pas de jeux de pouvoir, cela ruine l'expérience de l'autre et vous donne une euphorie temporaire, avec des regrets par la suite.
 
 
 15) Si vous êtes blessé, vous devez vous rendre au service médical pour vous faire soigner ou vous soigner vous-même. Vous pouvez voir à quel point votre état est mauvais en vérifiant la couleur de votre corps dans l'ui.

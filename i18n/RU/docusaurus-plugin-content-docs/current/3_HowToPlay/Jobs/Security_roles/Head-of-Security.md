@@ -1,7 +1,7 @@
 # Head of Security
 **Role type:** <font color= "#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
 
-Note: The HoS is a *very* difficult role to play and you should probably be experienced in [combat](Combat.md) and with [security](Security.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md), and [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) before picking it. Jumping in and playing HoS on your very first round ever is a great way to get yourself job-banned.
+Note: The HoS is a *very* difficult role to play and you should probably be experienced in [combat](Combat.md) and with [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md), and [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) before picking it. Jumping in and playing HoS on your very first round ever is a great way to get yourself job-banned.
 
 "alright, that's it, the chemist has lubed his last tile, blow up the chemlab boys."
 
@@ -28,7 +28,7 @@ If the alert level is ever elevated to <font color= "red">Code Red,</font> this 
 
 ### How to not end up with your head on a pike
 
-For any HoS, the crew can be just as much of a danger as [syndicate agents](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) and [revolutionaries](Cargonia.md), and if you or your [officers](Security.md) piss them off enough, you may find your corpse paraded down the hall. The best way to prevent this is to work with the [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), take headsets off your prisoners, and follow [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md). During downtime you can also try and build goodwill with the crew, arresting unwanted vandals and thieves yourself will both show others security is doing their job and you are doing your part to help them.
+For any HoS, the crew can be just as much of a danger as [syndicate agents](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) and [revolutionaries](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md), and if you or your [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) piss them off enough, you may find your corpse paraded down the hall. The best way to prevent this is to work with the [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), take headsets off your prisoners, and follow [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md). During downtime you can also try and build goodwill with the crew, arresting unwanted vandals and thieves yourself will both show others security is doing their job and you are doing your part to help them.
 
   <br/>
 <br/>

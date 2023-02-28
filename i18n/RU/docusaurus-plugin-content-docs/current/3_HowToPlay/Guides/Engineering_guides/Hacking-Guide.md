@@ -20,7 +20,7 @@ The same colored wire will do the same thing on every door.
 
 The positions of the wires will be randomized though.
 
-Have a good excuse ready for when the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
+Have a good excuse ready for when the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
 
 You may want to start with some door off in maint, where no one can catch you.
 

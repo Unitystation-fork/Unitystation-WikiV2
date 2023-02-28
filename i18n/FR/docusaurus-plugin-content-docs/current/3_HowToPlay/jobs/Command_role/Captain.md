@@ -6,7 +6,7 @@
 ## Aperçu
 
 Le rôle de capitaine est l'un des plus difficiles de la station. À première vue, votre travail peut sembler simple. Assurez-vous simplement que chaque département fait ce qu'il est censé faire et atteint les quotas fixés par le [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), et s'assurer qu'aucun [Antagoniste](Antagonist.md) ne puisse saboter l'endroit.
-Cependant, ce n'est jamais aussi simple. Votre travail ne consiste pas seulement à empêcher la station de sombrer dans le chaos, c'est aussi votre travail de planifier l'action suivante lorsque la prévention échoue. 
+Cependant, ce n'est jamais aussi simple. Votre travail ne consiste pas seulement à empêcher la station de sombrer dans le chaos, c'est aussi votre travail de planifier l'action suivante lorsque la prévention échoue.
 
 Bien sûr, appeler la navette d'urgence est une option, mais cela ne doit être fait que lorsque toutes les autres options ont été épuisées. Ce n'est pas la seule chose qui rend votre travail difficile; [Tous ceux qui ont en tête une forme de [sabotage](urgence nucléaire)(Cargonia) auront un réticule dirigé vers votre tête, alors faites attention quand Jimmy Bob vous demande de le suivre dans les tunnels de maintenance.
 
@@ -14,9 +14,9 @@ Il est de votre devoir d'assurer la stabilité et la productivité de la station
 
 ### Alors, comment rester en vie ?
 
-Avec tant de gens qui veulent votre vie, vous serez heureux d'apprendre que votre bureau est équipé d'une arme spéciale, appelé l'Imperator, ainsi qu'une ceinture de sécurité et un taser. Vous commencez également avec la meilleure armure polyvalente de la station (bien qu'elle ne protège que votre poitrine) et une combinaison de protection très résistante dans votre bureau (qui protège tout votre corps lorsque vous la portez avec le casque, mais qui vous ralentit considérablement). Toutes ces choses sont bonnes pour tirer sur quelqu'un avec et s'enfuir. 
+Avec tant de gens qui veulent votre vie, vous serez heureux d'apprendre que votre bureau est équipé d'une arme spéciale, appelé l'Imperator, ainsi qu'une ceinture de sécurité et un taser. Vous commencez également avec la meilleure armure polyvalente de la station (bien qu'elle ne protège que votre poitrine) et une combinaison de protection très résistante dans votre bureau (qui protège tout votre corps lorsque vous la portez avec le casque, mais qui vous ralentit considérablement). Toutes ces choses sont bonnes pour tirer sur quelqu'un avec et s'enfuir.
 
-C'est ça, s'enfuir. Sauf si vous êtes très, très, robuste, votre meilleure option lorsque des [gars en combinaison rouge](Urgence nucléaire.md) ou des [chemises grises](\3_HowToPlay\jobs\Service_roles\Assistant.md) avec un stetchkin vous attaquent est de vous enfuir. Ça, ou se cacher dans l'armurerie derrière des murs de [boucliers de viande](Security.md).
+C'est ça, s'enfuir. Sauf si vous êtes très, très, robuste, votre meilleure option lorsque des [gars en combinaison rouge](Urgence nucléaire.md) ou des [chemises grises](\3_HowToPlay\jobs\Service_roles\Assistant.md) avec un stetchkin vous attaquent est de vous enfuir. Ça, ou se cacher dans l'armurerie derrière des murs de [boucliers de viande](\3_HowToPlay\jobs\Security_roles\Security-Officer.md).
 
 
 ### Primauté du délégué
@@ -37,7 +37,7 @@ Déléguer et rester caché peut cependant vous faire trébucher plus qu'il ne p
 ### [Secure Dat Fukken Disk](\4_Univers\Items\Nuclear-Authentication-Disk.md)
 
 
-La première chose à faire est de prendre le putain de disque nucléaire et de le cacher sur vous. Prenez aussi votre carte d'identité. Et probablement aussi votre épingle à disque. Protège le disque avec ta vie. Ne le montrez à personne. Ne le confiez à personne, sauf peut-être au [Chef de la sécurité](Head-of-Security.md) ou au [Chef du personnel](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md).
+La première chose à faire est de prendre le putain de disque nucléaire et de le cacher sur vous. Prenez aussi votre carte d'identité. Et probablement aussi votre épingle à disque. Protège le disque avec ta vie. Ne le montrez à personne. Ne le confiez à personne, sauf peut-être au [Chef de la sécurité](Head-of-Security-Officer.md) ou au [Chef du personnel](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md).
 
 S'il y a le moindre soupçon d'[activité du Syndicat](Urgence-nucléaire.md) sur la station, laissez tomber ce que vous êtes en train de faire et signalez-le à la [Sécurité](Sécurité.md). Les Syndiqués ont leurs propres détecteurs de disques, et ils peuvent suivre le disque où qu'il soit. Donc, s'ils attaquent la station, vous devez rejoindre [les gars](\3_HowToPlay\jobs\Security_roles\Security-Officer.md) au plus vite.
 

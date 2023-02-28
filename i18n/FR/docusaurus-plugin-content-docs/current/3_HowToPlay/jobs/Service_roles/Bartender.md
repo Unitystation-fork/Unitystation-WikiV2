@@ -22,7 +22,7 @@ vous obtenez un fusil de chasse qui tire des obus à balles assommantes et un gi
 La difficulté de [préparer des boissons] (Drinks-guide.md) est minime, mais les bagarres de bar peuvent être mortelles.
 Vous verrez certaines des pires manifestations de violence de la station.
 
-Ce n'est peut-être pas une mauvaise idée de vous lier d'amitié avec les [agents de sécurité](Security.md) locaux dès le début de votre service pour faire face aux inévitables bagarres qui se produiront.
+Ce n'est peut-être pas une mauvaise idée de vous lier d'amitié avec les [agents de sécurité](Security-Officer.md) locaux dès le début de votre service pour faire face aux inévitables bagarres qui se produiront.
 
 Surtout le [Détective] (Detective.md).
 Ils ont tendance à passer plus de temps dans le bar que dans leur bureau, de toute façon.
@@ -61,9 +61,9 @@ Un guide complet sur toutes les boissons peut être (sera) trouvé [ici] (Guide-
 Tenez compte du fait que la vodka s'appelle [https://wiki.baystation12.net/Tunguska_Triple_Distilled Tunguska Triple Distilled] et le whisky Old Git's Special Reserve.
 En gardant cela à l'esprit, sortez et aidez les gens à boire pour oublier leur chagrin.
 
-### La matraque outeilles. ([traitor ](traitor.md) Bartender)
+### La matraque outeilles. ([traitor ](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) Bartender)
 
-[traitorous](traitor.md) Un barman n'a pas beaucoup d'atouts.
+[traitorous](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) Un barman n'a pas beaucoup d'atouts.
 C'est un travail très visible avec peu d'excuse pour être ailleurs qu'au bar.
 Vous commencez avec un fusil à pompe et des cartouches à billes, ce qui n'est pas rien, mais c'est une arme bruyante sans létalité et la limite de deux tirs à la fois en fait au mieux une arme d'appoint.
 

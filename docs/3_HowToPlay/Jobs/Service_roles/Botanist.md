@@ -31,11 +31,11 @@ Even if many people think this job is more of a farm simulator rather than a tru
 
 At the moment, the amount of things the botanist can do is limited. Grow apples to supplement the hunger for meat and grow wheat so the [Cook](\3_HowToPlay\Jobs\Service_roles\Cook.md) can blend it into flour for burgers. When civil station life [disintegrates](\3_HowToPlay\Guides\General_guides\Battle-royale.md), grow bananas and lay a minefield of peels around your turf to dissuade attackers. If you're an [Antagonist](Antagonist.md), you should try to get your hands on some unstable mutagen to speed up the breeding process so you can acquire the *fun* plants like lemon-nades, gatfruit, and bluespace bananas.
 
-## The [traitor](traitor.md) botanist
+## The [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) botanist
 
-Time to eschew the hippie crap; how do you best utilize the art of hydroponics to complete your nefarious [traitor](traitor.md) objectives?
+Time to eschew the hippie crap; how do you best utilize the art of hydroponics to complete your nefarious [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) objectives?
 
-if you are lucky and fast you have access to many horrifying things: bluespace bananas, gatfruit, and lemon-nades being your most powerful plants available currently. Unless you set up a secret garden it will be extremely obvious which horrors you're growing, but often no one really cares about botany. You can try to expedite the process by bribing the [chemist](chemist.md) for some mutagen.
+if you are lucky and fast you have access to many horrifying things: bluespace bananas, gatfruit, and lemon-nades being your most powerful plants available currently. Unless you set up a secret garden it will be extremely obvious which horrors you're growing, but often no one really cares about botany. You can try to expedite the process by bribing the [chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md) for some mutagen.
 
 # Botany
 

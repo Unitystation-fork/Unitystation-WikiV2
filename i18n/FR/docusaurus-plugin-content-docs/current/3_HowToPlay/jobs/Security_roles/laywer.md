@@ -5,13 +5,13 @@ Vous êtes le mur entre la loi et le suspect, c'est à vous de veiller à ce que
 
 ### comment faire
 
-Honnêtement - les opportunités se présenteront à vous, juste traîner près de l'acte, ou de la sécurité s'il n'y a pas d'acte. Assurez-vous d'avoir votre livre de [droit de l'espace](Space-Law.md) à portée de main à tout moment, la satisfaction de jouer le rôle vient lorsque vous annulez avec succès toutes les accusations portées contre votre défendeur. Mais la plupart du temps, il faut apprécier les petites choses, comme le raccourcissement de la durée du mandat ou faire en sorte que les [gardes] (Security.md) ne violent pas les [Conventions de Genève](https://fr.wikipedia.org/wiki/Conventions_de_Genève).
+Honnêtement - les opportunités se présenteront à vous, juste traîner près de l'acte, ou de la sécurité s'il n'y a pas d'acte. Assurez-vous d'avoir votre livre de [droit de l'espace](Space-Law.md) à portée de main à tout moment, la satisfaction de jouer le rôle vient lorsque vous annulez avec succès toutes les accusations portées contre votre défendeur. Mais la plupart du temps, il faut apprécier les petites choses, comme le raccourcissement de la durée du mandat ou faire en sorte que les [gardes] (Security-Officer.md) ne violent pas les [Conventions de Genève](https://fr.wikipedia.org/wiki/Conventions_de_Genève).
 
 ## Comment le tribunal doit se dérouler
 
 1) Rencontrez votre défendeur en tête-à-tête pour discuter des détails, demandez-lui ce qu'il a fait et ce qu'il n'a pas fait, et demande ce qu'il a fait mais veut que vous disiez qu'il ne l'a pas fait.
 
-2) Dites aux [gardes](Security.md) que vous êtes prêt à partir et à vous préparer pour le tribunal. Memorize what your defendant told you and you told your defendant, si vous avez inventé une histoire pour couvrir certains de ses crimes, assurez-vous que vous vous en souvenez tous les deux.
+2) Dites aux [gardes](\3_HowToPlay\jobs\Security_roles\Security-Officer.md) que vous êtes prêt à partir et à vous préparer pour le tribunal. Memorize what your defendant told you and you told your defendant, si vous avez inventé une histoire pour couvrir certains de ses crimes, assurez-vous que vous vous en souvenez tous les deux.
 
 3) Au tribunal, parlez **pour** votre client, que le défendeur ne parle que lorsqu'on lui demande **directement**,  si la question n'implique pas qu'il doive répondre spécifiquement, répondez-y pour lui, d'une manière qui lui soit profitable.
 

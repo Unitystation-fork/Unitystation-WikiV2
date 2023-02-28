@@ -81,7 +81,7 @@ Usually accessed through a windowless airlock with green stripes. These rooms ar
 
 ### Cargo Bay
 
-This is where Cargo's business is conducted. Supply crates are ordered on the supply console located in this room and shipped in via shuttle. Conveyor belts and the extra space help expedite the process for [Cargo Techs](cargo-technician.md). Typically attached is the Crate Warehouse, a dirty old room where crates are stored. 
+This is where Cargo's business is conducted. Supply crates are ordered on the supply console located in this room and shipped in via shuttle. Conveyor belts and the extra space help expedite the process for [Cargo Techs](cargo-technician.md). Typically attached is the Crate Warehouse, a dirty old room where crates are stored.
 
 Sometimes either located in this room or in a small adjacent room is the Cargo Office, which is the home of Cargo's autolathe and the place where crew can come and request purchases.
 
@@ -165,6 +165,6 @@ The [Janitor's](\3_HowToPlay\Jobs\Service_roles\Janitor.md) home. A janitor's lo
 
 Waste Disposal is a special maintenance area. It is typically worked by [Cargo Technicians](cargo-technician.md) or the [Janitor](janitor.md). This is the final destination of all those items that get disposed of properly in the Delivery Office in Cargo. The lever controls the conveyor system while the two buttons on the left wall control the blast door and mass driver.
 
-The [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) has no cameras in this area, making it the perfect location to perform [crimes](traitor.md).
+The [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) has no cameras in this area, making it the perfect location to perform [crimes](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md).
 
 On some maps, Waste Disposal is located *outside* the station's boundaries, meaning if you jump into a disposal bin without a means of space walking, you might trap yourself.

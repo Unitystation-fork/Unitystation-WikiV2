@@ -41,13 +41,13 @@ The home of the weed loving [botanists](\3_HowToPlay\jobs\Service_roles\Botanist
 ### Eva
 Stands for extra-vehicular-activity, but this is a station, not a vehicle. has all the essentials for a trip to the void.![EVA room](\img\No_image.png)
 ### Kitchen
-The [cooks](Chef.md) very own barbecue joint, with attached slaughterhouse.![Cooking](\img\No_image.png)
+The [cooks](\3_HowToPlay\jobs\Service_roles\Cook.md) very own barbecue joint, with attached slaughterhouse.![Cooking](\img\No_image.png)
 ### Gateway
 A room with a portal that can lead you to some (generally very hazardous) special locations.![Portal Room](\img\No_image.png)
 ### Dorm
 A den of the most disgusting filth imaginable.![Doorm](\img\No_image.png)
 ### Command
-A very large section of the station containing the rooms of both the [captain](\3_HowToPlay\jobs\Command_role\Captain.md) and his [best bud](HoP.md), along with the stations command deck.![Command](\img\Command.png)
+A very large section of the station containing the rooms of both the [captain](\3_HowToPlay\jobs\Command_role\Captain.md) and his [best bud](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md), along with the stations command deck.![Command](\img\Command.png)
 ### Funny Room
 A room containing essentials for both the [mime](\3_HowToPlay\jobs\Entertainment_Roles\Mime.md) and [clown](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md). HONK!![Clown and mime](\img\No_image.png)
 ### Artificial Intelligence Satellite
@@ -59,7 +59,7 @@ The stations [Atmos Techs](\3_HowToPlay\jobs\Engineering_roles\Atmospherics-Tech
 ### R&D
 Where all the [scientists](\3_HowToPlay\Jobs\Science_roles\Scientist.md) gather and make half-life references between getting killed in various science advancing ways.[[File:R&D.PNG|none|thumb|308x308px]]
 ### Security
-Where the [true dictatorial overlords](Security.md) of the station send their victims.![Sec](\img\Sec.png)
+Where the [true dictatorial overlords](\3_HowToPlay\jobs\Security_roles\Security-Officer.md) of the station send their victims.![Sec](\img\Sec.png)
 ### Church
 [Sacerdos](\3_HowToPlay\jobs\Entertainment_Roles\Chaplain.md) in templum laborat et [vocat cum deus](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](\img\Chruch.png)
 

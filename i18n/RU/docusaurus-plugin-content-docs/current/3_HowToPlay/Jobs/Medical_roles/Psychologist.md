@@ -16,9 +16,9 @@ Your job is primarily to simply talk and listen to any and all who request it, a
 
 it is a good idea to start 'advertising' around the station for anybody who could use some psychological care, and make sure to check the Brig, Medbay, or even places such as the Bar for any potential patient that could need some help.
 
-### Hypocritical Oath ([traitor](traitor.md) Psychologist)
+### Hypocritical Oath ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Psychologist)
 
-Being selected to be a [traitor](traitor.md) as a Psychologist is basically a cruel joke. You'll have to be smart how you leverage your meek and disarming job title, because that's the only thing you get out of it, except a decently secluded room in the Medbay. The only trick you have is to invite any targets you have into your office for a therapy session, and that won't work often.
+Being selected to be a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) as a Psychologist is basically a cruel joke. You'll have to be smart how you leverage your meek and disarming job title, because that's the only thing you get out of it, except a decently secluded room in the Medbay. The only trick you have is to invite any targets you have into your office for a therapy session, and that won't work often.
 
   <br/>
 <br/>

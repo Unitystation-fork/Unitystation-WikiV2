@@ -6,7 +6,7 @@
 
 Être concierge est un travail ingrat, mais important.
 
-Non seulement c'est simple, mais c'est aussi l'un des deux principaux postes qui empêchent la station de devenir un spectacle de merde, l'autre étant la [Sécurité] (Security.md).
+Non seulement c'est simple, mais c'est aussi l'un des deux principaux postes qui empêchent la station de devenir un spectacle de merde, l'autre étant la [Sécurité] (Security-Officer.md).
 
 Plus la station ressemble à un enclos pour animaux, plus les membres de l'équipage [agiront comme si c'en était un] (Battle-royale.md).
 C'est plus amusant qu'il n'y paraît.

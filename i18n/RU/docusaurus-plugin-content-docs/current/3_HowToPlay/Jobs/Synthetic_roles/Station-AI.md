@@ -23,7 +23,7 @@ Besides saving the crew from itself, a lot of what you're going to be doing is o
 
 ### Your home: the AI Satellite
 
-The station AI starts inside the maximum security AI satellite, a chamber designed to keep the AI safe, secure, and out of the hands of [nefarious](traitor.md) or [grabby](assistant.md) types. Inside the AI satellite will be your room protected by a number of automatic laser turrets. These turrets shoot anyone on sight unless they have been disabled by accesses a small turret control screen, either by you or by a head of staff. The turret controller can also toggle the turret fire modes from stun to kill.
+The station AI starts inside the maximum security AI satellite, a chamber designed to keep the AI safe, secure, and out of the hands of [nefarious](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) or [grabby](\3_HowToPlay\Jobs\Service_roles\Assistant.md) types. Inside the AI satellite will be your room protected by a number of automatic laser turrets. These turrets shoot anyone on sight unless they have been disabled by accesses a small turret control screen, either by you or by a head of staff. The turret controller can also toggle the turret fire modes from stun to kill.
 
 There will usually be several layers of defense in the AI satellite, as well as the AI upload room, which contains a terminal for uploading new laws to the AI.
 

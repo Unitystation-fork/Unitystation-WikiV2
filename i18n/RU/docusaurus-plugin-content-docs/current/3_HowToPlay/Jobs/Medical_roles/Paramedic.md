@@ -18,7 +18,7 @@ In emergency situations, you have, unsurprisingly, among the most important role
 
 Fixing people up at the front line of either a disaster or battle and sending them back off to fight it is typically far more efficient than hauling dead bodies back to Medbay and returning. While you may think that the Paramedic would make a good rescuer when it comes to explosives and breaches, they aren't, and are instead just as likely to keel over responding to them as anyone else. let the engineers and atmos techs with their fancy hardsuits drag the corpses out for you instead and focus on healing those who barely made it out.
 
-### Emergency Malpractice Technician ([traitor](traitor.md) Paramedic)
+### Emergency Malpractice Technician ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Paramedic)
 
 You have access to dispose of bodies, access to EVA for some space murder action, and maintenance access to boot! Not to mention that you don't look out of place in any department and people won't find anything strange about you wandering the halls with a corpse so long as you stick it on your roller bed beforehand.
 

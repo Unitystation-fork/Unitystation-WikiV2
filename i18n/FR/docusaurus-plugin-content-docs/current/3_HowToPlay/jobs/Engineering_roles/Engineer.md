@@ -57,7 +57,7 @@ Un ingénieur [traître](traître.md) n'est pas aussi facile que vous pourriez l
 
 # Construction
 
-Construction and deconstruction are essential tools for [Engineers](engineer.md) and [Traitors](traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
+Construction and deconstruction are essential tools for [Engineers](engineer.md) and [Traitors](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
 
 A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
 

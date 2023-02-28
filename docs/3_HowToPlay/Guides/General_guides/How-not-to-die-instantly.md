@@ -60,7 +60,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 13) Try not to pick antagonists (antags) the first times you play, at least until you are familiar with the controls. If you want to start being antag, try being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md), and remember that as one you are allowed to get away with many war crimes, but try to only make life hell for your target, please.
 
 
-14) Do not pick any security role untill you have at least some idea of how the combat system works (you are "robust" enough). If you're a [security officer](Security.md), please don't make power plays, it ruins the other's experience and gives you temporary euphoria, with regret afterwards.
+14) Do not pick any security role untill you have at least some idea of how the combat system works (you are "robust" enough). If you're a [security officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), please don't make power plays, it ruins the other's experience and gives you temporary euphoria, with regret afterwards.
 
 
 15) If you're injured you should go to medical to get treated or treat yourself. You can see how bad you are doing by checking the color of your body in the ui.

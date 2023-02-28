@@ -16,7 +16,7 @@ With nuke disk pinpointers and a variety of antag roles specialized on taking th
 
 ## The Justitia
 
-Fancy laser pistol. Can be found in the [HoS](\3_HowToPlay\jobs\Security_roles\Head-of-Security.md)'s locker or on his person most of the time. It needs the proper keycard to be fired. Has 3 different fire modes; kill, disable, and stun. Wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) and [traitors](\5_Dev\routine1.0.5\Antagoniste\Traitor.md).
+Fancy laser pistol. Can be found in the [HoS](\3_HowToPlay\jobs\Security_roles\Security-Officer.md)'s locker or on his person most of the time. It needs the proper keycard to be fired. Has 3 different fire modes; kill, disable, and stun. Wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) and [traitors](\5_Dev\routine1.0.5\Antagoniste\Traitor.md).
 
 ## The Imperator
 

@@ -46,7 +46,7 @@ This is a comprehensive list of all items that [Traitors](\5_Dev\routine1.0.5\An
 
 #### Operative Exclusive Items:
 
-Some items are only available to [Nuclear Operatives.](\3_HowToPlay\jobs\Antagoniste_role\Nuclear-Operative.md) 
+Some items are only available to [Nuclear Operatives.](\3_HowToPlay\jobs\Antagoniste_role\Nuclear-Operative.md)
 
 | Category/Name                                    | Description                                                  | TC cost |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------- |
@@ -63,7 +63,7 @@ Some items are only available to [Nuclear Operatives.](\3_HowToPlay\jobs\Antagon
 | 84mm Rocket Launcher                             | A reloadable rocket launcher preloaded with an 84mm HE rocket grenade. With a very large blast radius, a potent weapon versus crowds. the alternate HEDP rocket also has utility for  taking out heavily armored targets. | 8TC     |
 | Biohazardous chemical Sprayer                    | A currently semi-functional tool. Chemicals are in an awkward state, balance wise, so this item isn't recommended for use just yet. | 20TC    |
 | **<font color="red">AMMUNITION</font>**          | Ammo for Operative exclusive weapons                         |         |
-| 12g buckshot drum                                | Powerful, and the spread makes it hard to dodge. Two full volleys of buckshot will down an unarmored target, but your average [Security Officer](security-officer.md) will take three. | 2TC     |
+| 12g buckshot drum                                | Powerful, and the spread makes it hard to dodge. Two full volleys of buckshot will down an unarmored target, but your average [Security Officer](\3_HowToPlay\jobs\Security_roles\Security-Officer.md) will take three. | 2TC     |
 | 12g Dragons Breath drum                          | the *fun* option. fires 4 low-damage flaming projectiles. A great option for sowing panic. While you are unlikely to drop people with dragon's breath, you will definitely distract them, and likely force a retreat so they can put themselves out. Repeatedly shooting people with dragon's breath isn't a very effective use of the ammo as a single shell will apply 4 firestacks to them, and characters can only receive 5 firestacks at a given time. Since they can't put themselves out, a single shell will eventually burn a critted player to death if they don't have any fire protection, as the damage potential is over 100. | 2TC     |
 | 12g slug drum                                    | Fires a single slug that deals slightly less total damage than buckshot, but has 20% armor penetration and a higher projectile velocity, so if you are facing armored targets or are fighting over distance, consider picking this. | 3TC     |
 | .45 Magazine                                     | An extra magazine for the stalker SMG. Grab a few of these if you plan to stick with it. | 3TC     |

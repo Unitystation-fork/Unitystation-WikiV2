@@ -1,7 +1,7 @@
 | Department  | Roles                                                        |
 | ----------- | ------------------------------------------------------------ |
 | Command     | [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md), [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) |
-| Security    | [Head of Security](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md), [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md), [Security Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Detective](\3_HowToPlay\Jobs\Security_roles\Detective.md) |
+| Security    | [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md), [Security Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Detective](\3_HowToPlay\Jobs\Security_roles\Detective.md) |
 | Engineering | [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md), [Engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmospherics Technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md) |
 | Science     | [Research Director](\3_HowToPlay\Jobs\Science_roles\Research-Director.md), [Scientist](\3_HowToPlay\Jobs\Science_roles\Scientist.md), [Geneticist](\3_HowToPlay\Jobs\Science_roles\Geneticist.md), [Roboticist](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) |
 | Medical     | [Chief Medical Officer](\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md), [Medical Doctor](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md), [Paramedic](paramedic.md), [Chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md), [Virologist](\3_HowToPlay\Jobs\Medical_roles\Virologist.md), |

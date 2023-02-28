@@ -40,14 +40,14 @@ Lorsque la vie de la station civile se [désintègre](Battle-royale.md), cultive
 
 Si vous êtes un [Antagoniste](Antagonist.md), vous devriez produire en masse autant de citrons que possible, en détruisant les plantes après chaque récolte et en en plantant de nouvelles à partir de votre récolte ou en utilisant simplement un mutagène instable avec une intention non utile pour obtenir des grenades pouvant être produites en masse.
 
-### The [traitor](traitor.md) botanist
+### The [traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) botanist
 
 Il est temps d'éviter les conneries hippies ; comment utiliser au mieux l'art de l'hydroponie pour atteindre vos objectifs infâmes de [traître] (traître.md) ?
 
 si vous êtes chanceux et rapide, vous avez accès à de nombreuses choses horribles : les bananes bluespace, le gatfruit et les citrons-nades sont les plantes les plus puissantes actuellement disponibles.
 
 À moins que vous ne mettiez en place un jardin secret, il sera extrêmement évident quelles horreurs vous faites pousser, mais souvent personne ne s'intéresse vraiment à la botanique.
-Vous pouvez essayer d'accélérer le processus en soudoyant le [chimiste](chemist.md) pour obtenir du mutagène.
+Vous pouvez essayer d'accélérer le processus en soudoyant le [chimiste](\3_HowToPlay\jobs\Medical_roles\Chemist.md) pour obtenir du mutagène.
 
   <br/>
 <br/>

@@ -7,7 +7,7 @@
 The Head of Personnel, also commonly referred to as the HoP, is one of the command roles on the station, and arguably one of the most important jobs on the station, with the ability to change people's access levels using the terminal in their office, taking over for the captain when they inevitably get stabbed in the back, and keeping [Ian](\4_Univers\Mobs\Ian.md) the dog alive at all costs.
 ### Lawful Neutral
 
-The job of the HoP is relatively simple: sit in your office, change people's job or access levels if they ask for it for good reasons, and resist the urge to give yourself or [other](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) [people](\3_HowToPlay\Jobs\Service_roles\Assistant.md) all-access cards. On top of that, you're also the one making sure the Service roles are keeping the station running, and that [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) isn't ordering in guns to help [Cargonia](Cargonia.md) become an independent station-state. However, your job can get slightly hectic;
+The job of the HoP is relatively simple: sit in your office, change people's job or access levels if they ask for it for good reasons, and resist the urge to give yourself or [other](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) [people](\3_HowToPlay\Jobs\Service_roles\Assistant.md) all-access cards. On top of that, you're also the one making sure the Service roles are keeping the station running, and that [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) isn't ordering in guns to help [Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) become an independent station-state. However, your job can get slightly hectic;
 
 
 ### Officer by interim
@@ -19,7 +19,7 @@ Sometimes a HoS, or a department head come later than you.
 
 
 #### list of potential Suspects in case of death of the captain
-[Trator](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [Nukie](Nuclear%20Operative.md) [Cargonia](Cargonia.md)
+[Trator](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [Nukie](Nuclear%20Operative.md) [Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md)
 
 unless the persone who killed them isn't smart, this is not a simple task, there are many who may want you dead for one reason or another.
 
@@ -38,9 +38,9 @@ With you being second in command and the station being as dangerous as it is, yo
 
 If the shuttle has been called DO NOT FORGET TO BRING [IAN](\4_Univers\Mobs\Ian.md) WITH YOU. Ian is a trained dog, so you can say, "Ian follow!" and Ian will follow behind you somewhat competently (doors give him a hard time). when you have him safe in the shuttle, you can say "Ian stay!" to make him stop. Because he is your dog, only you, the HoP, can do this.
 
-### Inhuman Resources ([traitor](traitor.md) HoP)
+### Inhuman Resources ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) HoP)
 
-needless to say, being a [traitor](traitor.md) as the HoP is pretty tight. It's no surprise that the second-in-command on the station makes for a fairly easy time completing traitor objectives. With the ability to give yourself the valued AA and the authority as a head, you can go anywhere you need to with ease. Your direct authority over cargo can also come in handy, as you can tell the [QM](quartermaster.md) to order you whatever you need.
+needless to say, being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) as the HoP is pretty tight. It's no surprise that the second-in-command on the station makes for a fairly easy time completing traitor objectives. With the ability to give yourself the valued AA and the authority as a head, you can go anywhere you need to with ease. Your direct authority over cargo can also come in handy, as you can tell the [QM](quartermaster.md) to order you whatever you need.
 
   <br/>
 <br/>
