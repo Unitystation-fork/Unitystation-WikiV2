@@ -1,294 +1,187 @@
 Files not found:
-[CMO](Chief-medical-officer.md) in \3_HowToPlay\Guides\General_guides\
-[hacking](Hacking-Guide.md) in \3_HowToPlay\Guides\General_guides\
-[construction](Construction.md) in \3_HowToPlay\Guides\General_guides\
-[nuclear](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
-[reset map](Resetting-the-map.md) in \3_HowToPlay\Guides\General_guides\
-[combat](Combat.md) in \3_HowToPlay\Guides\General_guides\
-[emergency shuttle](emergency-shuttle.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security Officer.md) in \3_HowToPlay\Guides\General_guides\
-[tunguska revolt](Tunguska.md) in \3_HowToPlay\Guides\General_guides\
-[foods](Cooking.md) in \3_HowToPlay\Guides\General_guides\
-[main page](Main-page.md) in \3_HowToPlay\Guides\General_guides\
-[Space Law](Space-Law.md) in \3_HowToPlay\Guides\General_guides\
-[Syndies](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
-[build](Construction.md) in \3_HowToPlay\Guides\General_guides\
-[here](Combat.md) in \3_HowToPlay\Guides\General_guides\
-[Paramedic](paramedic.md) in \3_HowToPlay\Jobs\
-[Revolutionary](Cargonia.md) in \3_HowToPlay\Jobs\
-[Nuclear operative](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\
-[PKA](PKA.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[buy something else](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Syndicate Items](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Role](Roles.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Emergency Shuttle](Emergency-Shuttle.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Theft](High-Risk-Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Head of Personnel](Head-of_Personnel.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Engineering](engineer.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Clown](clown.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[lizard](Guide-to-player-species.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[facehugger](xenomorph.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Quartermaster](quartermaster.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[meat crates](Cooking.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[construction](Construction.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Engineer](Engineering.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[solid plasma](Plasma.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Handcuffs Crate](Security-Officer-Guide.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[AI](station-AI.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[combat](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[robust](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[headset](Headset.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[construction](Construction.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[lizards](ashwalker.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[some](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[sabotage](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
-[guys in red hardsuits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[nukies](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[Syndicate activity](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
-[Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
-[Reactor](Guide-to-the-nuclear-reactor.md) in \3_HowToPlay\Jobs\Command_roles\
-[QM](quartermaster.md) in \3_HowToPlay\Jobs\Command_roles\
-[here](Guide-to-Atmospherics.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Construction](Construction.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Atmos](Guide-to-Atmospherics.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[nuclear reactor](Guide-to-the-nuclear-reactor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[guide to electricity](Guide-To-Electricity.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Construction](Construction.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Engineers](engineer.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[quartermaster](quartermaster.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Construction](Construction.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Nuclear Reactor](Guide-to-the-nuclear-reactor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[hacking](Hacking-Guide.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[intent](Intent.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[suits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Entertainment_Roles\
-[gateway ruins](Gateway-maps.md) in \3_HowToPlay\Jobs\Entertainment_Roles\
-[here](Chemistry.md) in \3_HowToPlay\Jobs\Medical_roles\
-[explosive](Chemistry.md) in \3_HowToPlay\Jobs\Medical_roles\
-[commandos](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Medical_roles\
-[hack](Hacking-Guide.md) in \3_HowToPlay\Jobs\Medical_roles\
-[deconstruct](Construction.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security Officers](Security Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
-[blood god worshipping loonies](Blood-cult.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[NT](The-Lore.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[robust](Combat.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[Nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Science_roles\
-[Robotics Guide](Robotics-Guide.md) in \3_HowToPlay\Jobs\Science_roles\
-[combat](Combat.md) in \3_HowToPlay\Jobs\Security_roles\
-[space law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[revolutionaries](Cargonia.md) in \3_HowToPlay\Jobs\Security_roles\
-[space law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[laws](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[crew](Cargonia.md) in \3_HowToPlay\Jobs\Security_roles\
-[Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[combat](Combat.md) in \3_HowToPlay\Jobs\Security_roles\
-[Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[making drinks](Drinks-guide.md) in \3_HowToPlay\Jobs\Service_roles\
-[here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
-[investigators](detective.md) in \3_HowToPlay\Jobs\Service_roles\
-[Here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
-[manufacture more space cleaner](Chemistry.md) in \3_HowToPlay\Jobs\Service_roles\
-[Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\RP\
-[CMO's](Chief-Medical-officer.md) in \4_Univers\Items\
-[Nuclear Operatives](Nuclear-Emergency.md) in \4_Univers\Items\
-[Nukie](Nuclear-Emergency.md) in \4_Univers\Items\
-[lore](The-Lore.md) in \4_Univers\Lore\
-[of](Nuclear-Emergency.md) in \4_Univers\Lore\
-[Fallstation](fallstation.md) in \4_Univers\Maps\
-[Cargo Techs](cargo-technician.md) in \4_Univers\Maps\
-[QM's](quartermaster.md) in \4_Univers\Maps\
-[Fugitives](fugitive.md) in \4_Univers\Maps\
-[Cargo Technicians](cargo-technician.md) in \4_Univers\Maps\
-[Janitor](janitor.md) in \4_Univers\Maps\
-[threats](Blood-drunk-miner.md) in \4_Univers\Maps\Gateway_Maps\
-[Queen](Xenomorph-queen.md) in \4_Univers\Maps\Gateway_Maps\
-[Zombies](Zombie.md) in \4_Univers\Maps\Gateway_Maps\
-[Husks](Husk.md) in \4_Univers\Maps\Gateway_Maps\
-[Ghosts](Ghost.md) in \4_Univers\Maps\Gateway_Maps\
-[Nuke Ops](nuclear-operative.md) in \4_Univers\Maps\Offical_Station_Maps\
-[construction](Construction.md) in \4_Univers\Maps\Offical_Station_Maps\
-[meme](Meme.md) in \4_Univers\Mobs\
-[emergency shuttle](emergency-shuttle.md) in \4_Univers\Mobs\
-[mainstation.](Official-Maps.md) in \4_Univers\Mobs\
-[xenos borgers](Cooking.md) in \4_Univers\Mobs\
-[REBELLION](Cargonia.md) in \4_Univers\Other\Jokes\
-[WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in \4_Univers\Other\Jokes\
-[Sicherheit](Security-Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Kommando](\3_HowToPlay\Jobs\Command_roles\Captain.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Koch](\3_HowToPlay\Jobs\Service_roles\Cook.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Antagonisten](Antagonist_roles.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Sicherheit](Security-Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
-[die](Assistent.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Gefangenen](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Sicherheitsbeamten](Sicherheit.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Sicherheitsdienst](Security-Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Shitcurity](\4_Univers\Other\Jokes\Shitsec.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Centcom Officer](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md) in \2_UserInterface\AdminTools\
-[hacking](Hacking-Guide.md) in \3_HowToPlay\Guides\General_guides\
-[construction](Construction.md) in \3_HowToPlay\Guides\General_guides\
-[page principale](Main-page.md) in \3_HowToPlay\Guides\General_guides\
-[droit de l'espace](Space-Law.md) in \3_HowToPlay\Guides\General_guides\
-[Syndies](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
-[PKA](PKA.md) in \3_HowToPlay\jobs\Antagoniste_role\
-[Syndicat](Groupes.md) in \3_HowToPlay\jobs\Antagoniste_role\
-[Nanotrasen](Groupes.md) in \3_HowToPlay\jobs\Antagoniste_role\
-[d'acheter autre chose](Syndicate Items.md) in \3_HowToPlay\jobs\Antagoniste_role\
-[caisses de viande](Cooking.md) in \3_HowToPlay\jobs\Cargo_roles\
-[construction](Construction.md) in \3_HowToPlay\jobs\Cargo_roles\
-[plasma solide](Plasma.md) in \3_HowToPlay\jobs\Cargo_roles\
-[Handcuffs Crate](Security-Officer-Guide.md) in \3_HowToPlay\jobs\Cargo_roles\
-[combat](Combat.md) in \3_HowToPlay\jobs\Cargo_roles\
-[robuste](Combat.md) in \3_HowToPlay\jobs\Cargo_roles\
-[Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md) in \3_HowToPlay\jobs\Command_role\
-[Antagoniste](Antagonist_roles.md) in \3_HowToPlay\jobs\Command_role\
-[nukies](Nuclear-Emergency.md) in \3_HowToPlay\jobs\Command_role\
-[Cargonia](Cargonia.md) in \3_HowToPlay\jobs\Command_role\
-[Cargonia](Cargonia.md) in \3_HowToPlay\jobs\Command_role\
-[QM](quartermaster.md) in \3_HowToPlay\jobs\Command_role\
-[here](Guide-to-Atmospherics.md) in \3_HowToPlay\jobs\Engineering_roles\
-[IA](station-AI.md) in \3_HowToPlay\jobs\Engineering_roles\
-[Construction](Construction.md) in \3_HowToPlay\jobs\Engineering_roles\
-[Mineurs de puits](Mineurs de puits.md) in \3_HowToPlay\jobs\Engineering_roles\
-[Engineers](engineer.md) in \3_HowToPlay\jobs\Engineering_roles\
-[quartermaster](quartermaster.md) in \3_HowToPlay\jobs\Engineering_roles\
-[intention](Intent.md) in \3_HowToPlay\jobs\Engineering_roles\
-[rouge](Directeur.md) in \3_HowToPlay\jobs\Entertainment_Roles\
-[explosive](Chemistry.md) in \3_HowToPlay\jobs\Medical_roles\
-[commandos](Nuclear-Emergency.md) in \3_HowToPlay\jobs\Medical_roles\
-[hacker](Hacking-Guide.md) in \3_HowToPlay\jobs\Medical_roles\
-[antagonistes](Antagonist_roles.md) in \3_HowToPlay\jobs\Medical_roles\
-[fous adorant les dieux du sang](Blood-cult.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
-[robustes](Combat.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
-[Nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
-[direction](Capitaine.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
-[bataille royale](Battle royale.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
-[Guide de la robotique](Robotics-Guide.md) in \3_HowToPlay\jobs\Science_roles\
-[combat](Combat.md) in \3_HowToPlay\jobs\Security_roles\
-[SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) in \3_HowToPlay\jobs\Security_roles\
-[droit spatial](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
-[loi](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
-[droit de l'espace](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
-[Loi spatiale](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
-[combat](Combat.md) in \3_HowToPlay\jobs\Security_roles\
-[concierge](Concierge.md) in \3_HowToPlay\jobs\Service_roles\
-[antagoniste](Antagonist_roles.md) in \3_HowToPlay\jobs\Service_roles\
-[Antagoniste](Antagonist_roles.md) in \3_HowToPlay\jobs\Service_roles\
-[fins rituelles](\3_HowToPlay\Guides\General_guides\Battle-royale.md) in \3_HowToPlay\jobs\Service_roles\
-[fabriquer plus de nettoyant spatial](Chemistry.md) in \3_HowToPlay\jobs\Service_roles\
-[Antagonist](Antagonist_roles.md) in \3_HowToPlay\RP\
-[Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\RP\
-[Wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
-[Nuclear Operatives](Nuclear-Emergency.md) in \4_Univers\Items\
-[Nukie](Nuclear-Emergency.md) in \4_Univers\Items\
-[of](Nuclear-Emergency.md) in \4_Univers\Lore\
-[threats](Blood-drunk-miner.md) in \4_Univers\Maps\Gateway_Maps\
-[Queen](Xenomorph-queen.md) in \4_Univers\Maps\Gateway_Maps\
-[Zombies](Zombie.md) in \4_Univers\Maps\Gateway_Maps\
-[Husks](Husk.md) in \4_Univers\Maps\Gateway_Maps\
-[Ghosts](Ghost.md) in \4_Univers\Maps\Gateway_Maps\
-[construction](Construction.md) in \4_Univers\Maps\Offical_Station_Maps\
-[scientists](\3_HowToPlay\Jobs\Science_roles\Scientist.md) in \4_Univers\Maps\Offical_Station_Maps\
-[meme](Meme.md) in \4_Univers\Mobs\
-[emergency shuttle](emergency-shuttle.md) in \4_Univers\Mobs\
-[mainstation.](Official-Maps.md) in \4_Univers\Mobs\
-[xenos borgers](Cooking.md) in \4_Univers\Mobs\
-[intent](Intent.md) in \3_HowToPlay\Guides\Engineering_guides\
-[CMO](Chief-medical-officer.md) in \3_HowToPlay\Guides\General_guides\
-[antagonist](Antagonist_roles.md) in \3_HowToPlay\Guides\General_guides\
-[nuclear](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
-[reset map](Resetting-the-map.md) in \3_HowToPlay\Guides\General_guides\
-[combat](Combat.md) in \3_HowToPlay\Guides\General_guides\
-[emergency shuttle](emergency-shuttle.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security Officer.md) in \3_HowToPlay\Guides\General_guides\
-[tunguska revolt](Tunguska.md) in \3_HowToPlay\Guides\General_guides\
-[need them dead](Antagonist_roles.md) in \3_HowToPlay\Guides\General_guides\
-[antag](Antagonist_roles.md) in \3_HowToPlay\Guides\General_guides\
-[foods](Cooking.md) in \3_HowToPlay\Guides\General_guides\
-[main page](Main-page.md) in \3_HowToPlay\Guides\General_guides\
-[Syndies](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
-[here](Combat.md) in \3_HowToPlay\Guides\General_guides\
-[WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in \3_HowToPlay\Guides\Joke_guides\
-[combat](Combat.md) in \3_HowToPlay\Guides\Security_guides\
-[Paramedic](paramedic.md) in \3_HowToPlay\Jobs\
-[Nuclear operative](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\
-[PKA](PKA.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[buy something else](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Syndicate Items](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Role](Roles.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Emergency Shuttle](Emergency-Shuttle.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[here.](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Theft](High-Risk-Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[High Risk Items](High-Risk-Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Head of Personnel](Head-of_Personnel.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Engineering](engineer.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Clown](clown.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[lizard](Guide-to-player-species.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[facehugger](xenomorph.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[meat crates](Cooking.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Engineer](Engineering.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[solid plasma](Plasma.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[AI](station-AI.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[combat](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[robust](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[headset](Headset.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[lizards](ashwalker.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[suits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\
-[gateway ruins](Gateway-maps.md) in \3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\
-[Antagonists](Antagonist_roles.md) in \3_HowToPlay\Jobs\Command_roles\
-[some](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[guys in red hardsuits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[nukies](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[Syndicate activity](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[QM](quartermaster.md) in \3_HowToPlay\Jobs\Command_roles\
-[AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[click here for the guide to starting the Singularity and Tesla Engines](Guide to the Singularity and Tesla.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[commandos](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security Officers](Security Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
-[blood god worshipping loonies](Blood-cult.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[NT](\4_Univers\Lore\The-Lore.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[robust](Combat.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[Nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Science_roles\
-[combat](Combat.md) in \3_HowToPlay\Jobs\Security_roles\
-[antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Service_roles\
-[making drinks](Drinks-guide.md) in \3_HowToPlay\Jobs\Service_roles\
-[here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
-[investigators](detective.md) in \3_HowToPlay\Jobs\Service_roles\
-[Antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Service_roles\
-[suits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Service_roles\
-[Here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
-[gateway ruins](Gateway-maps.md) in \3_HowToPlay\Jobs\Service_roles\
-[Antagonist](Antagonist_roles.md) in \3_HowToPlay\RP\
-[Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\RP\
-[Nuclear Operatives](Nuclear-Emergency.md) in \4_Univers\Items\
-[Nukie](Nuclear-Emergency.md) in \4_Univers\Items\
-[lore](\4_Univers\Lore\The-Lore.md) in \4_Univers\Lore\
-[of](Nuclear-Emergency.md) in \4_Univers\Lore\
-[threats](Blood-drunk-miner.md) in \4_Univers\Maps\Gateway_Maps\
-[Queen](Xenomorph-queen.md) in \4_Univers\Maps\Gateway_Maps\
-[Zombies](Zombie.md) in \4_Univers\Maps\Gateway_Maps\
-[Husks](Husk.md) in \4_Univers\Maps\Gateway_Maps\
-[Ghosts](Ghost.md) in \4_Univers\Maps\Gateway_Maps\
-[meme](Meme.md) in \4_Univers\Mobs\
-[emergency shuttle](emergency-shuttle.md) in \4_Univers\Mobs\
-[mainstation.](Official-Maps.md) in \4_Univers\Mobs\
-[xenos borgers](Cooking.md) in \4_Univers\Mobs\
+[nuclear](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\General_guides\Battle-royale.md
+[reset map](Resetting-the-map.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\General_guides\Battle-royale.md
+[emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\General_guides\Battle-royale.md
+[tunguska revolt](Tunguska.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\General_guides\Combat_Guide.md
+[foods](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[main page](Main-page.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[Syndies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[REBELLION](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\Joke_guides\Shitsec.md
+[WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Guides\Joke_guides\Shitsec.md
+[Revolutionary](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Jobs.md
+[Nuclear operative](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Jobs.md
+[PKA](PKA.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\cargonia.md
+[buy something else](Syndicate Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md
+[Syndicate Items](Syndicate Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md
+[Role](Roles.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[Emergency Shuttle](Emergency-Shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[Theft](High-Risk-Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[lizard](Guide-to-player-species.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Cargo_roles\Cargo-Bounties.md
+[meat crates](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
+[Engineer](Engineering.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
+[solid plasma](Plasma.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
+[headset](Headset.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md
+[some](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Command_roles\Captain.md
+[sabotage](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Command_roles\Captain.md
+[guys in red hardsuits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Command_roles\Captain.md
+[nukies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Command_roles\Captain.md
+[Syndicate activity](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Command_roles\Captain.md
+[Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md
+[Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md
+[suits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md
+[gateway ruins](Gateway-maps.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Entertainment_Roles\Curator.md
+[commandos](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md
+[blood god worshipping loonies](Blood-cult.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md
+[Nuke ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md
+[nuke ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Science_roles\Roboticist.md
+[revolutionaries](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md
+[crew](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[making drinks](Drinks-guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Service_roles\Bartender.md
+[here](Guide-to-Food-and-Drink.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Service_roles\Bartender.md
+[investigators](detective.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Service_roles\Bartender.md
+[Here](Guide-to-Food-and-Drink.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\Jobs\Service_roles\Cook.md
+[Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\3_HowToPlay\RP\RP-words-and-abbreviations.md
+[Nuclear Operatives](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Items\Nuclear-Authentication-Disk.md
+[Nukie](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Items\Nuclear-Authentication-Disk.md
+[of](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Lore\Groups.md
+[Fallstation](fallstation.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\AnatomyOfStation.md
+[Fugitives](fugitive.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\AnatomyOfStation.md
+[threats](Blood-drunk-miner.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Caverna.md
+[Queen](Xenomorph-queen.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Caverna.md
+[Zombies](Zombie.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Relicta.md
+[Husks](Husk.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Relicta.md
+[Ghosts](Ghost.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Relicta.md
+[Nuke Ops](nuclear-operative.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Offical_Station_Maps\Fallstation.md
+[meme](Meme.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Mobs\Ian.md
+[emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Mobs\Ian.md
+[xenos borgers](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Mobs\Xenomorph.md
+[REBELLION](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Other\Jokes\Shitsec.md
+[WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Other\Jokes\Shitsec.md
+[Kommando](\3_HowToPlay\Jobs\Command_roles\Captain.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md
+[Antagonist](Antagonist_roles.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md
+[Koch](\3_HowToPlay\Jobs\Service_roles\Cook.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md
+[Antagonisten](Antagonist_roles.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md
+[Gefangenen](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md
+[Sicherheitsbeamten](Sicherheit.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md
+[Shitcurity](\4_Univers\Other\Jokes\Shitsec.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md
+[Janitors](\3_HowToPlay\Jobs\Service_roles\Janitor.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[one](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Xenomorphs](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[any](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[unwanted](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[crew](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Central Command](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Clowns](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[AA](\3_HowToPlay\Guides\General_guides\Access.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[AA](\3_HowToPlay\Guides\General_guides\Access.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[role play](\3_HowToPlay\RP\RP-words-and-abbreviations.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
+[Nanotrasen](\4_Univers\Lore\Groups.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[Head of Personnel's](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[janitorial](\3_HowToPlay\Jobs\Service_roles\Janitor.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[IC or OOC](\3_HowToPlay\RP\RP-words-and-abbreviations.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Assistant.md
+[tunguska revolt](Tunguska.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Combat_Guide.md
+[page principale](Main-page.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[Syndies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[PKA](PKA.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Antagonist_roles\Cargonia.md
+[Syndicat](Groupes.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Antagonist_roles\Nuclear-Operative.md
+[Nanotrasen](Groupes.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Antagonist_roles\Nuclear-Operative.md
+[d'acheter autre chose](Syndicate Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Antagonist_roles\Nuclear-Operative.md
+[caisses de viande](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md
+[plasma solide](Plasma.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md
+[Handcuffs Crate](Security-Officer-Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md
+[nukies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Command_role\Captain.md
+[here](Guide-to-Atmospherics.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Engineering_roles\Atmospherics-Technician.md
+[Mineurs de puits](Mineurs de puits.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Engineering_roles\Engineer.md
+[rouge](Directeur.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Entertainment_Roles\Clown.md
+[explosive](Chemistry.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Medical_roles\Chief-Medical-Officer.md
+[commandos](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Medical_roles\Chief-Medical-Officer.md
+[fous adorant les dieux du sang](Blood-cult.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md
+[Nuke ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Death-Squad.md
+[bataille royale](Battle royale.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Death-Squad.md
+[Guide de la robotique](Robotics-Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Science_roles\Roboticist.md
+[SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Security_roles\Head-of-Security.md
+[concierge](Concierge.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Service_roles\Assistant.md
+[fins rituelles](\3_HowToPlay\Guides\General_guides\Battle-royale.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Service_roles\Cook.md
+[fabriquer plus de nettoyant spatial](Chemistry.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\jobs\Service_roles\Janitor.md
+[Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\RP\RP-words-and-abbreviations.md
+[Nuclear Operatives](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Items\Nuclear-Authentication-Disk.md
+[Nukie](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Items\Nuclear-Authentication-Disk.md
+[of](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Lore\Groups.md
+[threats](Blood-drunk-miner.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Caverna.md
+[Queen](Xenomorph-queen.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Caverna.md
+[Zombies](Zombie.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
+[Husks](Husk.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
+[Ghosts](Ghost.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
+[meme](Meme.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
+[emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
+[mainstation.](Offical_Station_Maps.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Xenomorph.md
+[xenos borgers](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Xenomorph.md
+[nuclear](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Battle-royale.md
+[reset map](Resetting-the-map.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Battle-royale.md
+[emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Battle-royale.md
+[tunguska revolt](Tunguska.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Combat_Guide.md
+[foods](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[main page](Main-page.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[Syndies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
+[WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\Joke_guides\Shitsec.md
+[Nuclear operative](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Jobs.md
+[PKA](PKA.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md
+[buy something else](Syndicate Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md
+[Syndicate Items](Syndicate Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md
+[Role](Roles.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[Emergency Shuttle](Emergency-Shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[here.](Syndicate Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[Theft](High-Risk-Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[High Risk Items](High-Risk-Items.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
+[lizard](Guide-to-player-species.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Cargo-Bounties.md
+[meat crates](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
+[Engineer](Engineering.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
+[solid plasma](Plasma.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
+[headset](Headset.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md
+[suits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md
+[gateway ruins](Gateway-maps.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Curator.md
+[some](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
+[guys in red hardsuits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
+[nukies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
+[Syndicate activity](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
+[click here for the guide to starting the Singularity and Tesla Engines](Guide to the Singularity and Tesla.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Engineer.md
+[commandos](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md
+[blood god worshipping loonies](Blood-cult.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md
+[Nuke ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md
+[nuke ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Science_roles\Roboticist.md
+[making drinks](Drinks-guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Bartender.md
+[here](Guide-to-Food-and-Drink.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Bartender.md
+[investigators](detective.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Bartender.md
+[suits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Clown.md
+[Here](Guide-to-Food-and-Drink.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Cook.md
+[gateway ruins](Gateway-maps.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Curator.md
+[Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\RP\RP-words-and-abbreviations.md
+[Nuclear Operatives](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Items\Nuclear-Authentication-Disk.md
+[Nukie](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Items\Nuclear-Authentication-Disk.md
+[of](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Lore\Groups.md
+[threats](Blood-drunk-miner.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Caverna.md
+[Queen](Xenomorph-queen.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Caverna.md
+[Zombies](Zombie.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
+[Husks](Husk.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
+[Ghosts](Ghost.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
+[meme](Meme.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
+[emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
+[xenos borgers](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Xenomorph.md
