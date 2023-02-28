@@ -1,7 +1,18 @@
-Duplicates found:
-\4_Univers\Mobs\Xenomorph.md
-\4_Univers\Other\Jokes\Shitsec.md
-\5_Dev\Introduction\index.md
+**Duplicates found:**
+
+\3_HowToPlay\Jobs\Service_roles\Chaplain.md	==> /category/entertainment/
+\3_HowToPlay\Jobs\Service_roles\Clown.md	==> /category/entertainment/
+\3_HowToPlay\Jobs\Service_roles\Curator.md	==> /category/entertainment/
+\3_HowToPlay\Jobs\Service_roles\Mime.md		==> /category/entertainment/
+
+\3_HowToPlay\Jobs\Service_roles\Lawyer.md  ==> /HowToPlay/Jobs/Security_roles/Lawyer
+
+\4_Univers\Mobs\Xenomorph.md  ==> /Univers/Mobs/Xenomorph
+\4_Univers\Other\Jokes\Shitsec.md ==> /Univers/Other/Jokes/Shitsec
+
+\5_Dev\Introduction\index.md	==> /Dev/Introduction/
+
+**Ignoring all routine folder please.**
 \5_Dev\routine1.0.5\Antagoniste\Traitor.md
 \5_Dev\routine1.0.5\Command\Captain.md
 \5_Dev\routine1.0.5\Entertainment\Chaplain.md
@@ -26,11 +37,6 @@ Duplicates found:
 \5_Dev\routine1.0.5\Services\Bartender.md
 \5_Dev\routine1.0.5\Services\Cook.md
 \5_Dev\routine1.0.5\Services\Janitor.md
-\3_HowToPlay\Jobs\Service_roles\Chaplain.md
-\3_HowToPlay\Jobs\Service_roles\Clown.md
-\3_HowToPlay\Jobs\Service_roles\Curator.md
-\3_HowToPlay\Jobs\Service_roles\Lawyer.md
-\3_HowToPlay\Jobs\Service_roles\Mime.md
 \5_Dev\routine1.0.5\Antagoniste\Traitor.md
 \5_Dev\routine1.0.5\Command\Captain.md
 \5_Dev\routine1.0.5\Medical\Paramedic.md
