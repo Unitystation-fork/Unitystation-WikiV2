@@ -28,7 +28,7 @@ An experimental trenchcoat that provides high resistance to energy and laser wea
 
 ## The Hypospray
 
-An Advanced injection device. Kept in the [CMO's](Chief-Medical-officer.md) Office. Wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) and [traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md).
+An Advanced injection device. Kept in the [CMO's](\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md) Office. Wanted by [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) and [traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md).
 
 ## Secret Documents
 

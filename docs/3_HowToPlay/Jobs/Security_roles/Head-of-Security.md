@@ -32,7 +32,7 @@ If the alert level is ever elevated to <font color= "red">Code Red,</font> this 
 
 ### How to not end up with your head on a pike
 
-For any HoS, the crew can be just as much of a danger as [syndicate agents](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) and [revolutionaries](Cargonia.md), and if you or your [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) piss them off enough, you may find your corpse paraded down the hall. The best way to prevent this is to work with the [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), take headsets off your prisoners, and follow [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md). During downtime you can also try and build goodwill with the crew, arresting unwanted vandals and thieves yourself will both show others security is doing their job and you are doing your part to help them.
+For any HoS, the crew can be just as much of a danger as [syndicate agents](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) and [revolutionaries](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md), and if you or your [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) piss them off enough, you may find your corpse paraded down the hall. The best way to prevent this is to work with the [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), take headsets off your prisoners, and follow [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md). During downtime you can also try and build goodwill with the crew, arresting unwanted vandals and thieves yourself will both show others security is doing their job and you are doing your part to help them.
 
   <br/>
 <br/>
