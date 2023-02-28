@@ -38,7 +38,7 @@ Faire pousser des pommes pour combler la faim de viande et faire pousser du blé
 
 Lorsque la vie de la station civile se [désintègre](Battle-royale.md), cultivez des bananes et disposez un champ de mines de pelures autour de votre territoire pour dissuader les attaquants.
 
-Si vous êtes un [Antagoniste](Antagonist.md), vous devriez produire en masse autant de citrons que possible, en détruisant les plantes après chaque récolte et en en plantant de nouvelles à partir de votre récolte ou en utilisant simplement un mutagène instable avec une intention non utile pour obtenir des grenades pouvant être produites en masse.
+Si vous êtes un [Antagoniste](Antagonist_roles.md), vous devriez produire en masse autant de citrons que possible, en détruisant les plantes après chaque récolte et en en plantant de nouvelles à partir de votre récolte ou en utilisant simplement un mutagène instable avec une intention non utile pour obtenir des grenades pouvant être produites en masse.
 
 ### The [traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) botanist
 

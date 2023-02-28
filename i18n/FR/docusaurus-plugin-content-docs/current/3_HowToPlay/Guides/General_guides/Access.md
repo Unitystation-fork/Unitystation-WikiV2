@@ -43,7 +43,7 @@ La catégorie la plus variée est celle des moyens d'entrer sans autorisation.
 
 - une effraction sale. Détruisez une fenêtre en utilisant une arme quelconque ou, si vous êtes TRÈS bien armé, détruisez la porte ou le mur. Les fenêtres sont beaucoup plus faibles aux coups de feu qu'aux armes de mêlée, à tel point que si vous essayez d'utiliser une arme de mêlée, vous feriez mieux de voler une arme et de revenir.
 
-- Explosions (ou feu). Si vous pouvez obtenir un explosif, vous pouvez essayer de faire sauter le mur ou la fenêtre. Vous pouvez également essayer d'utiliser un feu de plasma pour faire la même chose. C'est très mal vu si vous n'êtes pas un [antagoniste] (Antagonist.md), mais c'est de loin la façon la plus élégante de le faire.
+- Explosions (ou feu). Si vous pouvez obtenir un explosif, vous pouvez essayer de faire sauter le mur ou la fenêtre. Vous pouvez également essayer d'utiliser un feu de plasma pour faire la même chose. C'est très mal vu si vous n'êtes pas un [antagoniste] (Antagonist_roles.md), mais c'est de loin la façon la plus élégante de le faire.
 
     <br/>
 <br/>

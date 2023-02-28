@@ -11,7 +11,7 @@ According to [Nanotrasen](\4_Univers\Lore\Groups.md), the people in suits who hi
 
 ### The fun stuff
 
-please note, these things may get you in trouble either [IC or OOC](\3_HowToPlay\RP\RP-words-and-abbreviations.md) if you're not an [antagonist](Antagonist.md)
+please note, these things may get you in trouble either [IC or OOC](\3_HowToPlay\RP\RP-words-and-abbreviations.md) if you're not an [antagonist](Antagonist_roles.md)
 
 If all that sounds boring to you, I've got some news; one benefit of picking assistant is that, unless the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) has given you a job, you have exactly 0 duties on the station. You know what that means? Mischief, baby! Grab a welder and weld shut doors, and sit back in pride as the members of the department you trapped shout over comms about the fact that they're stuck; spend half an hour breaking into security's Armory only to realize that you need a higher access level to open any of the crates or lockers; hack into engineering and mess with the plasma generator; the choice is yours! Just.. keep in mind that if [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) catch you, you might be going in for a long time, so be careful.
 

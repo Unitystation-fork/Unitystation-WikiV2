@@ -6,7 +6,7 @@
 
 Le rôle de médecin est sans doute le plus vital pour garder la station calme, à l'exception de [Securité](Security-Officer.md) et [Contrôle](Captain.md). Leurs mission est de soigner les personnes blesser, ramenez les membres de l'équipage décédé, et fournir à la cuisine des cadavres quand les autres sources de nourriture viennent à manquer.
 
-Bien que ce ne soit pas une partie obligatoire du rôle, il convient de noter que les médecins non [antagonistes](Antagonist.md) sont généralement censés ne pas faire de mal, sauf si leur propre vie ou celle d'un innocent est en jeu; Votre but est de préserver des vies avant tout. Cela ne signifie pas que vous ne pouvez pas faire en sorte que les gens se fassent du mal ou que d'autres personnes le fassent pour vous, mais cela signifie que votre outil le plus efficace pour vous battre est la fuite. Les cris arrivent juste après.
+Bien que ce ne soit pas une partie obligatoire du rôle, il convient de noter que les médecins non [antagonistes](Antagonist_roles.md) sont généralement censés ne pas faire de mal, sauf si leur propre vie ou celle d'un innocent est en jeu; Votre but est de préserver des vies avant tout. Cela ne signifie pas que vous ne pouvez pas faire en sorte que les gens se fassent du mal ou que d'autres personnes le fassent pour vous, mais cela signifie que votre outil le plus efficace pour vous battre est la fuite. Les cris arrivent juste après.
 
 
 ### Ne vous inquiétez pas, les côtes repoussent!
@@ -46,7 +46,7 @@ Vous ne savez pas quoi faire ? Voici un ensemble pratique d'opérations que vous
 
 1) Soigner les membres d'équipage gravement blessés qui se trouvent dans le bunker. Ils sont la priorité absolue. Les morts qui attendent d'être clonés peuvent attendre un peu plus longtemps. Il n'y a pas de gros risque à faire cette activité puisque les gens ont souvent d'autres priorités que de vous tuer quand ils ne sont pas encore morts.
 
-2) Clonez les personnes mortes qui vous ont été amenées par les ambulanciers ou un autre membre de l'équipage. N'allez JAMAIS chercher des corps par vous-même, car vous pourriez accidentellement ranimer un [antagoniste] (Antagonist.md) répugnant qui vous met dans une boîte et vous jette par un sas. Ce n'est pas non plus une mauvaise idée de demander à la [Sécurité](Security-Officer.md) si les futurs clones morts que vous obtenez ont des charges criminelles en suspens.
+2) Clonez les personnes mortes qui vous ont été amenées par les ambulanciers ou un autre membre de l'équipage. N'allez JAMAIS chercher des corps par vous-même, car vous pourriez accidentellement ranimer un [antagoniste] (Antagonist_roles.md) répugnant qui vous met dans une boîte et vous jette par un sas. Ce n'est pas non plus une mauvaise idée de demander à la [Sécurité](Security-Officer.md) si les futurs clones morts que vous obtenez ont des charges criminelles en suspens.
 
 3) Vérifiez [les](\3_HowToPlay\jobs\Service_roles\Assistant.md) [prisonniers](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) dans la cellule et les [agents de sécurité](Sécurité.md) eux-mêmes. La [sécurité](Security-Officer.md) a tendance à être un point névralgique pour les blessures, et c'est aussi l'occasion de faire pression sur la [sécurité de merde](Shitsec.md) pour violation des droits de l'homme, peut-être même de les inciter à [changer leurs habitudes](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Les avocats](\5_Dev\routine1.0.5\Security\Lawyer.md) vont vous adorer pour ça.
 
