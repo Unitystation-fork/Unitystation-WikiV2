@@ -13,11 +13,11 @@
 
 ## Overview
 
-Shaft Miner is one of the most dangerous roles that is not a Command role. Not because you have a lot of responsibilities (you don't, you only have two: fulfill the mining quota and [come back alive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). It's hard because you will often run into hordes of [Xenomorphs](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) and space carp that will kill you fast if you're not good at the [combat](Combat.md) system.
+Shaft Miner is one of the most dangerous roles that is not a Command role. Not because you have a lot of responsibilities (you don't, you only have two: fulfill the mining quota and [come back alive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). It's hard because you will often run into hordes of [Xenomorphs](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) and space carp that will kill you fast if you're not good at the [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) system.
 
 ## This is Mining, someone stole our shuttle. Anyone know who it was?
 
-As a Shaft Miner, the station crew expects you to head out into space, mine ores from asteroids or lavaland, and get [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) some money. You're also expected to be at least somewhat [robust](Combat.md), since you'll run into a lot of Aliens out there.
+As a Shaft Miner, the station crew expects you to head out into space, mine ores from asteroids or lavaland, and get [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) some money. You're also expected to be at least somewhat [robust](\3_HowToPlay\Guides\General_guides\Combat_Guide.md), since you'll run into a lot of Aliens out there.
 
 To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel to store ores in; a lantern, since space is dark; and a pickaxe and shovel to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
 

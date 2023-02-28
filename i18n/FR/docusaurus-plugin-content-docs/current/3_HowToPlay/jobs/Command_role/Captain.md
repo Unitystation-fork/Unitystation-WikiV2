@@ -5,7 +5,7 @@
 
 ## Aperçu
 
-Le rôle de capitaine est l'un des plus difficiles de la station. À première vue, votre travail peut sembler simple. Assurez-vous simplement que chaque département fait ce qu'il est censé faire et atteint les quotas fixés par le [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), et s'assurer qu'aucun [Antagoniste](\3_HowToPlay\jobs\Antagonist_roles\Antagonist_roles.md) ne puisse saboter l'endroit.
+Le rôle de capitaine est l'un des plus difficiles de la station. À première vue, votre travail peut sembler simple. Assurez-vous simplement que chaque département fait ce qu'il est censé faire et atteint les quotas fixés par le [Centcom](\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), et s'assurer qu'aucun [Antagoniste](\3_HowToPlay\jobs\Antagonist_roles\Antagonist_roles.md) ne puisse saboter l'endroit.
 Cependant, ce n'est jamais aussi simple. Votre travail ne consiste pas seulement à empêcher la station de sombrer dans le chaos, c'est aussi votre travail de planifier l'action suivante lorsque la prévention échoue.
 
 Bien sûr, appeler la navette d'urgence est une option, mais cela ne doit être fait que lorsque toutes les autres options ont été épuisées. Ce n'est pas la seule chose qui rend votre travail difficile; [Tous ceux qui ont en tête une forme de [sabotage](urgence nucléaire)(Cargonia) auront un réticule dirigé vers votre tête, alors faites attention quand Jimmy Bob vous demande de le suivre dans les tunnels de maintenance.

@@ -6,7 +6,7 @@ Note: Les ERT ne sont pas des rôles à part entière et ne sont accessibles que
 
 ## EIU global
 
-Donc, la station est foutue, mais pas assez pour justifier un [escadron de la mort] (Escadron de la mort.md) ? Est-ce que [quelqu'un] (Capitain.md) qui commande est simplement incompétent ? Quelqu'un a-t-il tué un [Officier du Centcom] (Central-Command-Officer.md) ?
+Donc, la station est foutue, mais pas assez pour justifier un [escadron de la mort] (Escadron de la mort.md) ? Est-ce que [quelqu'un] (Captain.md) qui commande est simplement incompétent ? Quelqu'un a-t-il tué un [Officier du Centcom] (Central-Command-Officer.md) ?
 C'est dans ces moments-là qu'une équipe d'ERT peut être envoyée, surtout si elle est demandée par la console de communication. Les agents de l'ERT sont bien armés et peuvent s'adapter pour remplir une grande variété de rôles, de la réparation d'un réacteur sur le point d'exploser à la diffusion du message de la sirène.
 
 ## Connaître ses Power Rangers

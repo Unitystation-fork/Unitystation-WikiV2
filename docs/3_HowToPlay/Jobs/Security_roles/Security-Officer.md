@@ -68,7 +68,7 @@ These kind of officers just go around the station and make sure everything is in
 
 ## [Faithful to Death](https://en.wikipedia.org/wiki/New_York_City_Police_Department)
 
-This type is better suited for those who prefer [role play](\3_HowToPlay\RP\RP-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
+This type is better suited for those who prefer [role play](\3_HowToPlay\RP\RP-words-and-abbreviations.md) over [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
 
 1) Wear a blue uniform with a tie, to stand out and so people can tell you apart from the types above.
 

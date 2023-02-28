@@ -69,7 +69,7 @@ Ces types d'agents se contentent de faire le tour de la station et de s'assurer 
 
 ## [Fidèle à la mort] (https://en.wikipedia.org/wiki/New_York_City_Police_Department)
 
-Ce type est mieux adapté pour ceux qui préfèrent le [jeu de rôle](RP-words-and-abbreviations.md) au [combat](Combat.md), ces gars-là traînent dans les bars, parlent aux citoyens, aident autour de la station et aiment bien. Voici les conseils qui pourraient vous être utiles :
+Ce type est mieux adapté pour ceux qui préfèrent le [jeu de rôle](RP-words-and-abbreviations.md) au [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md), ces gars-là traînent dans les bars, parlent aux citoyens, aident autour de la station et aiment bien. Voici les conseils qui pourraient vous être utiles :
 
 1) Portez un uniforme bleu avec une cravate, pour vous démarquer et pour que les gens puissent vous distinguer des types ci-dessus.
 

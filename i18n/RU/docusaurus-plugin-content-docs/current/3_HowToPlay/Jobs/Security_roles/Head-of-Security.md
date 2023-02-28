@@ -1,7 +1,7 @@
 # Head of Security
 **Role type:** <font color= "#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
 
-Note: The HoS is a *very* difficult role to play and you should probably be experienced in [combat](Combat.md) and with [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md), and [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) before picking it. Jumping in and playing HoS on your very first round ever is a great way to get yourself job-banned.
+Note: The HoS is a *very* difficult role to play and you should probably be experienced in [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) and with [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md), and [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) before picking it. Jumping in and playing HoS on your very first round ever is a great way to get yourself job-banned.
 
 "alright, that's it, the chemist has lubed his last tile, blow up the chemlab boys."
 

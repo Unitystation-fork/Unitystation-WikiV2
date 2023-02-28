@@ -1,7 +1,7 @@
 # Chef de Sécurité
 **Role type:** <font color= "#711e25">Securité</font>. **Accès:** <font color="#711e25">Cellules & sécurité</font>, <font color="#711e25">Brigade</font>, <font color="#711e25">Armurerie</font>. **Difficulté:** <font color="Orange">Difficile</font>.
 
-Note: Le chef de sécu est un rôle *très* difficile à jouer et vous devriez probablement avoir de l'expérience en [combat](Combat.md) et en [sécurité](Security-Officer.md), en [procédure opérationnelle standard](Standard-Operating-Procedure.md).
+Note: Le chef de sécu est un rôle *très* difficile à jouer et vous devriez probablement avoir de l'expérience en [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) et en [sécurité](Security-Officer.md), en [procédure opérationnelle standard](Standard-Operating-Procedure.md).
 
 "Très bien, c'est ça, le chimiste a lubrifié sa dernière tuile, faites sauter les gars du Labo de chimie."
 

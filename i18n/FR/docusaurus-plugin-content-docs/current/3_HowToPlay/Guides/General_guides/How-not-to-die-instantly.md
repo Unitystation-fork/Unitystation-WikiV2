@@ -70,7 +70,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 
 17) Et surtout, parlez. UnityStation est, en fait, un jeu de conversation, alors expérimentez le chat autant que vous le pouvez avant d'essayer quoi que ce soit d'autre.
 
-(Être "robuste", c'est être suffisamment familiarisé avec le système de combat, dont un guide peut être trouvé [ici] (Combat.md). A quel point est-ce suffisant, demandez-vous ? Eh bien il n'y a pas de réelle mesure).
+(Être "robuste", c'est être suffisamment familiarisé avec le système de combat, dont un guide peut être trouvé [ici] (Combat_Guide.md). A quel point est-ce suffisant, demandez-vous ? Eh bien il n'y a pas de réelle mesure).
 
   <br/>
 <br/>

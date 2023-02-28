@@ -58,7 +58,7 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 | Action figures x5                           | Send 5 Collectible Action Figures.                           | 1500   |
 | Axe                                         | Send 1 Axe.                                                  | 1000   |
 | Cardborg Suits and hats x3                  | Send 3 cardborg suits and hats.                              | 1000   |
-| Dead Facehugger                             | Send a dead [facehugger](xenomorph.md) for dissection.       | 1500   |
+| Dead Facehugger                             | Send a dead [facehugger](\4_Univers\Mobs\Xenomorph.md) for dissection.       | 1500   |
 | Dead Mice x5                                | Space Station 14 ran out of freeze-dried mice. Ship 5 fresh ones so their janitor doesn't go on strike. | 1500   |
 | Firefighting gear x2                        | A nearby Outpost is experiencing a fire emergency. Ship 2 sets of firefighter suits, helmets, and extinguishers ASAP. | 1200   |
 | Hats x5                                     | Command has run short of staff hats. Send 5 pieces of replacement headwear. | 1000   |

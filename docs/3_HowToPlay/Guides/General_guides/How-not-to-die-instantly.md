@@ -72,7 +72,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 17) And most importantly, talk. UnityStation is, in fact, a chating game, so experiment with the chat as much as you can before trying anything else.
 
 
-(Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](Combat.md). How much is enough you ask? Well there's no real measure.)
+(Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](\3_HowToPlay\Guides\General_guides\Combat_Guide.md). How much is enough you ask? Well there's no real measure.)
 
   <br/>
 <br/>
