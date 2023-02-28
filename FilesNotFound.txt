@@ -1,39 +1,25 @@
 Files not found:
-[here](HoP.md) in \3_HowToPlay\Guides\General_guides\
-[HoP](HoP.md) in \3_HowToPlay\Guides\General_guides\
 [CMO](Chief-medical-officer.md) in \3_HowToPlay\Guides\General_guides\
-[HoP](HoP.md) in \3_HowToPlay\Guides\General_guides\
 [hacking](Hacking-Guide.md) in \3_HowToPlay\Guides\General_guides\
 [construction](Construction.md) in \3_HowToPlay\Guides\General_guides\
-[antagonist](Antagonist.md) in \3_HowToPlay\Guides\General_guides\
 [nuclear](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
 [reset map](Resetting-the-map.md) in \3_HowToPlay\Guides\General_guides\
-[security](Security.md) in \3_HowToPlay\Guides\General_guides\
 [combat](Combat.md) in \3_HowToPlay\Guides\General_guides\
 [emergency shuttle](emergency-shuttle.md) in \3_HowToPlay\Guides\General_guides\
 [sec](Security Officer.md) in \3_HowToPlay\Guides\General_guides\
 [tunguska revolt](Tunguska.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security.md) in \3_HowToPlay\Guides\General_guides\
-[need them dead](Antagonist.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security.md) in \3_HowToPlay\Guides\General_guides\
-[antag](Antagonist.md) in \3_HowToPlay\Guides\General_guides\
 [foods](Cooking.md) in \3_HowToPlay\Guides\General_guides\
 [main page](Main-page.md) in \3_HowToPlay\Guides\General_guides\
 [Space Law](Space-Law.md) in \3_HowToPlay\Guides\General_guides\
 [Syndies](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
 [build](Construction.md) in \3_HowToPlay\Guides\General_guides\
-[security officer](Security.md) in \3_HowToPlay\Guides\General_guides\
 [here](Combat.md) in \3_HowToPlay\Guides\General_guides\
 [Paramedic](paramedic.md) in \3_HowToPlay\Jobs\
 [Revolutionary](Cargonia.md) in \3_HowToPlay\Jobs\
 [Nuclear operative](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\
 [PKA](PKA.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [buy something else](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Syndicate Items](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Role](Roles.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Antagonist_roles\
@@ -42,145 +28,78 @@ Files not found:
 [Head of Personnel](Head-of_Personnel.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Engineering](engineer.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [Clown](clown.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[assistants](assistant.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [lizard](Guide-to-player-species.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [facehugger](xenomorph.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [Quartermaster](quartermaster.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [meat crates](Cooking.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [construction](Construction.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [Engineer](Engineering.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [solid plasma](Plasma.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [Handcuffs Crate](Security-Officer-Guide.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [AI](station-AI.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [combat](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [robust](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [headset](Headset.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [construction](Construction.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Head of Personnel](HoP.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [lizards](ashwalker.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Antagonists](Antagonist.md) in \3_HowToPlay\Jobs\Command_roles\
 [some](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
 [sabotage](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
 [guys in red hardsuits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[meatshields](Security.md) in \3_HowToPlay\Jobs\Command_roles\
 [nukies](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
 [Syndicate activity](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Command_roles\
 [Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
 [Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
 [Reactor](Guide-to-the-nuclear-reactor.md) in \3_HowToPlay\Jobs\Command_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Command_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Command_roles\
 [QM](quartermaster.md) in \3_HowToPlay\Jobs\Command_roles\
 [here](Guide-to-Atmospherics.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [Construction](Construction.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [Atmos](Guide-to-Atmospherics.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [nuclear reactor](Guide-to-the-nuclear-reactor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [guide to electricity](Guide-To-Electricity.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [Construction](Construction.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [Engineers](engineer.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Traitors](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [quartermaster](quartermaster.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [Construction](Construction.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [Nuclear Reactor](Guide-to-the-nuclear-reactor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [hacking](Hacking-Guide.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [intent](Intent.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[people](Security.md) in \3_HowToPlay\Jobs\Entertainment_Roles\
 [suits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Entertainment_Roles\
 [gateway ruins](Gateway-maps.md) in \3_HowToPlay\Jobs\Entertainment_Roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Entertainment_Roles\
 [here](Chemistry.md) in \3_HowToPlay\Jobs\Medical_roles\
 [explosive](Chemistry.md) in \3_HowToPlay\Jobs\Medical_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
 [commandos](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Medical_roles\
 [hack](Hacking-Guide.md) in \3_HowToPlay\Jobs\Medical_roles\
 [deconstruct](Construction.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security Officer](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
-[antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Medical_roles\
-[antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
-[security officers](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Security Officers](Security Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Medical_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Medical_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Medical_roles\
 [blood god worshipping loonies](Blood-cult.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
 [NT](The-Lore.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
 [robust](Combat.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
 [Nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[mining operation](shaft-miner.md) in \3_HowToPlay\Jobs\Protagonist_roles\Ghost_roles\
 [nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Science_roles\
 [Robotics Guide](Robotics-Guide.md) in \3_HowToPlay\Jobs\Science_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Security_roles\
 [combat](Combat.md) in \3_HowToPlay\Jobs\Security_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Security_roles\
 [space law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
 [revolutionaries](Cargonia.md) in \3_HowToPlay\Jobs\Security_roles\
-[officers](Security.md) in \3_HowToPlay\Jobs\Security_roles\
 [space law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
 [laws](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
 [Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Security_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Security_roles\
 [Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
 [crew](Cargonia.md) in \3_HowToPlay\Jobs\Security_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Security_roles\
 [Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
 [Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[Head of Personnel](HoP.md) in \3_HowToPlay\Jobs\Security_roles\
 [combat](Combat.md) in \3_HowToPlay\Jobs\Security_roles\
 [Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Security_roles\
-[Head of Personnel's](HoP.md) in \3_HowToPlay\Jobs\Service_roles\
-[antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Service_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Service_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
 [making drinks](Drinks-guide.md) in \3_HowToPlay\Jobs\Service_roles\
-[security officers](Security.md) in \3_HowToPlay\Jobs\Service_roles\
 [here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor ](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitorous](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
 [investigators](detective.md) in \3_HowToPlay\Jobs\Service_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
-[chemist](chemist.md) in \3_HowToPlay\Jobs\Service_roles\
 [Here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Service_roles\
 [manufacture more space cleaner](Chemistry.md) in \3_HowToPlay\Jobs\Service_roles\
-[laws](Space-Law.md) in \3_HowToPlay\Jobs\Service_roles\
-[Space Law](Space-Law.md) in \3_HowToPlay\Jobs\Service_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[nefarious](traitor.md) in \3_HowToPlay\Jobs\Synthetic_roles\
-[grabby](assistant.md) in \3_HowToPlay\Jobs\Synthetic_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\RP\
 [Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\RP\
 [CMO's](Chief-Medical-officer.md) in \4_Univers\Items\
 [Nuclear Operatives](Nuclear-Emergency.md) in \4_Univers\Items\
-[Security](Security.md) in \4_Univers\Items\
 [Nukie](Nuclear-Emergency.md) in \4_Univers\Items\
-[Security Officer](security-officer.md) in \4_Univers\Items\
 [lore](The-Lore.md) in \4_Univers\Lore\
 [of](Nuclear-Emergency.md) in \4_Univers\Lore\
 [Fallstation](fallstation.md) in \4_Univers\Maps\
@@ -189,7 +108,6 @@ Files not found:
 [Fugitives](fugitive.md) in \4_Univers\Maps\
 [Cargo Technicians](cargo-technician.md) in \4_Univers\Maps\
 [Janitor](janitor.md) in \4_Univers\Maps\
-[crimes](traitor.md) in \4_Univers\Maps\
 [threats](Blood-drunk-miner.md) in \4_Univers\Maps\Gateway_Maps\
 [Queen](Xenomorph-queen.md) in \4_Univers\Maps\Gateway_Maps\
 [Zombies](Zombie.md) in \4_Univers\Maps\Gateway_Maps\
@@ -197,79 +115,57 @@ Files not found:
 [Ghosts](Ghost.md) in \4_Univers\Maps\Gateway_Maps\
 [Nuke Ops](nuclear-operative.md) in \4_Univers\Maps\Offical_Station_Maps\
 [construction](Construction.md) in \4_Univers\Maps\Offical_Station_Maps\
-[cooks](Chef.md) in \4_Univers\Maps\Offical_Station_Maps\
-[best bud](HoP.md) in \4_Univers\Maps\Offical_Station_Maps\
-[true dictatorial overlords](Security.md) in \4_Univers\Maps\Offical_Station_Maps\
 [meme](Meme.md) in \4_Univers\Mobs\
-[security](Security.md) in \4_Univers\Mobs\
-[Head of Personnel](HoP.md) in \4_Univers\Mobs\
-[HoP](HoP.md) in \4_Univers\Mobs\
 [emergency shuttle](emergency-shuttle.md) in \4_Univers\Mobs\
 [mainstation.](Official-Maps.md) in \4_Univers\Mobs\
 [xenos borgers](Cooking.md) in \4_Univers\Mobs\
-[HERE](Security.md) in \4_Univers\Other\Jokes\
 [REBELLION](Cargonia.md) in \4_Univers\Other\Jokes\
 [WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in \4_Univers\Other\Jokes\
-[SEC](Security.md) in \4_Univers\Other\Jokes\
-[Sicherheit](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
+[Sicherheit](Security-Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Kommando](\3_HowToPlay\Jobs\Command_roles\Captain.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Medical_roles\
+[Antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Koch](\3_HowToPlay\Jobs\Service_roles\Cook.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Antagonisten](Antagonist.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Sicherheit](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
+[Antagonisten](Antagonist_roles.md) in \3_HowToPlay\Jobs\Medical_roles\
+[Sicherheit](Security-Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
 [die](Assistent.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Gefangenen](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Sicherheitsbeamten](Sicherheit.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Sicherheitsdienst](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
+[Sicherheitsdienst](Security-Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Shitcurity](\4_Univers\Other\Jokes\Shitsec.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Centcom Officer](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md) in \2_UserInterface\AdminTools\
-[ici](HoP.md) in \3_HowToPlay\Guides\General_guides\
-[HoP](HoP.md) in \3_HowToPlay\Guides\General_guides\
-[HoP](HoP.md) in \3_HowToPlay\Guides\General_guides\
 [hacking](Hacking-Guide.md) in \3_HowToPlay\Guides\General_guides\
 [construction](Construction.md) in \3_HowToPlay\Guides\General_guides\
 [page principale](Main-page.md) in \3_HowToPlay\Guides\General_guides\
 [droit de l'espace](Space-Law.md) in \3_HowToPlay\Guides\General_guides\
 [Syndies](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
 [PKA](PKA.md) in \3_HowToPlay\jobs\Antagoniste_role\
-[HoP](HoP.md) in \3_HowToPlay\jobs\Antagoniste_role\
 [Syndicat](Groupes.md) in \3_HowToPlay\jobs\Antagoniste_role\
 [Nanotrasen](Groupes.md) in \3_HowToPlay\jobs\Antagoniste_role\
 [d'acheter autre chose](Syndicate Items.md) in \3_HowToPlay\jobs\Antagoniste_role\
-[HoP](HoP.md) in \3_HowToPlay\jobs\Cargo_roles\
 [caisses de viande](Cooking.md) in \3_HowToPlay\jobs\Cargo_roles\
 [construction](Construction.md) in \3_HowToPlay\jobs\Cargo_roles\
 [plasma solide](Plasma.md) in \3_HowToPlay\jobs\Cargo_roles\
 [Handcuffs Crate](Security-Officer-Guide.md) in \3_HowToPlay\jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\jobs\Cargo_roles\
 [combat](Combat.md) in \3_HowToPlay\jobs\Cargo_roles\
 [robuste](Combat.md) in \3_HowToPlay\jobs\Cargo_roles\
-[Head of Personnel](HoP.md) in \3_HowToPlay\jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\jobs\Cargo_roles\
 [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md) in \3_HowToPlay\jobs\Command_role\
-[Antagoniste](Antagonist.md) in \3_HowToPlay\jobs\Command_role\
-[boucliers de viande](Security.md) in \3_HowToPlay\jobs\Command_role\
+[Antagoniste](Antagonist_roles.md) in \3_HowToPlay\jobs\Command_role\
 [nukies](Nuclear-Emergency.md) in \3_HowToPlay\jobs\Command_role\
 [Cargonia](Cargonia.md) in \3_HowToPlay\jobs\Command_role\
 [Cargonia](Cargonia.md) in \3_HowToPlay\jobs\Command_role\
 [QM](quartermaster.md) in \3_HowToPlay\jobs\Command_role\
 [here](Guide-to-Atmospherics.md) in \3_HowToPlay\jobs\Engineering_roles\
-[Traitor](traitor.md) in \3_HowToPlay\jobs\Engineering_roles\
 [IA](station-AI.md) in \3_HowToPlay\jobs\Engineering_roles\
 [Construction](Construction.md) in \3_HowToPlay\jobs\Engineering_roles\
 [Mineurs de puits](Mineurs de puits.md) in \3_HowToPlay\jobs\Engineering_roles\
 [Engineers](engineer.md) in \3_HowToPlay\jobs\Engineering_roles\
-[Traitors](traitor.md) in \3_HowToPlay\jobs\Engineering_roles\
 [quartermaster](quartermaster.md) in \3_HowToPlay\jobs\Engineering_roles\
 [intention](Intent.md) in \3_HowToPlay\jobs\Engineering_roles\
 [rouge](Directeur.md) in \3_HowToPlay\jobs\Entertainment_Roles\
 [explosive](Chemistry.md) in \3_HowToPlay\jobs\Medical_roles\
-[HoP](HoP.md) in \3_HowToPlay\jobs\Medical_roles\
 [commandos](Nuclear-Emergency.md) in \3_HowToPlay\jobs\Medical_roles\
 [hacker](Hacking-Guide.md) in \3_HowToPlay\jobs\Medical_roles\
-[antagonistes](Antagonist.md) in \3_HowToPlay\jobs\Medical_roles\
-[traitor](traitor.md) in \3_HowToPlay\jobs\Medical_roles\
+[antagonistes](Antagonist_roles.md) in \3_HowToPlay\jobs\Medical_roles\
 [fous adorant les dieux du sang](Blood-cult.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
 [robustes](Combat.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
 [Nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\
@@ -278,28 +174,17 @@ Files not found:
 [Guide de la robotique](Robotics-Guide.md) in \3_HowToPlay\jobs\Science_roles\
 [combat](Combat.md) in \3_HowToPlay\jobs\Security_roles\
 [SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) in \3_HowToPlay\jobs\Security_roles\
-[officiers](Security.md) in \3_HowToPlay\jobs\Security_roles\
 [droit spatial](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
 [loi](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
 [droit de l'espace](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
-[gardes](Security.md) in \3_HowToPlay\jobs\Security_roles\
 [Loi spatiale](Space-Law.md) in \3_HowToPlay\jobs\Security_roles\
-[Chef du personnel](HoP.md) in \3_HowToPlay\jobs\Security_roles\
 [combat](Combat.md) in \3_HowToPlay\jobs\Security_roles\
-[HoS](Head of Security.md) in \3_HowToPlay\jobs\Security_roles\
 [concierge](Concierge.md) in \3_HowToPlay\jobs\Service_roles\
-[antagoniste](Antagonist.md) in \3_HowToPlay\jobs\Service_roles\
-[HoP](HoP.md) in \3_HowToPlay\jobs\Service_roles\
-[traitor ](traitor.md) in \3_HowToPlay\jobs\Service_roles\
-[traitorous](traitor.md) in \3_HowToPlay\jobs\Service_roles\
-[Antagoniste](Antagonist.md) in \3_HowToPlay\jobs\Service_roles\
-[traitor](traitor.md) in \3_HowToPlay\jobs\Service_roles\
-[chimiste](chemist.md) in \3_HowToPlay\jobs\Service_roles\
+[antagoniste](Antagonist_roles.md) in \3_HowToPlay\jobs\Service_roles\
+[Antagoniste](Antagonist_roles.md) in \3_HowToPlay\jobs\Service_roles\
 [fins rituelles](\3_HowToPlay\Guides\General_guides\Battle-royale.md) in \3_HowToPlay\jobs\Service_roles\
 [fabriquer plus de nettoyant spatial](Chemistry.md) in \3_HowToPlay\jobs\Service_roles\
-[chimiste](chimiste.md) in \3_HowToPlay\jobs\Service_roles\
-[cupides](assistant.md) in \3_HowToPlay\jobs\Synthetic_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\RP\
+[Antagonist](Antagonist_roles.md) in \3_HowToPlay\RP\
 [Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\RP\
 [Wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
 [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
@@ -310,9 +195,7 @@ Files not found:
 [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
 [wizards](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md) in \4_Univers\Items\
 [Nuclear Operatives](Nuclear-Emergency.md) in \4_Univers\Items\
-[Security](Security.md) in \4_Univers\Items\
 [Nukie](Nuclear-Emergency.md) in \4_Univers\Items\
-[Security Officer](security-officer.md) in \4_Univers\Items\
 [of](Nuclear-Emergency.md) in \4_Univers\Lore\
 [threats](Blood-drunk-miner.md) in \4_Univers\Maps\Gateway_Maps\
 [Queen](Xenomorph-queen.md) in \4_Univers\Maps\Gateway_Maps\
@@ -320,58 +203,36 @@ Files not found:
 [Husks](Husk.md) in \4_Univers\Maps\Gateway_Maps\
 [Ghosts](Ghost.md) in \4_Univers\Maps\Gateway_Maps\
 [construction](Construction.md) in \4_Univers\Maps\Offical_Station_Maps\
-[cooks](Chef.md) in \4_Univers\Maps\Offical_Station_Maps\
-[best bud](HoP.md) in \4_Univers\Maps\Offical_Station_Maps\
 [scientists](\3_HowToPlay\Jobs\Science_roles\Scientist.md) in \4_Univers\Maps\Offical_Station_Maps\
-[true dictatorial overlords](Security.md) in \4_Univers\Maps\Offical_Station_Maps\
 [meme](Meme.md) in \4_Univers\Mobs\
-[security](Security.md) in \4_Univers\Mobs\
-[Head of Personnel](HoP.md) in \4_Univers\Mobs\
-[HoP](HoP.md) in \4_Univers\Mobs\
 [emergency shuttle](emergency-shuttle.md) in \4_Univers\Mobs\
 [mainstation.](Official-Maps.md) in \4_Univers\Mobs\
 [xenos borgers](Cooking.md) in \4_Univers\Mobs\
 [intent](Intent.md) in \3_HowToPlay\Guides\Engineering_guides\
-[here](HoP.md) in \3_HowToPlay\Guides\General_guides\
-[HoP](HoP.md) in \3_HowToPlay\Guides\General_guides\
 [CMO](Chief-medical-officer.md) in \3_HowToPlay\Guides\General_guides\
-[HoP](HoP.md) in \3_HowToPlay\Guides\General_guides\
-[antagonist](Antagonist.md) in \3_HowToPlay\Guides\General_guides\
+[antagonist](Antagonist_roles.md) in \3_HowToPlay\Guides\General_guides\
 [nuclear](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
 [reset map](Resetting-the-map.md) in \3_HowToPlay\Guides\General_guides\
-[security](Security.md) in \3_HowToPlay\Guides\General_guides\
 [combat](Combat.md) in \3_HowToPlay\Guides\General_guides\
 [emergency shuttle](emergency-shuttle.md) in \3_HowToPlay\Guides\General_guides\
 [sec](Security Officer.md) in \3_HowToPlay\Guides\General_guides\
 [tunguska revolt](Tunguska.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security.md) in \3_HowToPlay\Guides\General_guides\
-[need them dead](Antagonist.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security.md) in \3_HowToPlay\Guides\General_guides\
-[sec](Security.md) in \3_HowToPlay\Guides\General_guides\
-[antag](Antagonist.md) in \3_HowToPlay\Guides\General_guides\
+[need them dead](Antagonist_roles.md) in \3_HowToPlay\Guides\General_guides\
+[antag](Antagonist_roles.md) in \3_HowToPlay\Guides\General_guides\
 [foods](Cooking.md) in \3_HowToPlay\Guides\General_guides\
 [main page](Main-page.md) in \3_HowToPlay\Guides\General_guides\
 [Syndies](Nuclear-Emergency.md) in \3_HowToPlay\Guides\General_guides\
-[security officer](Security.md) in \3_HowToPlay\Guides\General_guides\
 [here](Combat.md) in \3_HowToPlay\Guides\General_guides\
-[HERE](Security.md) in \3_HowToPlay\Guides\Joke_guides\
-[REBELLION](Cargonia.md) in \3_HowToPlay\Guides\Joke_guides\
 [WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in \3_HowToPlay\Guides\Joke_guides\
-[SEC](Security.md) in \3_HowToPlay\Guides\Joke_guides\
-[Head of Personnel](HoP.md) in \3_HowToPlay\Guides\Security_guides\
 [combat](Combat.md) in \3_HowToPlay\Guides\Security_guides\
 [Paramedic](paramedic.md) in \3_HowToPlay\Jobs\
-[Revolutionary](Cargonia.md) in \3_HowToPlay\Jobs\
 [Nuclear operative](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\
 [PKA](PKA.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [buy something else](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Syndicate Items](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Antagonist_roles\
+[Antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Role](Roles.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Antagonist_roles\
-[Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Emergency Shuttle](Emergency-Shuttle.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [here.](Syndicate Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Theft](High-Risk-Items.md) in \3_HowToPlay\Jobs\Antagonist_roles\
@@ -379,108 +240,47 @@ Files not found:
 [Head of Personnel](Head-of_Personnel.md) in \3_HowToPlay\Jobs\Antagonist_roles\
 [Engineering](engineer.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [Clown](clown.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[assistants](assistant.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [lizard](Guide-to-player-species.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [facehugger](xenomorph.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [meat crates](Cooking.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [Engineer](Engineering.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [solid plasma](Plasma.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [AI](station-AI.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [combat](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [robust](Combat.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [headset](Headset.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[Head of Personnel](HoP.md) in \3_HowToPlay\Jobs\Cargo_roles\
 [lizards](ashwalker.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Cargo_roles\
-[people](Security.md) in \3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\
 [suits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\
 [gateway ruins](Gateway-maps.md) in \3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\
-[Antagonists](Antagonist.md) in \3_HowToPlay\Jobs\Command_roles\
+[Antagonists](Antagonist_roles.md) in \3_HowToPlay\Jobs\Command_roles\
 [some](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[sabotage](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
 [guys in red hardsuits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[meatshields](Security.md) in \3_HowToPlay\Jobs\Command_roles\
 [nukies](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
 [Syndicate activity](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Command_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Command_roles\
-[Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
-[Cargonia](Cargonia.md) in \3_HowToPlay\Jobs\Command_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Command_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Command_roles\
 [QM](quartermaster.md) in \3_HowToPlay\Jobs\Command_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[Traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [AI](station-AI.md) in \3_HowToPlay\Jobs\Engineering_roles\
 [click here for the guide to starting the Singularity and Tesla Engines](Guide to the Singularity and Tesla.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Engineering_roles\
-[mining operation](shaft-miner.md) in \3_HowToPlay\Jobs\Ghost_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
 [commandos](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security Officer](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Medical_roles\
 [Security Officers](Security Officer.md) in \3_HowToPlay\Jobs\Medical_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Medical_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Medical_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Medical_roles\
 [blood god worshipping loonies](Blood-cult.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
 [NT](\4_Univers\Lore\The-Lore.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
 [robust](Combat.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
 [Nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\
 [nuke ops](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Science_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Security_roles\
 [combat](Combat.md) in \3_HowToPlay\Jobs\Security_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Security_roles\
-[revolutionaries](Cargonia.md) in \3_HowToPlay\Jobs\Security_roles\
-[officers](Security.md) in \3_HowToPlay\Jobs\Security_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Security_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Security_roles\
-[crew](Cargonia.md) in \3_HowToPlay\Jobs\Security_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Security_roles\
-[Head of Personnel's](HoP.md) in \3_HowToPlay\Jobs\Service_roles\
-[antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Service_roles\
-[HoP](HoP.md) in \3_HowToPlay\Jobs\Service_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
+[antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Service_roles\
 [making drinks](Drinks-guide.md) in \3_HowToPlay\Jobs\Service_roles\
-[security officers](Security.md) in \3_HowToPlay\Jobs\Service_roles\
 [here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor ](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitorous](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
 [investigators](detective.md) in \3_HowToPlay\Jobs\Service_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
-[traitor](traitor.md) in \3_HowToPlay\Jobs\Service_roles\
-[chemist](chemist.md) in \3_HowToPlay\Jobs\Service_roles\
-[people](Security.md) in \3_HowToPlay\Jobs\Service_roles\
+[Antagonist](Antagonist_roles.md) in \3_HowToPlay\Jobs\Service_roles\
 [suits](Nuclear-Emergency.md) in \3_HowToPlay\Jobs\Service_roles\
 [Here](Guide-to-Food-and-Drink.md) in \3_HowToPlay\Jobs\Service_roles\
 [gateway ruins](Gateway-maps.md) in \3_HowToPlay\Jobs\Service_roles\
-[security](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[Security](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[guards](Security.md) in \3_HowToPlay\Jobs\Service_roles\
-[nefarious](traitor.md) in \3_HowToPlay\Jobs\Synthetic_roles\
-[grabby](assistant.md) in \3_HowToPlay\Jobs\Synthetic_roles\
-[Antagonist](Antagonist.md) in \3_HowToPlay\RP\
+[Antagonist](Antagonist_roles.md) in \3_HowToPlay\RP\
 [Nuke Ops](Nuclear-Emergency.md) in \3_HowToPlay\RP\
 [Nuclear Operatives](Nuclear-Emergency.md) in \4_Univers\Items\
-[Security](Security.md) in \4_Univers\Items\
 [Nukie](Nuclear-Emergency.md) in \4_Univers\Items\
-[Security Officer](security-officer.md) in \4_Univers\Items\
 [lore](\4_Univers\Lore\The-Lore.md) in \4_Univers\Lore\
 [of](Nuclear-Emergency.md) in \4_Univers\Lore\
 [threats](Blood-drunk-miner.md) in \4_Univers\Maps\Gateway_Maps\
@@ -488,13 +288,7 @@ Files not found:
 [Zombies](Zombie.md) in \4_Univers\Maps\Gateway_Maps\
 [Husks](Husk.md) in \4_Univers\Maps\Gateway_Maps\
 [Ghosts](Ghost.md) in \4_Univers\Maps\Gateway_Maps\
-[cooks](Chef.md) in \4_Univers\Maps\Offical_Station_Maps\
-[best bud](HoP.md) in \4_Univers\Maps\Offical_Station_Maps\
-[true dictatorial overlords](Security.md) in \4_Univers\Maps\Offical_Station_Maps\
 [meme](Meme.md) in \4_Univers\Mobs\
-[security](Security.md) in \4_Univers\Mobs\
-[Head of Personnel](HoP.md) in \4_Univers\Mobs\
-[HoP](HoP.md) in \4_Univers\Mobs\
 [emergency shuttle](emergency-shuttle.md) in \4_Univers\Mobs\
 [mainstation.](Official-Maps.md) in \4_Univers\Mobs\
 [xenos borgers](Cooking.md) in \4_Univers\Mobs\
