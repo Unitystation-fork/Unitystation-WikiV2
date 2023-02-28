@@ -23,7 +23,7 @@ Alors que tous les autres membres de l'équipage peuvent toujours utiliser des e
 
 ### Remplissez la station de plasma ([traître](traître.md) Atmos Tech).
 
-Les technologies atmos [Traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) ont le potentiel de devenir l'une des forces les plus dévastatrices de la station. Si vous savez ce que vous faites, vous pouvez inonder la station de tous les gaz nocifs que vous voulez, mais n'oubliez pas de préparer vos internes. L'individu le plus susceptible d'interférer avec votre travail est un autre technicien ATMOS ou l'[IA] (station-AI.md), donc soyez prudent si l'un de ces types est présent.
+Les technologies atmos [Traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) ont le potentiel de devenir l'une des forces les plus dévastatrices de la station. Si vous savez ce que vous faites, vous pouvez inonder la station de tous les gaz nocifs que vous voulez, mais n'oubliez pas de préparer vos internes. L'individu le plus susceptible d'interférer avec votre travail est un autre technicien ATMOS ou l'[IA] (Station-AI.md), donc soyez prudent si l'un de ces types est présent.
 
 
 # Guide de l'atmosphérique

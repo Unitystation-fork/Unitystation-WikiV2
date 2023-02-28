@@ -76,7 +76,7 @@ So, fighting "the perfect organism" covered in spikes and larger than you repeat
 
 Well good news, because you can instead go and mine on a world perpetually fogged by ash and covered in lava. This is where the "very hard" rating comes in. If you aren't skilled or well prepared, you will die horribly and nobody will find your roasted corpse. If your going to lavaland, its best you go with buds, pack a gun, and have practiced kiting with xenos and other beasts.
 
-Alien fauna isn't the only threat you will deal with on lavaland. Near your base, there is a an alcove that hosts an ancient tendril. This tendril is home to a nasty collective of [lizards](ashwalker.md) who don't appreciate NanoTrasen's recent arrival on their ancient hunting grounds, and they intend to prove it through a show of force. If a ghost has picked up the role, then it's possible that you might encounter a more intelligent foe than you typically deal with.
+Alien fauna isn't the only threat you will deal with on lavaland. Near your base, there is a an alcove that hosts an ancient tendril. This tendril is home to a nasty collective of [lizards](\3_HowToPlay\Jobs\Protagonist_roles\Ghost_roles\Ashwalker.md) who don't appreciate NanoTrasen's recent arrival on their ancient hunting grounds, and they intend to prove it through a show of force. If a ghost has picked up the role, then it's possible that you might encounter a more intelligent foe than you typically deal with.
 
 ### A bone to pick ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Shaft Miner)
 

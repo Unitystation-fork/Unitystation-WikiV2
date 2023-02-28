@@ -1,6 +1,6 @@
 # Syndicate Items
 
-This is a comprehensive list of all items that [Traitors](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) and [Nuclear Operatives](\3_HowToPlay\jobs\Antagoniste_role\Nuclear-Operative.md) can purchase through their Syndicate uplink hidden on their PDAs. Shortly after round spawn, operatives and traitors will receive notifications telling them a code phrase to input into their PDAs in the ringtone configuration under settings. Traitors start with 20 Telecrystals (TC) while operatives start with 25 TC to spend on specialist equipment to complete their objectives.
+This is a comprehensive list of all items that [Traitors](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) and [Nuclear Operatives](\3_HowToPlay\jobs\Antagonist_roles\Nuclear-Operative.md) can purchase through their Syndicate uplink hidden on their PDAs. Shortly after round spawn, operatives and traitors will receive notifications telling them a code phrase to input into their PDAs in the ringtone configuration under settings. Traitors start with 20 Telecrystals (TC) while operatives start with 25 TC to spend on specialist equipment to complete their objectives.
 
 #### Traitor and Operative items:
 
@@ -46,7 +46,7 @@ This is a comprehensive list of all items that [Traitors](\5_Dev\routine1.0.5\An
 
 #### Operative Exclusive Items:
 
-Some items are only available to [Nuclear Operatives.](\3_HowToPlay\jobs\Antagoniste_role\Nuclear-Operative.md)
+Some items are only available to [Nuclear Operatives.](\3_HowToPlay\jobs\Antagonist_roles\Nuclear-Operative.md)
 
 | Category/Name                                    | Description                                                  | TC cost |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------- |

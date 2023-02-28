@@ -8,7 +8,7 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 
 | Name                                        | Description                                                  | Reward |
 | ------------------------------------------- | ------------------------------------------------------------ | ------ |
-| **[Engineering](engineer.md)** **Bounties** |                                                              |        |
+| **[Engineering](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md)** **Bounties** |                                                              |        |
 | Airlock Electronics x2                      | Send 2 Airlock Electronics.                                  | 400    |
 | Hot Ice x10                                 | Send 10 Hot Ice and we'll grant a small budgetary bonus.     | 500    |
 | insulated gloves x2                         | Send 2 pairs of insulated gloves.                            | 400    |
@@ -44,7 +44,7 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 | Cheese wheel                                | CentCom is conducting the annual cheesefest a few days early this year. Send a cheese wheel over for grading pronto. | 900    |
 | Cloth Rolls x10                             | The clothing at one of the planetary outposts is getting a bit ragged. Send 10 cloth rolls to help patch them up. | 800    |
 | Crayons x10                                 | The Marine Corps strike group in the system has requested a sample of our culinary offerings for a potential supply contract. Send them 10 crayons. | 800    |
-| Cream Pies x5                               | CC [Clown](clown.md) supplies are getting dangerously low. Send 5 cream pies. | 2000   |
+| Cream Pies x5                               | CC [Clown](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) supplies are getting dangerously low. Send 5 cream pies. | 2000   |
 | Donuts x10                                  | CentCom's security forces are facing heavy losses against the Syndicate. Ship 10 donuts to raise morale. | 800    |
 | Flowers x10                                 | Send 10 flowers for a welcoming wreath for a Centcom Admiral who is inspecting bases in the system. | 1600   |
 | jumpsuits x8                                | A new batch of [assistants](\3_HowToPlay\Jobs\Service_roles\Assistant.md) are in transit, but they are short of clothing; Ship 8 plain jumpsuits. | 1000   |

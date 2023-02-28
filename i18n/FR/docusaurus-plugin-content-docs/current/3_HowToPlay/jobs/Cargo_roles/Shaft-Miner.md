@@ -81,7 +81,7 @@ Alors, combattre "l'organisme parfait" couvert de pointes et plus grand que vous
 
 Eh bien bonne nouvelle, car vous pouvez à la place aller miner sur un monde perpétuellement embrumé par les cendres et couvert de lave. C'est là que le niveau "très difficile" entre en jeu. Si vous n'êtes pas compétent ou bien préparé, vous mourrez atrocement et personne ne trouvera votre cadavre rôti. Si vous allez à Laval, il est préférable d'y aller avec des amis, d'emporter une arme et de vous entraîner à combattre les xénos et autres bêtes.
 
-La faune extraterrestre n'est pas la seule menace à laquelle vous devrez faire face sur lavaland. Près de votre base, il y a une alcôve qui abrite une ancienne vrille. Cette vrille abrite un méchant collectif de [lézards] (ashwalker.md) qui n'apprécie pas l'arrivée récente de NanoTrasen sur leur ancien terrain de chasse, et ils ont l'intention de le prouver par une démonstration de force. Si un fantôme a pris le rôle, il est possible que vous rencontriez un ennemi plus intelligent que celui auquel vous avez habituellement affaire.
+La faune extraterrestre n'est pas la seule menace à laquelle vous devrez faire face sur lavaland. Près de votre base, il y a une alcôve qui abrite une ancienne vrille. Cette vrille abrite un méchant collectif de [lézards] (Ashwalker.md) qui n'apprécie pas l'arrivée récente de NanoTrasen sur leur ancien terrain de chasse, et ils ont l'intention de le prouver par une démonstration de force. Si un fantôme a pris le rôle, il est possible que vous rencontriez un ennemi plus intelligent que celui auquel vous avez habituellement affaire.
 
 ### Un os à ronger ([traître](traître.md) Mineur de puits)
 

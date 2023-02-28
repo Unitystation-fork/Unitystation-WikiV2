@@ -31,7 +31,7 @@ Pour dépenser de l'argent, vous devez en gagner, et le moyen d'y parvenir est d
 
 Lorsque les [mineurs](\3_HowToPlay\jobs\Cargo_roles\Shaft-Miner.md) [survivent](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) à leur expédition et font honneur à votre département avec un nouveau chargement de minerai, vous devriez.. :
 
-*Distribuer tous les matériaux de [construction](Construction.md) (verre et métal) aux tours ou à l'[Ingénieur](Engineering.md).
+*Distribuer tous les matériaux de [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) (verre et métal) aux tours ou à l'[Ingénieur](Engineering.md).
 *Donner du [plasma solide](Plasma.md) et de l'uranium à l'ingénierie pour alimenter la station.
 
 * Vendez de l'or, de l'argent, du bananium, des cristaux de bluespace et des diamants. Ou donnez-les au [Roboticist](\3_HowToPlay\jobs\Science_roles\Roboticist.md) et raillez-les pour leur manque actuel de fonctionnalité.
@@ -117,7 +117,7 @@ Lorsque les [mineurs](\3_HowToPlay\jobs\Cargo_roles\Shaft-Miner.md) [survivent](
 
 ### Les affaires de sang et d'argent ([traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md)QM) :
 
-Un [traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) QM est l'un des meilleurs moments que vous pouvez passer dans ce jeu. Grâce à la console de chargement, vous avez facilement accès à des armes, des matériaux illicites, bref, à tout ce dont vous avez besoin. Faites simplement attention à une [IA] (station-AI.md) active ou à un [HoP] (Head-of-Personnel.md) fouineur.
+Un [traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) QM est l'un des meilleurs moments que vous pouvez passer dans ce jeu. Grâce à la console de chargement, vous avez facilement accès à des armes, des matériaux illicites, bref, à tout ce dont vous avez besoin. Faites simplement attention à une [IA] (Station-AI.md) active ou à un [HoP] (Head-of-Personnel.md) fouineur.
 
 Le séquenceur cryptographique est l'un des outils les plus précieux dont dispose un QM traître sur la liaison montante du syndicat. Il peut être utilisé pour déverrouiller toutes les caisses sécurisées que vous achetez, comme les caisses d'armes. Vous pouvez même les distribuer parmi les [greyshirts] (Assistant.md) si vous voulez semer le chaos dans toute la station, bien que cela attire l'attention sur la cargaison *rapidement*, alors assurez-vous d'avoir un alibi ou de préparer vos coups d'ici là.
 

@@ -1,11 +1,11 @@
 # Avocat
 **Role type:** <font color= "#808080">Civil</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">facile</font>
 
-Vous êtes le mur entre la loi et le suspect, c'est à vous de veiller à ce que tout se passe bien, ou vous savez, enfonce davantage ton client parce qu'il est soit un poilu, soit un clown. Ce rôle est fait pour ceux qui connaissent la [loi](Space-Law.md) et cherche une grosse expérience de jeu de rôle.
+Vous êtes le mur entre la loi et le suspect, c'est à vous de veiller à ce que tout se passe bien, ou vous savez, enfonce davantage ton client parce qu'il est soit un poilu, soit un clown. Ce rôle est fait pour ceux qui connaissent la [loi](\3_HowToPlay\Guides\Security_guides\Space-Law.md) et cherche une grosse expérience de jeu de rôle.
 
 ### comment faire
 
-Honnêtement - les opportunités se présenteront à vous, juste traîner près de l'acte, ou de la sécurité s'il n'y a pas d'acte. Assurez-vous d'avoir votre livre de [droit de l'espace](Space-Law.md) à portée de main à tout moment, la satisfaction de jouer le rôle vient lorsque vous annulez avec succès toutes les accusations portées contre votre défendeur. Mais la plupart du temps, il faut apprécier les petites choses, comme le raccourcissement de la durée du mandat ou faire en sorte que les [gardes] (Security-Officer.md) ne violent pas les [Conventions de Genève](https://fr.wikipedia.org/wiki/Conventions_de_Genève).
+Honnêtement - les opportunités se présenteront à vous, juste traîner près de l'acte, ou de la sécurité s'il n'y a pas d'acte. Assurez-vous d'avoir votre livre de [droit de l'espace](\3_HowToPlay\Guides\Security_guides\Space-Law.md) à portée de main à tout moment, la satisfaction de jouer le rôle vient lorsque vous annulez avec succès toutes les accusations portées contre votre défendeur. Mais la plupart du temps, il faut apprécier les petites choses, comme le raccourcissement de la durée du mandat ou faire en sorte que les [gardes] (Security-Officer.md) ne violent pas les [Conventions de Genève](https://fr.wikipedia.org/wiki/Conventions_de_Genève).
 
 ## Comment le tribunal doit se dérouler
 

@@ -9,18 +9,18 @@ Le chef du personnel, également appelé communément le CdP, est l'un des rôle
 
 ### Neutre légal
 
-Le travail du chef de mission est relativement simple : il s'assoit dans son bureau, modifie les fonctions ou les niveaux d'accès des personnes qui le demandent pour de bonnes raisons, et résistez à l'envie de vous donner à vous-même ou à [d'autres](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) [personnes](\3_HowToPlay\jobs\Service_roles\Assistant.md) des cartes à accès illimité. En plus de cela, vous êtes aussi celui qui s'assure que les rôles de service permettent à la station de fonctionner, et que [Cargo](\3_HowToPlay\jobs\Cargo_roles\Cargo-Technician.md) ne commande pas d'armes pour aider [Cargonia](Cargonia.md) à devenir une station-état indépendante. Cependant, votre travail peut être un peu mouvementé;
+Le travail du chef de mission est relativement simple : il s'assoit dans son bureau, modifie les fonctions ou les niveaux d'accès des personnes qui le demandent pour de bonnes raisons, et résistez à l'envie de vous donner à vous-même ou à [d'autres](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) [personnes](\3_HowToPlay\jobs\Service_roles\Assistant.md) des cartes à accès illimité. En plus de cela, vous êtes aussi celui qui s'assure que les rôles de service permettent à la station de fonctionner, et que [Cargo](\3_HowToPlay\jobs\Cargo_roles\Cargo-Technician.md) ne commande pas d'armes pour aider [Cargonia](\3_HowToPlay\jobs\Antagonist_roles\Cargonia.md) à devenir une station-état indépendante. Cependant, votre travail peut être un peu mouvementé;
 
 
 ### Officier par Intérim
 
-En l'absence du [Capitaine] (Capitaine.md), (disparu, mort, endormi, absent) vous devez, par intérim, d'en assurer les fonctions, jusqu'à ce que le rôle puisse être occupé ou que vous désigniez quelqu'un pour cela. c'est votre travail de prendre leur place jusqu'à ce qu'ils soient potentiellement clonés. Il en va de même pour les postes de chef de département tels que le CdP.
+En l'absence du [Capitaine] (Capitain.md), (disparu, mort, endormi, absent) vous devez, par intérim, d'en assurer les fonctions, jusqu'à ce que le rôle puisse être occupé ou que vous désigniez quelqu'un pour cela. c'est votre travail de prendre leur place jusqu'à ce qu'ils soient potentiellement clonés. Il en va de même pour les postes de chef de département tels que le CdP.
 Vous devrez **faire de votre mieux** pour assurer cette fonction. pour le bien de la station. Parfois un HoS, ou un chef de département arrive plus tard que vous.
 **Vous devrez lui donner tous les objets qui lui appartiennent.**
 
 
 ### liste des suspects potentiels en cas de décès du capitaine
-[Trator](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [Nukie](Nuclear%20Operative.md) [Cargonia](Cargonia.md)
+[Trator](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [Nukie](Nuclear%20Operative.md) [Cargonia](\3_HowToPlay\jobs\Antagonist_roles\Cargonia.md)
 
 à moins que la personne qui les a tués ne soit pas intelligente, ce n'est pas une tâche simple, il y a beaucoup de personnes qui peuvent vouloir votre mort pour une raison ou une autre.
 
@@ -42,4 +42,4 @@ Si la navette a été appelée, n'oubliez pas d'emmener [IAN](\4_Univers\Mobs\Ia
 
 ### Ressources inhumaines ([traître](traître.md) HoP)
 
-Inutile de dire qu'être un [traître] (Traitor.md) en tant que HoP est assez difficile. Il n'est pas surprenant que le commandant en second de la station permette de remplir assez facilement les objectifs des traîtres. Avec la capacité de vous donner la valeur de l'AA et l'autorité d'un chef, vous pouvez aller partout où vous le souhaitez avec facilité. Votre autorité directe sur le fret peut également s'avérer utile, car vous pouvez demander au [QM](quartermaster.md) de vous commander ce dont vous avez besoin.
+Inutile de dire qu'être un [traître] (Traitor.md) en tant que HoP est assez difficile. Il n'est pas surprenant que le commandant en second de la station permette de remplir assez facilement les objectifs des traîtres. Avec la capacité de vous donner la valeur de l'AA et l'autorité d'un chef, vous pouvez aller partout où vous le souhaitez avec facilité. Votre autorité directe sur le fret peut également s'avérer utile, car vous pouvez demander au [QM](\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md) de vous commander ce dont vous avez besoin.

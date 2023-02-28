@@ -33,7 +33,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 6) Apprenez à jouer votre rôle, pour cela regardez en bas de la [page principale](Main-page.md), elle contient un guide sur (presque) tous les rôles du jeu.
 
 
-7) Ne commettez pas de crimes, à moins que vous ne vouliez être brigués, et éventuellement maltraités, apprenez le [droit de l'espace](Space-Law.md) si vous le souhaitez, c'est votre meilleure arme contre la [sécurité de la merde](Shitsec.md).
+7) Ne commettez pas de crimes, à moins que vous ne vouliez être brigués, et éventuellement maltraités, apprenez le [droit de l'espace](\3_HowToPlay\Guides\Security_guides\Space-Law.md) si vous le souhaitez, c'est votre meilleure arme contre la [sécurité de la merde](Shitsec.md).
 
 
 8) Si vous êtes projeté dans l'espace par une pression, tirez sur quelque chose ou lancez tout ce que vous pouvez dans la direction où vous volez, ce qui, avec un peu de chance, vous fera voler dans l'autre sens. Si vous n'avez pas de combinaison spatiale, vous mourrez quand même, mais vous aurez plus de chances d'être retrouvé par vos coéquipiers. Un extincteur fonctionne aussi pour cela, vous vous souvenez du film Wall-E ?

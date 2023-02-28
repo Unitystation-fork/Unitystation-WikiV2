@@ -31,7 +31,7 @@ La fin éventuelle de la plupart des quarts de travail, il y a des trous dans l'
 
 ### Chef Screw-Loose ([traître](traître.md) CE)
 
-Un [traître](traître.md) CE dispose d'un grand nombre d'options amusantes pour causer un *havoc* absolu sur la station. Vous avez accès à presque toutes les salles et machines critiques de la station, les options les plus importantes étant la salle des machines, le pont, les batteries du département, la salle de téléchargement de l'[IA](station-AI.md) et les ACU. Vous disposez également des meilleurs outils de construction de la station, d'une très bonne combinaison de protection, de bottes magiques avancées et de tout l'équipement se trouvant dans la salle de stockage de l'ingénierie.
+Un [traître](traître.md) CE dispose d'un grand nombre d'options amusantes pour causer un *havoc* absolu sur la station. Vous avez accès à presque toutes les salles et machines critiques de la station, les options les plus importantes étant la salle des machines, le pont, les batteries du département, la salle de téléchargement de l'[IA](\3_HowToPlay\jobs\Synthetic_roles\Station-AI.md) et les ACU. Vous disposez également des meilleurs outils de construction de la station, d'une très bonne combinaison de protection, de bottes magiques avancées et de tout l'équipement se trouvant dans la salle de stockage de l'ingénierie.
 
 Comme vous avez accès à la baie des moteurs, vous disposez également du moyen le plus efficace de créer une excuse pour appeler la navette d'évacuation en déclenchant le moteur, qu'il s'agisse d'un Singularity, d'un Tesla ou d'un Supermatter. Veillez simplement à ce que la navette soit appelée *immédiatement*, car une fois que vous aurez saboté l'un d'entre eux, vous n'aurez pas beaucoup de temps avant qu'ils ne commencent à mettre la station en pièces.
 
@@ -41,7 +41,7 @@ Comme vous avez accès à la baie des moteurs, vous disposez également du moyen
 Note : Le réacteur est TRÈS compliqué, et vous ne devriez pas y toucher à moins d'être expérimenté en tant qu'[ingénieur](Engineer.md) ou d'avoir l'intention de tout faire foirer.
 
 ## Vue d'ensemble
-Ce guide couvre les informations de base sur le réacteur, comment le démarrer, comment le faire fonctionner et comment le faire exploser. De nombreux termes relatifs au réacteur seront également abordés, en partant du principe que vous n'êtes certainement pas un physicien nucléaire. 
+Ce guide couvre les informations de base sur le réacteur, comment le démarrer, comment le faire fonctionner et comment le faire exploser. De nombreux termes relatifs au réacteur seront également abordés, en partant du principe que vous n'êtes certainement pas un physicien nucléaire.
 
 ## Contexte
 Avant même de toucher au réacteur, il est préférable de savoir comment il fonctionne.
@@ -55,7 +55,7 @@ Le cœur lui-même est tout aussi complexe que le reste du réacteur. À l'inté
 ### La chaîne de dépendance
 Comme mentionné précédemment, la température et la pression d'un noyau ne sont pas directement contrôlables, mais seulement indirectement par le biais d'une longue série de dépendances. En commençant par le début, vous avez le nombre de barres. Plus de barres de combustible signifie plus de chaleur et de neutrons, tandis que plus de barres de contrôle signifie plus de contrôle sur d'autres valeurs. La deuxième chose sur laquelle vous avez un contrôle est la hauteur des barres. Lorsque les barres de contrôle sont enfoncées profondément dans le réacteur, elles réduisent la quantité de réactions de fission qui se produisent, et lorsqu'elles sont presque à l'extérieur, la quantité de réactions augmente. Ceci est mesuré par la valeur K% (ou plus précisément 1+k%), qui apparaît sur un triplet de jauges coulissantes horizontales. Cette valeur K% modifie la quantité de flux neutronique de manière exponentielle, ce qui signifie qu'une valeur K% de 10 entraîne une croissance du flux non pas dix fois plus rapide qu'une valeur k de 1, mais cent fois plus rapide. Le flux neutronique peut être considéré comme un moyen de mesurer le degré d'activité du réacteur. Plus le flux est élevé, plus les réactions de fission sont nombreuses. Cela entraîne une augmentation de la température qui, à son tour, augmente la pression de la vapeur autour du réacteur. Plus la pression est élevée, plus la vapeur passe rapidement dans la turbine et plus la production d'énergie est importante. Si tout cela vous laisse perplexe, essayez de lire la chaîne de dépendance à l'envers.
 
-### Lire la console 
+### Lire la console
 Avec les récents changements apportés à la console de commande du réacteur, elle est devenue plus facile mais aussi plus compliquée à lire qu'auparavant. Le curseur K a reçu deux jauges supplémentaires pour des lectures plus fines, celles-ci sont plus difficiles à expliquer verbalement qu'avec des exemples, donc allons-y directement. Si la valeur de K# était de 0,71, le curseur supérieur serait à ~2/3èmes entre 0 et 1, le second curseur mesurant des incréments de 1/10ème serait à 7, et l'affichage le plus fin en bas serait à l'extrême droite. Alternativement, s'il était à 0,07, les deux curseurs supérieurs et le deuxième curseur seraient proches de zéro, avec le curseur inférieur à 7. Si vous voulez une valeur de k qui est parfaitement à zéro, vous devriez avoir les 3 jauges centrées le long de la ligne centrale.
 
 Les contrôles des barres du réacteur sont beaucoup plus faciles qu'avant. Il y a un affichage montrant le % de la profondeur maximale à laquelle les barres sont insérées à tout moment, au centième de pourcentage près. Le curseur de gauche contrôle cette profondeur par incréments de 1%, tandis que le curseur de droite le fait par incréments de 0,01%. Ce dernier est essentiel pour obtenir une valeur 0 k parfaite.
@@ -114,7 +114,7 @@ Si vous avez un désir de mort et que vous avez accès aux tiges elles-mêmes, c
 # Guide des moteurs à singularité et tesla
 Remarque : bien que le moteur à singularité et le moteur tesla soient plus simples que le [réacteur nucléaire](Guide-pour-le-reacteur_nucleaire-FR.md), le coût d'un échec est beaucoup plus élevé. C'est pourquoi vous devez vous familiariser avec l'[ingénierie](Engineer.md)
 AVANT d'y toucher, à moins, bien sûr, que vous n'ayez l'intention de faire échouer le moteur dès le départ.
- 
+
 ## Aperçu
 La singularité et le tesla sont très similaires, à tel point qu'un seul guide peut couvrir les deux. Bien qu'ils diffèrent dans certains aspects, tels que la production d'énergie,
 ils peuvent généralement être traités de la même manière. Ce guide couvrira les spécificités des deux, comment les démarrer et comment les faire fonctionner.
@@ -142,7 +142,7 @@ Gardez à l'esprit qu'avoir trop de boucliers et pas assez d'émetteurs peut sig
 ### Singularité et machines spécifiques à la singularité
 La singularité détruira les objets et les joueurs/mobs qui y tomberont, et aspirera vers elle les objets, personnes et créatures qui s'y trouvent. Toucher la singularité est une sentence de mort garantie, et une singularité perdue est souvent une raison suffisante pour appeler la navette. La singularité se déplace, même lorsqu'elle est contenue, mais ne peut pas détruire ou passer les boucliers générés par les générateurs de boucliers à moins d'être suffisamment grande.
 
-La singularité peut croître en absorbant de la masse (c'est-à-dire vous et le reste de la station), ce qui peut être assuré par l'accélérateur de particules. La masse de la singularité va lentement diminuer en la convertissant en radiations, mais le taux de conversion de masse est suffisamment faible pour qu'une singularité lâche ne soit généralement pas "affamée". 
+La singularité peut croître en absorbant de la masse (c'est-à-dire vous et le reste de la station), ce qui peut être assuré par l'accélérateur de particules. La masse de la singularité va lentement diminuer en la convertissant en radiations, mais le taux de conversion de masse est suffisamment faible pour qu'une singularité lâche ne soit généralement pas "affamée".
 
 Les collecteurs de radiations sont le moyen d'obtenir de l'énergie à partir de la singularité. Ils convertissent le rayonnement produit par la singularité en électricité, qui peut être utilisée à son tour pour alimenter la station.
 Vous devrez les placer aussi près que possible du champ de protection, mais pas entre les générateurs de bouclier ou dans la zone de confinement de la singularité. Ensuite, connectez-les à la station.
@@ -164,7 +164,7 @@ Les singularités de stade 4 et 5 détruisent les murs et les machines ordinaire
 consumera tout ce qui la contient, et il est certain qu'elle se libérera. En général, vous ne verrez une singularité de stade 4 et 5 que lorsqu'une singularité s'est déjà détachée et a mangé suffisamment de la station pour atteindre un tel niveau et une telle taille.
 
 Il existe un cinquième type de singularité, une singularité de super-matière, qui ne peut se produire que si une singularité mange un cristal de super-matière. Elle occupe une surface énorme, exerce une attraction massive, et vous êtes généralement fichu s'il en existe une.
-et vous êtes généralement foutu si l'une d'entre elles existe. Ne vous donnez pas la peine d'essayer de la contenir, elle vous enflammera et vous transformera en une fine nouille atomique. 
+et vous êtes généralement foutu si l'une d'entre elles existe. Ne vous donnez pas la peine d'essayer de la contenir, elle vous enflammera et vous transformera en une fine nouille atomique.
 
 ### Tesla et les machines spécifiques Tesla
 
@@ -187,7 +187,7 @@ générateur que vous voulez créer, les générateurs de bouclier et les émett
 
 2 : Placez les émetteurs en face des générateurs. Généralement, un espace d'une tuile est laissé, mais c'est facultatif. Les émetteurs doivent être reliés au réseau électrique de la station ou être alimentés d'une autre manière.
 Comme les émetteurs sont dangereux et consomment beaucoup d'énergie, ne les allumez pas encore. N'oubliez pas de les arracher pour qu'ils soient orientés dans la bonne direction, puis de les souder au sol.
-   
+
 3 : Déplacez le type de générateur que vous avez choisi (singularité ou tesla) au centre de la construction. Il devrait être équidistant de tous les générateurs de bouclier où il peut être facilement touché par le PA.
 touché par le PA. Démolissez le ou soudez le si possible.
 

@@ -40,7 +40,7 @@ If the shuttle has been called DO NOT FORGET TO BRING [IAN](\4_Univers\Mobs\Ian.
 
 ### Inhuman Resources ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) HoP)
 
-needless to say, being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) as the HoP is pretty tight. It's no surprise that the second-in-command on the station makes for a fairly easy time completing traitor objectives. With the ability to give yourself the valued AA and the authority as a head, you can go anywhere you need to with ease. Your direct authority over cargo can also come in handy, as you can tell the [QM](quartermaster.md) to order you whatever you need.
+needless to say, being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) as the HoP is pretty tight. It's no surprise that the second-in-command on the station makes for a fairly easy time completing traitor objectives. With the ability to give yourself the valued AA and the authority as a head, you can go anywhere you need to with ease. Your direct authority over cargo can also come in handy, as you can tell the [QM](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md) to order you whatever you need.
 
   <br/>
 <br/>

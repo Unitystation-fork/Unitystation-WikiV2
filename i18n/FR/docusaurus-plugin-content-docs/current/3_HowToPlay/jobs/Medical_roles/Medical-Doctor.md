@@ -6,7 +6,7 @@
 
 Le rôle de médecin est sans doute le plus vital pour garder la station calme, à l'exception de [Securité](Security-Officer.md) et [Contrôle](Captain.md). Leurs mission est de soigner les personnes blesser, ramenez les membres de l'équipage décédé, et fournir à la cuisine des cadavres quand les autres sources de nourriture viennent à manquer.
 
-Bien que ce ne soit pas une partie obligatoire du rôle, il convient de noter que les médecins non [antagonistes](Antagonist_roles.md) sont généralement censés ne pas faire de mal, sauf si leur propre vie ou celle d'un innocent est en jeu; Votre but est de préserver des vies avant tout. Cela ne signifie pas que vous ne pouvez pas faire en sorte que les gens se fassent du mal ou que d'autres personnes le fassent pour vous, mais cela signifie que votre outil le plus efficace pour vous battre est la fuite. Les cris arrivent juste après.
+Bien que ce ne soit pas une partie obligatoire du rôle, il convient de noter que les médecins non [antagonistes](\3_HowToPlay\jobs\Antagonist_roles\Antagonist_roles.md) sont généralement censés ne pas faire de mal, sauf si leur propre vie ou celle d'un innocent est en jeu; Votre but est de préserver des vies avant tout. Cela ne signifie pas que vous ne pouvez pas faire en sorte que les gens se fassent du mal ou que d'autres personnes le fassent pour vous, mais cela signifie que votre outil le plus efficace pour vous battre est la fuite. Les cris arrivent juste après.
 
 
 ### Ne vous inquiétez pas, les côtes repoussent!

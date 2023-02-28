@@ -35,11 +35,11 @@ La catégorie la plus variée est celle des moyens d'entrer sans autorisation.
 
 - S'intégrer pour entrer. Utilisez un déguisement et vous pourrez probablement convaincre quelqu'un de vous laisser entrer, tant qu'il ne regarde pas votre carte d'identité.
 
-- "J'y suis". Utilisez "[hacking](Hacking-Guide.md)" et réarrangez les fils jusqu'à ce que la porte s'ouvre pour vous, quelle que soit votre identité. Assurez-vous d'apprendre les fils à l'avance afin de ne pas rester là pendant des minutes en ayant l'air suspect.
+- "J'y suis". Utilisez "[hacking](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md)" et réarrangez les fils jusqu'à ce que la porte s'ouvre pour vous, quelle que soit votre identité. Assurez-vous d'apprendre les fils à l'avance afin de ne pas rester là pendant des minutes en ayant l'air suspect.
 
 - Obtenez l'identité de quelqu'un qui a l'accès. Agressez, glissez ou tuez une personne appropriée, prenez son identité et utilisez-la pour ouvrir la porte. Le taux de réussite est élevé, mais vous vous ferez prendre tout aussi souvent.
 
-- Cambriolage propre. Démontez (sans casser) une fenêtre ou un mur proprement pour vous frayer un chemin à l'intérieur. Cela fait peu de bruit mais nécessite des connaissances en [construction](Construction.md) et une bonne partie du temps.
+- Cambriolage propre. Démontez (sans casser) une fenêtre ou un mur proprement pour vous frayer un chemin à l'intérieur. Cela fait peu de bruit mais nécessite des connaissances en [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) et une bonne partie du temps.
 
 - une effraction sale. Détruisez une fenêtre en utilisant une arme quelconque ou, si vous êtes TRÈS bien armé, détruisez la porte ou le mur. Les fenêtres sont beaucoup plus faibles aux coups de feu qu'aux armes de mêlée, à tel point que si vous essayez d'utiliser une arme de mêlée, vous feriez mieux de voler une arme et de revenir.
 

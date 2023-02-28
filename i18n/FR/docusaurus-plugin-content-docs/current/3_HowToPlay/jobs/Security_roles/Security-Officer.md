@@ -5,7 +5,7 @@ La sécurité est la force de police de la station, et souvent la deuxième lign
 
 Vous êtes un gardien entre les idéaux de la justice et les fous sauvages que votre entreprise a choisis pour faire avancer ses intérêts dans l'espace. Cependant, ce n'est pas parce que tous les autres sont fous que vous avez le droit de vous déchaîner et de les battre tous jusqu'à ce qu'ils soient inconscients pour les attacher à des lits. Les professionnels ont des normes.
 
-**Ne jouez pas à Security si vous êtes nouveau dans le jeu, c'est un moyen très facile de vous retrouver entouré de personnes qui veulent votre mort pour avoir abusé de vos pouvoirs. C'est aussi un moyen très facile de se faire bannir pour ne pas avoir appliqué correctement la [Loi spatiale](Space-Law.md)**.
+**Ne jouez pas à Security si vous êtes nouveau dans le jeu, c'est un moyen très facile de vous retrouver entouré de personnes qui veulent votre mort pour avoir abusé de vos pouvoirs. C'est aussi un moyen très facile de se faire bannir pour ne pas avoir appliqué correctement la [Loi spatiale](\3_HowToPlay\Guides\Security_guides\Space-Law.md)**.
 
 ## SECurité, pas SHITcurity
 

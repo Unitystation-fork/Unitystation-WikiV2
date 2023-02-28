@@ -117,7 +117,7 @@ When the [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) actually [surviv
 
 ### The business of blood and money ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md)QM):
 
-A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) QM is one of the best times you can have in this game. Through the cargo console you have easy access to weapons, illicit materials, basically whatever you need. Just be mindful of an active [AI](station-AI.md) or a snooping [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
+A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) QM is one of the best times you can have in this game. Through the cargo console you have easy access to weapons, illicit materials, basically whatever you need. Just be mindful of an active [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) or a snooping [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
 
 The cryptographic sequencer is one of the most valuable tools available to a traitor QM in the syndicate uplink. It can be used to unlock any secure crates you purchase like gun crates. You can even distribute them amongst the [greyshirts](\3_HowToPlay\Jobs\Service_roles\Assistant.md) if you want to spread chaos throughout the station, though that will draw attention to cargo *quickly,* so make sure you've got an alibi or are making your moves by then.
 

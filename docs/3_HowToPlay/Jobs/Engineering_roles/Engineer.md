@@ -56,9 +56,9 @@ A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) engineer isn't as eas
 
 ## Construction
 
-Construction and deconstruction are essential tools for [Engineers](engineer.md) and [Traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
+Construction and deconstruction are essential tools for [Engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) and [Traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
 
-A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
+A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
 
 ### Cloth ![Cloth](\img\construction\stack_objects_sheet-cloth.png)
 
@@ -378,7 +378,7 @@ Finally, Destroying the generator, SMESs, cutting SMES wires, or cutting generat
 
 ### Spoiler-free Hacking Tips [as of build 4105]
 
-Use a screwdriver on a door (on any [intent](Intent.md)) to open the panel. Clicking on the door with wires, or a wirecutter in hand will open the hacking interface. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
+Use a screwdriver on a door (on any [intent](Intents.md)) to open the panel. Clicking on the door with wires, or a wirecutter in hand will open the hacking interface. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
 
 Door hacking poses a risk of electric shock, so insulated gloves are a good idea!
 

@@ -23,7 +23,7 @@ While all the other members of the crew can still use extinguishers to put out f
 
 ### DO fill the station with plasma ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Atmos Tech)
 
-[Traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) atmos techs have the potential to become one of the most devastating forces on station. If you know what you are doing, you can flood the station with whatever harmful gas you want, just don't forget to have your internals ready. The most likely individual to interfere with your work is another atmos tech or the [AI](station-AI.md), so be careful if either of those sorts are present.
+[Traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) atmos techs have the potential to become one of the most devastating forces on station. If you know what you are doing, you can flood the station with whatever harmful gas you want, just don't forget to have your internals ready. The most likely individual to interfere with your work is another atmos tech or the [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md), so be careful if either of those sorts are present.
 
   <br/>
 <br/>

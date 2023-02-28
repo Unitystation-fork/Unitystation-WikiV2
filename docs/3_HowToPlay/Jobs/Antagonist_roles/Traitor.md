@@ -51,7 +51,7 @@ Its UnityStation, you never know what is going to happen. You may have lost your
 
 #### Acquire access.
 
-One great way to improve your odds of success is to acquire additional access, either through the proper way of asking the [Head of Personnel](Head-of_Personnel.md) to upgrade your clearance or by more nefarious means such as stealing another person's ID card. You need to go to all the places you can to get your items, and the captain's bedroom may be the place you need to break into to complete your objectives, and it's a lot easier and less conspicuous to get in there with an ID card than by hacking or emagging the door or by cutting through the walls.
+One great way to improve your odds of success is to acquire additional access, either through the proper way of asking the [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) to upgrade your clearance or by more nefarious means such as stealing another person's ID card. You need to go to all the places you can to get your items, and the captain's bedroom may be the place you need to break into to complete your objectives, and it's a lot easier and less conspicuous to get in there with an ID card than by hacking or emagging the door or by cutting through the walls.
 
 #### Be polite
 

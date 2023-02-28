@@ -87,7 +87,7 @@ Sometimes either located in this room or in a small adjacent room is the Cargo O
 
 ### Quartermaster's Office
 
-The [QM's](quartermaster.md) home. Typically has a redundant supply console and the QM's mining hardsuit, as well as loads of paper and paper-based products.
+The [QM's](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md) home. Typically has a redundant supply console and the QM's mining hardsuit, as well as loads of paper and paper-based products.
 
 ### Mining Bay
 

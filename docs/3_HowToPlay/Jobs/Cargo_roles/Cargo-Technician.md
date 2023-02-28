@@ -28,7 +28,7 @@ Let's start with a big note on 'safety:'
 
 Now that's covered...
 
-Your department head is the [Quartermaster](quartermaster.md). Typically, they will be the one deciding what is purchased on the cargo console, so you will likely get stuck with paper duty when not dragging boxes on and off the shuttle. At the front desk, take paper and pens and prepare a couple General Request forms. You can come up with something on your own or just copy this template and paste it onto each paper:
+Your department head is the [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md). Typically, they will be the one deciding what is purchased on the cargo console, so you will likely get stuck with paper duty when not dragging boxes on and off the shuttle. At the front desk, take paper and pens and prepare a couple General Request forms. You can come up with something on your own or just copy this template and paste it onto each paper:
 
 Request Form:
 
