@@ -53,7 +53,7 @@ L'équipement du concierge est hautement spécialisé dans le nettoyage des sale
 3. Attendez que la barre se remplisse et vous avez réussi à nettoyer <u>sans laisser un sol mouillé derrière</u>.
 
 
-Gardez à l'esprit que, bien que la bouteille soit plus rapide et ne mouille pas le sol, il y a une quantité limitée de nettoyant dans la bouteille, et vous avez besoin d'un [compétent](Tellement proche de l'impossible que ça pourrait ne pas exister.md) [chimiste](Chemist.md) afin d'en obtenir plus.
+Gardez à l'esprit que, bien que la bouteille soit plus rapide et ne mouille pas le sol, il y a une quantité limitée de nettoyant dans la bouteille, et vous avez besoin d'un [compétent](Tellement proche de l'impossible que ça pourrait ne pas exister.md) [chimiste](\3_HowToPlay\jobs\Medical_roles\Chemist.md) afin d'en obtenir plus.
 
   <br/>
 <br/>

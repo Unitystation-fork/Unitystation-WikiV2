@@ -20,7 +20,7 @@ Means IC in OOC. A common example is telling people to clone you and revealing w
 
 <big>'Antag'</big>
 
-Means [Antagonist](Antagonist_roles.md). Used when you're too lazy to just say antagonist.
+Means [Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md). Used when you're too lazy to just say antagonist.
 
 <big>'Gray/Greytide'</big>
 

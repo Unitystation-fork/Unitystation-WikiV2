@@ -7,7 +7,7 @@
 Medics are arguably the most vital role to a thriving station, except for [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) and [Command](\3_HowToPlay\Jobs\Command_roles\Captain.md). Their job is to heal injured people, bring back dead crew members, and provide the kitchen with dead bodies when other food sources run out.
 
 
-While it's not a required part of the role, it should be noted that non-[antagonist](Antagonist_roles.md) Medical Doctors are generally expected to do no harm unless your own life or the life of an innocent is at stake; Your purpose is to preserve human life above all else. This doesn't mean you can't make people harm themselves or make other people do the harm for you, but it means that your most efficient tool to fight is running away. Screaming is a close second.
+While it's not a required part of the role, it should be noted that non-[antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md) Medical Doctors are generally expected to do no harm unless your own life or the life of an innocent is at stake; Your purpose is to preserve human life above all else. This doesn't mean you can't make people harm themselves or make other people do the harm for you, but it means that your most efficient tool to fight is running away. Screaming is a close second.
 
 
 ### Don't worry, ribs grow back!
@@ -54,7 +54,7 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 1) Heal critically injured crew members that are around medbay. They are the top priority. Dead people waiting to be cloned can wait a little longer. There is no heavy risk in doing this activity since people often have other priorities over killing you when they haven't died yet.
 
-2) Clone dead people that were brought to you by the paramedics or another crew member. NEVER go find bodies on your own, as you might accidentally end up reviving a filthy [antagonist](Antagonist_roles.md) that puts you into a box and throws you out an airlock. It also might not be a bad idea to ask [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) if any dead to-be-clones that you get have any outstanding criminal charges.
+2) Clone dead people that were brought to you by the paramedics or another crew member. NEVER go find bodies on your own, as you might accidentally end up reviving a filthy [antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md) that puts you into a box and throws you out an airlock. It also might not be a bad idea to ask [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) if any dead to-be-clones that you get have any outstanding criminal charges.
 
 3) Check on [the](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [prisoners](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) in the brig and the [security officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) themselves. [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) tends to be a hotspot for injuries, and its also an opportunity to flex on [shitcurity](\4_Univers\Other\Jokes\Shitsec.md) for human rights abuse, maybe even inspiring them to [change their ways](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md). [Lawyers](\3_HowToPlay\Jobs\Security_roles\Lawyer.md) will love you for this.
 

@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Overview
 
-Captain is one of the most challenging roles on the station. At first glance, your job might seem simple. Just make sure every department is doing what they're supposed to do and hitting the quotas set by [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), and make sure that no [Antagonists](Antagonist_roles.md) can sabotage the place. However, it's never that simple. Not only is your job to prevent the station from descending into chaos, it's also your job to plan the next course of action once prevention fails.
+Captain is one of the most challenging roles on the station. At first glance, your job might seem simple. Just make sure every department is doing what they're supposed to do and hitting the quotas set by [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), and make sure that no [Antagonists](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md) can sabotage the place. However, it's never that simple. Not only is your job to prevent the station from descending into chaos, it's also your job to plan the next course of action once prevention fails.
 
 Of course, calling the Emergency Shuttle is an option, but that should only be done when all other options have been exhausted. That's not the only thing making your job difficult either; [everyone](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) that has [some](Nuclear-Emergency.md) form of [sabotage](Cargonia.md) in mind will have a crosshair aimed straight at your head, so be careful when Jimmy Bob asks you to follow him into the maintenance tunnels.
 
