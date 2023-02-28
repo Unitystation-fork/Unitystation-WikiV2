@@ -1,39 +1,11 @@
-# Atmospherics Technician
-Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
-
-Note: this is the job guide, for the gas/pipe guide, go [here](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md)
-
-As an Atmospherics Technician, your job is pretty much to [stop the station's crew members from suffocating to death](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
-
-### for the love of god do not fill the station with plasma
-
-Atmos Techs are supposed to keep the station from becoming unbreathable. At the moment, you don't have to do much; Atmospherics are barely in the game, and so you can relax. Just make sure the [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) doesn't catch you slacking, and you'll be fine.
-
-However, if you feel like causing trouble (and feel like risking a ban), you have access to some powerful tools: Plasma Canisters''. These are filled with Plasma, a highly flammable gas that can fill the station rather quickly, and can easily be set on fire if you either fire a gun or tazer, or activate a welder while inside plasma. **Keep in mind** [plasmabombing](\3_HowToPlay\RP\RP-words-and-abbreviations.md) is a bannable offense if you're not an Antagonist.
-
-### How to make sure those greyshirted bastards dont choke
-
-The atmosphere on the station is a mix of 20% oxygen and 80% nitrogen at 300 KPA, with some co2 for taste. If (when) something breaks, something breaches, or a fire breaks out, your first job will be to help the ordinary [engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) patch up holes leading to space or put out fires.
-
-After thats done, make sure no [idiots](\3_HowToPlay\Jobs\Service_roles\Assistant.md) try and run into workspace and die, block off access with very clear warnings and firelocks if need-be. once everything has been sealed, your job is to get the atmosphere back up to snuff while the other engineers go about fixing chairs, tables, machines, and the like. To do this you will make use of the tanks of gasses you find in your section of engineering, set an oxygen tank and nitrogen tank (preferably two nitro tanks) in the atmosphere-less area and crank them to 300 kpa, let them flood fill the area, and use your atmos scanner to know when its time to seal them (when pressure reaches 300 kpa).
-
-### HELP IM ON FIRE
-
-While all the other members of the crew can still use extinguishers to put out fire, you can do it better in your fancy asbestos-lined hard-suit, which makes you completely immune to all* fire. Simply pop loose your fire extinguisher and blast away. alternatively, you may try making firebreaks or removing that weird flammable pink confetti in the air.
-
-### DO fill the station with plasma ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Atmos Tech)
-
-[Traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) atmos techs have the potential to become one of the most devastating forces on station. If you know what you are doing, you can flood the station with whatever harmful gas you want, just don't forget to have your internals ready. The most likely individual to interfere with your work is another atmos tech or the [AI](station-AI.md), so be careful if either of those sorts are present.
-
-
-## Guide to Atmospherics
+# Guide to Atmospherics
 Note: This is NOT a guide to the Atmospherics Technician job, though it IS incredibly useful for them to know.
 
-### Overview
+## Overview
 Every tile in US13, even those covered by walls and doors or in space, simulates its atmosphere to a large degree of complexity. Each tile can change in pressure, temperature, gas mixture,
 flammability, etc. very few of these conditions are habitable, and it is the job of Atmos Techs to maintain them. Before one changes the station's atmosphere, however, it is best to understand it, whether to do one's job safely or make ones sabotage more effective.
 
-### Tanks
+## Tanks
 Gas tanks, commonly confused with gas canisters, are small and portable methods of storing and distributing gasses. All jobs start with an oxygen tank and mask in the box within their backpack
 which is useful if the atmosphere happens to have none. There exist rarer larger capacity variants, coloured yellow, and large tanks that cannot fit in the backpack but contain far
 more oxygen than the small emergency canisters and are good for spacewalks and extended operations such as mining.
@@ -41,7 +13,7 @@ more oxygen than the small emergency canisters and are good for spacewalks and e
 These tanks do not and cannot contain an infinite amount of gas. if you are relying on them for a spacewalk, they will eventually run out, so it is recommended you bring a backup
 on very extended walks. The tanks can be filled with gasses from canisters after being inserted into them, though it is recommended to empty the tanks first.
 
-### Canisters
+## Canisters
 Canisters are far larger containers of gas. They cannot be carried and hand and must be pulled one at a time, and require tools to interface and interact with various atmos systems.
 Unlike oxygen tanks, canisters come containing various gases at round start, with only a select few not available. they are MUCH better suited for the demands of station-wide atmos
 management due to their larger capacity, and can be turned into devastating weapons with a little effort.
@@ -58,7 +30,7 @@ when the release is toggled (and the canister is not hooked to a tile). All the 
 The main use of canisters (aside from acting as buffer/storage for atmos) is to flood fill rooms with the gasses contained inside. this can be done benevolently to fill an oxygenless area
 or one previously spaced, or malevolently to fill it with hot plasma.
 
-### Gases
+## Gases
 Rather than a plain and boring single "atmosphere" gas commonly present in other games with atmosphere simulations, there are a large variety of gases that can make up the atmosphere in an area or pipe
 
 Starting with by far the most important, oxygen, the reason why it's needed should be abundantly clear. without oxygen players will rapidly take damage and die,
@@ -99,7 +71,7 @@ In summary of the gases and their availability roundstart in several containers:
 |         | "Air"          | Pre-mixed nitrogen and oxygen              | Maybe?       | Yes        |
 |         | "Empty"        | Empty canister, for filling.               | No           | Yes        |
 
-### Pipes, Manifolds, heat exchangers, etc
+## Pipes, Manifolds, heat exchangers, etc
 While in-air atmospherics is already rather complicated, it goes into the realm of complete absurdity once one factors in piping. many pipes with many different gases and many different
 purposes criss-cross the entire station in an enormous web, all converging onto the atmospherics sub-department itself.
 
@@ -129,7 +101,7 @@ This guide will not be explaining the various regions of the atmospherics sub-de
 |         | Pipe                   | Ordinary pipe, equalizes contents, pressure, and temperature with adjacent pipes.                                                 | None, use valves/pumps                                                                  |
 |         | Pipe Junction          | Region where several pipes meet, equalizing each with each other and itself.                                                        | none, use valves/pumps.
 
-### properties/Math/Equations
+## properties/Math/Equations
 Of course, each tile has its own pressure, contents, volume, molarity (molecule amount), and other properties to allow for the simulation of gasses. these are inter-related
 in-game through the equation PV=NRT, wherein P is pressure, V is volume, N is molarity, R is a constant, and T is temperature. Each of these can cause varying things to occur
 at different values
@@ -146,7 +118,7 @@ and equalized with the air will massively increase in pressure.
 Both high and low temperatures will deal burn damage. This does not mean you have to be on fire, a very hot oven-like room will cook you just as well. The cold of space will also deal damage to
 those poorly insulated.
 
-### advanced atmospherics
+## advanced atmospherics
 Atmos is both the hardest to learn and hardest to master region of SS13, and most don't bother past the basics. For the skilled atmostech, there are however great rewards, even beyond
 circle-jerking to how hot you got plasma to get. A master atmos tech can stop fires before they even begin and give helpful buffs to the entire station, and if a traitor, turn into
 the most potent hellfire one has ever seen. what makes atmos especially powerful is its self-reliance. while jobs like roboticist and chemist rely on others, like mining and botany, to get
@@ -154,10 +126,11 @@ powerful, the atmos tech can build a chamber that makes the sun look like Canada
 is more than just knowing what each part does, and to really understand it it is recommended that you play atmos tech and experiment and communicate with other experienced atmos techs
 to share ideas.
 
-<br/>
+  <br/>
 <br/>
 <br/>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
 <Jobs />
+

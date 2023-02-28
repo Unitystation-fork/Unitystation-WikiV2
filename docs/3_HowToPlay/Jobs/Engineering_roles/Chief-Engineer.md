@@ -8,7 +8,7 @@ Job type: <font color= "#74652c">Engineer</font>. Access: <font color="#74652c">
 
 "ALRIGHT! what goddamn moron cut the high voltage wire again?"
 
-Relevent guides: [Construction](Construction.md), [Engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmos](Guide-to-Atmospherics.md) and [Atmospherics technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md)
+Relevent guides: [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md), [Engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmos](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md) and [Atmospherics technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md)
 
 
 ## Your Job
@@ -116,7 +116,7 @@ If you've got a deathwish, and access to the rods themselves, this method guaran
 
 
 ## Guide to the singularity and tesla engines
-Note: while both the singularity and the tesla are simpler than the [nuclear reactor](Guide-to-the-nuclear-reactor.md), the cost for failure is much higher. Because of this you should be familiar with [engineering](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md)
+Note: while both the singularity and the tesla are simpler than the [nuclear reactor](\3_HowToPlay\Guides\Engineering_guides\Guide-to-the-nuclear-reactor.md), the cost for failure is much higher. Because of this you should be familiar with [engineering](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md)
 BEFORE touching it, unless, of course, you intend to make the engine fail from the getgo.
 
 ### Overview
@@ -237,7 +237,7 @@ electrical devices and be sure that they are wrenched in place.
 7: When the generators are full, turn them on. This will create the shield field.
 
 8: Return to the PA and turn it on. This will create a contained singularity or tesla which will begin creating power. Be sure to keep it fed, but not too large. If your tesla coils
-or radiation collectors were properly wired to the station (see [guide to electricity](Guide-To-Electricity.md)), you will be providing power.
+or radiation collectors were properly wired to the station (see [guide to electricity](\3_HowToPlay\Guides\Engineering_guides\Guide-To-Electricity.md)), you will be providing power.
 
 
 

@@ -35,7 +35,7 @@ In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes
 
 | Name              | Uses                                                         | Processed Ore Sell Value |  Labor Points Reward |
 | ----------------- | ------------------------------------------------------------ | -------------------- | -------------------- |
-| Iron ore          | processed into metal, used for [construction](Construction.md)| 5/u                  | 1/u |
+| Iron ore          | processed into metal, used for [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md)| 5/u                  | 1/u |
 | Sand              | processed into glass, used for construction                  | 5/u                  | 1/u |
 | Plasma ore        | processed into solid plasma, used for construction and powering plasma generators | 200/u                | 15/u |
 | Bananium ore      | Henk honk honk henk. Sell it.                                | 1000/u               | 60/u |

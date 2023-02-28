@@ -35,7 +35,7 @@ To spend money, you must make money, and the way you do that is through exports.
 
 When the [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) actually [survive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) their expedition and grace your department with a fresh haul of ore, you should:
 
-*Distribute all [construction](Construction.md) materials (glass and metal) to lathes or [Engineer](Engineering.md)
+*Distribute all [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) materials (glass and metal) to lathes or [Engineer](Engineering.md)
 *Give [solid plasma](Plasma.md) and uranium to engineering for powering the station.
 
 * Sell gold, silver, bananium, bluespace crystals, and diamonds. Or give them to the [Roboticist](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) and taunt them for their current lack of job functionality.
@@ -66,7 +66,7 @@ When the [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) actually [surviv
 | Vending Resupply packs                | varies   | various, for different vending machines |                           |
 | Potted plants | 700 | 5 random potted plants | 50 (wooden crate) |
 | **Security**                                 |              |                                                              |                                    |
-| [Handcuffs Crate](Security-Officer-Guide.md) | 900          | 3 boxes of handcuffs (21 total)                   | 500 (55%)                          |
+| [Handcuffs Crate](\3_HowToPlay\Guides\Security_guides\Security-Officer-Guide.md) | 900          | 3 boxes of handcuffs (21 total)                   | 500 (55%)                          |
 | Stun Batons Crate                            | 600       | 3 stun batons                                          | 750 (50)                           |
 | Type I-B Body Armor | 800 | 3 armor vests, 3 security helmets | 500 |
 | Bullet Proof Armor | 2000 | 3 bullet proof vests, 3 bullet proof helmets | 500 |

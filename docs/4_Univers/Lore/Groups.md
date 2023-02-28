@@ -1,5 +1,5 @@
 # Groups
-Also see the [lore](The-Lore.md)
+Also see the [lore](\4_Univers\Lore\The-Lore.md)
 
 ## **NanoTrasen**
 

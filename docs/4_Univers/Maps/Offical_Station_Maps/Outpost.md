@@ -30,7 +30,7 @@ The [janitors](\3_HowToPlay\Jobs\Service_roles\Janitor.md) hideout, comes with a
 
 
 ### Micro-Chip Storage
-Stores circuits and boards for the [construction](Construction.md) of machines and consoles![Chip room](\img\No_image.png)
+Stores circuits and boards for the [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) of machines and consoles![Chip room](\img\No_image.png)
 
 ### Lounge
 A place for weary crew to rest or settle their differences in the ring![Lounge](\img\No_image.png)

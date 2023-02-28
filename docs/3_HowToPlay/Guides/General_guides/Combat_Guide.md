@@ -168,7 +168,7 @@ The one exception is the hardsuits used by nuclear operatives, which do not slow
 All the gear in the world cant help you if you dont actually possess it. To this end there are many things you can do to acquire it. Following are some ideas.
 - Buy/Bribe for it (it is a social game, after all)
 - Utilize a favor or friend
-- Acquire it through legitimate means (taking a tazer as [sec](Security Officer.md), for instance)
+- Acquire it through legitimate means (taking a tazer as [sec](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), for instance)
 - stealing it with or without a disguise
 - killing or mugging the person who has it
 - other strategies that can be found in the [guide to access](\3_HowToPlay\Guides\General_guides\Access.md)

@@ -1,100 +1,3 @@
-# Security Officer
-Role type:  <font color= "#711e25">Security</font>. Access levels: <font color="#711e25">Security & cells</font>, Maintenance, Difficulty: <font color="Red">hard</font>.
-
-Security are the Police force of the station, and often the second line of defense against the crew members turning the station into a battle royale (the first line being [Janitors](\3_HowToPlay\Jobs\Service_roles\Janitor.md)). Often times, you have a simple job: Jail criminals, and make sure [no](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [one](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) breaks into areas they shouldn't be in.
-
-You are a guardian between the ideals of justice and the wild psychotics that your company has chosen to advance its interests in space. Just because everyone else is insane, however, does not mean you are permitted to go hog-wild and beat them all unconscious to strap them to beds. Professionals have standards.
-
-**DO NOT play Security if you're new to the game, it's a very easy way to find yourself surrounded by people wanting you dead for abusing your powers. It's also a very easy way to get  job banned for not properly applying [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md)**
-
-## SECurity, not SHITcurity
-
-For some unknown reason, NanoTrasen has chosen to fill this top-notch research station with simple minded baboons who enjoy carnage. As a result, Security is mostly a necessity to keep crew members from destroying it. For the most part, this isn't too hard; you have a tazer, a stun baton (press Z while selected to activate stun mode, many have made that mistake before), and some handcuffs. 90% of the time, this is all you need, since someone with a crowbar on the other side of the room can't really do much when you can very easily taze them and then stun with your baton, then cuff them and take them to the cells.
-
-However, sometimes this isn't enough. Maybe [Xenomorphs](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) have invaded the station. They can't be stunned or cuffed, so your normal strategy won't really work. Not to worry, if the situation is getting out of hand, the [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) will hopefully allow you a lethal weapon from the armory. Just make sure the [Assistants](\3_HowToPlay\Jobs\Service_roles\Assistant.md) don't get their greasy, greytider hands on them, and you'll be fine; be _very_ careful of people standing next to you when you are detaining them with weapons. Overall, just obey the orders of the [HoS](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), keep assistants out of restricted areas, and arrest the shit out of [any](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [unwanted](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) [crew](Cargonia.md), and hopefully you're able to [keep the station from turning into pure, unfiltered chaos.](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
-
-## Know Your Place
-
-The station is ultimately _not_ a military operation, but, as a member of Security, you follow the chain of command closer than any other crewmember:
-
-* You take your orders from the [HoS](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md).
-* You do _not_ have to obey orders from the [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) _unless_ they are acting-HoS.
-* You also take orders from the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md), and their orders superceed the HoS and anyone else except [Central Command](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md).
-* You do _not_ have to take orders from the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) _unless_ they are acting-Captain.
-* You are expected to act according to [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) during all of this. However, you must also develop a sense of when to apply Space Law and when to ignore it. If you arrest crewmembers for every little infraction, your career as a Security Officer will be a short lived one.
-* You must also act according to Standard Operating Procedure. This defines when you are allowed to have weapons out or not, and when you are allowed to apply lethal force.
-
-## Tips of the Trade
-
-* Stun Batons have infinite charges. Tasers do not. Make sure you get your taser charged from time to time in the brig.
-* If you are suspicious of any crewmembers, _keep your distance._ As an upholder of Space Law, you generally have to get probable cause before taking the initiative in a fight. This means that most of your fights will have you on your back foot. Your security armor let's you tank enough damage to probably be able to survive lethal attacks, but it does nothing to stop surprise banana slips, stun baton hits, weapon disarms, and other nasty tricks. If you sense a threat, keep at least 2 tiles between you  and your target until you are ready to make a move.
-* Handcuff people by applying handcuffs to them. A handcuffed person _cannot move if they are grabbed by someone else._
-* Strip people of their equipment by stunbatoning them and shift-clicking while adjacent to them. Do not put them in a prisoner's jumpsuit unless their stay in the brig is 10 minutes or longer.
-* WATCH OUT FOR FLOOR LUBE. It's a very popular tactic to lube the tiles directly outside the security Department doors. Many Security personnel have experienced an early demise for slipping straight out the doors, being dragged away and murdered.
-
-------
-
-# Security Officer
-
-## Overview
-
-As a security officer it is your direct responsibility to oversee the safety of the station. If the station is going haywire then it is because you failed to do your job. In other words being a security officer is fairly stressful, but please don't let that stress overwhelm you. Do make sure to follow the [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in all your doings. Here are a few play styles, pick one you see fitting to you, but don't be afraid to switch around:
-
-## [Obey & Survive]([https://gta.fandom.com/wiki/Los_Santos_Police_Department_(HD_Universe) )
-
-Or commonly referred to as "shitcurity", are the kind of officers that believe it's still 1947 and that we're in the USSR, so they can abuse and mess with anyone below them on the food chain. Here's some advice:
-
-1) Don't be like this.
-
-2) Beware of people trying to disarm you.
-
-3) [Clowns](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) and [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) are your nemesis.
-
-4) Don't expect people to respect you.
-
-5) The feeling of pride you get is temporary.
-
-## [To Protect and to Serve](https://en.wikipedia.org/wiki/Los_Angeles_Police_Department )
-
-These kind of officers just go around the station and make sure everything is in order, not intervening unless needed, these types of officers are neutrally perceived by the public so don't expect praise or hate, well except general hate towards security because of the officers mentioned above. Some tips:
-
-1) You should request [AA](\3_HowToPlay\Guides\General_guides\Access.md) from [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
-
-2) If people tell you to go, don't overstay your welcome.
-
-3) If you have [AA](\3_HowToPlay\Guides\General_guides\Access.md), make sure the kitchen and engineering are doing fine.
-
-4) If you find any xenomorphs then immediately request backup and wait for them, do not engage alone, unless someone is in direct danger.
-
-## [Faithful to Death](https://en.wikipedia.org/wiki/New_York_City_Police_Department)
-
-This type is better suited for those who prefer [role play](\3_HowToPlay\RP\RP-words-and-abbreviations.md) over [combat](Combat.md), these guys hang around bars, talk to citizens, help around the station and otherwise liked. These are the tips that might come in handy for you:
-
-1) Wear a blue uniform with a tie, to stand out and so people can tell you apart from the types above.
-
-2) If people get nervous around you, or otherwise don't like you, prove yourself to them by actions, not hollow words, but, don't [https://sites.google.com/view/unitystation-server-rules/server-rules power play].
-
-3) Security goes before faithfulness, so if a fellow officer calls for backup or the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) calls all units, you should respond immediately.
-
-4) In no case you have the permission to shitcurity, if you do even once, people will remember that and avoid you.
-
-## [Semper Aequus](https://en.wikipedia.org/wiki/Maine_State_Police)
-
-If you don't like any of those but do want to stay at security and manage paperwork then this is just the style for you. Stay at the department, at the front desk, oversee prisoners, make sure they get out on time, and stay put until then, be warden's right hand. Take into account this information:
-
-1) Prisoners may give you a false sense of content by standing in place, but when you hear someone beating on the wall, know that's them.
-
-2) If you detect a break out, immediately close the shutters if they're open, just in case.
-
-3) When manning the front desk, and someone requests a baton, make sure they have proper reasoning, and alert level.
-
-4) If situation goes out of control you might have to get out of your cozy seat and go out to hunt some criminals, or stay home to defend the fort.
-
-5) If an officer brings in a law breaker ask them what they're in for and handle the procedure yourself, following the [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md).
-
-
-----
-
 # Space Law
 Space Law is a collection of rules and regulations enacted by Nanotrasen which has oversight through CentCom and is enforced by the [Sec Officers](https://unitystation.fandom.com/wiki/Security) on the station. Space Law applies to all ranks and positions on station, from the lowliest Assistant to the highest Captain, all are equal under the eyes of the Law and ultimately answer to her.
 
@@ -164,7 +67,7 @@ The [Warden](https://unitystation.fandom.com/wiki/Warden) or [Head of Security](
 
 3. Permanent Prisoners are not permitted to possess any personal belongings whilst they are incarcerated in the
 
-
+    
 
    Prison Wing
 
@@ -206,7 +109,7 @@ There are a few circumstances where deadly force is permissible:
 
 - Severe Personal Risk
 
-
+   
 
   \- sometimes getting close enough to a target to slap the cuffs on will create significant personal risk to the Officer. Deadly force from range is recommended to subdue Wizards and Changelings.
 
@@ -214,7 +117,7 @@ There are a few circumstances where deadly force is permissible:
 
 - Armed and Dangerous
 
-
+   
 
   \- if a suspect is in possession of weapons, including stun weapons, and you have reasonable suspicion that they will use these against you, lethal force is permitted. Although in the majority of cases it is still preferable to attempt to detain them non-lethally.
 
@@ -314,10 +217,7 @@ Only the Captain can authorize an Execution or Forced Cyborgization.
 | **Escape from Brig**                         | If a prisoner flees confinement for any reason other than to escape impending lethal danger (fire, hull breach, murder), reset their timer to their full original punishment. | Reset timer.                                                 |
 | **Aiding and Abetting**                      | Knowingly assisting a criminal is a crime. This includes but is not limited to: Interfering with an arrest, stealing a prisoner in transit, breaking a prisoner out of the brig/prison, hiding a fugitive, providing medical care (unless paired with a large dose of sleep toxins). | The same sentence as the original criminal.                  |
 
-  <br/>
-<br/>
-<br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
-<Jobs />
+
+

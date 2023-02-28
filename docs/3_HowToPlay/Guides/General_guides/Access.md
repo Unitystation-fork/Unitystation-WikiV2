@@ -15,7 +15,7 @@ If your the goody two shoes sort, there are several ways to get into places with
 
 - Just use your own ID to open doors you have access to. The most boring and plain way, but the most efficient and legal by far.
 - Get your ID changed legally by the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) or [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) to get access, then try option 1 above. This will likely involve talking, but unless your trying to get into an area thought of as secure, it generally fairly easy.
-- Convince someone to let you in. If your persuasive enough, have made a bud, or are lacking time, this is a good way to legally get into areas. If its a secure area this will likely not work, but you can probably ask them for the specific thing your after regardless. If you just want the item but they aren't willing to give it up, propose a trade. if you offer the [CMO](Chief-medical-officer.md) an smg for some medicine, he's more than likely to give it to you in a fair exchange.
+- Convince someone to let you in. If your persuasive enough, have made a bud, or are lacking time, this is a good way to legally get into areas. If its a secure area this will likely not work, but you can probably ask them for the specific thing your after regardless. If you just want the item but they aren't willing to give it up, propose a trade. if you offer the [CMO](\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md) an smg for some medicine, he's more than likely to give it to you in a fair exchange.
 
 
 ### The Grey Area
@@ -35,11 +35,11 @@ The most varied of the categories is the ways you can get in without permission.
 
 -  Fit in to get in. Use a disguise and you can probably convince someone to let you inside, so long as they dont look at your ID.
 
-- "I'm in". Use "[hacking](Hacking-Guide.md)" and rearrange wires until the door opens for you regardless of ID. Make sure to learn the wires beforehand so you don't stand there for minutes looking suspicious as hell.
+- "I'm in". Use "[hacking](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md)" and rearrange wires until the door opens for you regardless of ID. Make sure to learn the wires beforehand so you don't stand there for minutes looking suspicious as hell.
 
 -  Get the ID of someone who has access. Mug, Slip, or kill a proper someone, take their ID, and use it to open the door. This has a high success rate, but will also make you get caught equally often.
 
--  Clean burglarizing. Disassemble (don't break) a window or wall cleanly to make your way inside. makes little noise but requires knowledge of [construction](Construction.md) and a good chunk of time.
+-  Clean burglarizing. Disassemble (don't break) a window or wall cleanly to make your way inside. makes little noise but requires knowledge of [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) and a good chunk of time.
 
 - a dirty break-in. Destroy a window using a weapon of some sort, or, if your VERY well armed, destroy the door or wall. Windows are much more weak to gunshots than melee weapons, so much so that if your trying to use a melee weapon your usually better off just stealing a gun and coming back.
 

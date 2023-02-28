@@ -33,7 +33,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 6) Learn to do your role, to do so look on the bottom of the [main page](Main-page.md), it contains a guide on (almost) every role in the game.
 
 
-7) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](Space-Law.md) if you want to, it is your best weapon against [shitcurity](\4_Univers\Other\Jokes\Shitsec.md).
+7) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) if you want to, it is your best weapon against [shitcurity](\3_HowToPlay\Guides\Joke_guides\Shitsec.md).
 
 
 8) If you get spaced (the act of being thrown out into space by pressure) shoot something or throw anything and everything you can in the direction you're flying, that will hopefully, make you fly the other way. Unless you have a spacesuit, you're still going to die, but you're more likely to be found by your crew mates. Also an extinguisher works for this, remember the wall-e movie?
@@ -48,7 +48,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 9b) If you are not armed or not robust then run away, cower behind sec and hide in a locker, or get to the escape shuttle or some other safe place. You can also call atention to the thing that you saw through the radio (open the chat and click the radio icon)
 
 
-10) Learn to [build](Construction.md) in case you need to, and more importantly to destroy (same guide) if you are trapped.
+10) Learn to [build](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in case you need to, and more importantly to destroy (same guide) if you are trapped.
 
 
 11) You should try to keep a tool-stacked tool-belt, med-kit, a light and some food at all times in your person. I prefer six cutlets, but to each their own.

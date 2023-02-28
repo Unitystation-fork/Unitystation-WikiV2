@@ -5,7 +5,7 @@ Note: Death squad, for reasons that should be made clear by the end of this guid
 ### RIP AND TEAR
 
 
-Your goal is simple. Kill anything that moves on the station and blow it to high hell with the onboard nuke. This is typically because the station decided to "form a union", is infested in some way, or is so fucked beyond repair that it may just be best for [NT](The-Lore.md) to kill everyone and cover it up. The amount of resistance you'll face will vary wildly, but this wont typically pose a problem, as you are equipped with the most flat out overpowered gear anyone can lay hands on. Without exaggeration, two or three [robust](Combat.md) death troopers can waste an entire station.
+Your goal is simple. Kill anything that moves on the station and blow it to high hell with the onboard nuke. This is typically because the station decided to "form a union", is infested in some way, or is so fucked beyond repair that it may just be best for [NT](\4_Univers\Lore\The-Lore.md) to kill everyone and cover it up. The amount of resistance you'll face will vary wildly, but this wont typically pose a problem, as you are equipped with the most flat out overpowered gear anyone can lay hands on. Without exaggeration, two or three [robust](Combat.md) death troopers can waste an entire station.
 ### HUUUGE GUNS
 
 
