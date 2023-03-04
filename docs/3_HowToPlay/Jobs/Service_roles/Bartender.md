@@ -2,7 +2,7 @@
 **Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Bar</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>
 
 
-## Overview
+## Bartender - Overview
 
 So you're the Bartender, eh? Selling drinks to security officers and traitors? You'd better keep your beanbags handy." -Chap McCip, self-proclaimed Nanotransen 'Head Demolitions Expert' and 3 time 'War Opportunist'.
 
@@ -12,9 +12,9 @@ The Bartender's job is to make sure those who want a drink get one. Serve your p
 ### Tending to your Bar
 
 
-Because of the inhibiting nature of the sauce you serve, you get a shotgun that fires stunning beanbag shells and a type 1 armor vest. You are going to need them. The difficulty of [making drinks](Drinks-guide.md) is minimal, but bar fights can be deadly. You will see some of the worst displays of violence on the station. It might not be a bad idea to get friendly with the local [security officers](Security.md) early into your shift for the inevitable scuffles that will happen. Especially the [Detective](Detective.md). They tend to spend more time in the bar than in their office, anyways.
+Because of the inhibiting nature of the sauce you serve, you get a shotgun that fires stunning beanbag shells and a type 1 armor vest. You are going to need them. The difficulty of [making drinks](Drinks-guide.md) is minimal, but bar fights can be deadly. You will see some of the worst displays of violence on the station. It might not be a bad idea to get friendly with the local [security officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) early into your shift for the inevitable scuffles that will happen. Especially the [Detective](\3_HowToPlay\Jobs\Security_roles\Detective.md). They tend to spend more time in the bar than in their office, anyways.
 
-When the bar's empty, it might be tempting to load up your bar counter with drinks to keep the boredom away, but half the fun of bartending is mixing the drinks people ask for while talking to them. Your down time is better spent trying to get people to come to the bar in the first place. Light up the comms with invitations. Get the [chef](Cook.md) to deliver their food to the bar. Declare free drinks on the house; Even though its all free already, it gets butts in seats like you wouldn't believe.
+When the bar's empty, it might be tempting to load up your bar counter with drinks to keep the boredom away, but half the fun of bartending is mixing the drinks people ask for while talking to them. Your down time is better spent trying to get people to come to the bar in the first place. Light up the comms with invitations. Get the [chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) to deliver their food to the bar. Declare free drinks on the house; Even though its all free already, it gets butts in seats like you wouldn't believe.
 
 
 ### How to Mix?
@@ -37,14 +37,70 @@ Well, frankly, you just add liquids into a glass and they mix themselves. Before
 
 A full guide on all the drinks can be (will be) found [here](Guide-to-Food-and-Drink.md). Take in account that Vodka is called [https://wiki.baystation12.net/Tunguska_Triple_Distilled Tunguska Triple Distilled] and Whiskey is Old Git's Special Reserve. With that in mind, go out and help some people drink their sorrows away.
 
-### The bottle bearing bludgeoner ([traitor ](traitor.md) Bartender)
+### The bottle bearing bludgeoner ([traitor ](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Bartender)
 
-A [traitorous](traitor.md) bartender doesn't have a lot going for them. They are a very visible job with little excuse to be anywhere but at the bar. You do start with your shotgun and beanbag shells which is something, but it's a loud weapon with no lethality and the limit of two shots at a time makes it a supplemental weapon at best. Whatever your objectives are, if they require you to leave the bar, you best be gone and done with it as quickly as possible, as your absence will be very telling to any [investigators](detective.md).
+A [traitorous](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) bartender doesn't have a lot going for them. They are a very visible job with little excuse to be anywhere but at the bar. You do start with your shotgun and beanbag shells which is something, but it's a loud weapon with no lethality and the limit of two shots at a time makes it a supplemental weapon at best. Whatever your objectives are, if they require you to leave the bar, you best be gone and done with it as quickly as possible, as your absence will be very telling to any [investigators](\3_HowToPlay\Jobs\Security_roles\Detective.md).
 
 
-# Bartending
+## Bartending
 
-## Complex recipes
+### Simple drinks
+
+| Picture                                                      | Name                | Description                                                                                  |
+| ------------------------------------------------------------ | ------------------- | -------------------------------------------------------------------------------------------- |
+| ![glass of water](\img\drinks\drinks_glass_clear.png)                    | glass of water      | The father of all refreshments.                                                              |
+| ![glass of whiskey](\img\construction\glass.png)                 | glass of whiskey    | The silky, smokey whiskey goodness inside the glass makes the drink look very classy.        |
+| ![glass of absinthe](\img\drinks\drinks_absinthe.png)                    | glass of absinthe   | A powerful alcoholic drink. Rumored to cause hallucinations but does not.                    |
+| ![glass of gin](\img\construction\glass.png)                    | glass of gin        | A crystal clear glass of Griffeater gin.                                                     |
+| ![Lizard Wine](\img\drinks\drinks_lizardwine.png)                        | Lizard Wine         | An alcoholic beverage from Space China, made by infusing lizard tails in ethanol.            |
+| ![Ale](\img\construction\glass.png)                                  | Ale                 | A warm pint of delicious ale.                                                                |
+| ![Applejack](\img\construction\glass.png)                     | Applejack           | The perfect beverage for when you feel the need to horse around.                             |
+| ![Apple Juice](\img\drinks\drinks_glass_green.png)                       | Apple Juice         | The sweet juice of an apple, fit for all ages.                                               |
+| ![Banana Juice](\img\drinks\drinks_banana.png)                           | Banana Juice        | The raw essence of a banana. HONK                                                            |
+| ![Berry Juice](\img\drinks\drinks_berryjuice.png)                        | Berry Juice         | berry juice. Or maybe it's jam. Who cares?                                                   |
+| ![Carrot Juice](\img\drinks\drinks_carrotjuice.png)                      | Carrot Juice        | It is just like a carrot but without crunching.                                              |
+| ![Champagne](\img\drinks\drinks_carrotjuice.png)                         | Champagne           | A sparkling wine known for its ability to strike fast and hard.                              |
+| ![Clown's Tears](\img\drinks\drinks_glass_white.png)                     | Clown's Tears       | Not very funny.                                                                              |
+| ![Coffee](\img\drinks\drinks_coffee.png)                                 | Coffee              | Don't drop it, or you'll send scalding liquid and glass shards everywhere.                   |
+| ![Cognac](\img\construction\glass.png)                            | Cognac              | Damn, you feel like some kind of French aristocrat just by holding this.                     |
+| ![Creme de Cacao](\img\construction\glass.png)                 | Creme de Cacao      | A chocolatey liqueur excellent for adding dessert notes to beverages and bribing sororities. |
+| ![Creme de Menthe](\img\drinks\drinks_mentholbox.png)                    | Creme de Menthe     | A minty liqueur excellent for refreshing, cool drinks.                                       |
+| ![Dr. Gibb](\img\construction\glass.png)                        | Dr. Gibb            | Dr. Gibb. Not as dangerous as the name might imply.                                          |
+| ![Fernet](\img\drinks\drinks_fernetbottle.png)                           | Fernet              | Pure Fernet Bronca. Only an absolute madman would drink this pure.                           |
+| ![Garlic Juice](\img\drinks\drinks_glass_brown.png)                      | Garlic Juice        | Crushed (not juiced) garlic. Chefs love it.                                                  |
+| ![Glass of Ice](\img\construction\glass.png)                         | Glass of Ice        | Generally, you're supposed to put something else in there too...                             |
+| ![Hard Cider](\img\construction\glass.png)                       | Hard Cider          | Apple juice, for adults.                                                                     |
+| ![Holy Water](\img\construction\glass.png)                       | Holy Water          | A glass of holy water.                                                                       |
+| ![Lemon Juice](\img\construction\glass.png)                        | Lemon Juice         | Sour...                                                                                      |
+| ![Lemon-Lime](\img\drinks\drinks_glass_yellow.png)                       | Lemon-Lime          | You're pretty certain a real fruit has never actually touched this.                          |
+| ![Lime Juice](\img\drinks\drinks_glass_green.png)                        | Lime Juice          | A glass of sweet-sour lime juice.                                                            |
+| ![Menthol](\img\drinks\drinks_glass_green.png)                           | Menthol             | Tastes naturally minty, and imparts a very mild numbing sensation.                           |
+| ![Milk](\img\drinks\drinks_glass_white.png)                              | Milk                | White and nutritious goodness!                                                               |
+| ![Milk Cream](\img\drinks\drinks_glass_white.png)                        | Milk Cream          | Ewwww...                                                                                     |
+| ![Nothing](\img\drinks\drinks_glass_white.png)                           | Nothing             | Absolutely nothing.                                                                          |
+| ![Orange Juice](\img\drinks\drinks_glass_orange.png)                     | Orange Juice        | Vitamins! Yay!                                                                               |
+| ![Parsnip Juice](\img\construction\glass.png)                  | Parsnip Juice       | Why...                                                                                       |
+| ![Pineapple Juice](\img\drinks\drinks_glass_yellow.png)                  | Pineapple Juice     | Pineapple Juice                                                                              |
+| ![Berry Juice](\img\drinks\drinks_poisonberryjuice.png)                  | Berry Juice         | berry juice. Or maybe it's poison. Who cares?                                                |
+| ![Potato Juice](\img\drinks\drinks_glass_brown.png)                      | Potato Juice        | Bleh...                                                                                      |
+| ![Rum](\img\construction\glass.png)                                  | Rum                 | Now you want to Pray for a pirate suit, don't you?                                           |
+| ![Soda Water](\img\drinks\drinks_glass_clear.png)                        | Soda Water          | Why not make a scotch and soda?                                                              |
+| ![Sol Dry](\img\drinks\drinks_glass_yellow.png)                          | Sol Dry             | A soothing, mellow drink made from ginger                                                    |
+| ![Soy Milk](\img\drinks\drinks_glass_white.png)                          | Soy Milk            | White and nutritious soy goodness!                                                           |
+| ![Space Cola](\img\drinks\drinks_glass_brown.png)                        | Space Cola          | A glass of refreshing Space Cola.                                                            |
+| ![Space Mountain Wind](\img\construction\glass.png) | Space Mountain Wind | Space Mountain Wind. As you know, there are no mountains in space, only wind.                |
+| ![Space-Up](\img\construction\glass.png)                       | Space-Up            | Space-Up. It helps keep your cool.                                                           |
+| ![Tea](\img\construction\glass.png)                                  | Tea                 | Drinking it from here would not seem right.                                                  |
+| ![Tequila](\img\construction\glass.png)                          | Tequila             | Now all that's missing is the weird colored shades!                                          |
+| ![Tomato Juice](\img\drinks\drinks_glass_red.png)                        | Tomato Juice        | Are you sure this is tomato juice?                                                           |
+| ![Tonic Water](\img\drinks\drinks_glass_clear.png)                       | Tonic Water         | Quinine tastes funny, but at least it'll keep that Space Malaria away.                       |
+| ![Triple Sec](\img\drinks\drinks_glass_orange.png)                       | Triple Sec          | A sweet and vibrant orange liqueur.                                                          |
+| ![Vermouth](\img\construction\glass.png)                        | Vermouth            | You wonder why you're even drinking this straight.                                           |
+| ![Watermelon Juice](\img\drinks\drinks_glass_red.png)                    | Watermelon Juice    | A glass of watermelon juice.                                                                 |
+| ![Welder Fuel](\img\construction\glass.png)                     | Welder Fuel         | Unless you are an industrial tool, this is probably not safe for consumption.                |
+|                                                              |
+
+### Complex recipes
 
 | Picture                                                        | Name                        | Recipe                                                                   | Description                                                                                                                                                                                 |
 | -------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -168,62 +224,6 @@ A [traitorous](traitor.md) bartender doesn't have a lot going for them. They are
 | ![White Russian](\img\construction\glass.png)                 | White Russian               | 3 Black Russian, 2 Cream                                                 | A very nice looking drink. But that's just, like, your opinion, man.                                                                                                                        |
 | ![Wine](\img\construction\glass.png)                                  | Wine                        | 10 Grape Juice                                                           | A very classy looking drink.                                                                                                                                                                |
 | ![Wizz Fizz](\img\drinks\drinks_wizz_fizz.png)                             | Wizz Fizz                   | 1 Triple Sec, 1 Soda Water, 1 Champagne                                  | A magical potion, fizzy and wild! However the taste, you will find, is quite mild.                                                                                                          |
-
-## Simple drinks
-
-| Picture                                                      | Name                | Description                                                                                  |
-| ------------------------------------------------------------ | ------------------- | -------------------------------------------------------------------------------------------- |
-| ![glass of water](\img\drinks\drinks_glass_clear.png)                    | glass of water      | The father of all refreshments.                                                              |
-| ![glass of whiskey](\img\construction\glass.png)                 | glass of whiskey    | The silky, smokey whiskey goodness inside the glass makes the drink look very classy.        |
-| ![glass of absinthe](\img\drinks\drinks_absinthe.png)                    | glass of absinthe   | A powerful alcoholic drink. Rumored to cause hallucinations but does not.                    |
-| ![glass of gin](\img\construction\glass.png)                    | glass of gin        | A crystal clear glass of Griffeater gin.                                                     |
-| ![Lizard Wine](\img\drinks\drinks_lizardwine.png)                        | Lizard Wine         | An alcoholic beverage from Space China, made by infusing lizard tails in ethanol.            |
-| ![Ale](\img\construction\glass.png)                                  | Ale                 | A warm pint of delicious ale.                                                                |
-| ![Applejack](\img\construction\glass.png)                     | Applejack           | The perfect beverage for when you feel the need to horse around.                             |
-| ![Apple Juice](\img\drinks\drinks_glass_green.png)                       | Apple Juice         | The sweet juice of an apple, fit for all ages.                                               |
-| ![Banana Juice](\img\drinks\drinks_banana.png)                           | Banana Juice        | The raw essence of a banana. HONK                                                            |
-| ![Berry Juice](\img\drinks\drinks_berryjuice.png)                        | Berry Juice         | berry juice. Or maybe it's jam. Who cares?                                                   |
-| ![Carrot Juice](\img\drinks\drinks_carrotjuice.png)                      | Carrot Juice        | It is just like a carrot but without crunching.                                              |
-| ![Champagne](\img\drinks\drinks_carrotjuice.png)                         | Champagne           | A sparkling wine known for its ability to strike fast and hard.                              |
-| ![Clown's Tears](\img\drinks\drinks_glass_white.png)                     | Clown's Tears       | Not very funny.                                                                              |
-| ![Coffee](\img\drinks\drinks_coffee.png)                                 | Coffee              | Don't drop it, or you'll send scalding liquid and glass shards everywhere.                   |
-| ![Cognac](\img\construction\glass.png)                            | Cognac              | Damn, you feel like some kind of French aristocrat just by holding this.                     |
-| ![Creme de Cacao](\img\construction\glass.png)                 | Creme de Cacao      | A chocolatey liqueur excellent for adding dessert notes to beverages and bribing sororities. |
-| ![Creme de Menthe](\img\drinks\drinks_mentholbox.png)                    | Creme de Menthe     | A minty liqueur excellent for refreshing, cool drinks.                                       |
-| ![Dr. Gibb](\img\construction\glass.png)                        | Dr. Gibb            | Dr. Gibb. Not as dangerous as the name might imply.                                          |
-| ![Fernet](\img\drinks\drinks_fernetbottle.png)                           | Fernet              | Pure Fernet Bronca. Only an absolute madman would drink this pure.                           |
-| ![Garlic Juice](\img\drinks\drinks_glass_brown.png)                      | Garlic Juice        | Crushed (not juiced) garlic. Chefs love it.                                                  |
-| ![Glass of Ice](\img\construction\glass.png)                         | Glass of Ice        | Generally, you're supposed to put something else in there too...                             |
-| ![Hard Cider](\img\construction\glass.png)                       | Hard Cider          | Apple juice, for adults.                                                                     |
-| ![Holy Water](\img\construction\glass.png)                       | Holy Water          | A glass of holy water.                                                                       |
-| ![Lemon Juice](\img\construction\glass.png)                        | Lemon Juice         | Sour...                                                                                      |
-| ![Lemon-Lime](\img\drinks\drinks_glass_yellow.png)                       | Lemon-Lime          | You're pretty certain a real fruit has never actually touched this.                          |
-| ![Lime Juice](\img\drinks\drinks_glass_green.png)                        | Lime Juice          | A glass of sweet-sour lime juice.                                                            |
-| ![Menthol](\img\drinks\drinks_glass_green.png)                           | Menthol             | Tastes naturally minty, and imparts a very mild numbing sensation.                           |
-| ![Milk](\img\drinks\drinks_glass_white.png)                              | Milk                | White and nutritious goodness!                                                               |
-| ![Milk Cream](\img\drinks\drinks_glass_white.png)                        | Milk Cream          | Ewwww...                                                                                     |
-| ![Nothing](\img\drinks\drinks_glass_white.png)                           | Nothing             | Absolutely nothing.                                                                          |
-| ![Orange Juice](\img\drinks\drinks_glass_orange.png)                     | Orange Juice        | Vitamins! Yay!                                                                               |
-| ![Parsnip Juice](\img\construction\glass.png)                  | Parsnip Juice       | Why...                                                                                       |
-| ![Pineapple Juice](\img\drinks\drinks_glass_yellow.png)                  | Pineapple Juice     | Pineapple Juice                                                                              |
-| ![Berry Juice](\img\drinks\drinks_poisonberryjuice.png)                  | Berry Juice         | berry juice. Or maybe it's poison. Who cares?                                                |
-| ![Potato Juice](\img\drinks\drinks_glass_brown.png)                      | Potato Juice        | Bleh...                                                                                      |
-| ![Rum](\img\construction\glass.png)                                  | Rum                 | Now you want to Pray for a pirate suit, don't you?                                           |
-| ![Soda Water](\img\drinks\drinks_glass_clear.png)                        | Soda Water          | Why not make a scotch and soda?                                                              |
-| ![Sol Dry](\img\drinks\drinks_glass_yellow.png)                          | Sol Dry             | A soothing, mellow drink made from ginger                                                    |
-| ![Soy Milk](\img\drinks\drinks_glass_white.png)                          | Soy Milk            | White and nutritious soy goodness!                                                           |
-| ![Space Cola](\img\drinks\drinks_glass_brown.png)                        | Space Cola          | A glass of refreshing Space Cola.                                                            |
-| ![Space Mountain Wind](\img\construction\glass.png) | Space Mountain Wind | Space Mountain Wind. As you know, there are no mountains in space, only wind.                |
-| ![Space-Up](\img\construction\glass.png)                       | Space-Up            | Space-Up. It helps keep your cool.                                                           |
-| ![Tea](\img\construction\glass.png)                                  | Tea                 | Drinking it from here would not seem right.                                                  |
-| ![Tequila](\img\construction\glass.png)                          | Tequila             | Now all that's missing is the weird colored shades!                                          |
-| ![Tomato Juice](\img\drinks\drinks_glass_red.png)                        | Tomato Juice        | Are you sure this is tomato juice?                                                           |
-| ![Tonic Water](\img\drinks\drinks_glass_clear.png)                       | Tonic Water         | Quinine tastes funny, but at least it'll keep that Space Malaria away.                       |
-| ![Triple Sec](\img\drinks\drinks_glass_orange.png)                       | Triple Sec          | A sweet and vibrant orange liqueur.                                                          |
-| ![Vermouth](\img\construction\glass.png)                        | Vermouth            | You wonder why you're even drinking this straight.                                           |
-| ![Watermelon Juice](\img\drinks\drinks_glass_red.png)                    | Watermelon Juice    | A glass of watermelon juice.                                                                 |
-| ![Welder Fuel](\img\construction\glass.png)                     | Welder Fuel         | Unless you are an industrial tool, this is probably not safe for consumption.                |
-|                                                              |
 
   <br/>
 <br/>

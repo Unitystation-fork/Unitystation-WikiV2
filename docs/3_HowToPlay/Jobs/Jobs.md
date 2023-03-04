@@ -1,13 +1,13 @@
 | Department  | Roles                                                        |
 | ----------- | ------------------------------------------------------------ |
-| Command     | [Captain](Captain.md), [Head of Personnel](Head-of-Personnel.md) |
-| Security    | [Head of Security](Head-of-Security.md), [Warden](Warden.md), [Security Officer](Security-Officer.md), [Detective](Detective.md) |
-| Engineering | [Chief Engineer](Chief-Engineer.md), [Engineer](Engineer.md), [Atmospherics Technician](Atmospherics-Technician.md) |
-| Science     | [Research Director](Research-Director.md), [Scientist](Scientist.md), [Geneticist](Geneticist.md), [Roboticist](Roboticist.md) |
-| Medical     | [Chief Medical Officer](Chief-Medical-Officer.md), [Medical Doctor](Medical-Doctor.md), [Paramedic](paramedic.md), [Chemist](Chemist.md), [Virologist](Virologist.md), |
-| Cargo       | [Quartermaster](Quartermaster.md), [Cargo Technician](Cargo-Technician.md), [Shaft Miner](Shaft-Miner.md) |
-| Service     | [Botanist](Botanist.md), [Bartender](Bartender.md), [Cook](Cook.md), [Janitor](Janitor.md), [Clown](Clown.md), [Mime](Mime.md), [Curator](Curator.md), [Lawyer](Lawyer.md), [Chaplain](Chaplain.md), [Assistant](Assistant.md), [Psychologist](Psychologist.md) |
-| Synthetic   | [Station AI](Station-AI.md)                                  |
-| Ghost Roles | [Ancient Engineer,](Ancient-Engineer.md) [Ash Walker,](AshWalker.md) [Fugitive](Fugitive.md) |
-| Antagonist  | [Revolutionary](Cargonia.md), [Nuclear operative](Nuclear-Emergency.md), [Traitor](Traitor.md), [Blob](Blob.md), [Wizard](Wizard.md), |
-| Centcom     | [Centcom Officer](Central-Command-Officer.md), [Death Squad](Death-Squad.md), [Emergency Response Team,](Emergency-Response-Team.md) [Redshield Officer](Redshield-Officer.md) |
+| Command     | [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md), [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) |
+| Security    | [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md), [Security Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Detective](\3_HowToPlay\Jobs\Security_roles\Detective.md) |
+| Engineering | [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md), [Engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmospherics Technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md) |
+| Science     | [Research Director](\3_HowToPlay\Jobs\Science_roles\Research-Director.md), [Scientist](\3_HowToPlay\Jobs\Science_roles\Scientist.md), [Geneticist](\3_HowToPlay\Jobs\Science_roles\Geneticist.md), [Roboticist](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) |
+| Medical     | [Chief Medical Officer](\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md), [Medical Doctor](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md), [Paramedic](\3_HowToPlay\Jobs\Medical_roles\Paramedic.md), [Chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md), [Virologist](\3_HowToPlay\Jobs\Medical_roles\Virologist.md), |
+| Cargo       | [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), [Cargo Technician](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md), [Shaft Miner](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) |
+| Service     | [Botanist](\3_HowToPlay\Jobs\Service_roles\Botanist.md), [Bartender](\3_HowToPlay\Jobs\Service_roles\Bartender.md), [Cook](\3_HowToPlay\Jobs\Service_roles\Cook.md), [Janitor](\3_HowToPlay\Jobs\Service_roles\Janitor.md), [Clown](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md), [Mime](\3_HowToPlay\Jobs\Entertainment_Roles\Mime.md), [Curator](\3_HowToPlay\Jobs\Entertainment_Roles\Curator.md), [Lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), [Chaplain](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md), [Assistant](\3_HowToPlay\Jobs\Service_roles\Assistant.md), [Psychologist](\3_HowToPlay\Jobs\Medical_roles\Psychologist.md) |
+| Synthetic   | [Station AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md)                                  |
+| Ghost Roles | [Ancient Engineer,](Ancient-Engineer.md) [Ash Walker,](AshWalker.md) [Fugitive](\3_HowToPlay\Jobs\Antagonist_roles\Fugitive.md) |
+| Antagonist  | [Revolutionary](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md), [Nuclear operative](Nuclear-Emergency.md), [Traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md), [Blob](\3_HowToPlay\Jobs\Antagonist_roles\Blob.md), [Wizard](\3_HowToPlay\Jobs\Antagonist_roles\Wizard.md), |
+| Centcom     | [Centcom Officer](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), [Death Squad](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md), [Emergency Response Team,](Emergency-Response-Team.md) [Redshield Officer](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Redshield-Officer.md) |

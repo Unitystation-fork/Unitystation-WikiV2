@@ -4,15 +4,15 @@
 Note: for the more detailed guide to food preparation, look [Here](Guide-to-Food-and-Drink.md).
 
 
-## Overview
+## Cook - Overview
 
 
-The Cook is one of the most simple roles on the station: Make food, serve it to customers, and say no to the [Chaplain](Chaplain.md) when they ask you to give them a knife for "[ritualistic purposes](Battle-royale.md)". Its usually recommended for new players to try the game with this role if they are on their own.
+The Cook is one of the most simple roles on the station: Make food, serve it to customers, and say no to the [Chaplain](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md) when they ask you to give them a knife for "[ritualistic purposes](\3_HowToPlay\Guides\General_guides\Battle-royale.md)". Its usually recommended for new players to try the game with this role if they are on their own.
 
 
 ### Dinner's ready
 
-Being a Cook is a relatively simple job. You have one duty: make sure the station doesn't starve. You have two ways of doing this: cooking raw steaks in the microwave, or [botany](Botanist.md) actually knowing how their job works. As for the meat steaks, you can either go to the Butcher's room (in Outpost station it's the room north of the kitchen, just head into the maintenance tunnels above you and the room will be on the other side), or by bugging [Medical](Medical-Doctor.md) for bodies once they've cloned said bodies.
+Being a Cook is a relatively simple job. You have one duty: make sure the station doesn't starve. You have two ways of doing this: cooking raw steaks in the microwave, or [botany](\3_HowToPlay\Jobs\Service_roles\Botanist.md) actually knowing how their job works. As for the meat steaks, you can either go to the Butcher's room (in Outpost station it's the room north of the kitchen, just head into the maintenance tunnels above you and the room will be on the other side), or by bugging [Medical](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) for bodies once they've cloned said bodies.
 
 To make a steak you must take the meat, put it in a microwave, wait 10 seconds and serve. How does the microwave magically add a plate to the steak? Nobody knows, but we do know that those plates are pretty good for abusing the clown.
 
@@ -32,11 +32,11 @@ You will gradually lose nutrition over time, though different actions cause diff
 
 ## Food
 
-## Bowl
+### Bowl
 
 Using a Bowl you can create some simple dough. To do that, combine 15 units of flour and 10 units of water in a bowl. Left-click an item to put it into your hand and then left-click on the bowl to pour your ingredients. You can change the amount of units per use by left-clicking on an item in your hand. If you want to go further you can then turn the dough into a flat dough by having the dough in one of your hands and left-clicking it with a rollingpin with the other hand. Do the same with a Knife and you get 3 dough slices which in turn can be turned into buns through the Microwave.
 
-## MicroWave
+### MicroWave
 
 | Picture                                                 | Name                 | Ingredients                | Description                                                                           |
 | ------------------------------------------------------- | -------------------- | -------------------------- | ------------------------------------------------------------------------------------- |
@@ -81,7 +81,7 @@ Using a Bowl you can create some simple dough. To do that, combine 15 units of f
 | ![warm Spicy-pocket](\img\food\food_donkpocketspicy.png)          | warm Spicy-pocket    | 1 Spicy-pocket             | The classic snack food, now maybe a bit too spicy.                                    |
 | ![warm Teriyaki-pocket](\img\food\food_donkpocketteriyaki.png)    | warm Teriyaki-pocket | 1 Teriyaki-pocket          | An east-asian take on the classic stationside snack, now steamy and warm.             |
 
-## Knife
+### Knife
 
 | Picture                                                                                                 | Name                                           | Ingredients                                | Description                                                                         |
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------- |
@@ -142,7 +142,7 @@ Using a Bowl you can create some simple dough. To do that, combine 15 units of f
 | ![raw spider cutlet](\img\food\food_rawcutlet.png)                                                                | raw spider cutlet                              | 1 spider meat                              | N/A                                                                                 |
 | ![killer tomato meat](\img\food\food_tomatomeat.png)                                                              | killer tomato meat                             | 1 killer-tomato                            | A slice from a huge tomato.                                                         |
 
-## Rolling pin
+### Rolling pin
 
 | Picture                                        | Name       | Ingredients   | Description                                                    |
 | ---------------------------------------------- | ---------- | ------------- | -------------------------------------------------------------- |
@@ -150,7 +150,7 @@ Using a Bowl you can create some simple dough. To do that, combine 15 units of f
 | ![pie dough](\img\food\food_ingredients_piedough.png)    | pie dough  | 1 cake batter | Cook it to get a pie.                                          |
 | ![pancake](\img\food\food_pancakes_1.png)                | pancake    | 1 pastry base | A fluffy pancake. The softer, superior relative of the waffle. |
 
-## Combined
+### Combined
 
 If you want to combine items have one in each of your hands and then left-click on any of the two.
 
@@ -180,7 +180,7 @@ If you want to combine items have one in each of your hands and then left-click 
 | ![corgi burger](\img\food\burgerbread_hburger.png)            | corgi burger         | 1 bun, 1 corgi meat                   | N/A                                                                   |
 | ![butter biscuit](\img\food\food_butterbiscuit.png)           | butter biscuit       | 1 bun, 1 stick of butter              | Well butter my biscuit!                                               |
 
-## Grinder
+### Grinder
 
 | Picture      | Name    | Ingredients | Description |
 | ------------ | ------- | ----------- | ----------- |

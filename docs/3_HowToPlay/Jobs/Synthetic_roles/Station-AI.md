@@ -26,13 +26,13 @@ Besides saving the crew from itself, a lot of what you're going to be doing is o
 
 ### Your home: the AI Satellite
 
-The station AI starts inside the maximum security AI satellite, a chamber designed to keep the AI safe, secure, and out of the hands of [nefarious](traitor.md) or [grabby](assistant.md) types. Inside the AI satellite will be your room protected by a number of automatic laser turrets. These turrets shoot anyone on sight unless they have been disabled by accesses a small turret control screen, either by you or by a head of staff. The turret controller can also toggle the turret fire modes from stun to kill.
+The station AI starts inside the maximum security AI satellite, a chamber designed to keep the AI safe, secure, and out of the hands of [nefarious](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) or [grabby](\3_HowToPlay\Jobs\Service_roles\Assistant.md) types. Inside the AI satellite will be your room protected by a number of automatic laser turrets. These turrets shoot anyone on sight unless they have been disabled by accesses a small turret control screen, either by you or by a head of staff. The turret controller can also toggle the turret fire modes from stun to kill.
 
 There will usually be several layers of defense in the AI satellite, as well as the AI upload room, which contains a terminal for uploading new laws to the AI.
 
 ### Binary chat
 
-As an AI, you have your own secure radio channel (binary) to speaking with other synthetics. Given that Cyborgs are still MIA, the only time you will get use out of this is in the uncommon, but possible scenario of a station with two or more AI cores. This currently only happens due to Admin fiat, but may become a more common scenarios once station AIs are constructable by [Roboticists.](Roboticist.md)
+As an AI, you have your own secure radio channel (binary) to speaking with other synthetics. Given that Cyborgs are still MIA, the only time you will get use out of this is in the uncommon, but possible scenario of a station with two or more AI cores. This currently only happens due to Admin fiat, but may become a more common scenarios once station AIs are constructable by [Roboticists.](\3_HowToPlay\Jobs\Science_roles\Roboticist.md)
 
 
 ### Emergency evacuation

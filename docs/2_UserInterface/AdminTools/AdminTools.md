@@ -2,52 +2,14 @@
 title: Admin Interface
 sidebar_position: 2
 ---
-{# {{tag>UI interface of the BROUILLON game admin tool}} #}
+
 ![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
 # Admin Interface
-## Content ##
-
-```properties
-├── 1 - Admin Tool
-│        ├── 1.1 - Spawn item
-│        ├── 1.2 -  Clone & delete Item
-│        └── 1.3 -  Variable Viewer
-├── 2 - Admin Menu
-│        ├── 2.1 - MHELP
-│        ├── 2.2 - [Admin Tool Panel]
-│        │        ├──  2.2a - Game Mode
-│        │        ├──  2.2b - Player Manager
-│        │        │        ├──  2.2b.1 - Kick
-│        │        │        ├──  2.2b.2 - Ban
-│        │        │        ├──  2.2b.3 - JobBan
-│        │        │        ├──  2.2b.4 - Smite
-│        │        │        ├──  2.2b.5 - Respawn
-│        │        │        ├──  2.2b.6 - Teleport Admin TO Player - Aghost
-│        │        │        ├──  2.2b.7 - Teleport Player TO Admin
-│        │        │        ├──  2.2b.8 - Teleport Player TO Admin
-│        │        │        ├──  2.2b.9 - Teleport Player TO Admin - ALL
-│        │        │        ├──  2.2b.10 - heal
-│        │        │        └──  2.2b.11 - mentor
-│        │        ├──  2.2c - CentCom
-│        │        ├──  2.2d - Events Managers
-│        │        ├──  2.2e - Round Managers
-│        │        ├──  2.2f - Dev Tools
-│        │        └──  2.2g - Server Settings
-│        ├── 2.3 - ACHAT
-│        ├── 2.4 - ALOGS
-│        ├── 2.5 - AHELP
-│        ├── 2.6 - [INFO]
-│        ├── 2.7 - Global Sound
-│        ├── 2.8 - Global Music
-│        ├── 2.9 - AGHOST
-│        └── 2.10 - ALERTS
-└── 3 - CREDIT
-```
 
 ## 1 - Administrator toolbar
 The admin toolbar is located at the top right of the screen, after starting the game you can use the last button on the far right.
 
-### 1.1 - Spawn item ###
+### 1.1 - Spawn item 
 Querying in the search bar will display the results just below.
 Left click on the item to select it and left click on the field to add it to the game.
 
@@ -61,7 +23,7 @@ Note there is currently no Ctrl+W.
 ------------
 
 
-### 1.3 -  Variable Viewer ###
+### 1.3 -  Variable Viewer
 La fenêtre de variable est composée ainsi
 ![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)Les couleurs de variable peuvent ainsi être différenciées.
 ![VariableColor](https://i.imgur.com/jsMibs1.png)
@@ -86,12 +48,12 @@ La fenêtre de variable est composée ainsi
 
 ------------
 
-## 2 - Admin Menu ##
+## 2 - Admin Menu
 ![AdminToolButton](https://i.imgur.com/u6dFEtq.png)
 
 Unlike the admin tools, the Menu is available as soon as you connect to the server.
 
-### 2.1 - MHELP ##
+### 2.1 - MHELP
 ![MentorChat](https://i.imgur.com/Kgewtjp.png)
 
 MentorChat.
@@ -104,15 +66,15 @@ on the right - history and correspondence area.
 
 ------------
 
-### 2.2 - [Admin Toolbar] ###
+### 2.2 - [Admin Toolbar
 ![Pannel](https://i.imgur.com/zWCeQzz.png)
 
 This panel is divided into 7 windows.
 
-#### 2.2a - [GameModeManager] ####
+#### 2.2a - [GameModeManager
 ![GameModeManager](https://i.imgur.com/wMViLXt.png)
 
-#### 2.2b - PlayerManager ####
+#### 2.2b - PlayerManager
 ![PlayerManager](https://i.imgur.com/Go0hAUI.png)
 
 This window collects several visual tools.
@@ -123,28 +85,28 @@ If the list is too long, you can use the search function above.
 
 ------------
 
-##### 2.2b.1 - Kick a player #####
+##### 2.2b.1 - Kick a player
 
 ------------
 
-##### 2.2b.2 - Ban a player #####
+##### 2.2b.2 - Ban a player
 ![enter image description here] (https://i.imgur.com/sdtcGgo.png)
 
 ------------
 
-##### 2.2b.3 - Ban a profession #####
+##### 2.2b.3 - Ban a profession
 ![JobBan](https://i.imgur.com/iEcdIhM.png)
 
 Allows you to block or ban players based on their profession. Also works for antagonists.
 
 ------------
 
-##### 2.2b.4 - Damage #####
+##### 2.2b.4 - Damage
 ![Smite](https://i.imgur.com/vAMpcrl.png)
 
 ------------
 
-##### 2.2b.5 - Revive #####
+##### 2.2b.5 - Revive
 ![Respawn](https://i.imgur.com/AC5pPcj.png)
 Allows you to bring a player back to life (even if he is still alive).
 
@@ -154,20 +116,20 @@ For example, you can revive a character with "cleaner" + "blob".
 
 ------------
 
-##### 2.2b.6 - Teleport admin to player - AGHOST #####
+##### 2.2b.6 - Teleport admin to player - AGHOST
 **You** are teleported to the selected player in ghost mode (invisible)
 
 ------------
 
-##### 2.2b.7 - Teleport an administrator to a player #####
+##### 2.2b.7 - Teleport an administrator to a player
 **You** teleport to the selected player
 ------------
 
-##### 2.2b.8 - Teleport player to administrator #####
+##### 2.2b.8 - Teleport player to administrator
 Teleports **selected **player** to you
 ------------
 
-##### 2.2b.9 - Teleport to Admin - ALL players #####
+##### 2.2b.9 - Teleport to Admin - ALL players
 
 All players teleported to the admin
 
@@ -175,7 +137,7 @@ Doesn't work if you are a ghost.
 
 ------------
 
-##### 2.2b.10 - Cure #####
+##### 2.2b.10 - Cure
 Once a player is selected, you can fully heal them.
 
 Be aware that this cure does not restore lost limbs.
@@ -184,14 +146,14 @@ Nor does it heal death.
 
 ------------
 
-##### 2.2b.11 - Assign Mentor #####
+##### 2.2b.11 - Assign Mentor
 Allows you to give selected players the role of mentor.
 
 -at the moment
 -this can only open up the mentor interface in addition.
 ------------
 
-#### 2.2c - CC (Central Command, CentComm) ####
+#### 2.2c - CC (Central Command, CentComm
 ![CentComm](https://i.imgur.com/h1IA8gc.png)
 
 This is a role-playing tool** `/!\* **This is a role-playing tool** `/!\*`.
@@ -202,7 +164,7 @@ For more information, see
 
 | CenterComp** | [Central-Command-Officer.md], [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
 
-#### 2.2d - Event Manager ####
+#### 2.2d - Event Manager
 ![EventManager](https://i.imgur.com/1PYvGB4.png)** Event Type:**.
 
 * Random
@@ -214,32 +176,32 @@ For more information, see
 
 press **[run event]** to confirm.
 
-#### 2.2e - Current Round Manager ####
+#### 2.2e - Current Round Manager
 
-#### 2.2f - Developer Tools ####
+#### 2.2f - Developer Tools
 ![DevTool](https://i.imgur.com/plGL6aB.png)
 
-#### 2.2g - Server settings ####
+#### 2.2g - Server settings
 ![ServerSettings](https://i.imgur.com/7LMIvPP.png)
 
 Various "other" server control settings are collected here, new ones will be added soon.
 
-### 2.3 - ACHAT ###
+### 2.3 - ACHAT
 [Purchasing] (https://i.imgur.com/uVoHfiK.png)
 In-game chat window for administrators, only between them.
-### 2.4 - ALOGS ###
+### 2.4 - ALOGS
 ![AdminLogs](https://i.imgur.com/uvhI6EE.png)
 Admin logs
 
 Logs of admin operations, such as item spawning.
 
-### 2.5 - AHELP ###
+### 2.5 - AHELP
 ![AHELP](https://i.imgur.com/9dd4Vxh.png)
 Chat window from player to admin
 
 player can open the window by pressing Enter, then press [help] button at the bottom left, this window will show the message for admin, left list of conversations.
 
-### 2.6 - [INFO] ###
+### 2.6 - [INFO
 ![Info](https://i.imgur.com/S3bbx59.png)
 This little button (1st button, 2nd line)
 
@@ -249,22 +211,22 @@ allows you to display information directly in the game, containing character nam
 
 Sound player, audible to the whole server.
 
-### 2.8 - Global music ###
+### 2.8 - Global music
 ![MusicPlayer](https://i.imgur.com/NrEMea1.png)
 
 Music player audible to the entire server.
 
-### 2.9 - APRIZRAK ###
+### 2.9 - APRIZRAK
 ![APPRISER](https://i.imgur.com/qPV89TN.png) allows you to step out of your body,
 
 useful for making objects appear or observe the player without being seen.
 
-### 2.10 - WARNINGS ###
+### 2.10 - WARNINGS
 ![ALERTS](https://i.imgur.com/RdMFluj.png)
 
 This window allows you to get feedback on events, such as a player killing another player.
 
-## 3 - THANKS ##
+## 3 - THANKS
 Thanks to Bod (admin/dev) for creating this tool
 
 [Fr_Dae](http://twitch.tv/Fr_Dae) (for writing this wiki page)
