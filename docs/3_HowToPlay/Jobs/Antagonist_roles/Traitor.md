@@ -1,5 +1,5 @@
 # Traitor
-**Role type:** <font color= "Red">[Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Access:** Whatever your selected [Role](Jobs.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
+**Role type:** <font color= "Red">[Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Access:** Whatever your selected [Role](\3_HowToPlay\Jobs\Jobs.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
 
 
 ## Overview
@@ -29,7 +29,7 @@ Acquiring more TC is functionally improbable, as it requires you to kill another
 
 #####  [To see what's available to buy from the Uplink, go here.](Syndicate-Items.md)
 
-## [Theft](High-Risk-Items.md) objectives
+## [Theft](\4_Univers\Items\High-Risk-Items.md) objectives
 
 Often one or both of your objectives requires you to steal something. How hard this is depends on the item and whether the job that starts with it is filled by another player.
 

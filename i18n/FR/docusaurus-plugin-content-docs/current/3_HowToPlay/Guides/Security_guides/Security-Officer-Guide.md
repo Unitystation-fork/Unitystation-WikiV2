@@ -12,7 +12,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 2) Beware of people trying to disarm you.
 
-3) [Clowns](\3_HowToPlay\Jobs\Entertainment_Roles\Clown.md) and [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) are your nemesis.
+3) [Clowns](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) and [cargo](\3_HowToPlay\jobs\Cargo_roles\Cargo-Technician.md) are your nemesis.
 
 4) Don't expect people to respect you.
 
@@ -22,7 +22,7 @@ Or commonly referred to as "shitcurity", are the kind of officers that believe i
 
 These kind of officers just go around the station and make sure everything is in order, not intervening unless needed, these types of officers are neutrally perceived by the public so don't expect praise or hate, well except general hate towards security because of the officers mentioned above. Some tips:
 
-1) You should request [AA](\3_HowToPlay\Guides\General_guides\Access.md) from [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
+1) You should request [AA](\3_HowToPlay\Guides\General_guides\Access.md) from [Head of Personnel](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md) to make sure to sweep the whole station, to uncover any hidden plots unraveling in the research sector or else.
 
 2) If people tell you to go, don't overstay your welcome.
 
@@ -38,7 +38,7 @@ This type is better suited for those who prefer [role play](\3_HowToPlay\RP\RP-w
 
 2) If people get nervous around you, or otherwise don't like you, prove yourself to them by actions, not hollow words, but, don't [https://sites.google.com/view/unitystation-server-rules/server-rules power play].
 
-3) Security goes before faithfulness, so if a fellow officer calls for backup or the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) calls all units, you should respond immediately.
+3) Security goes before faithfulness, so if a fellow officer calls for backup or the [Head of Security](\3_HowToPlay\jobs\Security_roles\Security-Officer.md) calls all units, you should respond immediately.
 
 4) In no case you have the permission to shitcurity, if you do even once, people will remember that and avoid you.
 

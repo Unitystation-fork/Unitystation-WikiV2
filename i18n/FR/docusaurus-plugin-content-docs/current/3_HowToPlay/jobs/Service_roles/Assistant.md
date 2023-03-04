@@ -13,9 +13,9 @@ Parfois, vous vous retrouvez à l'intérieur de l'infirmerie, où vous aidez les
 
 Mais le plus souvent, vous vous retrouvez à apporter du café à l'un des chefs de service.
 
-Si vous voulez vraiment aider la station et faire ce que vous êtes censé faire, rendez-vous au bureau du [Chef du personnel](3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md), en espérant qu'il soit là et qu'il n'abuse pas de l'accès illimité qu'il s'est si généreusement octroyé, et demandez un emploi.
+Si vous voulez vraiment aider la station et faire ce que vous êtes censé faire, rendez-vous au bureau du [Chef du personnel](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md), en espérant qu'il soit là et qu'il n'abuse pas de l'accès illimité qu'il s'est si généreusement octroyé, et demandez un emploi.
 
-Ne vous attendez pas à ce qu'on vous donne un poste de haut rang, comme [Chef de la sécurité](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md) ; vous finirez probablement par obtenir un poste de [concierge](\3_HowToPlay\Jobs\Service_roles\Janitor.md), car personne ne fait confiance aux assistants (et pour cause).
+Ne vous attendez pas à ce qu'on vous donne un poste de haut rang, comme [Chef de la sécurité](\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md) ; vous finirez probablement par obtenir un poste de [concierge](\3_HowToPlay\jobs\Service_roles\Janitor.md), car personne ne fait confiance aux assistants (et pour cause).
 
 ### Les trucs sympas
 

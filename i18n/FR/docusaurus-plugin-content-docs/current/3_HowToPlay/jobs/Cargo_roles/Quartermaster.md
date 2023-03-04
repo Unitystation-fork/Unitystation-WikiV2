@@ -48,7 +48,7 @@ Lorsque les [mineurs](\3_HowToPlay\jobs\Cargo_roles\Shaft-Miner.md) [survivent](
 | Energy Crate                                 		| 500          | 5 cafés glacés                                        			| 500 (100%)                         |
 | Better Eyes Crate                            		| 600          | 5 tasses de jus de carotte( ?)                        			| 500 (83%)                          |
 | **Security**                                 		|              |                                                       			|                                    |
-| [Handcuffs Crate](Security-Officer-Guide.md)	| 900          | 5 menottes                                            			| 500 (55%)                          |
+| [Handcuffs Crate](\3_HowToPlay\Guides\Security_guides\Security-Officer-Guide.md)	| 900          | 5 menottes                                            			| 500 (55%)                          |
 | Batons Crate                            			| 1500         | 3 matraques en bois                                   			| 750 (50)                           |
 | Shotgun Crate                           			| 5000         | 3 fusils de combat (chargés)                          			| 750 (15%)                          |
 | Machine-gun Crate                       			| 5000         | 3 mitrailleuses (chargées)                            			| 750 (15%)                          |

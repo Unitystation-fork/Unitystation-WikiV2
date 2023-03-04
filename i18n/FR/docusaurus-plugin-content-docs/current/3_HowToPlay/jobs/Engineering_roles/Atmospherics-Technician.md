@@ -1,7 +1,7 @@
 # Atmospherics Technician
 Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
 
-Note: this is the job guide, for the gas/pipe guide, go [here](Guide-to-Atmospherics.md)
+Note: this is the job guide, for the gas/pipe guide, go [here](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md)
 
 En tant que technicien atmosphérique, votre travail consiste essentiellement à [stop the station's crew members from suffocating to death](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
 

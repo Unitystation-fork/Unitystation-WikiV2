@@ -1,5 +1,5 @@
 # Traitor
-**Role type:** <font color= "Red">[Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Access:** Whatever your selected [Role](Jobs.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
+**Role type:** <font color= "Red">[Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Access:** Whatever your selected [Role](\3_HowToPlay\Jobs\Jobs.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
 
 
 ## Overview
@@ -27,17 +27,17 @@ At the start of your round as traitor, you will be given a *case-sensitive* pass
 
 Acquiring more TC is functionally improbable, as it requires you to kill another traitor who has their own uplink *still unlocked* and *they haven't spent it all.*
 
-###### To see what's available to buy and some general footnotes about the items, go [here.](Syndicate-Items.md)
+###### To see what's available to buy and some general footnotes about the items, go [here.](\4_Univers\Items\Syndicate-Items.md)
 
 
 
-## [Theft](High-Risk-Items.md) objectives
+## [Theft](\4_Univers\Items\High-Risk-Items.md) objectives
 
 Often one or both of your objectives requires you to steal something. How hard this is depends on the item and whether the job that starts with it is filled by another player.
 
 Theft objectives will often require you to break into secure areas or to steal the items directly off of other players. Sometimes it will be shockingly easy, easier than taking candy from a baby. Other times it will be [so impossible](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) that you should probably take the L and try to have fun getting up to shenanigans with your exclusive traitor items. It all depends on what state the station is in and how many players are alive. Still, woe betide anyone who gets the objective `steal the Justitia.`
 
-###### to see a complete list of steal objects you can expect to get, take a look at the [High Risk Items](High-Risk-Items.md) page.
+###### to see a complete list of steal objects you can expect to get, take a look at the [High Risk Items](\4_Univers\Items\High-Risk-Items.md) page.
 
 ## Murder objectives
 
