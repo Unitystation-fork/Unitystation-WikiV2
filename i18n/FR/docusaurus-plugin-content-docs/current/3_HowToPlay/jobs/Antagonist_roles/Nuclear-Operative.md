@@ -3,7 +3,7 @@
 ## Aperçu
 
 
-Ten hut! Vous avez été choisi par le [Syndicat](Groupes.md) pour rejoindre un commando d'élite dont le seul but est de détruire l'atout le plus précieux de [Nanotrasen](Groupes.md), Space Station 13, to high hell through the use of a nuclear bomb.
+Ten hut! Vous avez été choisi par le [Syndicat](\4_Univers\Lore\Groups.md) pour rejoindre un commando d'élite dont le seul but est de détruire l'atout le plus précieux de [Nanotrasen](\4_Univers\Lore\Groups.md), Space Station 13, to high hell through the use of a nuclear bomb.
 
 
 ### Comment s'y prendre

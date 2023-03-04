@@ -1,5 +1,5 @@
 # Anatomy of a Space Station (WIP)
-Space stations come in all sorts of shapes and sizes. Some, like [Fallstation](fallstation.md), are small and petite, designed to support focused gameplay around 20 players. Others, like [Boxstation,](boxstation.md) are massive operations, with numerous rooms and a maze of maintenance tunnels, and an intended player count of 50 or more players.
+Space stations come in all sorts of shapes and sizes. Some, like [Fallstation](\4_Univers\Maps\Offical_Station_Maps\Fallstation.md), are small and petite, designed to support focused gameplay around 20 players. Others, like [Boxstation,](boxstation.md) are massive operations, with numerous rooms and a maze of maintenance tunnels, and an intended player count of 50 or more players.
 
 All the same, NanoTrasen's research stations are all designed to certain standards to simplify logistics and to ensure minimum decent standards of living, safety, and security. So, many of the different rooms and departments you will find on one map, as well as the supply stocks in those rooms, will also be present on other maps in one way or another.
 
@@ -155,7 +155,7 @@ currently under construction. come back later.
 
 All of the tunnels outside of the main halls are probably maintenance. This is the most common access on the station, though not completely ubiquitous, and the area is marked by its proximity to every other area, its poor lighting, and its exposed pipes. Maintenance is typical filled with a smattering of random items and trash. If you bother to look, occasionally you might find something rather useful.
 
-[Fugitives](fugitive.md) and a number of [miscellaneous](\4_Univers\Mobs\Mobs.md) creatures spawn here.
+[Fugitives](\3_HowToPlay\Jobs\Antagonist_roles\Fugitive.md) and a number of [miscellaneous](\4_Univers\Mobs\Mobs.md) creatures spawn here.
 
 ### Custodial Closet
 

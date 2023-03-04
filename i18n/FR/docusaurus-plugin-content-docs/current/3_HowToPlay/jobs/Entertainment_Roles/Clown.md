@@ -10,7 +10,7 @@ Vous êtes le Clown. Le Funnyman. L'ennemi mortel du [Mime] (Mime.md). Celui qui
 
 ### C'est juste une blague, mon frère. HONK ! HONK !
 
-Votre travail est simple. Faire des blagues, faire rire les gens, se faire tabasser par les [gens](Sécurité.md) [en](Détective.md) [rouge](Directeur.md) [costumes](Urgence nucléaire.md) pour avoir placé une peau de banane. Mais, à cause de la tendance du Clown à mettre le bazar dans la station, très peu de gens vous font confiance et la plupart ne vous aiment pas, encore moins que [les personnes en combinaison grise] (Assistant.md).
+Votre travail est simple. Faire des blagues, faire rire les gens, se faire tabasser par les [gens](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) [en](\3_HowToPlay\Jobs\Security_roles\Detective.md) [rouge](\3_HowToPlay\Jobs\Security_roles\Warden.md) [costumes](Nuclear-Emergency.md) pour avoir placé une peau de banane. Mais, à cause de la tendance du Clown à mettre le bazar dans la station, très peu de gens vous font confiance et la plupart ne vous aiment pas, encore moins que [les personnes en combinaison grise](\3_HowToPlay\Jobs\Service_roles\Assistant.md).
 
 Mais, [il y a des moments où les gens vous font réellement confiance] (Si proche de l'impossible qu'il pourrait ne pas exister.md), au lieu de voter immédiatement pour vous introduire dans le vide froid et sans air de l'espace. Appréciez ces moments, car c'est peut-être le seul moment où votre vie n'est pas en danger 24h/24 et 7j/7.
 
