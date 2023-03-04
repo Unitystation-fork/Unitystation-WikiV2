@@ -2,7 +2,7 @@
 **Job type:** <font color= "#74652c">Engineer</font>. **Access:** <font color="#74652c">Engineering</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
 
-## Overview
+## Engineer - Overview
 
 Engineers are the repairmen and electricians of the station. If there's a hole in the station providing one of the hallways or departments with a fresh view of space, it's the Engineer's job to fix it. If wires have been cut and half the station is out of power, it's the Engineer's job to fix it.
 
@@ -29,8 +29,7 @@ Different maps will have different engines for you to work with. The plasma gene
 The alternative choices to powering the station are much more complicated, and can go horribly wrong if you don't manage things closely. It is highly recommended to not mess with them without having read the guides or having a more experienced engineer walk you through the steps.
 
 
-[](/static/img/jobs/GIF99.gif)
-
+[.](/static/img/jobs/GIF99.gif)
 
 ### Tools
 

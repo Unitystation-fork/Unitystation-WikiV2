@@ -11,7 +11,7 @@ Job type: <font color= "#74652c">Engineer</font>. Access: <font color="#74652c">
 Relevent guides: [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md), [Engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmos](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md) and [Atmospherics technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md)
 
 
-## Your Job
+## Chief Engineer - Your Job
 
 As the CE your main goal is to make sure the rest of the station is airtight, breathable, and functional. To achieve this you have your hired help, ordinary [engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) and [atmospherics technicians](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md). [Engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) are easier to order around, and will generally do their job, unlike [atmos techs](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md), who while usually capable, are more likely dicking about and setting themselves on fire. Don't worry, chances are one of them is a wizard at engineering and will know how to do your job better than you, its almost guaranteed.
 

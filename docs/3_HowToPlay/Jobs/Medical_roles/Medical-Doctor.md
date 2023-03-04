@@ -2,7 +2,7 @@
 **Role type:** <font color="#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Surgery</font> , **Difficulty:** <font color="Yellow">Medium</font>.
 
 
-## Overview
+##  Medical Doctor - Overview
 
 Medics are arguably the most vital role to a thriving station, except for [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) and [Command](\3_HowToPlay\Jobs\Command_roles\Captain.md). Their job is to heal injured people, bring back dead crew members, and provide the kitchen with dead bodies when other food sources run out.
 
@@ -64,7 +64,7 @@ Not sure what to do? Here's a handy set of operations that you can follow:
 
 --------
 
-# Surgery
+## Surgery
 
 Surgery, the best way to look at people's insides. It is very useful for augmenting other players, or yourself.  ~~Or creating monstrosities.~~
 
@@ -97,7 +97,7 @@ If you come across a surgical procedure and unsure what tools to use you can usu
 
 Surgery is still somewhat work-in-progress so while most things work perfectly fine some things might be a bit wonky or not yet implemented fully.
 
-## Why you might want to do surgery ##
+### Why you might want to do surgery ##
 Luckily since this is just a game it won't hurt at all (physically at least). While you'd think doctors would mostly be concerned with surgery a lot of science is done with the system as well. When you are applying cybernetics for example a Roboticist needs to do surgery to implant cybernetics or give you shiny new robot limbs. These robot limbs and cybernetics can increase your natural abilities like letting you run faster, carry more, or even special abilities like having an automatic reviver! Surgery can also give you a chance to survive a facehugger as if you are quick enough you can remove the embryo from the stomach before the larvae bursts out of you. Cargo might even try to convince you to give up your kidneys so they can sell them for a pretty penny.
 
 While surgery may seem daunting at first it offers a lot of great opportunities and can do a lot to help your fellow crewmate. So goodluck and have fun going out there cutting up your fellow crew and stitching them back together!

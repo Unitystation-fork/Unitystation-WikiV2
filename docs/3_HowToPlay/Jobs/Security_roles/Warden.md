@@ -2,7 +2,7 @@
 **Role type:** <font color= "#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
 
 
-## Overview
+## Warden - Overview
 
 The Warden is essentialy the Security department's watch dog. Your relationship with the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) is analogous to the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) and the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md). Your job is to sit in your office, hand [Security officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) weapons or armor if they have explicit permission from the HoS or Captain, and take over for the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) if they ever die or get deposed. You are responsible for the brig and management of the prisoners.
 ### No i'm not giving you guns just because you *think* Cargo is revolting
