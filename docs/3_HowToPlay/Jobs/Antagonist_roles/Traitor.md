@@ -1,5 +1,5 @@
 # Traitor
-**Role type:** <font color= "Red">[Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Access:** Whatever your selected [Role](Roles.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
+**Role type:** <font color= "Red">[Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Access:** Whatever your selected [Role](Jobs.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
 
 
 ## Overview
@@ -27,7 +27,7 @@ At the start of your round as traitor, you will be given a *case-sensitive* pass
 
 Acquiring more TC is functionally improbable, as it requires you to kill another traitor who has their own uplink *still unlocked* and *they haven't spent it all.*
 
-#####  [To see what's available to buy from the Uplink, go here.](Syndicate Items.md)
+#####  [To see what's available to buy from the Uplink, go here.](Syndicate-Items.md)
 
 ## [Theft](High-Risk-Items.md) objectives
 

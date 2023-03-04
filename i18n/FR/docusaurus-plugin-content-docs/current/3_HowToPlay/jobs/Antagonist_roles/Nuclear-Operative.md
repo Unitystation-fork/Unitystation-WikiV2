@@ -18,7 +18,7 @@ L'équipement nukie de base consiste en votre uniforme, des lunettes de vision n
 
 Votre vision nocturne fait exactement ce que vous attendez, vous permettant de voir dans les zones sombres. Les pièces du casque et du torse de la combinaison de protection vous rendent immunisé contre le froid et la pression, tout en offrant une protection très décente contre les armes et les explosifs. Vous n'êtes cependant pas invincible dans ce domaine, et se faire tirer dessus fera toujours mal. Le casque ne vous permet pas d'entendre l'équipage, mais ça te donne accès à ta propre chaîne de syndication.
 
-Le Stalker sera votre principale arme offensive à moins que vous ne choisissiez [d'acheter autre chose](Syndicate Items.md) pour le remplacer. Assurez-vous d'apporter des munitions supplémentaires pour lui, car il brûle rapidement les chargeurs.
+Le Stalker sera votre principale arme offensive à moins que vous ne choisissiez [d'acheter autre chose](Syndicate-Items.md) pour le remplacer. Assurez-vous d'apporter des munitions supplémentaires pour lui, car il brûle rapidement les chargeurs.
 
 Le stetchkin est un petit pistolet de secours. Utilisez-la si vous n'avez plus d'autres munitions ou si vous souhaitez les conserver. Une des meilleures utilisations du pistolet, Cependant, il est important de mettre quelqu'un à l'abri, car un ou deux coups de feu font généralement fuir tout membre d'équipage non armé. Soyez créatifs avec votre matériel et établissez des stratégies à l'avance, c'est comme ça que vous gagnerez ! en parlant de ça :
 

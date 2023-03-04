@@ -19,7 +19,7 @@ The stock nukie gear consists of your uniform, night vision goggles, hardsuit he
 
 Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel.
 
-The Stalker will be your main offensive weapon unless you choose to [buy something else](Syndicate Items.md) to replace it. Be sure to bring extra ammo for it, as it burns through magazines rapidly.
+The Stalker will be your main offensive weapon unless you choose to [buy something else](Syndicate-Items.md) to replace it. Be sure to bring extra ammo for it, as it burns through magazines rapidly.
 
 The stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
 
@@ -31,7 +31,7 @@ You need to get the [Nuclear Authentication Disk](\4_Univers\Items\Nuclear-Authe
 
 First what you need to do is open your PDA, go to settings, click in the textbox underneath "Change Ringtone" and type in that ***case sensitive*** code you see in chat. The code should look something like **"Kilo-350"**. If you forget your code, you can hit the antagonist objective reminder button near the top of your screen to get a reminder what your code was.
 
-As an operative, You start with 25TC, but you can acquire more if you declare war on the syndicate operations console. Go to the [Syndicate Items](Syndicate Items.md) page to see what you can buy. As a nuclear Operative, you get many extra options that traitors don't have access to.
+As an operative, You start with 25TC, but you can acquire more if you declare war on the syndicate operations console. Go to the [Syndicate Items](Syndicate-Items.md) page to see what you can buy. As a nuclear Operative, you get many extra options that traitors don't have access to.
 
 ### This means WAR!!!
 Before you leave the base to make your attack, you have the option to declare war on the station. This is done on the Syndicate Operations Console. Prepare a threatening message and hit the big red button to declare war.

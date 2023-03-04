@@ -51,7 +51,7 @@ Bounties are randomly generated from a pool of possible options. They appear in 
 | Monster Bread                               | CentCom has received reports of strange hostile mutations developing in bread. If you can replicate the process, send over a sample for analysis. | 1350   |
 | Pastries x10                                | Send 10 assorted pastries for a bakesale being hosted at the local orphanage. | 500    |
 | Pens x10                                    | We are hosting the intergalactic pen balancing competition. We need you to send us some standardized ball point pens. | 800    |
-| Raw Meats x10                               | Send 6 slabs of raw meat for the [lizard](Guide-to-player-species.md) staff at a nearby satellite post. | 800    |
+| Raw Meats x10                               | Send 6 slabs of raw meat for the [lizard](\3_HowToPlay\Caractere\Guide-to-player-species.md) staff at a nearby satellite post. | 800    |
 | Soap x5                                     | There was a plumbing accident at CentCom. Send 5 bars of soap to help us take care of this mess. | 800    |
 | Trash x10                                   | Recently a group of janitors have run out of trash to clean up, without any trash CentCom wants to fire them to cut costs. Send a shipment of trash to keep them employed, and they'll give you a small compensation. | 400    |
 | **Misc Bounties**                           |                                                              |        |
