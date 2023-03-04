@@ -21,25 +21,25 @@ Note: This is the guide to QM, if your new to cargo please read the guide to bei
 
 ### King of the delivery squad
 
-As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](Cargo-Technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking.md) for the [Chef](Cook.md) and metal for engineering as soon as you can, as stocks of both run out rapidly.
+As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking.md) for the [Chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) and metal for engineering as soon as you can, as stocks of both run out rapidly.
 
 ### Requests
 
 Oftentimes, you wont be the one asking others if they need supplies, rather, the crew will be asking you. You could be a prick and hand anyone asking for so much as a pen ten sheets of paperwork, which will likely result in your untimely demise, or you can heed their requests like an ordinary human being. The requests you'll get will range anywhere from spare generators to clowning tools. You will generally be expected to fulfill these requests in a reasonable time-frame and have someone deliver the goods to the relevant department or room.
 
-A critical part of fulfilling requests that you must coordinate with your [Cargo Techs](Cargo-Technician.md) is crate reclamation.'' Shipping crates can be exchanged for a significant portion of their original cost, sometimes as high as 100% ("''it's free real state.") of their purchase price. Always badger people about the crates they have taken and not returned. Stretch those dollars as far as you can.
+A critical part of fulfilling requests that you must coordinate with your [Cargo Techs](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) is crate reclamation.'' Shipping crates can be exchanged for a significant portion of their original cost, sometimes as high as 100% ("''it's free real state.") of their purchase price. Always badger people about the crates they have taken and not returned. Stretch those dollars as far as you can.
 
 ### Exports
 
 To spend money, you must make money, and the way you do that is through exports. The way this is done is very simple. Drag whatever you want to sell onto the Cargo Shuttle and send it to Centcom. Lockers and crates (see above) are worth a sizable amount, with the prior being manufacturable with some metal for easy money. Other exports may include raw material, Bounties, stolen goods from other departments, refined ore, produce from botany, and generally whatever else you can find with your export scanner.
 
-When the [miners](Shaft-Miner.md) actually [survive](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) their expedition and grace your department with a fresh haul of ore, you should:
+When the [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) actually [survive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) their expedition and grace your department with a fresh haul of ore, you should:
 
-*Distribute all [construction](Construction.md) materials (glass and metal) to lathes or [Engineer](Engineering.md)
+*Distribute all [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) materials (glass and metal) to lathes or [Engineer](Engineering.md)
 *Give [solid plasma](Plasma.md) and uranium to engineering for powering the station.
 
-* Sell gold, silver, bananium, bluespace crystals, and diamonds. Or give them to the [Roboticist](Roboticist.md) and taunt them for their current lack of job functionality.
-*take all recovered [Xenomorph](Xenomorph.md) bodies to the [chef](Cook.md) for some green steaks.
+* Sell gold, silver, bananium, bluespace crystals, and diamonds. Or give them to the [Roboticist](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) and taunt them for their current lack of job functionality.
+*take all recovered [Xenomorph](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) bodies to the [chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) for some green steaks.
 
 
 
@@ -66,7 +66,7 @@ When the [miners](Shaft-Miner.md) actually [survive](So-close-to-impossible-that
 | Vending Resupply packs                | varies   | various, for different vending machines |                           |
 | Potted plants | 700 | 5 random potted plants | 50 (wooden crate) |
 | **Security**                                 |              |                                                              |                                    |
-| [Handcuffs Crate](Security-Officer-Guide.md) | 900          | 3 boxes of handcuffs (21 total)                   | 500 (55%)                          |
+| [Handcuffs Crate](\3_HowToPlay\Guides\Security_guides\Security-Officer-Guide.md) | 900          | 3 boxes of handcuffs (21 total)                   | 500 (55%)                          |
 | Stun Batons Crate                            | 600       | 3 stun batons                                          | 750 (50)                           |
 | Type I-B Body Armor | 800 | 3 armor vests, 3 security helmets | 500 |
 | Bullet Proof Armor | 2000 | 3 bullet proof vests, 3 bullet proof helmets | 500 |
@@ -145,11 +145,11 @@ When the [miners](Shaft-Miner.md) actually [survive](So-close-to-impossible-that
 
 
 
-### The business of blood and money ([traitor](traitor.md) QM):
+### The business of blood and money ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) QM):
 
-A [traitor](traitor.md) QM is one of the best times you can have in this game. Through the cargo console you have easy access to weapons, illicit materials, basically whatever you need. Just be mindful of an active [AI](station-AI.md) or a snooping [HoP](Head-of-Personnel.md).
+A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) QM is one of the best times you can have in this game. Through the cargo console you have easy access to weapons, illicit materials, basically whatever you need. Just be mindful of an active [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) or a snooping [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
 
-The cryptographic sequencer is one of the most valuable tools available to a traitor QM in the syndicate uplink. It can be used to unlock any secure crates you purchase like gun crates. You can even distribute them amongst the [greyshirts](Assistant.md) if you want to spread chaos throughout the station, though that will draw attention to cargo *quickly,* so make sure you've got an alibi or are making your moves by then.
+The cryptographic sequencer is one of the most valuable tools available to a traitor QM in the syndicate uplink. It can be used to unlock any secure crates you purchase like gun crates. You can even distribute them amongst the [greyshirts](\3_HowToPlay\Jobs\Service_roles\Assistant.md) if you want to spread chaos throughout the station, though that will draw attention to cargo *quickly,* so make sure you've got an alibi or are making your moves by then.
 
 You also have access to the Autolathe, which is handy if you need to manufacture something that you can't buy.
 

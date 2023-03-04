@@ -13,29 +13,29 @@
 
 ## Overview
 
-Shaft Miner is one of the most dangerous roles that is not a Command role. Not because you have a lot of responsibilities (you don't, you only have two: fulfill the mining quota and [come back alive](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). It's hard because you will often run into hordes of [Xenomorphs](Xenomorph.md) and space carp that will kill you fast if you're not good at the [combat](Combat.md) system.
+Shaft Miner is one of the most dangerous roles that is not a Command role. Not because you have a lot of responsibilities (you don't, you only have two: fulfill the mining quota and [come back alive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). It's hard because you will often run into hordes of [Xenomorphs](\3_HowToPlay\Jobs\Antagonist_roles\Xenomorph.md) and space carp that will kill you fast if you're not good at the [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) system.
 
 ## This is Mining, someone stole our shuttle. Anyone know who it was?
 
-As a Shaft Miner, the station crew expects you to head out into space, mine ores from asteroids or lavaland, and get [Cargo](Cargo-Technician.md) some money. You're also expected to be at least somewhat [robust](Combat.md), since you'll run into a lot of Aliens out there.
+As a Shaft Miner, the station crew expects you to head out into space, mine ores from asteroids or lavaland, and get [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) some money. You're also expected to be at least somewhat [robust](\3_HowToPlay\Guides\General_guides\Combat_Guide.md), since you'll run into a lot of Aliens out there.
 
-To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel to store ores in; a lantern, since space is dark; and a pickaxe and shovel to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
+To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel to store ores in; a lantern, since space is dark; and a pickaxe and shovel to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
 
 ## General tips and tricks.
 
-You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with a few in the mining department and another in the [QM's](Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
+You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with a few in the mining department and another in the [QM's](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
 
 When mining with the pickaxe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations. However, that is currently imposible as you need to use your gun for mining. It is recommended that when possible you buy the plasma cutter, as it is much more effective than the Proto-Kinetic Accelerator.
 
 You should also make use of the ore box. Ore boxes are handy, as they reduce the amount of fiddling with equipment. Ore boxes can be dragged behind you as you move to pick up any ore you pull the box over.
 
-In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](Cargo-Technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
+In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
 
 ## Selling prices.
 
 | Name              | Uses                                                         | Processed Ore Sell Value |  Labor Points Reward |
 | ----------------- | ------------------------------------------------------------ | -------------------- | -------------------- |
-| Iron ore          | processed into metal, used for [construction](Construction.md)| 5/u                  | 1/u |
+| Iron ore          | processed into metal, used for [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md)| 5/u                  | 1/u |
 | Sand              | processed into glass, used for construction                  | 5/u                  | 1/u |
 | Plasma ore        | processed into solid plasma, used for construction and powering plasma generators | 200/u                | 15/u |
 | Bananium ore      | Henk honk honk henk. Sell it.                                | 1000/u               | 60/u |
@@ -48,7 +48,7 @@ In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes
 
 ## So you want to be a Space Man...
 
-The most important step to do before you leave is get the [Asteroid](Asteroid.md) Coordinates and mining quota sheet from the [Captain](Captain.md). This is best asked for as soon as possible before they leave their office. If you have a [Quartermaster](Quartermaster.md), ask them apply pressure to a resistant or distracted Captain, or involve the [Head of Personnel](HoP.md); you cannot do your job quite as effectively without those coordinates. The station is depending upon you to fulfill the quota or everyone misses out on that sweet, sweet greentext.
+The most important step to do before you leave is get the [Asteroid](\4_Univers\Maps\Asteroid.md) Coordinates and mining quota sheet from the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md). This is best asked for as soon as possible before they leave their office. If you have a [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), ask them apply pressure to a resistant or distracted Captain, or involve the [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md); you cannot do your job quite as effectively without those coordinates. The station is depending upon you to fulfill the quota or everyone misses out on that sweet, sweet greentext.
 
 Ore is processed at the **Ore Redemption Machine.** You can load ore into it by hand. Ore boxes are loaded by pulling them adjacent to the ORM and hitting the load ores button in the ORM's interface. Once Ores are loaded, they are added to the station's Material Silo, which lets all lathes around the station instantly have access to the materials for item construction and withdrawal. Pretty handy. An important mechanic to understand about the ORM is Labor points. Labor points are a reward offered at the ORM for all ore you load into the ORM. Once you have finished loading all your ore, hit the claim button to transfer the labor points you have earned to your ID. Labor points can be spent on special and upgraded gear at the **Mining Equipment Vendor:**
 
@@ -76,11 +76,11 @@ So, fighting "the perfect organism" covered in spikes and larger than you repeat
 
 Well good news, because you can instead go and mine on a world perpetually fogged by ash and covered in lava. This is where the "very hard" rating comes in. If you aren't skilled or well prepared, you will die horribly and nobody will find your roasted corpse. If your going to lavaland, its best you go with buds, pack a gun, and have practiced kiting with xenos and other beasts.
 
-Alien fauna isn't the only threat you will deal with on lavaland. Near your base, there is a an alcove that hosts an ancient tendril. This tendril is home to a nasty collective of [lizards](ashwalker.md) who don't appreciate NanoTrasen's recent arrival on their ancient hunting grounds, and they intend to prove it through a show of force. If a ghost has picked up the role, then it's possible that you might encounter a more intelligent foe than you typically deal with.
+Alien fauna isn't the only threat you will deal with on lavaland. Near your base, there is a an alcove that hosts an ancient tendril. This tendril is home to a nasty collective of [lizards](\3_HowToPlay\Jobs\Protagonist_roles\Ghost_roles\Ashwalker.md) who don't appreciate NanoTrasen's recent arrival on their ancient hunting grounds, and they intend to prove it through a show of force. If a ghost has picked up the role, then it's possible that you might encounter a more intelligent foe than you typically deal with.
 
-### A bone to pick ([traitor](traitor.md) Shaft Miner)
+### A bone to pick ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Shaft Miner)
 
-Shaft miners get a lot of useful tools to start that assist in completing [traitor](traitor.md) objectives. You get a space suit for free, as well as a pretty robust pickaxe, and the PKA, which serves as a decent short ranged weapon that can provide infinite maneuvering in space. People also won't suspect you much wandering around the station so long as you bring a crate full of minerals around with you. You also have your own mining ship to escape from the station if things go badly, as well as Lavaland if you're willing to brave that hostile wasteland.
+Shaft miners get a lot of useful tools to start that assist in completing [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) objectives. You get a space suit for free, as well as a pretty robust pickaxe, and the PKA, which serves as a decent short ranged weapon that can provide infinite maneuvering in space. People also won't suspect you much wandering around the station so long as you bring a crate full of minerals around with you. You also have your own mining ship to escape from the station if things go badly, as well as Lavaland if you're willing to brave that hostile wasteland.
 
 
 

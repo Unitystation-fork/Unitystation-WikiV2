@@ -6,7 +6,7 @@ Note: ERT are not round-start roles and can only be accessed via events. The rea
 ## ERT Overall
 
 
-So, the station is fucked, but not fucked enough to warrant a [death squad](Death-Squad.md)? Is [someone](Captain.md) in command simply incompetent? Has someone killed a [Centcom Officer](Central-Command-Officer.md)? Well, its times like these that an ERT team may be sent, especially if one is requested using the communications console. The ERT officers are well armed and can adapt to fill a wide variety of roles, from fixing a reactor about to blow to spreading the word of the honk-mother.
+So, the station is fucked, but not fucked enough to warrant a [death squad](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md)? Is [someone](\3_HowToPlay\Jobs\Command_roles\Captain.md) in command simply incompetent? Has someone killed a [Centcom Officer](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md)? Well, its times like these that an ERT team may be sent, especially if one is requested using the communications console. The ERT officers are well armed and can adapt to fill a wide variety of roles, from fixing a reactor about to blow to spreading the word of the honk-mother.
 ## Know Your Power Rangers
 
 
@@ -14,11 +14,11 @@ ERT come in the following types. Commanders, who lead ERT teams, Security, who a
 ### ERT Commander, Leading the A-team
 
 
-ERT commanders are the most barebones squad member, equipped with nothing but their carbine, 2 batons, and a set of handcuffs. Their job, as the name implies, is to lead the ERT team on whatever objective they are given by [Centcom](Admin.md). To do this, they can make use of the unique Centcom channel to communicate plans, information, and orders to other members of the ERT team. If the chain of command is broken or [the station is in anarchy](Battle-royale.md), the commander of the response team may be forced to TEMPORARILY take charge in order to fill the power vacuum and allow a proper leader to be found peacefully.
+ERT commanders are the most barebones squad member, equipped with nothing but their carbine, 2 batons, and a set of handcuffs. Their job, as the name implies, is to lead the ERT team on whatever objective they are given by [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md). To do this, they can make use of the unique Centcom channel to communicate plans, information, and orders to other members of the ERT team. If the chain of command is broken or [the station is in anarchy](\3_HowToPlay\Guides\General_guides\Battle-royale.md), the commander of the response team may be forced to TEMPORARILY take charge in order to fill the power vacuum and allow a proper leader to be found peacefully.
 ### ERT Security, Diet Deathsquad
 
 
-The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent  to apprehend [security](Security.md) or [heads](Head-of-Personnel.md) [of](Chief-Engineer.md) [staff](Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peaceful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused for being a [death squad](Death-Squad.md).
+The ERT security officer acts as the spearpoint of any ERT team. They are armed with a tactical energy carbine, baton, taser, and two pairs of handcuffs, and sport a red and black hardsuit. They are typically sent  to apprehend [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) or [heads](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) [of](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) [staff](\3_HowToPlay\Jobs\Command_roles\Captain.md) when the personnel onboard the station are unable or unwilling to do so. This typically is not a peaceful affair, and security ERT tend to kill more often then they apprehend, which is why they are often confused for being a [death squad](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md).
 ### ERT Medic, Walking Medkits
 
 
@@ -29,7 +29,7 @@ ERT engineers are only typically sent when something onboard the station has, or
 
 ### Paranormal Response Team, Spanish Ghostbusters
 
-Technically a separate team, the PRT's purpose is to respond to and handle paranormal and cultish threats to the station. PRTs are similarly equipped to ERTs, apart from their custom magically fortified hardsuits, and come in 2 varieties; the inquisitor and the knight. Besides the armor, and the standard carbine, cuffs, and baton, the only unique item the inquisitor carries is the obsidian rod, just like the like the [chaplain's](Chaplain.md).
+Technically a separate team, the PRT's purpose is to respond to and handle paranormal and cultish threats to the station. PRTs are similarly equipped to ERTs, apart from their custom magically fortified hardsuits, and come in 2 varieties; the inquisitor and the knight. Besides the armor, and the standard carbine, cuffs, and baton, the only unique item the inquisitor carries is the obsidian rod, just like the like the [chaplain's](\3_HowToPlay\Jobs\Entertainment_Roles\Chaplain.md).
 
 ### Joke ERT
 
