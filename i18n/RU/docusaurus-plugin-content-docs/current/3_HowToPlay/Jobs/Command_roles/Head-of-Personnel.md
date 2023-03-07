@@ -1,5 +1,5 @@
 # Head of Personnel
-**Role type:** <font color= "#45467d">Command</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">HoP's office</font> and <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Medium</font>. Colloquial name: "HoP"
+**Role type:** <font color="#45467d">Command</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">HoP's office</font> and <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Medium</font>. Colloquial name: "HoP"
 
 ## Overview
 
@@ -29,7 +29,7 @@ With your typically lighter workload compared to the other heads of staff, its a
 
 If you want to maintain a good relationship with the other heads, ask them over the command channel for their opinion before assigning someone to their department. You will be held accountable if you assign engineering an [assistant](Assistant.md) that melts down the [Reactor](Guide-to-the-nuclear-reactor.md).
 
-Once you have become familiar with the post, you may have noticed that the [Captain](Captain.md) has a sweet ass pistol and all you get is a lame (but extremely robust) taser. It might be tempting to bump your clearance to all access and take a trip to the armory to get yourself something that has a bit more bite. It is recommended that you do not do this. The Captain is the ultimate authority on the station, and that comes with rights and privileges that others do not have, including you. The HoP cannot bear lethal weaponry unless given explicit permission by the Captain or the station is on either <font color= "blue">Blue</font> alert or <font color= "red">Red</font> alert. That isn't to say that this limitation is not comprehensively enforced by Security, but do not be surprised if you get reported by the [Warden](Warden.md) for breaking and entering into the armory.
+Once you have become familiar with the post, you may have noticed that the [Captain](Captain.md) has a sweet ass pistol and all you get is a lame (but extremely robust) taser. It might be tempting to bump your clearance to all access and take a trip to the armory to get yourself something that has a bit more bite. It is recommended that you do not do this. The Captain is the ultimate authority on the station, and that comes with rights and privileges that others do not have, including you. The HoP cannot bear lethal weaponry unless given explicit permission by the Captain or the station is on either <font color="blue">Blue</font> alert or <font color="red">Red</font> alert. That isn't to say that this limitation is not comprehensively enforced by Security, but do not be surprised if you get reported by the [Warden](Warden.md) for breaking and entering into the armory.
 
 
 ### Emergencies

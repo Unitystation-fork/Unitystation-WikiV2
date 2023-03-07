@@ -1,5 +1,5 @@
 # Curator
-**Role type:** <font color= "#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
+**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
 
 '<font color="red"> ''Disclaimer: the curator job is currently unfinished. this guide will (likely) be updated as the job is.''</font>'
 

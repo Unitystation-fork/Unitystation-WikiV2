@@ -1,5 +1,5 @@
 # Équipe d'intervention d'urgence
-**Role type**: <font color= "#D4AF37">CentCom</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Extreme</font>.
+**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Extreme</font>.
 
 
 Note: Les ERT ne sont pas des rôles à part entière et ne sont accessibles que par le biais d'événements. Les raisons de ce choix devraient être claires à la fin du guide.

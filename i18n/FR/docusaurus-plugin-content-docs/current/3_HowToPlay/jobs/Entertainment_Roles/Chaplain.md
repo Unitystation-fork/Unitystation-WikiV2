@@ -1,5 +1,5 @@
 # Chaplain
-**Role type:** <font color= "#808080">Civilian</font>. **Access:** Maintenance, Church. **Difficulty:** <font color="Green">easy</font>
+**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance, Church. **Difficulty:** <font color="Green">easy</font>
 
 
 [https://en.wiktionary.org/wiki/Citations:ph%27nglui_mglw%27nafh_Cthulhu_R%27lyeh_wgah%27nagl_fhtagn ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!]
@@ -19,7 +19,7 @@ Deuxièmement, le livre saint a la capacité de guérir les gens. Vous pouvez tr
 
 ### Des choses à faire
 
-En raison du manque d'objectifs définis, vous pouvez être un peu dépassé, 
+En raison du manque d'objectifs définis, vous pouvez être un peu dépassé,
 
 cependant, voici quelques idées
 

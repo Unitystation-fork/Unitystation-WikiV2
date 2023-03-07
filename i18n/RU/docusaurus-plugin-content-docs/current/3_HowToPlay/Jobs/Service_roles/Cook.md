@@ -1,5 +1,5 @@
 # Cook
-**Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Kitchen & Butcher</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>''. ''Colloquial title: "Chef"
+**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Kitchen & Butcher</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>''. ''Colloquial title: "Chef"
 
 Note: for the more detailed guide to food preparation, look [Here](Guide-to-Food-and-Drink.md).
 

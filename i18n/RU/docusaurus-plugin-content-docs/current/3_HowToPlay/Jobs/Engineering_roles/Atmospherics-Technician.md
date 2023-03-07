@@ -1,5 +1,5 @@
 # Atmospherics Technician
-Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
+Role type: <font color="#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
 
 Note: this is the job guide, for the gas/pipe guide, go [here](Guide-to-Atmospherics.md)
 

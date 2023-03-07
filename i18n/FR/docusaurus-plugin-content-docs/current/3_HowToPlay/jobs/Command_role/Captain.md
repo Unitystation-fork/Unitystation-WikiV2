@@ -1,12 +1,12 @@
 # Capitain
-**Role type**: <font color= "#green">Commande</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Très difficile</font>. Surnom: "Cap"
+**Role type**: <font color="#green">Commande</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Très difficile</font>. Surnom: "Cap"
 
 
 
 ## Aperçu
 
 Le rôle de capitaine est l'un des plus difficiles de la station. À première vue, votre travail peut sembler simple. Assurez-vous simplement que chaque département fait ce qu'il est censé faire et atteint les quotas fixés par le [Centcom](Central-Command-Officer.md), et s'assurer qu'aucun [Antagoniste](Antagonist.md) ne puisse saboter l'endroit.
-Cependant, ce n'est jamais aussi simple. Votre travail ne consiste pas seulement à empêcher la station de sombrer dans le chaos, c'est aussi votre travail de planifier l'action suivante lorsque la prévention échoue. 
+Cependant, ce n'est jamais aussi simple. Votre travail ne consiste pas seulement à empêcher la station de sombrer dans le chaos, c'est aussi votre travail de planifier l'action suivante lorsque la prévention échoue.
 
 Bien sûr, appeler la navette d'urgence est une option, mais cela ne doit être fait que lorsque toutes les autres options ont été épuisées. Ce n'est pas la seule chose qui rend votre travail difficile; [Tous ceux qui ont en tête une forme de [sabotage](urgence nucléaire)(Cargonia) auront un réticule dirigé vers votre tête, alors faites attention quand Jimmy Bob vous demande de le suivre dans les tunnels de maintenance.
 
@@ -14,7 +14,7 @@ Il est de votre devoir d'assurer la stabilité et la productivité de la station
 
 ### Alors, comment rester en vie ?
 
-Avec tant de gens qui veulent votre vie, vous serez heureux d'apprendre que votre bureau est équipé d'une arme spéciale, appelé l'Imperator, ainsi qu'une ceinture de sécurité et un taser. Vous commencez également avec la meilleure armure polyvalente de la station (bien qu'elle ne protège que votre poitrine) et une combinaison de protection très résistante dans votre bureau (qui protège tout votre corps lorsque vous la portez avec le casque, mais qui vous ralentit considérablement). Toutes ces choses sont bonnes pour tirer sur quelqu'un avec et s'enfuir. 
+Avec tant de gens qui veulent votre vie, vous serez heureux d'apprendre que votre bureau est équipé d'une arme spéciale, appelé l'Imperator, ainsi qu'une ceinture de sécurité et un taser. Vous commencez également avec la meilleure armure polyvalente de la station (bien qu'elle ne protège que votre poitrine) et une combinaison de protection très résistante dans votre bureau (qui protège tout votre corps lorsque vous la portez avec le casque, mais qui vous ralentit considérablement). Toutes ces choses sont bonnes pour tirer sur quelqu'un avec et s'enfuir.
 
 C'est ça, s'enfuir. Sauf si vous êtes très, très, robuste, votre meilleure option lorsque des [gars en combinaison rouge](Urgence nucléaire.md) ou des [chemises grises](Assistant.md) avec un stetchkin vous attaquent est de vous enfuir. Ça, ou se cacher dans l'armurerie derrière des murs de [boucliers de viande](Security.md).
 

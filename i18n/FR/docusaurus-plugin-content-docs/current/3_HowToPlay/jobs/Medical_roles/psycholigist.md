@@ -1,6 +1,6 @@
 # Psychologue
 
-**Role type**: <font color= "#d673b2">Medicale</font>/Service. **Accès**: <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Bureau du psychologue</font> **Difficulté:** **aucune.**
+**Role type**: <font color="#d673b2">Medicale</font>/Service. **Accès**: <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Bureau du psychologue</font> **Difficulté:** **aucune.**
 
 
 

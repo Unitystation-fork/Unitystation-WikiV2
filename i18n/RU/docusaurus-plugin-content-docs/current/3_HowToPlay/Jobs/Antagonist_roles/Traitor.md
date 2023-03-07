@@ -1,5 +1,5 @@
 # Traitor
-**Role type:** <font color= "Red">[Antagonist](Antagonist.md)</font>. **Access:** Whatever your selected [Role](Roles.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
+**Role type:** <font color="Red">[Antagonist](Antagonist.md)</font>. **Access:** Whatever your selected [Role](Roles.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
 
 
 ## Overview
