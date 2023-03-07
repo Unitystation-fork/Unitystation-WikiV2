@@ -1,5 +1,5 @@
 # Medical Doctor
-**Role type:** <font color# "#d673b2">Medical</font>. **Access:** <font color#"#d673b2">Medbay</font>, <font color#"#d673b2">Cloning</font>,  <font color#"#d673b2">Morgue</font>, <font color#"#d673b2">Surgery</font> , **Difficulty:** <font color#"Yellow">Medium</font>.
+**Role type:** <font color= "#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Surgery</font> , **Difficulty:** <font color="Yellow">Medium</font>.
 
 
 ## Überblick
@@ -86,7 +86,7 @@ Um ein Teil aufzuschneiden, z. B. euren Kopf, müsst ihr es zunächst im Menü a
 Um einen Körperteil oder ein Organ zu entfernen, wählen Sie zunächst die Option "Entfernen..." im Operationsmenü. Verwenden Sie dann die folgenden Werkzeuge in dieser Reihenfolge: '''Skalpell > Blutstillung > Skalpell''' (WARNUNG: Es kann sein, dass du danach zu bluten beginnst, halte also immer etwas Mull bereit, um Blutverlust und Unordnung zu vermeiden).
 
 #### Schließen eines Körperteils ####
-Wenn du mit dem Herumhantieren in einem Körperteil wie deinem Torso fertig bist, möchtest du ihn für das nächste Mal verschließen. Wähle zunächst "Schließen..." und benutze dann einfach den '''Kauter''' und er sollte sich wieder verschließen. 
+Wenn du mit dem Herumhantieren in einem Körperteil wie deinem Torso fertig bist, möchtest du ihn für das nächste Mal verschließen. Wähle zunächst "Schließen..." und benutze dann einfach den '''Kauter''' und er sollte sich wieder verschließen.
 
 #### Wichtige Dinge zu beachten ####
 Zurzeit ist es nicht möglich, einen chirurgischen Eingriff fortzusetzen oder abzubrechen. Vergewissern Sie sich also, dass Sie alle benötigten Werkzeuge haben und etwas, das Sie tatsächlich implantieren können, sonst können Sie den Eingriff nicht fortsetzen.
@@ -96,7 +96,7 @@ Wenn du auf einen chirurgischen Eingriff stößt und nicht weißt, welche Werkze
 Die Chirurgie ist noch nicht ganz ausgereift, so dass zwar das meiste einwandfrei funktioniert, aber einige Dinge noch nicht ganz ausgereift sind oder noch nicht vollständig implementiert wurden.
 
 ## Warum du vielleicht eine Operation machen willst.
-Da es sich nur um ein Spiel handelt, tut es zum Glück überhaupt nicht weh (zumindest nicht körperlich). Man könnte meinen, dass sich Ärzte hauptsächlich mit Operationen beschäftigen, aber auch die Wissenschaft hat viel mit dem System zu tun. Wenn du zum Beispiel Kybernetik anwendest, muss ein Robotiker einen chirurgischen Eingriff vornehmen, um dir Kybernetik zu implantieren oder dir glänzende neue Roboter-Gliedmaßen zu geben. Diese Roboterglieder und Kybernetik können deine natürlichen Fähigkeiten verbessern, z. B. schneller laufen, mehr tragen oder sogar besondere Fähigkeiten wie einen automatischen Wiederbeleber haben! Chirurgie kann dir auch eine Chance geben, einen Facehugger zu überleben, denn wenn du schnell genug bist, kannst du den Embryo aus dem Magen entfernen, bevor die Larve aus dir herausbricht. Die Fracht könnte sogar versuchen, dich zu überreden, deine Nieren abzugeben, damit sie sie für einen hübschen Penny verkaufen können. 
+Da es sich nur um ein Spiel handelt, tut es zum Glück überhaupt nicht weh (zumindest nicht körperlich). Man könnte meinen, dass sich Ärzte hauptsächlich mit Operationen beschäftigen, aber auch die Wissenschaft hat viel mit dem System zu tun. Wenn du zum Beispiel Kybernetik anwendest, muss ein Robotiker einen chirurgischen Eingriff vornehmen, um dir Kybernetik zu implantieren oder dir glänzende neue Roboter-Gliedmaßen zu geben. Diese Roboterglieder und Kybernetik können deine natürlichen Fähigkeiten verbessern, z. B. schneller laufen, mehr tragen oder sogar besondere Fähigkeiten wie einen automatischen Wiederbeleber haben! Chirurgie kann dir auch eine Chance geben, einen Facehugger zu überleben, denn wenn du schnell genug bist, kannst du den Embryo aus dem Magen entfernen, bevor die Larve aus dir herausbricht. Die Fracht könnte sogar versuchen, dich zu überreden, deine Nieren abzugeben, damit sie sie für einen hübschen Penny verkaufen können.
 
 Auch wenn die Chirurgie zunächst abschreckend wirkt, bietet sie doch viele großartige Möglichkeiten und kann deinen Mitstreitern sehr helfen. Also viel Glück und viel Spaß beim Aufschneiden und Wiederzusammennähen deiner Mitstreiter!
 
