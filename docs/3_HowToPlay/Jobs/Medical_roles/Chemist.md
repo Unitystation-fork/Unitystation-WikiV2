@@ -1,5 +1,5 @@
 # Chemist
-**Role type:** <font color= "#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>, <font color="#d673b2">Morgue</font>,<font color="#d673b2">Chemistry lab.</font> Maintenance. **Difficulty:** <font color="Yellow">Medium</font>.
+**Role type:** <font color="#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>, <font color="#d673b2">Morgue</font>,<font color="#d673b2">Chemistry lab.</font> Maintenance. **Difficulty:** <font color="Yellow">Medium</font>.
 
 
 Note, this is the job guide, the guide for reactions and the like is [here](\3_HowToPlay\Guides\Medical_guides\Chemistry.md)
@@ -36,7 +36,7 @@ Much of the damage chemistry can cause comes in two forms, poisons, applied by w
 
 Chemistry is easy to learn and hard to master. you can make a simple grenade with just water and potassium, but it wont come close to the maxcap breaking nitroglycerin grenades made by a charismatic and skilled chemist. To improve with chemistry, you should start with simple recepies, such as space lube and various medicines and simple toxins, and try your hand at intermediate ones like advanced medicines and basic narcotics. once you've got the hand of those, move on to explosives, poisons, and more advanced chems like meth. Once you feel like you have mastered making one trick ponies, you should move on to combining several medicines, poisons, or explosives to achieve greater effect, until you figure out how to unleash the fires of hell upon the station.
 
------ 
+-----
 ## Chemistry
 The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click [here](\3_HowToPlay\Jobs\Medical_roles\Chemist.md)
 
@@ -70,7 +70,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 | Step 1 | 1 part Ethanol                       |
 | Step 2 | 1 part Welding fuel                  |
 
------ 
+-----
 ### Medical
 
 |        | AntiToxin                                 |
@@ -154,7 +154,7 @@ The Chemistry that has been implemented into the game has been copied from tg st
 | Effect:| Heals 0.5 random brute and burn damage per tick if ingested        |
 |        | Heals 2.5 random brute and burn damage per tick if applied to skin |
 
------ 
+-----
 ### Toxins
 
 |        | Impedrezene                                                          |

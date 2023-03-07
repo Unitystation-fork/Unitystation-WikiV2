@@ -1,5 +1,5 @@
 # Security Officer
-Role type:  <font color= "#711e25">Security</font>. Access levels: <font color="#711e25">Security & cells</font>, Maintenance, Difficulty: <font color="Red">hard</font>.
+Role type:  <font color="#711e25">Security</font>. Access levels: <font color="#711e25">Security & cells</font>, Maintenance, Difficulty: <font color="Red">hard</font>.
 
 La sécurité est la force de police de la station, et souvent la deuxième ligne de défense contre les membres de l'équipage qui transforment la station en bataille royale (la première ligne étant les [Janitors](\3_HowToPlay\jobs\Service_roles\Janitor.md)). Souvent, votre travail est simple : Emprisonner les criminels et veiller à ce que [aucun](\3_HowToPlay\jobs\Service_roles\Assistant.md) [un](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) ne pénètre dans les zones où il ne devrait pas être.
 

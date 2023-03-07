@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Captain
-**Role type**: <font color= "#green">Command</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Very Hard</font>. Colloquial name: "Cap"
+**Role type**: <font color="#green">Command</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Very Hard</font>. Colloquial name: "Cap"
 
 
 ## Overview

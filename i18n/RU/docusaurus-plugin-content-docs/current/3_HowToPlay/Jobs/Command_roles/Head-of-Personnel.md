@@ -1,5 +1,5 @@
 # Head of Personnel
-**Role type:** <font color= "#45467d">Command</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">HoP's office</font> and <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Medium</font>. Colloquial name: "HoP"
+**Role type:** <font color="#45467d">Command</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">HoP's office</font> and <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Medium</font>. Colloquial name: "HoP"
 
 ## Overview
 

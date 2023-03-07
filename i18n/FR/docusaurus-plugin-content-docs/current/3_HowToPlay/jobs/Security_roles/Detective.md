@@ -1,5 +1,5 @@
 # Detective
-**Role type**: <font color= "#711e25">Securité</font>. Accès: <font color="#711e25">Cellules & sécurité</font>, <font color="#711e25">Bureau du détective</font>, Maintenance. **Difficulté**: <font color="Orange">Moyenne</font>
+**Role type**: <font color="#711e25">Securité</font>. Accès: <font color="#711e25">Cellules & sécurité</font>, <font color="#711e25">Bureau du détective</font>, Maintenance. **Difficulté**: <font color="Orange">Moyenne</font>
 
 
 

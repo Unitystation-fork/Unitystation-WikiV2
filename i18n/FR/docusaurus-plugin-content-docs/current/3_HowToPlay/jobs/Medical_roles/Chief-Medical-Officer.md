@@ -1,6 +1,6 @@
 # Médecin en chef
 
-**Role type**: <font color= "#d673b2">Medicale</font> . **Access**: <font color="#d673b2">Infirmerie</font>. **Difficulty**: <font color="Red">Extreme</font>.
+**Role type**: <font color="#d673b2">Medicale</font> . **Access**: <font color="#d673b2">Infirmerie</font>. **Difficulty**: <font color="Red">Extreme</font>.
 
 
 

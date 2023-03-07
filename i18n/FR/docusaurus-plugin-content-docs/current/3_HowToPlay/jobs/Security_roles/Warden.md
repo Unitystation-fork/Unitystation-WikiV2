@@ -1,5 +1,5 @@
 # Gardien
-**Role type:** <font color= "#711e25">Sécurité</font>. **Access:** <font color="#711e25">Cellules & Sécurité</font>, <font color="#711e25">Brigade</font>, <font color="#711e25">Armurerie</font>. **Difficulty:** <font color="Orange">Diificile</font>.
+**Role type:** <font color="#711e25">Sécurité</font>. **Access:** <font color="#711e25">Cellules & Sécurité</font>, <font color="#711e25">Brigade</font>, <font color="#711e25">Armurerie</font>. **Difficulty:** <font color="Orange">Diificile</font>.
 
 
 ## Aperçu

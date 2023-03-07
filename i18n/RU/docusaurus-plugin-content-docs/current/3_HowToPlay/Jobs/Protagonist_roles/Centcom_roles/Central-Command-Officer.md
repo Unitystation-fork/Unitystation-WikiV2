@@ -1,5 +1,5 @@
 # Central Command Officer
-**Role type**: <font color= "#D4AF37">CentCom</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Extreme</font>.
+**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Extreme</font>.
 
 
 

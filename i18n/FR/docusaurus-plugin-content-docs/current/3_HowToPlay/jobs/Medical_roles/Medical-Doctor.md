@@ -1,5 +1,5 @@
 # Médecin
-**Role type:** <font color= "#d673b2">Medicale</font>. **Access:** <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Clonage</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Chirurgie</font> , **Difficulty:** <font color="Yellow">Moyenne</font>.
+**Role type:** <font color="#d673b2">Medicale</font>. **Access:** <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Clonage</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Chirurgie</font> , **Difficulty:** <font color="Yellow">Moyenne</font>.
 
 
 ## Aperçu

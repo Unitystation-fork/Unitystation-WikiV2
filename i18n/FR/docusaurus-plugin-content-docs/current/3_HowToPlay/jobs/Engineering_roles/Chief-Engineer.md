@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Chief Engineer
-Job type: <font color= "#74652c">Engineer</font>. Access: <font color="#74652c">Engineering</font>, Maintenance, <font color="#45467d">Command</font>. Difficulty: <font color="Yellow">Medium</font>
+Job type: <font color="#74652c">Engineer</font>. Access: <font color="#74652c">Engineering</font>, Maintenance, <font color="#45467d">Command</font>. Difficulty: <font color="Yellow">Medium</font>
 
 
 " ALLEZ ! Quel crétin a encore coupé le fil haute tension ? "

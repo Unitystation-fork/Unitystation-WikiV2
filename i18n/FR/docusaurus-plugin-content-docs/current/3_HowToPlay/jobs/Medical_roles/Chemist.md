@@ -1,5 +1,5 @@
 # Chimiste
-**Role type** <font color= "#d673b2">Medicale</font>. **Access:** <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Clonage</font>, <font color="#d673b2">Morgue</font>,<font color="#d673b2">Labo de Chimie</font> Maintenance. **Difficulty:** <font color="Yellow">Moyenne</font>.
+**Role type** <font color="#d673b2">Medicale</font>. **Access:** <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Clonage</font>, <font color="#d673b2">Morgue</font>,<font color="#d673b2">Labo de Chimie</font> Maintenance. **Difficulty:** <font color="Yellow">Moyenne</font>.
 
 Note: il s'agit du guide des job, le guide des réactions et autres est [ici].(Chemistry.md)
 

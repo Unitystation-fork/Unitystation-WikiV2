@@ -5,7 +5,7 @@
         <div class="card-img-top d-flex align-items-center">
             <div>
                 <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_miner.png" alt="Card image cap"></img>
-                <b>Role type:</b> <font color= "#734823">Cargo</font>. <b>Access:</b> <font color="#734823">Mining department</font>, <font color="#734823">Cargo department</font>, Maintenance. <b>Difficulty:</b> <font color="Orange">Hard</font>-<font color="Red">Very Hard</font>
+                <b>Role type:</b> <font color="#734823">Cargo</font>. <b>Access:</b> <font color="#734823">Mining department</font>, <font color="#734823">Cargo department</font>, Maintenance. <b>Difficulty:</b> <font color="Orange">Hard</font>-<font color="Red">Very Hard</font>
             </div>
         </div>
     </div>

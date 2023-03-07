@@ -1,5 +1,5 @@
 # Chief Engineer
-Job type: <font color= "#74652c">Engineer</font>. Access: <font color="#74652c">Engineering</font>, Maintenance, <font color="#45467d">Command</font>. Difficulty: <font color="Yellow">Medium</font>
+Job type: <font color="#74652c">Engineer</font>. Access: <font color="#74652c">Engineering</font>, Maintenance, <font color="#45467d">Command</font>. Difficulty: <font color="Yellow">Medium</font>
 
 
 "ALRIGHT! what goddamn moron cut the high voltage wire again?"

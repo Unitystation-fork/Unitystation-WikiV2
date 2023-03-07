@@ -1,5 +1,5 @@
 # Ash Walker
-**Job type:** <font color= "#ff0000">Ash Walker</font>. **Access:** none, chump. **Difficulty:** <font color="red">Hard</font>
+**Job type:** <font color="#ff0000">Ash Walker</font>. **Access:** none, chump. **Difficulty:** <font color="red">Hard</font>
 
 
 ## Overview

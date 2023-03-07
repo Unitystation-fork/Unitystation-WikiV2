@@ -1,5 +1,5 @@
 # Avocat
-**Role type:** <font color= "#808080">Civil</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">facile</font>
+**Role type:** <font color="#808080">Civil</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">facile</font>
 
 Vous êtes le mur entre la loi et le suspect, c'est à vous de veiller à ce que tout se passe bien, ou vous savez, enfonce davantage ton client parce qu'il est soit un poilu, soit un clown. Ce rôle est fait pour ceux qui connaissent la [loi](\3_HowToPlay\Guides\Security_guides\Space-Law.md) et cherche une grosse expérience de jeu de rôle.
 

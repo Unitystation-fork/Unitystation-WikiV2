@@ -1,5 +1,5 @@
 # Janitor
-**Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Janitorial closet</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>.'' ''Colloquial title: "Jani"
+**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Janitorial closet</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>.'' ''Colloquial title: "Jani"
 
 
 ## Vue d'ensemble

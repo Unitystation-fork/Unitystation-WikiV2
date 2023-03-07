@@ -1,5 +1,5 @@
 # Mime
-**Role type:** <font color= "#c51f57">Entertainment</font>. **Access:** <font color="#c51f57">Mime's office</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>.
+**Role type:** <font color="#c51f57">Entertainment</font>. **Access:** <font color="#c51f57">Mime's office</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>.
 
 ## ...
 

@@ -1,5 +1,5 @@
 # Chef du personnel
-**Role type:** <font color= "#45467d">Commande</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">Bureau du chef</font> et <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Moyenne</font>. Surnom: "CdP"
+**Role type:** <font color="#45467d">Commande</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">Bureau du chef</font> et <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Moyenne</font>. Surnom: "CdP"
 
 
 ## Aperçu
