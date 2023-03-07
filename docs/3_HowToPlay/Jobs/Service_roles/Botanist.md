@@ -8,6 +8,7 @@
 # Botanist
 **Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
+## Botanist 
 Botanists are the farmers of the station, and the main source of food once the [kitchen](\3_HowToPlay\Jobs\Service_roles\Cook.md) runs out of food. Or, you could just grow some random crops instead of actually feeding people. Whichever one you feel like doing.
 
 ## Like watching grass grow. Oh wait, it is watching grass grow
@@ -37,7 +38,7 @@ Time to eschew the hippie crap; how do you best utilize the art of hydroponics t
 
 if you are lucky and fast you have access to many horrifying things: bluespace bananas, gatfruit, and lemon-nades being your most powerful plants available currently. Unless you set up a secret garden it will be extremely obvious which horrors you're growing, but often no one really cares about botany. You can try to expedite the process by bribing the [chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md) for some mutagen.
 
-# Botany
+------
 
 ## Seeds
 

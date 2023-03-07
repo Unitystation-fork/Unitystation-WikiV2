@@ -11,7 +11,7 @@ sidebar_position: 1
 Note: for the guide to ordinary doctoring and first aid treatment, check [here](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md).
 
 
-
+## Chief Medical Officer
 ## How to keep everyone alive
 
 

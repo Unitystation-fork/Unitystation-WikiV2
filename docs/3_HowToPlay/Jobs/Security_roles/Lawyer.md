@@ -4,11 +4,11 @@
 You are the wall between law and the suspect, it's in your hands to see that everything happens just-fully, or you know, dig your client in deeper because he is either a furry or a clown. This role is meant for those who know the [laws](\3_HowToPlay\Guides\Security_guides\Space-Law.md) and are seeking a role play heavy experience.
 
 
-### How to
+## How to be a Lawyer
 
 Frankly - opportunities will present themselves to you, just hang around near the action, or security if there's no action. Make to have your [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) book handy at all times, the satisfaction of playing the role comes when you successfully null and void any and all accusations thrown at your defendant. But most of the time you have to enjoy the little things, like term shortening or getting the [guards](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) to not break the [Geneva Conventions](https://en.wikipedia.org/wiki/Geneva_Conventions).
 
-## How court should go
+### How court should go
 
 1) Meet your defendant one on one to talk over the details, ask him what he did and what he didn't do, and ask what he did but wants you to say he did not do.
 
