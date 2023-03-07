@@ -5,7 +5,7 @@
         <div class="card-img-top d-flex align-items-center">
             <div>
                 <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_qm.png" alt="Card image cap"></img>
-                <b>Role type:</b>  <font color= "#734823">Cargo</font>. <b>Access:</b> ???  <b>Difficulty:</b> <font color="Yellow"> Medium</font>. Colloquial name: "QM"
+                <b>Role type:</b>  <font color="#734823">Cargo</font>. <b>Access:</b> ???  <b>Difficulty:</b> <font color="Yellow"> Medium</font>. Colloquial name: "QM"
             </div>
         </div>
     </div>

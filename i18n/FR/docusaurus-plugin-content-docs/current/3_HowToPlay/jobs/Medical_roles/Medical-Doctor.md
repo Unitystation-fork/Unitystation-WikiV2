@@ -1,5 +1,5 @@
 # Médecin
-**Role type:** <font color= "#d673b2">Medicale</font>. **Access:** <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Clonage</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Chirurgie</font> , **Difficulty:** <font color="Yellow">Moyenne</font>.
+**Role type:** <font color="#d673b2">Medicale</font>. **Access:** <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Clonage</font>,  <font color="#d673b2">Morgue</font>, <font color="#d673b2">Chirurgie</font> , **Difficulty:** <font color="Yellow">Moyenne</font>.
 
 
 ## Aperçu
@@ -80,7 +80,7 @@ Pour découper une partie, par exemple votre tête, vous devez d'abord la sélec
 Pour retirer une partie du corps ou un organe, sélectionnez d'abord l'option "Retirer..." dans le menu chirurgie. Utilisez ensuite ces outils dans l'ordre : '''Scalpel > Hemostat > Scalpel''' (AVERTISSEMENT : vous risquez de vous mettre à saigner ensuite, assurez-vous d'avoir de la gaze à portée de main pour éviter de perdre du sang et de faire des dégâts).
 
 #### Fermeture d'une partie du corps ####
-Une fois que tu as fini de t'amuser à l'intérieur d'une partie du corps, comme ton torse, tu dois la fermer pour la prochaine fois. Commencez par sélectionner "Close..." puis utilisez simplement le '''Cautère''' et il devrait se refermer. 
+Une fois que tu as fini de t'amuser à l'intérieur d'une partie du corps, comme ton torse, tu dois la fermer pour la prochaine fois. Commencez par sélectionner "Close..." puis utilisez simplement le '''Cautère''' et il devrait se refermer.
 
 #### Points importants à noter ####
 Actuellement, il est impossible de poursuivre ou d'annuler une opération en cours. Assurez-vous d'avoir tous les outils nécessaires et de pouvoir implanter quelque chose, sinon vous ne pourrez pas continuer.
@@ -90,7 +90,7 @@ Si vous rencontrez une procédure chirurgicale et que vous ne savez pas quels ou
 La chirurgie est toujours en cours d'élaboration et, bien que la plupart des choses fonctionnent parfaitement, certaines d'entre elles peuvent être un peu bancales ou pas encore complètement implémentées.
 
 ## Pourquoi vous voulez faire de la chirurgie ?
-Heureusement, comme il ne s'agit que d'un jeu, cela ne fera pas mal du tout (du moins physiquement). Bien que l'on puisse penser que les médecins s'occupent principalement de chirurgie, le système permet également de faire beaucoup de sciences. Lorsque vous appliquez la cybernétique, par exemple, un roboticien doit pratiquer une intervention chirurgicale pour implanter la cybernétique ou vous donner de nouveaux membres de robot. Ces membres de robot et cette cybernétique peuvent augmenter vos capacités naturelles, par exemple en vous permettant de courir plus vite, de porter plus de choses, ou même des capacités spéciales, comme un réanimateur automatique ! La chirurgie peut également vous donner une chance de survivre à un facehugger car si vous êtes assez rapide, vous pouvez retirer l'embryon de l'estomac avant que la larve n'éclate de votre corps. Cargo pourrait même essayer de vous convaincre de donner vos reins afin de les vendre pour une jolie somme. 
+Heureusement, comme il ne s'agit que d'un jeu, cela ne fera pas mal du tout (du moins physiquement). Bien que l'on puisse penser que les médecins s'occupent principalement de chirurgie, le système permet également de faire beaucoup de sciences. Lorsque vous appliquez la cybernétique, par exemple, un roboticien doit pratiquer une intervention chirurgicale pour implanter la cybernétique ou vous donner de nouveaux membres de robot. Ces membres de robot et cette cybernétique peuvent augmenter vos capacités naturelles, par exemple en vous permettant de courir plus vite, de porter plus de choses, ou même des capacités spéciales, comme un réanimateur automatique ! La chirurgie peut également vous donner une chance de survivre à un facehugger car si vous êtes assez rapide, vous pouvez retirer l'embryon de l'estomac avant que la larve n'éclate de votre corps. Cargo pourrait même essayer de vous convaincre de donner vos reins afin de les vendre pour une jolie somme.
 
 Bien que la chirurgie puisse sembler intimidante au début, elle offre de nombreuses opportunités et permet d'aider votre coéquipier. Alors bonne chance et amusez-vous bien à découper vos camarades et à les recoudre !
 

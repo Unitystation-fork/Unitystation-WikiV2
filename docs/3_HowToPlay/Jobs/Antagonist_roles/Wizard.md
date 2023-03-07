@@ -1,5 +1,5 @@
 # Wizard
-Role type:  <font color= "#711e25">Antagonist</font>. Access levels: <font color="#711e25">anywhere they can teleport to</font>, Difficulty: <font color="Red">hard</font>.
+Role type:  <font color="#711e25">Antagonist</font>. Access levels: <font color="#711e25">anywhere they can teleport to</font>, Difficulty: <font color="Red">hard</font>.
 
 Space Wizards are a unique antagonist who has access to magical powers that defy scientific principles. Most are part of the Space Wizard Federation, a mysterious organization that is at war with NanoTrasen. The source of the wizard's power is their spellbook, which they consult to master a variety of spells to cast to cause chaos and devastation.
 
@@ -10,7 +10,7 @@ As the wizard, you will be given quite a few objectives (typically 4) to complet
 
 ## Wizarding 101
 
-You can use the mirror to change your name to whatever you want. 
+You can use the mirror to change your name to whatever you want.
 
 You can also get different colored wizard robes from the Magivend vending machine to customize your appearance.
 

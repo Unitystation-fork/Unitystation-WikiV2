@@ -1,5 +1,5 @@
 # Lawyer
-**Role type:** <font color= "#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
+**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
 
 You are the wall between law and the suspect, it's in your hands to see that everything happens just-fully, or you know, dig your client in deeper because he is either a furry or a clown. This role is meant for those who know the [laws](Space-Law.md) and are seeking a role play heavy experience.
 

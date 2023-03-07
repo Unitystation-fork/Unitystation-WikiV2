@@ -1,5 +1,5 @@
 # Clown
-**Role type:** <font color= "#c51f57">Entertainment</font> . **Access:** Maintenance. **Difficulty:** <font color="Red">H</font><font color="Yellow">O</font><font color="Blue">N<font color="Purple">K</font><font color="Red">!</font></font>
+**Role type:** <font color="#c51f57">Entertainment</font> . **Access:** Maintenance. **Difficulty:** <font color="Red">H</font><font color="Yellow">O</font><font color="Blue">N<font color="Purple">K</font><font color="Red">!</font></font>
 
 
 ## Overview

@@ -1,5 +1,5 @@
 # Chef de Sécurité
-**Role type:** <font color= "#711e25">Securité</font>. **Accès:** <font color="#711e25">Cellules & sécurité</font>, <font color="#711e25">Brigade</font>, <font color="#711e25">Armurerie</font>. **Difficulté:** <font color="Orange">Difficile</font>.
+**Role type:** <font color="#711e25">Securité</font>. **Accès:** <font color="#711e25">Cellules & sécurité</font>, <font color="#711e25">Brigade</font>, <font color="#711e25">Armurerie</font>. **Difficulté:** <font color="Orange">Difficile</font>.
 
 Note: Le chef de sécu est un rôle *très* difficile à jouer et vous devriez probablement avoir de l'expérience en [combat](Combat.md) et en [sécurité](Security.md), en [procédure opérationnelle standard](Standard-Operating-Procedure.md).
 
@@ -21,9 +21,9 @@ Le travail du [Directeur](Warden.md) consiste à gérer les armes et à supervis
 ### quand les ennuies frappe à la porte
 
 Si les choses commencent à brûler et à exploser, c'est peut-être le moment d'ordonner au [directeur](Warden.md) d'ouvrir l'armurerie,
-mais notez que vos [Officiers](Security-Officer.md) ne peuvent pas officiellement porter ouvertement des armes à moins que le niveau d'alerte ne soit en <font color= "blue">code bleu</font> ou plus (mais c'est rarement un problème en raison du fonctionnement des [SOP](Standard-Operating-Procedure.md)). En cas d'urgence, si vous faites confiance à l'équipage, vous pouvez leur donner des armes, bien que vous feriez mieux de leur donner des armes non mortelles et de garder les armes pour les têtes. Assurez-vous d'aider le [directeur](Warden.md) à gérer la prison et à diriger les [officiers](Security-Officer.md) pour récupérer leurs amis morts. 
+mais notez que vos [Officiers](Security-Officer.md) ne peuvent pas officiellement porter ouvertement des armes à moins que le niveau d'alerte ne soit en <font color="blue">code bleu</font> ou plus (mais c'est rarement un problème en raison du fonctionnement des [SOP](Standard-Operating-Procedure.md)). En cas d'urgence, si vous faites confiance à l'équipage, vous pouvez leur donner des armes, bien que vous feriez mieux de leur donner des armes non mortelles et de garder les armes pour les têtes. Assurez-vous d'aider le [directeur](Warden.md) à gérer la prison et à diriger les [officiers](Security-Officer.md) pour récupérer leurs amis morts.
 
-Si le niveau d'alerte est élevé au <font color= "red">Code rouge,</font> c'est le moment de prononcer des peines plus sévères. Vous devez toujours obtenir la permission du capitaine pour effectuer des exécutions sur place, mais dans le cas où la chaîne de commandement a été perturbée et qu'il n'y a pas d'autorité claire, c'est à vous de décider ; à ce stade, la brigade est probablement non fonctionnelle et le danger posé par les antagonistes est à son maximum.
+Si le niveau d'alerte est élevé au <font color="red">Code rouge,</font> c'est le moment de prononcer des peines plus sévères. Vous devez toujours obtenir la permission du capitaine pour effectuer des exécutions sur place, mais dans le cas où la chaîne de commandement a été perturbée et qu'il n'y a pas d'autorité claire, c'est à vous de décider ; à ce stade, la brigade est probablement non fonctionnelle et le danger posé par les antagonistes est à son maximum.
 
 
 ### Comment ne pas finir la tête sur une pique

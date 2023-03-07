@@ -1,6 +1,6 @@
 # Psychologist
 
-**Role type**: <font color= "#d673b2">Medical</font>/Service. **Access**: <font color="#d673b2">Medbay</font>, <font color="#d673b2">Psychology Office</font> **Difficulty:** **none.**
+**Role type**: <font color="#d673b2">Medical</font>/Service. **Access**: <font color="#d673b2">Medbay</font>, <font color="#d673b2">Psychology Office</font> **Difficulty:** **none.**
 
 
 

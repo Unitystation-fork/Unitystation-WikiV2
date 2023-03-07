@@ -1,5 +1,5 @@
 # Botanist
-**Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
+**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
 Les botanistes sont les fermiers de la station, et la principale source de nourriture lorsque la [cuisine](Cook.md) est à court de nourriture.
 

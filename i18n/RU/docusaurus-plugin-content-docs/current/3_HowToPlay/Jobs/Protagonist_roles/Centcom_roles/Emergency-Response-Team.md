@@ -1,5 +1,5 @@
 # Emergency Response Team
-**Role type**: <font color= "#D4AF37">CentCom</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Extreme</font>.
+**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Extreme</font>.
 
 
 Note: ERT are not round-start roles and can only be accessed via events. The reasons for this should be clear by the end of the guide.

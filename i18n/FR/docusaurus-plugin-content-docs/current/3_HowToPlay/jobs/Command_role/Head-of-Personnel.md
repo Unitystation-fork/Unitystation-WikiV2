@@ -1,5 +1,5 @@
 # Chef du personnel
-**Role type:** <font color= "#45467d">Commande</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">Bureau du chef</font> et <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Moyenne</font>. Surnom: "CdP"
+**Role type:** <font color="#45467d">Commande</font>. **Access level:** <font color="#734823">Cargo</font>, Service, <font color="#45467d">Bureau du chef</font> et <font color="#45467d">terminal</font>, <font color="#45467d">Command area</font>.'' **''Difficulty:** <font color="Yellow">Moyenne</font>. Surnom: "CdP"
 
 
 ## Aperçu
@@ -37,9 +37,9 @@ Une fois que vous vous serez familiarisé avec le poste, vous aurez peut-être r
 
 Comme vous êtes commandant en second et que la station est aussi dangereuse qu'elle l'est, vous serez souvent celui qui devra appeler la navette d'urgence lorsque le [capitaine] (capitaine.md) est occupé ou mort. S'ils donnent encore des coups de pied, vous devriez d'abord obtenir leur permission avant d'appeler la navette. S'ils ne le font pas, C'est alors à vous de décider si une évacuation est nécessaire, avec le même poids et la même responsabilité que le capitaine dans cette décision.
 
-Si la navette a été appelée, n'oubliez pas d'emmener [IAN](Ian.md) avec vous. Ian est un chien dressé, vous pouvez donc dire "Ian follow !" et Ian vous suivra de manière assez compétente (les portes lui donnent du fil à retordre). Quand il est en sécurité dans la navette, vous pouvez dire "Ian reste !" pour qu'il s'arrête. Comme c'est votre chien, vous seul, le chef de mission, pouvez le faire. 
+Si la navette a été appelée, n'oubliez pas d'emmener [IAN](Ian.md) avec vous. Ian est un chien dressé, vous pouvez donc dire "Ian follow !" et Ian vous suivra de manière assez compétente (les portes lui donnent du fil à retordre). Quand il est en sécurité dans la navette, vous pouvez dire "Ian reste !" pour qu'il s'arrête. Comme c'est votre chien, vous seul, le chef de mission, pouvez le faire.
 
 
 ### Ressources inhumaines ([traître](traître.md) HoP)
 
-Inutile de dire qu'être un [traître] (traitor.md) en tant que HoP est assez difficile. Il n'est pas surprenant que le commandant en second de la station permette de remplir assez facilement les objectifs des traîtres. Avec la capacité de vous donner la valeur de l'AA et l'autorité d'un chef, vous pouvez aller partout où vous le souhaitez avec facilité. Votre autorité directe sur le fret peut également s'avérer utile, car vous pouvez demander au [QM](quartermaster.md) de vous commander ce dont vous avez besoin. 
+Inutile de dire qu'être un [traître] (traitor.md) en tant que HoP est assez difficile. Il n'est pas surprenant que le commandant en second de la station permette de remplir assez facilement les objectifs des traîtres. Avec la capacité de vous donner la valeur de l'AA et l'autorité d'un chef, vous pouvez aller partout où vous le souhaitez avec facilité. Votre autorité directe sur le fret peut également s'avérer utile, car vous pouvez demander au [QM](quartermaster.md) de vous commander ce dont vous avez besoin.

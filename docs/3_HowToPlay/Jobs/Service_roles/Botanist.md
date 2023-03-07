@@ -6,9 +6,9 @@
 [TOC]
 
 # Botanist
-**Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
+**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
-## Botanist 
+## Botanist
 Botanists are the farmers of the station, and the main source of food once the [kitchen](\3_HowToPlay\Jobs\Service_roles\Cook.md) runs out of food. Or, you could just grow some random crops instead of actually feeding people. Whichever one you feel like doing.
 
 ## Like watching grass grow. Oh wait, it is watching grass grow

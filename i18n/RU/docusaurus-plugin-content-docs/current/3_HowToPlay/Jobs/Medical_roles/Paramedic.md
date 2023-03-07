@@ -1,6 +1,6 @@
 # Paramedic
 
-**Role type**: <font color= "#d673b2">Medical</font>. **Access**: <font color="#d673b2">Medbay</font>, <font color="#d673b2">Morgue</font>, maintenance, **Difficulty**: <font color="Yellow">Medium</font> to <font color="Red">High</font>.
+**Role type**: <font color="#d673b2">Medical</font>. **Access**: <font color="#d673b2">Medbay</font>, <font color="#d673b2">Morgue</font>, maintenance, **Difficulty**: <font color="Yellow">Medium</font> to <font color="Red">High</font>.
 
 Note: for the guide to ordinary doctoring and first aid treatment, check [here](Medical-Doctor.md).
 

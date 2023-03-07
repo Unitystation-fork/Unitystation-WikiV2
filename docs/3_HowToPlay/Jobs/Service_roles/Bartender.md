@@ -1,5 +1,5 @@
 # Bartender
-**Role type:** <font color= "#4e7331">Service</font>. **Access:** <font color="#4e7331">Bar</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>
+**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Bar</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>
 
 
 ## Bartender - Overview
