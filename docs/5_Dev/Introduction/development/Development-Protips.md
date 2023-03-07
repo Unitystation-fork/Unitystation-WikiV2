@@ -4,7 +4,7 @@ Various tips to help speed up development and share random knowledge that doesn'
 
 #### General
 
-1. Familiarize yourself with our [Development Gotchas](Development-Gotchas-and-Common-Mistakes.md)
+1. Familiarize yourself with our [Development Gotchas](\5_Dev\Introduction\development\Development-Gotchas-and-Common-Mistakes.md)
 
 #### Faster Building and Testing
 

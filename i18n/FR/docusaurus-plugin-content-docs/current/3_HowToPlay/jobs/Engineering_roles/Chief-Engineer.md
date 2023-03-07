@@ -23,7 +23,7 @@ Vous devrez ignorer la plupart des appels à l'ingénierie qui vous seront adres
 
 ### Aidez quelqu'un à faire sauter le mur
 
-La plupart peuvent être réparées avec un seul [ingénieur](Engineer.md) et un [atmos tech](Atmospherics-Technician.md), mais une navette du syndicat, c'est une toute autre histoire. Désignez simplement quelqu'un par son nom pour réparer le mur ou le sol et assurez-vous qu'il a une combinaison digne de l'espace.
+La plupart peuvent être réparées avec un seul [ingénieur](Engineer.md) et un [atmos tech](\3_HowToPlay\jobs\Engineering_roles\Atmospherics-Technician.md), mais une navette du syndicat, c'est une toute autre histoire. Désignez simplement quelqu'un par son nom pour réparer le mur ou le sol et assurez-vous qu'il a une combinaison digne de l'espace.
 
 ### OH, MON DIEU, TOUT BRÛLE ET EXPLOSE !
 
@@ -31,7 +31,7 @@ La fin éventuelle de la plupart des quarts de travail, il y a des trous dans l'
 
 ### Chef Screw-Loose ([traître](traître.md) CE)
 
-Un [traître](traître.md) CE dispose d'un grand nombre d'options amusantes pour causer un *havoc* absolu sur la station. Vous avez accès à presque toutes les salles et machines critiques de la station, les options les plus importantes étant la salle des machines, le pont, les batteries du département, la salle de téléchargement de l'[IA](station-AI.md) et les ACU. Vous disposez également des meilleurs outils de construction de la station, d'une très bonne combinaison de protection, de bottes magiques avancées et de tout l'équipement se trouvant dans la salle de stockage de l'ingénierie.
+Un [traître](traître.md) CE dispose d'un grand nombre d'options amusantes pour causer un *havoc* absolu sur la station. Vous avez accès à presque toutes les salles et machines critiques de la station, les options les plus importantes étant la salle des machines, le pont, les batteries du département, la salle de téléchargement de l'[IA](\3_HowToPlay\jobs\Synthetic_roles\Station-AI.md) et les ACU. Vous disposez également des meilleurs outils de construction de la station, d'une très bonne combinaison de protection, de bottes magiques avancées et de tout l'équipement se trouvant dans la salle de stockage de l'ingénierie.
 
 Comme vous avez accès à la baie des moteurs, vous disposez également du moyen le plus efficace de créer une excuse pour appeler la navette d'évacuation en déclenchant le moteur, qu'il s'agisse d'un Singularity, d'un Tesla ou d'un Supermatter. Veillez simplement à ce que la navette soit appelée *immédiatement*, car une fois que vous aurez saboté l'un d'entre eux, vous n'aurez pas beaucoup de temps avant qu'ils ne commencent à mettre la station en pièces.
 

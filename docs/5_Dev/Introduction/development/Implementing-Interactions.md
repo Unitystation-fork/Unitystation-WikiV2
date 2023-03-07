@@ -1,6 +1,6 @@
 # Implementing Interactions
 
-For info on the Right Click Menu, see [Right Click Menu](Right-Click-Menu.md).
+For info on the Right Click Menu, see [Right Click Menu](\5_Dev\Introduction\development\Right-Click-Menu.md).
 
 This page describes the interaction system for Unitystation, also called Interaction Framework 2 (IF2), due to being a replacement of the previous approach to interactions.
 

@@ -14,7 +14,7 @@ En tant que robotiste, votre rôle est simplement de crée des robots. Des simpl
 
 ## Alors, que dois-je faire ?
 
-c'est un court résumé de votre travail en tant que roboticien. Pour un guide plus approfondi, voir [Guide de la robotique](Robotics-Guide.md)
+c'est un court résumé de votre travail en tant que roboticien. Pour un guide plus approfondi, voir [Guide de la robotique](\3_HowToPlay\Guides\Science_guides\Robotics-Guide.md)
 
 Simple. Crée des robots. Au moment de la réalisation de cette page, Vous avez trois robots que vous pouvez fabriquer: Les robots de sol, qui remplacent les dalles de sol retirées;Les robots ménagers, qui nettoient les sols ensanglantés (sans laisser le sol glissants derrière eux !); et les robots médicale, qui ne font rien actuellement, cependant ils seront capable de soigner les gens à l'avenir.
 

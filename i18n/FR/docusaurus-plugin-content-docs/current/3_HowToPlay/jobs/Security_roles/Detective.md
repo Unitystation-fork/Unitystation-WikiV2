@@ -5,7 +5,7 @@
 
 ## Aperçu
 
-En tant que détective, votre rôle est de vous rendre sur les scènes de crime et d'aider la [sécurité](Security.md) à découvrir qui a tué le cadavre trouvé dans un casier de la Maintenance. Si il n'y a aucune scènes de crime à observer, vous avez juste à faire une ronde, fumé une cigarette, avoir l'air cool, et vous faire passer pour un membre de la sécurité même si vous n'en n'êtes pas un.
+En tant que détective, votre rôle est de vous rendre sur les scènes de crime et d'aider la [sécurité](Security-Officer.md) à découvrir qui a tué le cadavre trouvé dans un casier de la Maintenance. Si il n'y a aucune scènes de crime à observer, vous avez juste à faire une ronde, fumé une cigarette, avoir l'air cool, et vous faire passer pour un membre de la sécurité même si vous n'en n'êtes pas un.
 
 
 

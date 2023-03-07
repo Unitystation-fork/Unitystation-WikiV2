@@ -50,4 +50,4 @@ RPC is a nice and clean solution to send non-secure data. An example for non-sec
 Please note, that some insignificant graffical updates, may be important to send sparsely.
 
 ## SyncVar
-SyncVar can be a simple alternative to NetMsg or RPC for sending updates to all clients. But it has some caveats for how to use it without having unexpected behavior. See [SyncVar Best Practices for Easy Networking](SyncVar-Best-Practices-for-Easy-Networking.md)
+SyncVar can be a simple alternative to NetMsg or RPC for sending updates to all clients. But it has some caveats for how to use it without having unexpected behavior. See [SyncVar Best Practices for Easy Networking](\5_Dev\Introduction\development\SyncVar-Best-Practices-for-Easy-Networking.md)

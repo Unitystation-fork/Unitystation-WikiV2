@@ -163,7 +163,7 @@ Permet de donner aux joueurs sélectionnés le rôle "mentor".
 **Ceci est un outils Roleplay** `/!\`
 Le CentComm est l'entité supérieure au capitaine.
 Pour plus d'informations, consultez les pages
-| **Centcom**     | [Centcom Officer](Central-Command-Officer.md), [Death Squad](Death-Squad.md), [Emergency Response Team,](Emergency-Response-Team.md) [Redshield Officer](Redshield-Officer.md) |
+| **Centcom**     | [Centcom Officer](\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), [Death Squad](\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Death-Squad.md), [Emergency Response Team,](Emergency-Response-Team.md) [Redshield Officer](\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Redshield-Officer.md) |
 ####  2.2d - Events Managers ####
 ![EventManager](https://i.imgur.com/1PYvGB4.png)**Events Types :**
 * random

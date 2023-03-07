@@ -14,7 +14,7 @@ The eponymous rogue department. With your own lathe, half a dozen hardsuits, the
 
 If you go the hostile-takeover route, your priority is to hoard as much money as possible to purchase the gear you need to succeed while ignoring requests from other departments, citing lack of funds or having them fill out needless and exuberant paperwork.
 
-You will likely want to purchase some weapons crates to arm the proletariats of Cargonia. These crates come locked, requiring security clearance to open. One strategy to getting past this is dragging the crates outside the station airlocks and pinning them against a wall along an indentation. Once you have secured yourself on an opposite wall, shoot the crates with a [PKA](PKA.md) until they break, then take the goodies back inside. Barring that solution, you could also just ask the [HoP](HoP.md) for All Access; 50% of the time, it works every time.
+You will likely want to purchase some weapons crates to arm the proletariats of Cargonia. These crates come locked, requiring security clearance to open. One strategy to getting past this is dragging the crates outside the station airlocks and pinning them against a wall along an indentation. Once you have secured yourself on an opposite wall, shoot the crates with a [PKA](PKA.md) until they break, then take the goodies back inside. Barring that solution, you could also just ask the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) for All Access; 50% of the time, it works every time.
 
   <br/>
 <br/>
