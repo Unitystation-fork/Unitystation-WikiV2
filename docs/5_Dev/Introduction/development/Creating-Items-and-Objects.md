@@ -12,7 +12,7 @@ Want to create a new item or object? Read on to find out how.
 3. In the hierarchy for the prefab, select the Sprite child object and set the Sprite Renderer sprite to an icon representing the object. Make sure the SpriteRenderer's sorting layer and order in layer are correct.
 3. Ensure the object's physics layer is correct. The child Sprite's physics layer can be left at default (but NOT the SpriteRenderer sorting layer).
 3. Edit the fields on the other components as necessary.
-4. Develop new components or modify the code for existing ones as needed. See [Component Development Checklist](Component-Development-Checklist.md)
+4. Develop new components or modify the code for existing ones as needed. See [Component Development Checklist](\5_Dev\Introduction\development\Component-Development-Checklist.md)
 5. Test! Don't forget to test the following common sources of issues:
    * Test in multiplayer with at least 1 client and 1 server, trying to use the object as client and as server player.
    * [Test using Respawn](Proper-Spawning-and-Despawning-(Object-Lifecycle).md)
@@ -105,12 +105,12 @@ For reference, see another prefab which already does this, such as the ID card p
 ## Layers
 There are 2 kinds of layers - physics layers (used to determine what should collide with each other) and sorting layers (used to determine what should be drawn on top). Order in layer is a tiebreaker for things in the same sorting layer.
 
-When creating a new object, **you must ensure the prefab's root object has the correct physics layer** (top right in the Inspector) based on what that object is. If you know of an object which functions similarly, simply use the same physics layer as it. Otherwise, [refer to the physics layer reference here.](Physics-Layers.md)
+When creating a new object, **you must ensure the prefab's root object has the correct physics layer** (top right in the Inspector) based on what that object is. If you know of an object which functions similarly, simply use the same physics layer as it. Otherwise, [refer to the physics layer reference here.](\5_Dev\Introduction\development\Physics-Layers.md)
 
 Additionally, **you must ensure the Sprite's SpriteRenderer has the correct sorting layer and order in layer**. Sorting layer should generally match the kind of object it is (check other similar objects if you aren't sure), and order in layer should just be an arbitrary value that doesn't match any other objects' order in layer within that sorting layer (otherwise the order will be arbitrary and the objects might flicker between each other). In the future we might make it automatic via a script, so just do your best to pick a random number for order in layer.
 
 ## Working with Components
-Components define how the prefab will behave. We have a lot of them! If one doesn't suit your needs, you can [develop new functionality in it or even develop your own](Component-Development-Checklist.md)
+Components define how the prefab will behave. We have a lot of them! If one doesn't suit your needs, you can [develop new functionality in it or even develop your own](\5_Dev\Introduction\development\Component-Development-Checklist.md)
 
 This section discusses some commonly used components to give you an idea of how to configure them and how components work in general.
 
@@ -136,7 +136,7 @@ Some fields:
 * Heat Resistance - below this temperature object will take no damage from heat exposure.
 
 ### ItemStorage
-This allows an object to store items. It defines what slots the storage has, what is allowed to fit, and what initial contents it spawns with. See the [Inventory System documentation](Inventory-System.md) for details.
+This allows an object to store items. It defines what slots the storage has, what is allowed to fit, and what initial contents it spawns with. See the [Inventory System documentation](\5_Dev\Introduction\development\Inventory-System.md) for details.
 
 ### Pickupable
 The **Pickupable** component allows an item to be picked up. Contains some additional server-side functionality for predicting the success or failure of an attempt to grab the item.
@@ -175,9 +175,9 @@ References:
 ## Putting your object in the game
 The easiest way to make your object show up is to create it using the Dev Spawner in game (top right, Dev, Dev Spawner, search for your prefab by name).
 
-You can also map your object into the scene. This requires [adding it to the tile palette](Creating-and-Using-Tile-Palettes.md)
+You can also map your object into the scene. This requires [adding it to the tile palette](\5_Dev\Introduction\development\Creating-and-Using-Tile-Palettes.md)
 
-Once you've done that, you can [map it into the scene](How-to-Map.md).
+Once you've done that, you can [map it into the scene](\5_Dev\Introduction\development\How-to-Map.md).
 
 
 ### A note about changing a prefab

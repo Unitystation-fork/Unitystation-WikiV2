@@ -11,7 +11,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 
 ### Comment ne pas mourir instantanément
 
-1) Pour ne pas mourir, vous devez connaître les contrôles - W A S D pour marcher et la souris pour interagir. Vous avez deux mains pour ramasser des choses avec, vous pouvez passer de l'une à l'autre avec la touche X. Utiliser les mains pour déplacer les objets peut être déroutant au début, mais avec un peu de pratique, on y arrive. Voir [intents](Intents.md) pour savoir comment interagir avec les objets et les êtres.
+1) Pour ne pas mourir, vous devez connaître les contrôles - W A S D pour marcher et la souris pour interagir. Vous avez deux mains pour ramasser des choses avec, vous pouvez passer de l'une à l'autre avec la touche X. Utiliser les mains pour déplacer les objets peut être déroutant au début, mais avec un peu de pratique, on y arrive. Voir [intents](\3_HowToPlay\Guides\General_guides\Intents.md) pour savoir comment interagir avec les objets et les êtres.
 
 1a) Autres contrôles : Q pour laisser tomber l'objet que vous tenez au sol, Z pour "activer" l'objet que vous tenez (on peut aussi le faire en cliquant sur l'objet), R pour lancer l'objet que vous tenez au loin, Ctrl + Clic pour faire glisser quelque chose (un corps ou un casier en général), et Shift + Clic pour voir une description de quelque chose ou de quelqu'un.
 
@@ -33,7 +33,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 6) Apprenez à jouer votre rôle, pour cela regardez en bas de la [page principale](Main-page.md), elle contient un guide sur (presque) tous les rôles du jeu.
 
 
-7) Ne commettez pas de crimes, à moins que vous ne vouliez être brigués, et éventuellement maltraités, apprenez le [droit de l'espace](Space-Law.md) si vous le souhaitez, c'est votre meilleure arme contre la [sécurité de la merde](Shitsec.md).
+7) Ne commettez pas de crimes, à moins que vous ne vouliez être brigués, et éventuellement maltraités, apprenez le [droit de l'espace](\3_HowToPlay\Guides\Security_guides\Space-Law.md) si vous le souhaitez, c'est votre meilleure arme contre la [sécurité de la merde](Shitsec.md).
 
 
 8) Si vous êtes projeté dans l'espace par une pression, tirez sur quelque chose ou lancez tout ce que vous pouvez dans la direction où vous volez, ce qui, avec un peu de chance, vous fera voler dans l'autre sens. Si vous n'avez pas de combinaison spatiale, vous mourrez quand même, mais vous aurez plus de chances d'être retrouvé par vos coéquipiers. Un extincteur fonctionne aussi pour cela, vous vous souvenez du film Wall-E ?
@@ -60,7 +60,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 13) Essayez de ne pas choisir d'antagonistes (antags) les premières fois que vous jouez, du moins jusqu'à ce que vous soyez familiarisé avec les commandes. Si vous voulez commencer à être un antag, essayez d'être un [traître] (Traitor.md), et rappelez-vous qu'en tant que tel, vous êtes autorisé à vous en tirer avec de nombreux crimes de guerre, mais essayez de ne faire qu'un enfer pour votre cible, s'il vous plaît.
 
 
-14) Ne choisissez pas de rôle de sécurité tant que vous n'avez pas au moins une idée du fonctionnement du système de combat (vous êtes assez "robuste"). Si vous êtes un [agent de sécurité](Security.md), ne faites pas de jeux de pouvoir, cela ruine l'expérience de l'autre et vous donne une euphorie temporaire, avec des regrets par la suite.
+14) Ne choisissez pas de rôle de sécurité tant que vous n'avez pas au moins une idée du fonctionnement du système de combat (vous êtes assez "robuste"). Si vous êtes un [agent de sécurité](Security-Officer.md), ne faites pas de jeux de pouvoir, cela ruine l'expérience de l'autre et vous donne une euphorie temporaire, avec des regrets par la suite.
 
 
 15) Si vous êtes blessé, vous devez vous rendre au service médical pour vous faire soigner ou vous soigner vous-même. Vous pouvez voir à quel point votre état est mauvais en vérifiant la couleur de votre corps dans l'ui.
@@ -70,7 +70,7 @@ Unitystation, comme son prédécesseur Space Station 13, a une courbe d'apprenti
 
 17) Et surtout, parlez. UnityStation est, en fait, un jeu de conversation, alors expérimentez le chat autant que vous le pouvez avant d'essayer quoi que ce soit d'autre.
 
-(Être "robuste", c'est être suffisamment familiarisé avec le système de combat, dont un guide peut être trouvé [ici] (Combat.md). A quel point est-ce suffisant, demandez-vous ? Eh bien il n'y a pas de réelle mesure).
+(Être "robuste", c'est être suffisamment familiarisé avec le système de combat, dont un guide peut être trouvé [ici] (Combat_Guide.md). A quel point est-ce suffisant, demandez-vous ? Eh bien il n'y a pas de réelle mesure).
 
   <br/>
 <br/>

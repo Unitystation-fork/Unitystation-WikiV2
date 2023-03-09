@@ -1,5 +1,5 @@
 # Curator
-**Role type:** <font color= "#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
+**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
 
 '<font color="red"> ''Disclaimer: the curator job is currently unfinished. this guide will (likely) be updated as the job is.''</font>'
 
@@ -12,13 +12,13 @@ Well settle down kid, because you wont. That's right, your a librarian on some s
 
 ### Summoning Satan
 
-If lifes got you down, why not change something and summon the lord of hell? As curator, you can also act as a non-religiously aligned chaplain if you want, gathering weird eldritch books and making deals with whatever bizarre daemon you summon, just make sure [the gods are on to hear your prayers](So-close-to-impossible-that-it-might-as-well-not-even-exist.md) beforehand. Go summon Beelzebub and later shake hands with herma-mora so he gives you cool books. Alternatively, work with the [chaplain](Chaplain.md), providing him eldritch tomes or whatever religious books he requests to summon some fish god and make a cult surrounding it, before going on a holy crusade to seafood aisle to liberate his borthers.
+If lifes got you down, why not change something and summon the lord of hell? As curator, you can also act as a non-religiously aligned chaplain if you want, gathering weird eldritch books and making deals with whatever bizarre daemon you summon, just make sure [the gods are on to hear your prayers](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) beforehand. Go summon Beelzebub and later shake hands with herma-mora so he gives you cool books. Alternatively, work with the [chaplain](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md), providing him eldritch tomes or whatever religious books he requests to summon some fish god and make a cult surrounding it, before going on a holy crusade to seafood aisle to liberate his borthers.
 
 
 
 ### Indiana Jones and the hunt for cool shit
 
-Your a curator, not a book curator specifically, this means that your free to go delve into whatever [gateway ruins](Gateway-maps.md) you find and bring back the artifacts inside, so long as you can survive the horrors within. Make sure to stock up on weapons and supplies, you dont want to awkwardly shuffle back halfway through an ancient pyramid because you forgot a tool-belt. once you've gotten cool artifacts, build them a display or set them on your table and hope nobody steals them. invite people over to gaze at your cool loot and maybe even hire a [security](Security.md) detail with some of it. alternatively, you can sell the jewels and gold you find by working with [cargo](Cargo-Technician.md). These artifacts may even harbor special powers youd want to make use of to further your own goals.
+Your a curator, not a book curator specifically, this means that your free to go delve into whatever [gateway ruins](Gateway-maps.md) you find and bring back the artifacts inside, so long as you can survive the horrors within. Make sure to stock up on weapons and supplies, you dont want to awkwardly shuffle back halfway through an ancient pyramid because you forgot a tool-belt. once you've gotten cool artifacts, build them a display or set them on your table and hope nobody steals them. invite people over to gaze at your cool loot and maybe even hire a [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) detail with some of it. alternatively, you can sell the jewels and gold you find by working with [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md). These artifacts may even harbor special powers youd want to make use of to further your own goals.
 
 
 

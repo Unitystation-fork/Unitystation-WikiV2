@@ -1,5 +1,5 @@
 # Groups
-Also see the [lore](The-Lore.md)
+Also see the [lore](\4_Univers\Lore\The-Lore.md)
 
 ## **NanoTrasen**
 
@@ -9,8 +9,8 @@ However, in the decades leading up to the present, the company was losing money 
 
 ## The Syndicate
 
-The Syndicate isn't so much one corporation, as it is a union of multiple companies, mercenary organizations, and raider groups. A loose coalition at best, each member group of the Syndicate works with the rest only as necessary to undermine their common enemy: NanoTrasen. As a well-funded, conspiratorial, and militant group, NanoTrasen regards the Syndicate as their number one enemy, and with good reason; The Syndicate have many times been responsible for the [destruction](Traitor.md) [of](Nuclear-Emergency.md) NanoTrasen's advanced research space stations.
+The Syndicate isn't so much one corporation, as it is a union of multiple companies, mercenary organizations, and raider groups. A loose coalition at best, each member group of the Syndicate works with the rest only as necessary to undermine their common enemy: NanoTrasen. As a well-funded, conspiratorial, and militant group, NanoTrasen regards the Syndicate as their number one enemy, and with good reason; The Syndicate have many times been responsible for the [destruction](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [of](Nuclear-Emergency.md) NanoTrasen's advanced research space stations.
 
 
 
-[more to be added in a few centuries](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
+[more to be added in a few centuries](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)

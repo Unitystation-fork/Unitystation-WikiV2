@@ -26,7 +26,7 @@ En plus de sauver l'équipage de lui-même, une grande partie de ce que vous fer
 
 ### Votre maison : le satellite AI
 
-L'IA de la station commence à l'intérieur du satellite d'IA à sécurité maximale, une chambre conçue pour garder l'IA en sécurité et hors de portée des types [néfastes](traître.md) ou [cupides](assistant.md). À l'intérieur du satellite d'IA se trouve votre chambre protégée par un certain nombre de tourelles laser automatiques. Ces tourelles tirent sur toute personne à vue, à moins qu'elles n'aient été désactivées par l'accès à un petit écran de contrôle des tourelles, soit par vous, soit par un chef d'équipe. Le contrôleur de tourelle peut également faire basculer les modes de tir de la tourelle d'assommer à tuer.
+L'IA de la station commence à l'intérieur du satellite d'IA à sécurité maximale, une chambre conçue pour garder l'IA en sécurité et hors de portée des types [néfastes](traître.md) ou [cupides](\3_HowToPlay\jobs\Service_roles\Assistant.md). À l'intérieur du satellite d'IA se trouve votre chambre protégée par un certain nombre de tourelles laser automatiques. Ces tourelles tirent sur toute personne à vue, à moins qu'elles n'aient été désactivées par l'accès à un petit écran de contrôle des tourelles, soit par vous, soit par un chef d'équipe. Le contrôleur de tourelle peut également faire basculer les modes de tir de la tourelle d'assommer à tuer.
 
 Il y a généralement plusieurs niveaux de défense dans le satellite de l'IA, ainsi que la salle de téléchargement de l'IA, qui contient un terminal pour télécharger de nouvelles lois à l'IA.
 

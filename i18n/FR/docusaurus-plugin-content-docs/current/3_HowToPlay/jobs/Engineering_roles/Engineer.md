@@ -1,5 +1,5 @@
 # Engineer
-**Job type:** <font color= "#74652c">Engineer</font>. **Access:** <font color="#74652c">Engineering</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
+**Job type:** <font color="#74652c">Engineer</font>. **Access:** <font color="#74652c">Engineering</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
 
 ## Aperçu
@@ -12,13 +12,13 @@ Au minimum, vous devez savoir comment réparer une brèche dans la coque et comm
 
 ### Bob le Bricoleur
 
-Ceci n'est qu'un guide très basique sur le fonctionnement du système de construction. Pour un guide plus approfondi, voir [Construction](Construction.md).
+Ceci n'est qu'un guide très basique sur le fonctionnement du système de construction. Pour un guide plus approfondi, voir [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md).
 
 Dans Unitystation, il y a trois matériaux dont vous devrez vous préoccuper : Les plaques de métal, les feuilles de verre et les tiges de métal. Il en existe d'autres, mais ce sont ceux que vous utiliserez le plus souvent. Pour fabriquer/construire quelque chose, sélectionnez un matériau dans votre main, et appuyez sur Z ou cliquez dessus dans votre main. Cela ouvrira un menu de construction dans lequel vous pourrez sélectionner l'objet à construire. Gardez à l'esprit que certains objets nécessiteront plus de matériaux que d'autres, par exemple une batterie départementale nécessitera 30 plaques de métal alors qu'une poutre n'en nécessitera que 2.
 
 Une fois que vous avez cliqué sur l'objet que vous voulez construire, attendez que la barre au-dessus de votre tête se remplisse, et boum, vous avez construit l'objet que vous vouliez construire. Une autre remarque est que certains éléments du menu de construction sont des constructions intermédiaires qui doivent être terminées par d'autres constructions. Par exemple, pour construire un mur, vous devez construire une poutre métallique avec 2 feuilles de métal, puis terminer le mur en cliquant sur la poutre avec 2 autres feuilles.
 
-Les matériaux de construction s'épuisent très vite, surtout avec un département d'ingénierie complet. Il sera probablement nécessaire de commander plus de matériaux à partir de [Cargo](Quartermaster.md). Si vous avez un [CE](Chief-Engineer.md), contactez-le pour savoir ce dont vous avez besoin. Son statut de chef vous permettra de commander et d'expédier les choses plus rapidement. Cependant, les [Mineurs de puits](Mineurs de puits.md) [pourraient](Si proche de l'impossible que cela pourrait ne pas exister.md) se présenter au hasard avec une énorme cargaison de matériaux de construction, basiques ou exotiques, pour vous permettre de vous défouler. Heureusement, vous n'avez pas encore à les partager avec [Science](Roboticist.md).
+Les matériaux de construction s'épuisent très vite, surtout avec un département d'ingénierie complet. Il sera probablement nécessaire de commander plus de matériaux à partir de [Cargo](\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md). Si vous avez un [CE](\3_HowToPlay\jobs\Engineering_roles\Chief-Engineer.md), contactez-le pour savoir ce dont vous avez besoin. Son statut de chef vous permettra de commander et d'expédier les choses plus rapidement. Cependant, les [Mineurs de puits](\3_HowToPlay\jobs\Cargo_roles\Shaft-Miner.md) [pourraient](Si proche de l'impossible que cela pourrait ne pas exister.md) se présenter au hasard avec une énorme cargaison de matériaux de construction, basiques ou exotiques, pour vous permettre de vous défouler. Heureusement, vous n'avez pas encore à les partager avec [Science](\3_HowToPlay\jobs\Science_roles\Roboticist.md).
 
 
 ### Électricité
@@ -57,9 +57,9 @@ Un ingénieur [traître](traître.md) n'est pas aussi facile que vous pourriez l
 
 # Construction
 
-Construction and deconstruction are essential tools for [Engineers](engineer.md) and [Traitors](traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
+Construction and deconstruction are essential tools for [Engineers](\3_HowToPlay\jobs\Engineering_roles\Engineer.md) and [Traitors](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
 
-A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
+A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
 
 ## Cloth ![Cloth](\img\construction\stack_objects_sheet-cloth.png)
 
@@ -345,7 +345,7 @@ L'alimentation électrique de la station est remarquablement fragile, et un seul
 
 ## Conseils de piratage sans spoiler [à partir de la build 4105]
 
-Utilisez un tournevis sur une porte (sur n'importe quelle [intention](Intent.md)) pour ouvrir le panneau. Cliquez sur la porte avec des fils ou une pince coupante à la main pour ouvrir l'interface de piratage. Le panneau peut être refermé en utilisant un tournevis sur la porte une seconde fois, ce qui rend moins évident le fait que la porte a été manipulée.
+Utilisez un tournevis sur une porte (sur n'importe quelle [intention](\3_HowToPlay\Guides\General_guides\Intents.md)) pour ouvrir le panneau. Cliquez sur la porte avec des fils ou une pince coupante à la main pour ouvrir l'interface de piratage. Le panneau peut être refermé en utilisant un tournevis sur la porte une seconde fois, ce qui rend moins évident le fait que la porte a été manipulée.
 
 Le piratage de la porte présente un risque d'électrocution, il est donc conseillé de porter des gants isolants !
 

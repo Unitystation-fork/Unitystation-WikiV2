@@ -1,6 +1,6 @@
 # Psychologue
 
-**Role type**: <font color= "#d673b2">Medicale</font>/Service. **Accès**: <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Bureau du psychologue</font> **Difficulté:** **aucune.**
+**Role type**: <font color="#d673b2">Medicale</font>/Service. **Accès**: <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Bureau du psychologue</font> **Difficulté:** **aucune.**
 
 
 
@@ -10,7 +10,7 @@ NanoTrasen se soucie beaucoup de la santé mentale de ses employés, et à cette
 
 Votre travail consiste principalement à parler et à écouter tous ceux qui le demandent, et accessoirement à rédiger et à délivrer des ordonnances et des notes médicales pour les patients, quand vous le jugez bon.
 
-*vous n'êtes pas un autre [Docteur](Medical-Doctor.md), votre rôle est d'aider mentalement, pas physiquement.* Il s'agit principalement d'un rôle basé sur le **jeu de rôle** - le fait de s'y amuser dépend largement des efforts que vous et vos patients y consacrez, car il n'est pas du tout lié aux mécanismes du jeu.
+*vous n'êtes pas un autre [Docteur](\3_HowToPlay\jobs\Medical_roles\Medical-Doctor.md), votre rôle est d'aider mentalement, pas physiquement.* Il s'agit principalement d'un rôle basé sur le **jeu de rôle** - le fait de s'y amuser dépend largement des efforts que vous et vos patients y consacrez, car il n'est pas du tout lié aux mécanismes du jeu.
 
 ### Cœurs et esprits
 

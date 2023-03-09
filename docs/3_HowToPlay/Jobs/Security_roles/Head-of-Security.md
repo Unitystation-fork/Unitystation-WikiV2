@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Head of Security
-**Role type:** <font color= "#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
+**Role type:** <font color="#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
 
 ##  Head of Security
 Note: The HoS is a *very* difficult role to play and you should probably be experienced in [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) and with [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md), and [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) before picking it. Jumping in and playing HoS on your very first round ever is a great way to get yourself job-banned.
@@ -25,9 +25,9 @@ The [Warden's](\3_HowToPlay\Jobs\Security_roles\Warden.md) job is to manage guns
 
 ### when shit hits the fan
 
-If things start burning and exploding, it may be a good time to order the [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) to open the armory, but note that you cannot officially have your [Officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) openly carrying weapons unless the alert level is at <font color= "blue">Code Blue</font> or higher (but it's rarely a problem because of how [SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) works). In a true emergency, should you trust the crew, you may give them guns, though you'd likely be better off giving them non-lethals and saving the guns for the heads. Be sure to help the [warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) manage the prison and direct [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) to recover their dead friends.
+If things start burning and exploding, it may be a good time to order the [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) to open the armory, but note that you cannot officially have your [Officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) openly carrying weapons unless the alert level is at <font color="blue">Code Blue</font> or higher (but it's rarely a problem because of how [SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) works). In a true emergency, should you trust the crew, you may give them guns, though you'd likely be better off giving them non-lethals and saving the guns for the heads. Be sure to help the [warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) manage the prison and direct [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) to recover their dead friends.
 
-If the alert level is ever elevated to <font color= "red">Code Red,</font> this is the time to give harsher sentences. You still need to get permission from the Captain to perform executions on the spot, but in the event that the chain of command has been disrupted and there is no clear authority, it's your call; at this point the Brig is likely non functional and the danger posed by antagonists is at its greatest.
+If the alert level is ever elevated to <font color="red">Code Red,</font> this is the time to give harsher sentences. You still need to get permission from the Captain to perform executions on the spot, but in the event that the chain of command has been disrupted and there is no clear authority, it's your call; at this point the Brig is likely non functional and the danger posed by antagonists is at its greatest.
 
 
 

@@ -5,7 +5,7 @@
         <div class="card-img-top d-flex align-items-center">
             <div>
                 <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_cargo.png" alt="Card image cap"></img>
-                <b>Role type:</b> <font color= "#734823">Cargo</font>. <b>Access</b> <font color="#734823">Cargo Department</font>, <font color="#734823">Mining Department</font>, Maintenance. <b>Difficulty</b> <font color="Green">Easy</font>. Colloquial name: "Tech"
+                <b>Role type:</b> <font color="#734823">Cargo</font>. <b>Access</b> <font color="#734823">Cargo Department</font>, <font color="#734823">Mining Department</font>, Maintenance. <b>Difficulty</b> <font color="Green">Easy</font>. Colloquial name: "Tech"
             </div>
         </div>
     </div>
@@ -15,7 +15,7 @@
 
 Vous êtes le livreur de la station. Votre travail est assez simple : Vous vous asseyez au bureau des marchandises, vous prenez les commandes des personnes qui ont besoin d'un article ou d'un autre, et vous aidez le [Quartermaster] (Quartermaster.md) à devenir le département le plus riche de la station. Vous vous assurez que chaque département a ce dont il a besoin pour fonctionner et que personne ne se faufile pour commander vingt caisses de mitrailleuses sans que vous le sachiez.
 
-Le technicien de fret est peut-être le meilleur rôle à jouer pour apprendre le jeu une fois que vous avez acquis les bases du mouvement à partir de [Assistant](Assistant.md) Vos responsabilités sont presque nulles. Les seules compétences que vous devez connaître sont le déplacement du fret, le traitement des formulaires et le fonctionnement de la console de fret. Les voyages de livraison sont également un excellent moyen d'apprendre la disposition de la station et comment tout s'assemble. Vous découvrirez également les besoins généraux et les activités des autres départements en fonction de ce qu'ils vous commandent. C'est un travail qui rapporte beaucoup d'argent.
+Le technicien de fret est peut-être le meilleur rôle à jouer pour apprendre le jeu une fois que vous avez acquis les bases du mouvement à partir de [Assistant](\3_HowToPlay\jobs\Service_roles\Assistant.md) Vos responsabilités sont presque nulles. Les seules compétences que vous devez connaître sont le déplacement du fret, le traitement des formulaires et le fonctionnement de la console de fret. Les voyages de livraison sont également un excellent moyen d'apprendre la disposition de la station et comment tout s'assemble. Vous découvrirez également les besoins généraux et les activités des autres départements en fonction de ce qu'ils vous commandent. C'est un travail qui rapporte beaucoup d'argent.
 
 ### Ingénierie, venez chercher votre caisse de plaques de métal maintenant ou nous la réclamerons pour nous-mêmes.
 
@@ -44,11 +44,11 @@ Lorsque les gens viennent chercher des choses, faites-leur remplir les formulair
 
 Une fois que des commandes ont été passées, c'est généralement à vous d'aller livrer les caisses à leurs demandeurs. L'une des clés de la réussite financière du service de fret est la participation au programme de recyclage des caisses du Centcom ; les caisses vides peuvent être chargées à nouveau sur la navette de fret pour être échangées contre une partie de leur prix d'achat. Donc, n'oubliez pas de récupérer les caisses une fois que leurs demandeurs les ont vidées. Si vous oubliez quelles caisses sont allées où, c'est à cela que servent les formulaires.
 
-Parfois, les gens vous demandent de commander quelque chose de douteux ; à ce moment-là, soit vous le faites sans poser de questions, soit vous leur dites de partir. Si vous leur donnez ce qu'ils veulent, ne soyez pas surpris si le [HoP](HoP.md) ou la [Sécurité](Security.md) enfoncent la porte et arrêtent tout le service.
+Parfois, les gens vous demandent de commander quelque chose de douteux ; à ce moment-là, soit vous le faites sans poser de questions, soit vous leur dites de partir. Si vous leur donnez ce qu'ils veulent, ne soyez pas surpris si le [HoP](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md) ou la [Sécurité](Security-Officer.md) enfoncent la porte et arrêtent tout le service.
 
 ### La vengeance du livreur ([traître](traître.md) Cargo Tech)
 
-Être un [traître](traître.md) en tant que technicien de fret est plutôt agréable. Vous n'avez pas de responsabilités importantes et peu d'attention vous est accordée par la plupart des gens, à l'exception du [QM](Quartermaster.md). Vous vous contentez de faire le strict minimum pendant que vous élaborez votre plan pour atteindre vos objectifs. Le séquenceur cryptographique est l'un des biens les plus précieux des techniciens du fret. Il vous permet de contourner les verrous de nombreux dispositifs, notamment les caisses sécurisées achetables à la console de fret. Bien qu'il puisse être difficile de s'assurer que le QM ne le remarque pas lorsqu'il signe l'ordre, si vous y parvenez, l'Emag vous permettra de vous approvisionner facilement en puissance de feu. C'est tout de même risqué.
+Être un [traître](traître.md) en tant que technicien de fret est plutôt agréable. Vous n'avez pas de responsabilités importantes et peu d'attention vous est accordée par la plupart des gens, à l'exception du [QM](\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md). Vous vous contentez de faire le strict minimum pendant que vous élaborez votre plan pour atteindre vos objectifs. Le séquenceur cryptographique est l'un des biens les plus précieux des techniciens du fret. Il vous permet de contourner les verrous de nombreux dispositifs, notamment les caisses sécurisées achetables à la console de fret. Bien qu'il puisse être difficile de s'assurer que le QM ne le remarque pas lorsqu'il signe l'ordre, si vous y parvenez, l'Emag vous permettra de vous approvisionner facilement en puissance de feu. C'est tout de même risqué.
 
 Que vous ayez un antag ou non, il y a beaucoup d'articles achetables sur la console de chargement qui n'éveilleront pas immédiatement les soupçons. Parcourez les options et vous devriez pouvoir trouver des objets qui vous aideront à élaborer un plan d'action.
 

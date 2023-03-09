@@ -19,7 +19,7 @@ These SOs (Scriptable Objects) currently live in Resources/ScriptableObjects/Inv
 
 
 ### Storage Capacity
-Storage capacity is any ScriptableObject which subclasses `ItemStorageCapacity`. For example, `DefinedStorageCapacity` defines which kinds of items can fit in each slot, and SlotCapacity provides a simple global rule for what can fit in any slot on the object. If these aren't enough, you can simply implement your own subclass. The currently capacity classes allow you to define capacity based on the item's size and/or via a combination of whitelisted, blacklisted, and required `ItemTrait`s (defined on each prefab via the ItemAttributes component). For more info, refer to the wiki page on the [Trait system](Item-Traits-System.md).
+Storage capacity is any ScriptableObject which subclasses `ItemStorageCapacity`. For example, `DefinedStorageCapacity` defines which kinds of items can fit in each slot, and SlotCapacity provides a simple global rule for what can fit in any slot on the object. If these aren't enough, you can simply implement your own subclass. The currently capacity classes allow you to define capacity based on the item's size and/or via a combination of whitelisted, blacklisted, and required `ItemTrait`s (defined on each prefab via the ItemAttributes component). For more info, refer to the wiki page on the [Trait system](\5_Dev\Introduction\development\Item-Traits-System.md).
 
 These SOs live in Resources/ScriptableObjects/Inventory/Structure
 

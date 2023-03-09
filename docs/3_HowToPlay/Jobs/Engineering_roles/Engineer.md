@@ -1,5 +1,5 @@
 # Engineer
-**Job type:** <font color= "#74652c">Engineer</font>. **Access:** <font color="#74652c">Engineering</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
+**Job type:** <font color="#74652c">Engineer</font>. **Access:** <font color="#74652c">Engineering</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
 
 
 ## Engineer - Overview

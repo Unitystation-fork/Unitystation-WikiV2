@@ -1,6 +1,6 @@
 # Building and Testing
 
-Before you PR for UnityStation, it would be helpful if you fully test your PR, read the contribution guidelines and read the [Starting Contribution](Starting-contribution.md) article on the wiki.
+Before you PR for UnityStation, it would be helpful if you fully test your PR, read the contribution guidelines and read the [Starting Contribution](\5_Dev\Introduction\contribution-guides\Starting-contribution.md) article on the wiki.
 
 Below you can read our standardised multiplayer test-setup.
 

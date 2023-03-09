@@ -1,5 +1,5 @@
 # Chaplain
-**Role type:** <font color= "#808080">Civilian</font>. **Access:** Maintenance, Church. **Difficulty:** <font color="Green">easy</font>
+**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance, Church. **Difficulty:** <font color="Green">easy</font>
 
 
 [https://en.wiktionary.org/wiki/Citations:ph%27nglui_mglw%27nafh_Cthulhu_R%27lyeh_wgah%27nagl_fhtagn ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!]
@@ -19,7 +19,7 @@ Deuxièmement, le livre saint a la capacité de guérir les gens. Vous pouvez tr
 
 ### Des choses à faire
 
-En raison du manque d'objectifs définis, vous pouvez être un peu dépassé, 
+En raison du manque d'objectifs définis, vous pouvez être un peu dépassé,
 
 cependant, voici quelques idées
 
@@ -42,8 +42,8 @@ cependant, voici quelques idées
 * Invoquez et faites des pactes avec toutes les entités que vous rencontrez.
 * Créez une branche pacifique du culte de Nar-Sie ou Ratvar.
 * Menez une croisade vertueuse contre les autres cultes.
-* Travaillez avec l'[avocat](Lawyer.md), poursuivez Dieu !
-* priez les [dieux du spess](Admin.md) pour obtenir des dons divins ou des tâches sacrées.
+* Travaillez avec l'[avocat](\5_Dev\routine1.0.5\Security\Lawyer.md), poursuivez Dieu !
+* priez les [dieux du spess](\3_HowToPlay\jobs\Protagonist_roles\Special\Admin.md) pour obtenir des dons divins ou des tâches sacrées.
 * N'importe quel autre truc fou que vous pouvez inventer.
 
   <br/>

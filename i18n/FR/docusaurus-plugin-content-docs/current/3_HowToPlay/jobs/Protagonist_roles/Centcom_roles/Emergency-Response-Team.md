@@ -1,12 +1,12 @@
 # Équipe d'intervention d'urgence
-**Role type**: <font color= "#D4AF37">CentCom</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Extreme</font>.
+**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Extreme</font>.
 
 
 Note: Les ERT ne sont pas des rôles à part entière et ne sont accessibles que par le biais d'événements. Les raisons de ce choix devraient être claires à la fin du guide.
 
 ## EIU global
 
-Donc, la station est foutue, mais pas assez pour justifier un [escadron de la mort] (Escadron de la mort.md) ? Est-ce que [quelqu'un] (Capitaine.md) qui commande est simplement incompétent ? Quelqu'un a-t-il tué un [Officier du Centcom] (Central-Command-Officer.md) ?
+Donc, la station est foutue, mais pas assez pour justifier un [escadron de la mort] (Escadron de la mort.md) ? Est-ce que [quelqu'un] (Captain.md) qui commande est simplement incompétent ? Quelqu'un a-t-il tué un [Officier du Centcom] (Central-Command-Officer.md) ?
 C'est dans ces moments-là qu'une équipe d'ERT peut être envoyée, surtout si elle est demandée par la console de communication. Les agents de l'ERT sont bien armés et peuvent s'adapter pour remplir une grande variété de rôles, de la réparation d'un réacteur sur le point d'exploser à la diffusion du message de la sirène.
 
 ## Connaître ses Power Rangers
@@ -19,7 +19,7 @@ Les commandants de l'ERT sont les membres de l'équipe les plus dépouillés, é
 
 ### Sécurité ERT, Escadron de la mort Diet
 
-L'agent de sécurité du GTI est le fer de lance de toute équipe du GTI. Ils sont armés d'une carabine à énergie tactique, d'une matraque et d'un taser, et deux paires de menottes, et porte une combinaison rouge et noire. Ils sont généralement envoyés pour appréhender [la sécurité](Security.md) ou [les chefs](Head-of-Personnel.md) [de](Chief-Engineer.md) [le personnel](Captain.md) lorsque le personnel à bord de la station ne peut ou ne veut pas le faire. Ce n'est généralement pas une affaire pacifique, et le GTI de sécurité a tendance à tuer plus souvent qu'à appréhender, c'est pourquoi on le confond souvent avec un [escadron de la mort](Death-Squad.md).
+L'agent de sécurité du GTI est le fer de lance de toute équipe du GTI. Ils sont armés d'une carabine à énergie tactique, d'une matraque et d'un taser, et deux paires de menottes, et porte une combinaison rouge et noire. Ils sont généralement envoyés pour appréhender [la sécurité](Security-Officer.md) ou [les chefs](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md) [de](\3_HowToPlay\jobs\Engineering_roles\Chief-Engineer.md) [le personnel](\3_HowToPlay\jobs\Command_role\Captain.md) lorsque le personnel à bord de la station ne peut ou ne veut pas le faire. Ce n'est généralement pas une affaire pacifique, et le GTI de sécurité a tendance à tuer plus souvent qu'à appréhender, c'est pourquoi on le confond souvent avec un [escadron de la mort](\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Death-Squad.md).
 
 ### ERT Medic, Walking Medkits
 

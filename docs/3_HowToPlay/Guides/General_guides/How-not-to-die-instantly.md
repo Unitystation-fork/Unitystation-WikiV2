@@ -11,7 +11,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 
 ### How not to die instantly
 
-1) To not die you need to know the controls - W A S D for walking and mouse for interacting. You have two hands to pickup things with, you can swap between them with the X key. Using actual hands to move stuff arround can be confusing at first, but with some practice it gets done. See [intents](Intents.md) to find out how to interact with things and beings.
+1) To not die you need to know the controls - W A S D for walking and mouse for interacting. You have two hands to pickup things with, you can swap between them with the X key. Using actual hands to move stuff arround can be confusing at first, but with some practice it gets done. See [intents](\3_HowToPlay\Guides\General_guides\Intents.md) to find out how to interact with things and beings.
 
 1a) Other controls: Q to drop the thing you are currently holding on the ground, Z to "activate" the item you are holding (it can also be done by clicking the item), R to throw the item you are holding far away, Ctrl + Click to drag something (a body or locker usually), and Shift + Click to see a description on something or someone.
 
@@ -33,7 +33,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 6) Learn to do your role, to do so look on the bottom of the [main page](Main-page.md), it contains a guide on (almost) every role in the game.
 
 
-7) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](Space-Law.md) if you want to, it is your best weapon against [shitcurity](Shitsec.md).
+7) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) if you want to, it is your best weapon against [shitcurity](\3_HowToPlay\Guides\Joke_guides\Shitsec.md).
 
 
 8) If you get spaced (the act of being thrown out into space by pressure) shoot something or throw anything and everything you can in the direction you're flying, that will hopefully, make you fly the other way. Unless you have a spacesuit, you're still going to die, but you're more likely to be found by your crew mates. Also an extinguisher works for this, remember the wall-e movie?
@@ -48,19 +48,19 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 9b) If you are not armed or not robust then run away, cower behind sec and hide in a locker, or get to the escape shuttle or some other safe place. You can also call atention to the thing that you saw through the radio (open the chat and click the radio icon)
 
 
-10) Learn to [build](Construction.md) in case you need to, and more importantly to destroy (same guide) if you are trapped.
+10) Learn to [build](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in case you need to, and more importantly to destroy (same guide) if you are trapped.
 
 
 11) You should try to keep a tool-stacked tool-belt, med-kit, a light and some food at all times in your person. I prefer six cutlets, but to each their own.
 
 
-12) You are expected to know how to role play to a certain extent, use these [role play abbreviations](RP-words-and-abbreviations.md). To roleplay means that you can ask for help in game as your character instead of using the mentor help button.
+12) You are expected to know how to role play to a certain extent, use these [role play abbreviations](\3_HowToPlay\RP\RP-words-and-abbreviations.md). To roleplay means that you can ask for help in game as your character instead of using the mentor help button.
 
 
-13) Try not to pick antagonists (antags) the first times you play, at least until you are familiar with the controls. If you want to start being antag, try being a [traitor](Traitor.md), and remember that as one you are allowed to get away with many war crimes, but try to only make life hell for your target, please.
+13) Try not to pick antagonists (antags) the first times you play, at least until you are familiar with the controls. If you want to start being antag, try being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md), and remember that as one you are allowed to get away with many war crimes, but try to only make life hell for your target, please.
 
 
-14) Do not pick any security role untill you have at least some idea of how the combat system works (you are "robust" enough). If you're a [security officer](Security.md), please don't make power plays, it ruins the other's experience and gives you temporary euphoria, with regret afterwards.
+14) Do not pick any security role untill you have at least some idea of how the combat system works (you are "robust" enough). If you're a [security officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), please don't make power plays, it ruins the other's experience and gives you temporary euphoria, with regret afterwards.
 
 
 15) If you're injured you should go to medical to get treated or treat yourself. You can see how bad you are doing by checking the color of your body in the ui.
@@ -72,7 +72,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 17) And most importantly, talk. UnityStation is, in fact, a chating game, so experiment with the chat as much as you can before trying anything else.
 
 
-(Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](Combat.md). How much is enough you ask? Well there's no real measure.)
+(Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](\3_HowToPlay\Guides\General_guides\Combat_Guide.md). How much is enough you ask? Well there's no real measure.)
 
   <br/>
 <br/>

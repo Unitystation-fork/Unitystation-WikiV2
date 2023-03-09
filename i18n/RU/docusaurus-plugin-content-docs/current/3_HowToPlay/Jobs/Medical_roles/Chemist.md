@@ -1,8 +1,8 @@
 # Chemist
-**Role type:** <font color= "#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>, <font color="#d673b2">Morgue</font>,<font color="#d673b2">Chemistry lab.</font> Maintenance. **Difficulty:** <font color="Yellow">Medium</font>.
+**Role type:** <font color="#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>, <font color="#d673b2">Morgue</font>,<font color="#d673b2">Chemistry lab.</font> Maintenance. **Difficulty:** <font color="Yellow">Medium</font>.
 
 
-Note, this is the job guide, the guide for reactions and the like is [here](Chemistry.md)
+Note, this is the job guide, the guide for reactions and the like is [here](\3_HowToPlay\Guides\Medical_guides\Chemistry.md)
 
 
 

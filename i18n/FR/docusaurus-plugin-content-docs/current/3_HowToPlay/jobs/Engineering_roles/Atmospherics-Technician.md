@@ -1,9 +1,9 @@
 # Atmospherics Technician
-Role type: <font color= "#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
+Role type: <font color="#74652c">Engineering</font>. Access: <font color="#74652c">Atmospherics</font>,<font color="#74652c">Engineering</font>, Maintenance. Difficulty: <font color="Yellow">Medium</font>
 
-Note: this is the job guide, for the gas/pipe guide, go [here](Guide-to-Atmospherics.md)
+Note: this is the job guide, for the gas/pipe guide, go [here](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md)
 
-En tant que technicien atmosphérique, votre travail consiste essentiellement à [stop the station's crew members from suffocating to death](So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
+En tant que technicien atmosphérique, votre travail consiste essentiellement à [stop the station's crew members from suffocating to death](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md). As long as everyone's able to breathe while inside the station, you're doing your job.
 
 ### Pour l'amour de Dieu, ne remplissez pas la station de plasma.
 
@@ -23,7 +23,7 @@ Alors que tous les autres membres de l'équipage peuvent toujours utiliser des e
 
 ### Remplissez la station de plasma ([traître](traître.md) Atmos Tech).
 
-Les technologies atmos [Traitor](traitor.md) ont le potentiel de devenir l'une des forces les plus dévastatrices de la station. Si vous savez ce que vous faites, vous pouvez inonder la station de tous les gaz nocifs que vous voulez, mais n'oubliez pas de préparer vos internes. L'individu le plus susceptible d'interférer avec votre travail est un autre technicien ATMOS ou l'[IA] (station-AI.md), donc soyez prudent si l'un de ces types est présent.
+Les technologies atmos [Traitor](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) ont le potentiel de devenir l'une des forces les plus dévastatrices de la station. Si vous savez ce que vous faites, vous pouvez inonder la station de tous les gaz nocifs que vous voulez, mais n'oubliez pas de préparer vos internes. L'individu le plus susceptible d'interférer avec votre travail est un autre technicien ATMOS ou l'[IA] (Station-AI.md), donc soyez prudent si l'un de ces types est présent.
 
 
 # Guide de l'atmosphérique
