@@ -32,7 +32,7 @@ To create a shortcut on the desktop, right click => send to => desktop.
 
 [Ctrl] + [Alt] + [T]
 ```bash
-wget https://raw.githubusercontent.com/Peulleieoyukino/UnitySationInstaller/main/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh; sudo chmod 750 ~/UnityStationInstaller.sh; sudo ~/UnityStationInstaller.sh
+wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Others/blob/main/Installation-Script/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh ; sudo chmod 750 ~/UnityStationInstaller.sh ; sudo ~/UnityStationInstaller.sh
 ```
 the shortcut will be in your Menu/Game
 
