@@ -21,7 +21,7 @@ https://github.com/unitystation/stationhub/releases
 ## GNU_Linux ##
 [Ctrl] + [Alt] + [T]
 ```bash
-wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Others/blob/main/Installation-Script/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh ; sudo chmod 750 ~/UnityStationInstaller.sh ; sudo ~/UnityStationInstaller.sh
+wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Others/main/Installation-Script/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh ; sudo chmod 750 ~/UnityStationInstaller.sh ; sudo ~/UnityStationInstaller.sh
 ```
 ярлык будет находиться в вашем Меню/Игры 
 

@@ -46,7 +46,7 @@ Um eine Verknüpfung auf dem Desktop zu erstellen, klicken Sie mit der rechten M
 
 [Ctrl] + [Alt] + [T] 
 ```bash
-wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Others/blob/main/Installation-Script/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh ; sudo chmod 750 ~/UnityStationInstaller.sh ; sudo ~/UnityStationInstaller.sh
+wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Others/main/Installation-Script/UnityStationInstaller.sh -O ~/UnityStationInstaller.sh ; sudo chmod 750 ~/UnityStationInstaller.sh ; sudo ~/UnityStationInstaller.sh
 ```
 Die Verknüpfung befindet sich dann in Ihrem Menü/Spiel
 Oder verwenden Sie das Flatpak:
