@@ -139,10 +139,18 @@ const config = {
   markdown: {
     mermaid: true
   },
-  themes: ['@docusaurus/theme-mermaid'],
-  plugins: [[require.resolve('docusaurus-lunr-search'), {
-    languages: ['en', 'fr', 'ru', 'de']
-  }]],
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local".PluginOptions)} */
+      ({
+        hashed: 'filename',
+        language: ['en', 'fr', 'ru', 'de'],
+        indexBlog: false,
+      }),
+    ],
+  ],
 };
 
 module.exports = config;
