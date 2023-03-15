@@ -62,7 +62,7 @@ Oder verwenden Sie das Flatpak:
 2. Kopieren Sie diese Zeile in  das Terminal.
 
 ```bash
-mkdir -p ~/Games/Unitystation ; cd ~/Games/Unitystation ; curl -O [https://github.com/unitystation/stationhub/releases/download/930/osx930.zip](https://github.com/unitystation/stationhub/releases/download/930/osx930.zip) ; curl -O [https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png); unzip *.zip ; rm -rfv *.zip ./ ; chmod -R 750 ./StationHub ; exit
+mkdir -p ~/Games/Unitystation ; cd ~/Games/Unitystation ; curl -O [https://github.com/unitystation/stationhub/releases/download/931/osx931.zip](https://github.com/unitystation/stationhub/releases/download/931/osx931.zip) ; curl -O [https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png); unzip *.zip ; rm -rfv *.zip ./ ; chmod -R 750 ./StationHub ; exit
 ```
 
 Um das Spiel zu starten, führen Sie die Datei "stationHub" in Ihrem Spielordner aus.
