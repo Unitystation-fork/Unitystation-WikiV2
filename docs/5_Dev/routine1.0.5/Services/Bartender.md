@@ -1,3 +1,4 @@
+```properties
 Bartender 
 	Basique 
 		Servir des boissons déjà préparées (jus, bière)
@@ -40,3 +41,127 @@ Shotgun
 	Ne necessite pas de chargeur
 	Recharger balle par balle
 	tirer avec l'arme, recharge la chambre du fusil
+
+Mixing list
+	Acid Spit
+    Alexander
+	Allies Cocktail -- Vodka Martini
+    Aloe i---
+    Amasec
+    Andalusia
+    Anti-freeze
+    Arnold Palmer
+    Atomic Bomb
+    B-52
+    Bacchus' Blessing
+    Bahama Mama
+    Banana Honk
+    Barefoot --- Berries Juices, nocraft
+    Bastion Bourbon
+    Beepsky Smash
+    Between the Sheets
+    Bilk
+    Black Russian
+    Blank Paper
+    Blazaam
+    Bloody Mary
+    Blue Cherry Shake
+    Booger
+    Branca Menta
+    Brave Bull
+    Bug Spray
+    Cafe Latte
+    Changeling Sting
+    Chocolate Pudding
+    Cream Soda
+    Crevice Spike
+    Cuba Libre
+    Demon's Blood
+    Devil's Kiss
+    Driest Martini
+    Drunken Blumpkin
+    Duplex
+    Eggnog
+    Erika Surprise
+    Fanciulli
+    Fernet Cola
+    Fetching Fizz
+    Fringe Weaver
+    Pan-Galactic Gargle Blaster
+    Gibb Floats
+    Gin Fizz
+    Gin and Tonic
+    Goldschlager
+    Grape soda
+    Grappa
+    Grasshopper
+    Green Beer
+    Grog
+    Hearty Punch
+    Hippie's Delight
+    Hooch
+    Laughter -- soucis de conversion.
+    Iced Coffee
+    Iced Beer
+    Iced Tea
+    Irish Car Bomb
+    Irish Coffee
+    Irish Cream
+    Jack Rose
+    Kahlua
+    Kamikaze
+    Lemonade
+    Long Island Iced Tea
+    Manhattan
+    Manhattan Project
+    The Manly Dorf
+    Margarita
+    Classic Martini
+    Mead
+    Mojito
+    Moonshine
+    Nar'Sour
+    Neurotoxin
+    Nuka Cola
+    Old Timer
+    Patron
+    Peppermint Patty
+    Pumpkin Latte
+    Quadruple Sec
+    Quintuple Sec
+    Red Mead
+    Red Queen
+    Rubberneck
+    Rum and Coke
+    Sake
+    Sbiten
+    Screwdriver
+    Sidecar
+    Silencer
+    Singulo
+    Snow White
+    Soy Latte
+    Beer
+    Squirt Cider
+    Stinger
+    Suffering Bastard
+    Sugar Rush
+    Syndicate Bomb
+    Tequila Sunrise
+    Thirteen Loko
+    Three Mile Island Iced Tea
+    Toxins Special
+    Trappist Beer
+    Triple Citrus
+    Turbo
+    Vanilla Pudding
+    Vodka
+    Vodka Martini
+    Vodka and Tonic
+    Whiskey Cola
+    Whiskey Soda
+    Whiskey Sour
+    White Russian
+    Wine
+    Wizz Fizz
+```

@@ -1,3 +1,4 @@
+```properties
 Cargo Technicien
 	Basique
 		Accéder au supply/cargo
@@ -23,7 +24,7 @@ Export scanner
 	Filtre les objets réutilisables
 	Quand on clique sur l'objet, on obtient une valeur
 	Si l'objet n'a pas de valeur, pousser le levier pour l'éjecter vers l'espace
-
+```
 	
 	
 		

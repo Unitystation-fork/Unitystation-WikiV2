@@ -1,3 +1,4 @@
+```properties
 Schaft Mineur
 	Basique
 		Accéder au cargo en zone de minage
@@ -45,3 +46,4 @@ Détecteur de minerais
 	Temps de recharge
 
 Pour miner : Lavaland ou astéroïdes	
+```

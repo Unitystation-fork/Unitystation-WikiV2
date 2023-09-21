@@ -1,3 +1,4 @@
+```properties
 Détective
 	Basique
 		Accéder à son bureau personnel qui contient papier & crayon
@@ -25,3 +26,4 @@ Detective holster
 Lampe de poche 
 
 Tonfa
+```

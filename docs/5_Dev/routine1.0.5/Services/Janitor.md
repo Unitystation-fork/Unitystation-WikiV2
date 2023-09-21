@@ -1,3 +1,4 @@
+```properties
 janitor
 
 
@@ -54,4 +55,4 @@ basique
 		les tapettes doivent pouvoir etre ramassées
 		les souris doivent pouvoir etre ramassées
 		marcher sur une tapette fait des degats aux jambes
-		
+```

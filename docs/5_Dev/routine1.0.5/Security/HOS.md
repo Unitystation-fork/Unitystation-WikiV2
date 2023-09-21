@@ -1,3 +1,4 @@
+```properties
 Head of security
 	Basique
 		Accéder aux portes de sécurité
@@ -40,3 +41,4 @@ Nuclear disk pointer
 
 Security medail box (actuellement ne s'ouvre pas)
 	Contient une médaille "Exception de l'héroisme"
+```

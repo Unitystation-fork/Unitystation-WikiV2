@@ -1,3 +1,4 @@
+```properties
 Psychiatre
 	Basique
 		Accéder à des pillules
@@ -54,3 +55,4 @@ Stimulant
 
 (Parenthèse hors psychiatre : 
 	La pillule de cyanure n'a aucun effet)
+```

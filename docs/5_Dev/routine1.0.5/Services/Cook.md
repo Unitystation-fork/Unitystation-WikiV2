@@ -1,3 +1,4 @@
+```properties
 Basique 
 	Accéder à sa cuisine 
 	Accéder à ses frigos 
@@ -92,3 +93,5 @@ Consommable
 		Est : (l'un ou l'autre)
 			- à cuire
 			- cuit
+		
+```

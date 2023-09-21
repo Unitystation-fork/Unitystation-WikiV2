@@ -1,3 +1,4 @@
+```properties
 Paramedic
 	Basique
 		Accéder à la medbay
@@ -145,3 +146,4 @@ Medkits
 		Hemostat
 		Retractor
 		Cautery
+```
