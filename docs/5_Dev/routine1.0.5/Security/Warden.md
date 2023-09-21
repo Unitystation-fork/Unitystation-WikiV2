@@ -1,3 +1,4 @@
+```properties
 Warden
 	Basique
 		Accéder à son bureau
@@ -24,3 +25,4 @@ S24C shotgun
 	Peut tirer 4 minutions
 	Tient dans un petit sac
 
+```

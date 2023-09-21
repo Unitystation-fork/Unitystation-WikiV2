@@ -1,3 +1,4 @@
+```properties
 Security officer
 	Basique
 		Accéder à son casier & son distributeur (sectech & secdrobe & gilet par-balles & casque)
@@ -49,3 +50,4 @@ Gilet par-balles & casques
 Security hardsuit
 	Combi spatiale avec casque
 	Le casque peut émettre de la lumière (on/off) quand équipé ou posé au sol dans l'espace
+```

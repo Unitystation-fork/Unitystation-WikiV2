@@ -1,3 +1,4 @@
+```properties
 Virologue
 	Basique
 		Accéder à la medbay
@@ -5,4 +6,4 @@ Virologue
 		Créer virus & vaccins pour la station dans la console
 		Expérimenter sur cadavres, vivants & singes
 		
-!!Actuellement ne peut qu'accéder à la medbay
+!!Actuellement ne peut qu'accéder à la medbay```

@@ -1,3 +1,4 @@
+```properties
 Medical doctor
 	Basique
 		Accéder à la medbay
@@ -29,40 +30,41 @@ Medical doctor
 				
 			
 
-Medical druffle bag
-	Sac contenant :
-		Scalpel
-		Circular saw
-		Surgical drill
-		Hemostat
-		Retractor
-		Cautery
-		Sterile Mask
-		Latex Gloves
-
-Medical wrench
-	Wrench classique avec une croix bleue
-
-Médecin généraliste
-	Box of prescription glasses
-		Lunettes de vue
-	Bottles of pills
-		Epinephrine pill
-		Insuline pill
-		Iron pills
-			Soigne l'anémie
-		Iode pills
-			Soigne les radiations
-		Pentetic pill
-			Soigne les radiations
-		Muthadone
-			Soigne les dégâts dûs aux mutagènes
-		Morphine pill
-			Soigne l'insomnie & la douleur
-			Actuellement aucun effet
-		
-
-
-Medical HUD 
-	Donne le statut médical (barre de pv) de tous ceux qu'il croise quand portées
-	Actuellement non fonctionnelles
+	Medical druffle bag
+		Sac contenant :
+			Scalpel
+			Circular saw
+			Surgical drill
+			Hemostat
+			Retractor
+			Cautery
+			Sterile Mask
+			Latex Gloves
+	
+	Medical wrench
+		Wrench classique avec une croix bleue
+	
+	Médecin généraliste
+		Box of prescription glasses
+			Lunettes de vue
+		Bottles of pills
+			Epinephrine pill
+			Insuline pill
+			Iron pills
+				Soigne l'anémie
+			Iode pills
+				Soigne les radiations
+			Pentetic pill
+				Soigne les radiations
+			Muthadone
+				Soigne les dégâts dûs aux mutagènes
+			Morphine pill
+				Soigne l'insomnie & la douleur
+				Actuellement aucun effet
+			
+	
+	
+	Medical HUD 
+		Donne le statut médical (barre de pv) de tous ceux qu'il croise quand portées
+		Actuellement non fonctionnelles
+```

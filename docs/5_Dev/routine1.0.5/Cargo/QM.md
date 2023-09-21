@@ -1,3 +1,4 @@
+```properties
 Contremaître 
 	Chef du département du cargo
 	S'assurer que les techniciens livrent les caisses, que les mineurs minent et reviennent, et valide les demandes d'import/export du terminal
@@ -6,11 +7,12 @@ Contremaître
 	Peut valider des requêtes de matériel
 	A son propre bureau (au lieu d'un casier)
 
-Yellow Folder
-	Peut contenir du papier
-
-Mégaphone (dans son casier)
-	Permet de parler très fort quand activé
-
-Cloak 
-	Emplacement supplémentaire secret dans lequel on peut ranger un petit objet
+	Yellow Folder
+		Peut contenir du papier
+	
+	Mégaphone (dans son casier)
+		Permet de parler très fort quand activé
+	
+	Cloak 
+		Emplacement supplémentaire secret dans lequel on peut ranger un petit objet
+```
