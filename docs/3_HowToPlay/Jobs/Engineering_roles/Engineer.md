@@ -409,6 +409,50 @@ You may want to start with some door off in maint, where no one can catch you.
 
 Figuring out the door wiring can take a minute or two initially, but it's well worth the time investment, as a working pattern can be repeated with additional doors in seconds.
 
+
+----
+
+Whether you're trapped in maints, a shifty Syndicate, or just a Greytide looking to mess around hacking is a great way to force open various doors to get where you need to go. Be careful though you might anger the [[Janitor]] or get in trouble with the [[Head of Security]].
+
+== How to hack ==
+[[File:Insulatedgloves.png|thumb|Picture of Insulated Gloves.]]
+Hacking has a risk of getting shock, ruining the door, or even getting arrested. It's a good idea to run to the tool closet at the start of the round and try to get the Insulated Gloves before anyone else as these will protect you from shock. If you can't get proper Insulated Gloves any Budget Insulated Gloves should work but even without those you'll live without any gloves (you just might end up a bit twitchy). To avoid any prying eyes you'll want to find a secluded spot to start hacking, a good place would be somewhere in the [[Maintenance Tunnels]] if you want to avoid getting caught or ruining any important doors. You'll only have to try one door before you know which wire to cut every time as the wire colours do the same for every door per round (the order the colours are in will be random per door however).
+
+Before you get to hacking any kind of door you'll need 3 essential tools to get it done. A screwdriver, wire cutters, and a crowbar.
+
+=== Steps to hacking: ===
+[[File:Doorcables.png|thumb|Example of the door cables interface.]]
+
+==== Pro Tip: Don't just cut all the wires, you're bound to end up bolting the door shut making it unusable. ====
+First use your screwdriver on any door, simply clicking on it with a screwdriver with hand will open the cable panel.
+
+To access the wires click on the door with the opened cable panel with the wire cutters.
+
+There will be a bunch of wires connecting to different coloured outlets, start by cutting some wires and testing the door. Every wire has a function so when you test one cut wire try replacing it back and trying to next and repeating.
+
+Eventually you'll cut a wire and when testing the door it'll say "Airlock is unpowered." Click on the airlock now with your crowbar and it eventually be pried open. (If this does not happed it means the door is bolted shut and you'll have to find another door to try on.)
+
+=== What the wires do: ===
+{| class="wikitable"
+!Wire's Effects
+!Description
+|-
+|Powers Door
+|This wire provides power to the door. When cut, you can open the door with a crowbar.
+|-
+|Electrifies Door
+|When cut, the door will be set to electrified causing anyone interacting with door without insulated gloves to be shocked. 
+|-
+|Bolts Door
+|When cut, the door's bolt gets activated meaning you can no longer open or pry open the door. Can be reset with remote or Bolt Card.
+|-
+|Removes AI Control
+|This wire gives AI control to the door. When cut, it will prevent the AI from being able to interact with the door.
+|}
+Rest of wires do other interactions as well but the one's above are the 4 main ones you'll likely use it for. You can figure out what the other wires do by testing them it usually only takes a few minutes. Once you figure out the power wire, you can open most doors in a few seconds it just takes quite a bit of tools. It's usually a good idea to replace the wires you cut after you done testing them so you don't get compounding effects on door which might confuse you.
+[[Category:Civilian Guides]]
+[[Category:Needs Revision]]
+
 <br/>
 <br/>
 <br/>
