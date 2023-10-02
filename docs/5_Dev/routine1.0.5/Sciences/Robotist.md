@@ -147,6 +147,7 @@ Robotist
 			Kitchen Knife
 			Drinking Glass
 			Circuit imprinter
+Circuit imprinter
 		Medical Machinery
 			Clone pod board
 			Cryotube board
