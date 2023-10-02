@@ -3,9 +3,11 @@ This page assumes your are running a dedicated server running on a Docker contai
 == Updating The Server Version ==
 Since you are running a Docker container, assuming you are using '''"develop"''' as the tag, all you have to do to update to latest version of "develop" is just recreating the container.
 
-If you are doing it manually, just use the command <syntaxhighlight lang="bash">
+If you are doing it manually, just use the command
+```bash
 docker compose up
-</syntaxhighlight>Docker compose always pulls the latest version of the container image before running the application.
+```
+Docker compose always pulls the latest version of the container image before running the application.
 
 If you prefer a visual way and managed to install Portainer, as explained in our [[Host a Server|Host a Server guide]], you can simply click on the container and press the '''"Recreate"''' button
 
@@ -53,7 +55,7 @@ Here is a list of others you might find interesting, including Discord webhooks 
 |Add a discord webhook here to receive all ahelp chat on that channel.
 |-
 |ADMINLOG_WEBHOOK
-|Add a discord webhook here to receive the admin log on that channel. 
+|Add a discord webhook here to receive the admin log on that channel.
 |-
 |DISCORDLINKID
 |Your Discord's server URL. This will show in your Server Info floating window, so people can join your DIscord server.
@@ -64,7 +66,8 @@ Think of running an application in a Docker container like having a small comput
 
 'Mounting' is like creating a special link between a file or a folder on your actual computer and the same file or folder inside the mini-computer. This link ensures that every time the mini-computer needs to use that file or folder, it uses the one on your actual computer instead. This way, any changes you make to that file or folder are kept safe, even when you turn off the mini-computer.
 
-If you followed the [[Host a Server|Host a Server guide]] step by step, by this point you already did your first mount! Let's take a look again at the docker-compose file:<syntaxhighlight lang="yaml" line="1" start="1">
+If you followed the [[Host a Server|Host a Server guide]] step by step, by this point you already did your first mount! Let's take a look again at the docker-compose file:
+```yaml
 version: "3.7"
 
 services:
@@ -82,7 +85,8 @@ services:
       - io.portainer.accesscontrol.public
     volumes:
       - /root/staging/admin:/server/Unitystation_Data/StreamingAssets/Config/Admin
-</syntaxhighlight>under the '''volumes''' key, at line 17, you can see how we are mounting the admin folder.
+```
+under the '''volumes''' key, at line 17, you can see how we are mounting the admin folder.
 
 Here's how it works: write the path on your actual computer, add a colon (:), and then write the path inside the mini-computer. Make sure to follow this format each time you want to mount a file or folder. And, don't forget to check that the file or folder you want to mount exists on your real computer before you start the server!
 
@@ -127,7 +131,8 @@ This folder contains a lot of files related to moderation of the game. All files
 '''Path in container:''' /server/Unitystation_Data/StreamingAssets/Config/maps.json
 
 
-This file lets you choose which maps you want to rotate through during gameplay and how many players need to be playing for them to become available. Here's a sample of what the file's contents might look like, so you can customize your own:<syntaxhighlight lang="json" line="1">
+This file lets you choose which maps you want to rotate through during gameplay and how many players need to be playing for them to become available. Here's a sample of what the file's contents might look like, so you can customize your own:
+```json
 {
     "lowPopMaps":["MiniStation", "FallStation", "SquareStation"],
     "medPopMaps":["MiniStation", "FallStation", "SquareStation", "OutpostStation"],
@@ -135,7 +140,8 @@ This file lets you choose which maps you want to rotate through during gameplay 
     "medPopMinLimit":25,
     "highPopMinLimit": 40
 }
-</syntaxhighlight>The map names here correspond to the scene options available in the game build you're using. If you've customized the build and added your own map, you can include it in this rotation. Just remember to use the file name of your map, minus the .unity extension.
+```
+The map names here correspond to the scene options available in the game build you're using. If you've customized the build and added your own map, you can include it in this rotation. Just remember to use the file name of your map, minus the .unity extension.
 
 == Auto Mod Word Filter File ==
 '''Type:''' file
@@ -150,7 +156,8 @@ If there are certain words you'd prefer to keep out of your game's chat, just ad
 '''Path in container:''' /server/Unitystation_Data/StreamingAssets/Config/gameConfig.json
 
 
-This file let's you personalize the gameplay by enabling and disabling some features or tweaking numbers. Here is an example of the file content so you can make your own:<syntaxhighlight lang="json" line="1">
+This file let's you personalize the gameplay by enabling and disabling some features or tweaking numbers. Here is an example of the file content so you can make your own:
+```json
 {
 	"RandomEventsAllowed": true,
 
@@ -179,20 +186,20 @@ This file let's you personalize the gameplay by enabling and disabling some feat
 	"AdminOnlyHtml": true,
 
 	"CharacterNameLimit": 32,
-	
+
 	"MalfAIRecieveTheirIntendedObjectiveChance": 35,
-	
+
 	"ServerShutsDownOnRoundEnd" : true,
-	
+
 	"PlayerLimit" : 100,
-	
+
 	"LowPopLimit" : 20,
 
 	"LowPopCheckTimeAfterRoundStart" : 300,
 
 	"RebootOnAverageFPSOrLower" : 20
 }
-</syntaxhighlight>
+```
 {| class="wikitable"
 |+
 !Key
