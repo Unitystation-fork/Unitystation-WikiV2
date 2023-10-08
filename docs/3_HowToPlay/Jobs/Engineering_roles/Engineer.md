@@ -104,7 +104,7 @@ A main feature of Unitystation is that almost any item in the game can be either
 
 | Picture                                                         | Name                             | Cost |
 | --------------------------------------------------------------- | -------------------------------- | ---- |
-| ![Girder](/img/Construction/girder.png)                                | Girder                           | 2    |
+| ![Girder](/img/Construction/Machines/girder.png)                                | Girder                           | 2    |
 | ![Chair](/img/Construction/Chairs/chairs_chair.png)                                    	 | Chair                            | 1    |
 | ![Office Chair](/img/Construction/Machines/chairs_officechair_dark.png)                    | Office Chair                     | 1    |
 | ![Comfy Chair](/img/Icon/No_image.png)   				                                     | Comfy Chair                      | 2    |
