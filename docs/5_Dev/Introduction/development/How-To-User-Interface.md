@@ -14,7 +14,7 @@ These files are stored in **UnityProject\Assets\Prefabs\UI** and is what the pla
 
 Make sure to **tick to disable auto save**  when you open this prefab to modify the placement of elements, otherwise Unity will attempt to save the layout everytime you touch an element on this prefab.
 
-![](/img/5_dev/HowToUI/auto_save_location.png)
+![](/img/5_Dev/HowToUI/auto_save_location.png)
 
 When building your UI in the editor, it is good to group each menu of the UI into a NetPageSwitcher, you don't have to have one. It is possible to nest NetPageSwitchers if a menu requires submenus.
 
@@ -32,7 +32,7 @@ Copy an existing UI script and attach to your copied Tab object via the inspecto
 
 This next section will explain the GUI script, going from the top of the GUI script component in the inspector. IsPopOut checkbox if ticked, will not be anchored to the top right menu, instead it will be a standalone menu occupying the centre of your screen.
 
-![](/img/5_dev/HowToUI/is_pop_out_pic.png)
+![](/img/5_Dev/HowToUI/is_pop_out_pic.png)
 
 ##### Type
 
@@ -40,7 +40,7 @@ Type is important as this enumerical used to bring up the UI from the object/ite
 
 ##### NetObjects
 
-![](/img/5_dev/HowToUI/editor_UI_elements.png)
+![](/img/5_Dev/HowToUI/editor_UI_elements.png)
 
 Make sure you reference the necessary objects from the hierarchy into your GUI_NAME script so they can be called (**red box**). If you want your UI to change it's appearance depending on a player/item attribute it is best to store them as separate 2D Textures so they can be tailored (**yellow box**). Doing this allows you to reference them in your code and be able to manipulate them using your backend script.
 

@@ -36,15 +36,15 @@ Away Sites – on the MainStation there is a portal which connects to one of the
 Additional Scenes – the scenes which the antagonists start on.
 
 Here is a handy diagram which you can use if you want to add a new antagonist or job and ensure that it updates across all the scenes.
-![](/img/5_dev/HowToMap/adding_role_to_maps.png)
+![](/img/5_Dev/HowToMap/adding_role_to_maps.png)
 
 ## Important Sidebar Functions
-![](/img/5_dev/HowToMap/sidebar.png)
+![](/img/5_Dev/HowToMap/sidebar.png)
 When you open the editor, there should be a sidebar open on the right hand side of your screen. If it is not present, go Window -> Sidebar to make it appear. This sidebar will help you through some of the processes as you map. From Top to Bottom they are:
 
 ### Test Runner
 
-![](/img/5_dev/HowToMap/test_runner.png)
+![](/img/5_Dev/HowToMap/test_runner.png)
 
 Performs a variety of tests to check for Null references and other things. These tests are also used when you send a Pull Request. To run these tests, click __Run All__ and then leave it for a while, it is not a quick process (use this opportunity to get something to eat/drink or some other professional/recreational activity of your choice).
 
@@ -52,7 +52,7 @@ Errors will be denoted by a red cross, click on the individual test which has a 
 
 ### Tile Palette
 
-![](/img/5_dev/HowToMap/tile_palette.gif)
+![](/img/5_Dev/HowToMap/tile_palette.gif)
 
 - The Tile Palette tab lets you place walls, floors, doors, tables etc. into the Scene tab
 - Make sure to select the right Active Tilemap in the Tile Palette when editing
@@ -64,12 +64,12 @@ Keep in mind when editing a Tile Palette that tiles are added to the palettes as
 
 ### Matrix Check
 
-![](/img/5_dev/HowToMap/matrix_check.gif)
+![](/img/5_Dev/HowToMap/matrix_check.gif)
 
 This tool allows you to check out atmospherics details when you run the executable in the editor (temperature, pressure, etc. on each tile). Good for making sure you haven’t left a gap somewhere, _make sure that you have __Gizmos__ enabled_.
 
 ### LogLevels
-![](/img/5_dev/HowToMap/log_levels.gif)
+![](/img/5_Dev/HowToMap/log_levels.gif)
 
 Monitors certain variables when you are in play mode editor, displays them in the __Console__ tab if they aren't set to _Off_. Useful for debugging your map.
 
@@ -92,7 +92,7 @@ Not necessary for mapping purposes.
 Consider then mapping in all the power cables, atmos pipes and disposal pipes. This is all the important life support stuff that makes the station function. This step can be done at any time, however, a lot of **LighTubeFixtures**, **LightBulbFixtures**, **AirVents**, **Scrubbers**, **Pumps**, **Mixers**, **GasConnectors**, **Filters**, **UnaryVents**, **Metres** and **DisposalBins** prefabs are required for the station to run. See Part 2 step 2 for details on how to add existing prefabs onto a Scene.
 
 UnityStation’s Electrical Wiring differs from base SS13. Follow the guide below to make sure you correctly hook everything up.
-![](/img/5_dev/HowToMap/wire_connections.png)
+![](/img/5_Dev/HowToMap/wire_connections.png)
 Make sure to always put a machine connector (white square in diagram) on the lower voltage side of the device. If you are still stuck, consult the wiring on TestStation Scene in the Electrical Testing Area and inspect the relevant prefabs.
 
 !!! Tip
@@ -100,7 +100,7 @@ Make sure to always put a machine connector (white square in diagram) on the low
 
 #### Atmospherics
 
-![](/img/5_dev/HowToMap/atmos_pipes.png)
+![](/img/5_Dev/HowToMap/atmos_pipes.png)
 
 The **atmos pipes** are colour coded to help keep track of a specific function, use the following convention:
 
@@ -136,7 +136,7 @@ To help with completing Part 3, click and drag all prefabs onto the scene, selec
 1.	Add in the Walls to designate the rooms, relevant floor tiles and tables to populate the rooms. Remember that floor tiles are not present in maintenance areas, unless it is in a room coming from a corridor.
 1.	To place objects into a scene search in the File manager with the prefab filter on, then click and drag the prefab onto the scene. All objects you place will need to go on the Station Matrix’s Object layer in the Hierarchy. (To avoid having to click and drag the list of prefabs into the object layer, highlight all the objects, click *cut* and then right click on the *Object Layer* and select **Paste as Child**). IMPORTANT: make sure you keep consistent unique number or attach an “_name” (e.g. APC_Kitchen), this will help a lot when you need to add in references to other prefabs, as you can tell them apart.
 
-![](/img/5_dev/HowToMap/search_for_prefab.png)
+![](/img/5_Dev/HowToMap/search_for_prefab.png)
 
 ### Part 3 - Adding and linking in all the other Prefabs
 
@@ -169,11 +169,11 @@ Asteroids and ruins are different obstacles Shaft Miners, Curators or Assistants
 !!! warning
     Shuttle movement is not the best currently and an attempt is being made to rework it so that you can direct the movements in an component in the editor.
 
-![](/img/5_dev/HowToMap/matrix_move_shuttle.png)
+![](/img/5_Dev/HowToMap/matrix_move_shuttle.png)
 
 Currently the only way to make a shuttle is through the editor, no capabilities exist to build one using the in-game construction system. This is in part due to how the matrix bounds are set as shown in this section. A shuttle matrix's **red square** position is very important, much sure it is **in the middle of the shuttle** as this is the pivot used as the reference when the shuttle is being rotated to turn left/right. **UI Type** should be usually set to Nanotrasen, but should be set to Syndicate if it is a Nuke Operative shuttle. **Initial Facing** is also very important as this is how Unity will perceive the initial orientation of your shuttle.
 
-![](/img/5_dev/HowToMap/matrix_move_sub_menu.png)
+![](/img/5_Dev/HowToMap/matrix_move_sub_menu.png)
 
 To extend the shuttle matrix out select the correct matrix in the Tile Palette Window and paint some tiles, as long as you have gizmos turned on, you should see the bounds snap to accommodate the new tiles. When you are happy with the shape click "Compress All Bounds". Again, the shuttle matrix does not have a directional component, so you will need to make sure you orientate your shuttle correctly and select the correct drop down menu option to reflect this orientation.
 
@@ -186,7 +186,7 @@ A shuttle should have the following prefabs to make it function:
 
 There are two special shuttles which will need to have their co-ordinate set in these components located with the first layer of the hierarchy under the same name as their parent - the Escape shuttle and the Cargo Shuttle. *(Escape pods can be mapped in, but they will not function)*
 
-![](/img/5_dev/HowToMap/shuttle_specialities.png)
+![](/img/5_Dev/HowToMap/shuttle_specialities.png)
 
 The Cargo shuttle must not have any live animals on board and have shutters which link to a **door button** in the Cargo Loading Bay.
 
@@ -207,19 +207,19 @@ Here are some general tips to help you get when mapping in UnityStation:
 - If you find yourself unable to place tiles from the Tile Palette and are receiving a ton of warnings, it may be because you are missing a layer in the matrix. Duplicate an existing layer in the matrix and perform the necessary changes before trying to place anymore tiles.
 
 - Attaching an APC can be quite tedious, but can be made a lot easier if you place the APC first, relabel it and then attach the APCPoweredDevice by moving it close to the APC and hitting the Auto Connect Button.
-  ![](/img/5_dev/HowToMap/APC_autoconnect.gif)
+  ![](/img/5_Dev/HowToMap/APC_autoconnect.gif)
 
 - If you have a lot of APCPowered Objects you need to connect, you can also connect them up by first turning on the *Gizmo* called *APCPoweredDevice* to show that the prefab is correctly disconnected and then scrolling through the APC prefab to find the **APC (script)** component and then click **Begin Selecting**. Remember to hit **Stop Selecting** when you are done, all the connections are listed in the Connected Devices in the same component, if you want to validate you have selected them all.
 
-  ![](/img/5_dev/HowToMap/APC_multi_select.gif)
+  ![](/img/5_Dev/HowToMap/APC_multi_select.gif)
 
 - Make sure for jobs that will have 2 or more signing up to them that you have placed multiple spawn points in the department – this ensures that players do not spawn ontop of each other. To do this, copy an existing spawn point inside the SpawnPointsV2 object, alter its position and spawn name.
 
-![](/img/5_dev/HowToMap/spawn_points.PNG)
+![](/img/5_Dev/HowToMap/spawn_points.PNG)
 
 - So you can see what you are placing tile-wise on a particular layer, you can select obstructing layers to hide in the Hierarchy. You then can press the crossed-out eye above the scene view window to toggle the layers’ visibility.
 
-![](/img/5_dev/HowToMap/hireachy_hide.gif)
+![](/img/5_Dev/HowToMap/hireachy_hide.gif)
 
 - Make sure you have put tiny fans on all the airlock exits into space on stations and shuttles to help stop space wind problems.
 - Walk around as an assistant in Play Mode to see what you can and can't access. This is important as a large majority of first time players will be this and will go wherever they can.

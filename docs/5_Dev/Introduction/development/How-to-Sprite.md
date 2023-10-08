@@ -8,11 +8,11 @@ For the purposes of this document, we are going to use a mock image, the steps w
 
 ### Single Frame Sprite
 
-![](/img/5_dev/HowToSprite/tyler_in_file.png)
+![](/img/5_Dev/HowToSprite/tyler_in_file.png)
 
 Here is Tyler, the Single Frame png file which has just been added into the project. His settings are not yet optimised, to optimise them open him up in the inspector, like so.
 
-![](/img/5_dev/HowToSprite/tyler_inspector_view.png)
+![](/img/5_Dev/HowToSprite/tyler_inspector_view.png)
 
 Now make the following adjustments:
 
@@ -26,7 +26,7 @@ Now the image is ready to put into the Singleton Scriptable Object. Right Click 
 
 Make sure the names between your sprite and SO match. Open up the newly created SO in the inspector like so:
 
-![](/img/5_dev/HowToSprite/tyler_sprite_data_so.png)
+![](/img/5_Dev/HowToSprite/tyler_sprite_data_so.png)
 
 Now make the following adjustments (in order):
 
@@ -34,7 +34,7 @@ Now make the following adjustments (in order):
 1. Inside **Element 0** subtab in **Frames** set size from 0 to 1
 1. Now inside the **Frame's** **Element 0** there should be an entry called **Sprite**, click on the cricle to the right and search for your sprite. Click and hit enter to make sure you actually select it, it can be a bit temperamental.
 
-![](/img/5_dev/HowToSprite/tyler_select_sprite.png)
+![](/img/5_Dev/HowToSprite/tyler_select_sprite.png)
 
 To add your sprite to the repository, commit and PR these files to git, make sure you are looking to commit your files and not any tyler images.
 
@@ -47,15 +47,15 @@ To add your sprite to the repository, commit and PR these files to git, make sur
 ###  Multi Frame Sprite
 
 This is for using a sprite sheet to make an animations or have different holding positions for in-hand item etc. All the usual adjustments from Single Frame Sprite above apply to the Durden image. However, make sure that the **Sprite Mode** set to **Multiple** instead of Single in the inspector.
-![](/img/5_dev/HowToSprite/durden_sprite_mode_single_multiple.png)
+![](/img/5_Dev/HowToSprite/durden_sprite_mode_single_multiple.png)
 
 Now click on the **Sprite Editor** button in the bottom right hand corner, it's time to slice the sprite sheet up.
 
-![](/img/5_dev/HowToSprite/durden_sprite_editor_slice.png)
+![](/img/5_Dev/HowToSprite/durden_sprite_editor_slice.png)
 
 In top left click **Slice**, then set **Type** to **Grid by Cell Size** and then make sure that **Pixel Size** is adjusted so that you get the dimensions you want for the sprite (e.g. if it's 32 by 32, then set both X and Y to 32). There should now be squares around each sprite, however it is not saved until you press the **Apply** button in the top right.
 
-![](/img/5_dev/HowToSprite/durden_sprite_so.png)
+![](/img/5_Dev/HowToSprite/durden_sprite_so.png)
 
 Now when you create the Singleton Scriptable Object for Sprite Data this time, put in the number of frames that you sliced up in **Variance** -> **Element0** -> **Size**. To set the delay between the frames, you need to add the total delay otherwise the frames will appear on top of each other - so if you want a 1 second delay between each frame you set each element to be 1, 2 (1+1), 3 (2+1) and 4 (3+1).
 
@@ -63,11 +63,11 @@ Now when you create the Singleton Scriptable Object for Sprite Data this time, p
 
 To control your sprite in your code, you must first create the sprite object as a child of the object you want to use the sprite for. To demonstrate, we will go into the crowbar object and double click to bring up the prefab and all it's children.
 
-![](/img/5_dev/HowToSprite/crowbar_editor.png)
+![](/img/5_Dev/HowToSprite/crowbar_editor.png)
 
 If you change the **Present Sprite Set** to durden
 
-![](/img/5_dev/HowToSprite/crowbar_change_durden.png)
+![](/img/5_Dev/HowToSprite/crowbar_change_durden.png)
 
 It will now show your Durden sprite. From this point, you can change the present sprite by calling ```baseSpriteHandler.ChangeSprite(Variable)```, where **Variable** is an enum state (e.g. SpriteState.Idle) to which will allow you to change your Multi-Frame sprite. You can also change variants if you need to modify its orientation by calling ```baseSpriteHandler.ChangeSpriteVariant(Variable)```, where Variable is again a number.
 
