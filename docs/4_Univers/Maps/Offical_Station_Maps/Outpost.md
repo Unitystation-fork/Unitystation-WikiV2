@@ -18,7 +18,7 @@ This is where the stations [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md
 
 ### Bar
 This is where the [bartender](\3_HowToPlay\Jobs\Service_roles\Bartender.md) spends his time serving cold drinks.
-![Bar v4097](\img\No_image.png)
+![Bar v4097](/img/Icon/No_image.png)
 
 
 ### Medical
