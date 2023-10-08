@@ -76,7 +76,7 @@ A main feature of Unitystation is that almost any item in the game can be either
 | ![Fingerless Gloves](/img/Construction/Clothing/gloves_fingerless.png) | Fingerless Gloves | 1    |
 | ![White Gloves](/img/Construction/Clothing/gloves_white.png)           | White Gloves      | 3    |
 
-### Durathread ![Durathread](/img/Construction/Materialsstack_objects_sheet-durathread.png)
+### Durathread ![Durathread](/img/Construction/Materials/stack_objects_sheet-durathread.png)
 
 | Picture                                         | Name                | Cost |
 | ----------------------------------------------- | ------------------- | ---- |
