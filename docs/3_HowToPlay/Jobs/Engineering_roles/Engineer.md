@@ -93,7 +93,7 @@ A main feature of Unitystation is that almost any item in the game can be either
 | ![WinDoor](/img/Construction/Windows/windoor.png)        | WinDoor          | 4    |
 | ![Window](/img/Construction/Windows/window.png)          | Window           | 2    |
 
-### Metal rods ![Metal rods](/img/Construction/Materials/tack_objects_rods-1.png)
+### Metal rods ![Metal rods](/img/Construction/Materials/stack_objects_rods-1.png)
 
 | Picture                                    | Name        | Cost |
 | ------------------------------------------ | ----------- | ---- |
