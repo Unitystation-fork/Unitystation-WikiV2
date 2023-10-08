@@ -1,6 +1,5 @@
 Duplicates found:
 \4_Univers\Mobs\Xenomorph.md
-\4_Univers\Other\Jokes\Shitsec.md
 \5_Dev\Introduction\index.md
 \5_Dev\routine1.0.5\Antagoniste\Traitor.md
 \5_Dev\routine1.0.5\Command\Captain.md

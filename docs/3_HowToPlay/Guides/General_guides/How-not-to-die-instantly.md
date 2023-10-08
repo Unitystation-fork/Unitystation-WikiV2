@@ -33,7 +33,7 @@ Unitystation, like it's predecessor Space Station 13, has an incredibly steep le
 6) Learn to do your role, to do so look on the bottom of the [main page](Main-page.md), it contains a guide on (almost) every role in the game.
 
 
-7) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) if you want to, it is your best weapon against [shitcurity](\3_HowToPlay\Guides\Joke_guides\Shitsec.md).
+7) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) if you want to, it is your best weapon against [shitcurity](\4_Univers\Other\Jokes\Shitsec.md).
 
 
 8) If you get spaced (the act of being thrown out into space by pressure) shoot something or throw anything and everything you can in the direction you're flying, that will hopefully, make you fly the other way. Unless you have a spacesuit, you're still going to die, but you're more likely to be found by your crew mates. Also an extinguisher works for this, remember the wall-e movie?
