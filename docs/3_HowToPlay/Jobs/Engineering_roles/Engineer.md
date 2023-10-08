@@ -111,11 +111,11 @@ A main feature of Unitystation is that almost any item in the game can be either
 | ![Stool](/img/Construction/Chairs/chairs_stool.png)                                      | Stool                            | 1    |
 | ![Bed](/img/Construction/Machines/objects_bed.png)                                         | Bed                              | 2    |
 | ![Rack Parts](/img/Construction/Machines/items_and_weapons_rack_parts.png)                 | Rack Parts                       | 1    |
-| ![Closet](/img/Construction/Machines/closet_generic_door.png)                              | Closet                           | 10   |
-| ![Canister](/img/Construction/Machines/canister_generic.png)                               | Canister                         | 10   |
+| ![Closet](/img/Construction/Closet/closet_generic_door.png)                              | Closet                           | 10   |
+| ![Canister](/img/Atmos/canister_generic.png)                               | Canister                         | 10   |
 | ![Floor Tiles x4](/img/Construction/Tiles/Floor_Tile.png)                           		 | Floor Tiles x4                   | 1    |
-| ![Metal Rods x2](/img/Construction/Machines/stack_objects_rods-1.png)                      | Metal Rods x2                    | 1    |
-| ![Sink](/img/Construction/Machines/watercloset_sink.png)                                   | Sink                             | 1    |
+| ![Metal Rods x2](/img/Construction/Materials/stack_objects_rods-1.png)                      | Metal Rods x2                    | 1    |
+| ![Sink](/img/Construction/Chairs/watercloset_sink.png)                                   | Sink                             | 1    |
 | ![Computer Frame](/img/Construction/Machines/stock_parts_computer_0.png)                   | Computer Frame                   | 5    |
 | ![Airlock](/img/Construction/Machines/overlays.png)                                        | Airlock                          | 4    |
 | ![Low-voltage Machine Connector](/img/Icon/No_image.png)                     | Low-voltage Machine Connector    | 2    |
