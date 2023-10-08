@@ -14,7 +14,7 @@ const config = {
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   onDuplicateRoutes: 'ignore',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Icon/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -58,7 +58,7 @@ const config = {
         title: 'Unitystation Documentation',
         logo: {
           alt: 'Unitystation\'s Logo',
-          src: 'img/logo.png',
+          src: '/img/Icon/logo.png',
         },
         items: [
           {
