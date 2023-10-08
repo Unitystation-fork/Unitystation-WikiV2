@@ -89,33 +89,33 @@ A main feature of Unitystation is that almost any item in the game can be either
 
 | Picture                        | Name             | Cost |
 | ------------------------------ | ---------------- | ---- |
-| ![WhiteServiceDoor](img/Construction/Doors/Glass_door.png) | WhiteServiceDoor | 6    |
+| ![WhiteServiceDoor](/img/Construction/Doors/Glass_door.png) | WhiteServiceDoor | 6    |
 | ![WinDoor](/img/Construction/Windows/windoor.png)        | WinDoor          | 4    |
 | ![Window](/img/Construction/Windows/window.png)          | Window           | 2    |
 
-### Metal rods ![Metal rods](/img/Construction/Materials/tack_objects_rods-1.png)
+### Metal rods ![Metal rods](/img/Construction/Materials/stack_objects_rods-1.png)
 
 | Picture                                    | Name        | Cost |
 | ------------------------------------------ | ----------- | ---- |
 | ![Grill](/img/Construction/Machines/grille.png)            | Grill       | 2    |
-| ![Table frame](/img/Construction/structures_table_frame.png) | Table frame | 2    |
+| ![Table frame](/img/Construction/Tables/structures_table_frame.png) | Table frame | 2    |
 
 ### Metal ![Metal](/img/Construction/Materials/metal.png)
 
 | Picture                                                         | Name                             | Cost |
 | --------------------------------------------------------------- | -------------------------------- | ---- |
-| ![Girder](/img/Construction/girder.png)                                | Girder                           | 2    |
+| ![Girder](/img/Construction/Machines/girder.png)                                | Girder                           | 2    |
 | ![Chair](/img/Construction/Chairs/chairs_chair.png)                                    	 | Chair                            | 1    |
-| ![Office Chair](/img/Construction/Machines/chairs_officechair_dark.png)                    | Office Chair                     | 1    |
+| ![Office Chair](/img/Construction/Chairs/chairs_officechair_dark.png)                    | Office Chair                     | 1    |
 | ![Comfy Chair](/img/Icon/No_image.png)   				                                     | Comfy Chair                      | 2    |
-| ![Stool](/img/Construction/Machines/chairs_stool.png)                                      | Stool                            | 1    |
+| ![Stool](/img/Construction/Chairs/chairs_stool.png)                                      | Stool                            | 1    |
 | ![Bed](/img/Construction/Machines/objects_bed.png)                                         | Bed                              | 2    |
 | ![Rack Parts](/img/Construction/Machines/items_and_weapons_rack_parts.png)                 | Rack Parts                       | 1    |
-| ![Closet](/img/Construction/Machines/closet_generic_door.png)                              | Closet                           | 10   |
-| ![Canister](/img/Construction/Machines/canister_generic.png)                               | Canister                         | 10   |
+| ![Closet](/img/Construction/Closet/closet_generic_door.png)                              | Closet                           | 10   |
+| ![Canister](/img/Atmos/canister_generic.png)                               | Canister                         | 10   |
 | ![Floor Tiles x4](/img/Construction/Tiles/Floor_Tile.png)                           		 | Floor Tiles x4                   | 1    |
-| ![Metal Rods x2](/img/Construction/Machines/stack_objects_rods-1.png)                      | Metal Rods x2                    | 1    |
-| ![Sink](/img/Construction/Machines/watercloset_sink.png)                                   | Sink                             | 1    |
+| ![Metal Rods x2](/img/Construction/Materials/stack_objects_rods-1.png)                      | Metal Rods x2                    | 1    |
+| ![Sink](/img/Construction/Chairs/watercloset_sink.png)                                   | Sink                             | 1    |
 | ![Computer Frame](/img/Construction/Machines/stock_parts_computer_0.png)                   | Computer Frame                   | 5    |
 | ![Airlock](/img/Construction/Machines/overlays.png)                                        | Airlock                          | 4    |
 | ![Low-voltage Machine Connector](/img/Icon/No_image.png)                     | Low-voltage Machine Connector    | 2    |
