@@ -108,7 +108,7 @@ A main feature of Unitystation is that almost any item in the game can be either
 | ![Chair](/img/Construction/Chairs/chairs_chair.png)                                    	 | Chair                            | 1    |
 | ![Office Chair](/img/Construction/Chairs/chairs_officechair_dark.png)                    | Office Chair                     | 1    |
 | ![Comfy Chair](/img/Icon/No_image.png)   				                                     | Comfy Chair                      | 2    |
-| ![Stool](/img/Construction/Machines/chairs_stool.png)                                      | Stool                            | 1    |
+| ![Stool](/img/Construction/Chairs/chairs_stool.png)                                      | Stool                            | 1    |
 | ![Bed](/img/Construction/Machines/objects_bed.png)                                         | Bed                              | 2    |
 | ![Rack Parts](/img/Construction/Machines/items_and_weapons_rack_parts.png)                 | Rack Parts                       | 1    |
 | ![Closet](/img/Construction/Machines/closet_generic_door.png)                              | Closet                           | 10   |
