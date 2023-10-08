@@ -98,7 +98,7 @@ A main feature of Unitystation is that almost any item in the game can be either
 | Picture                                    | Name        | Cost |
 | ------------------------------------------ | ----------- | ---- |
 | ![Grill](/img/Construction/Machines/grille.png)            | Grill       | 2    |
-| ![Table frame](/img/Construction/structures_table_frame.png) | Table frame | 2    |
+| ![Table frame](/img/Construction/Tables/structures_table_frame.png) | Table frame | 2    |
 
 ### Metal ![Metal](/img/Construction/Materials/metal.png)
 
