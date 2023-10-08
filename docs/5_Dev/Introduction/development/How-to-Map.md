@@ -215,7 +215,7 @@ Here are some general tips to help you get when mapping in UnityStation:
 
 - Make sure for jobs that will have 2 or more signing up to them that you have placed multiple spawn points in the department – this ensures that players do not spawn ontop of each other. To do this, copy an existing spawn point inside the SpawnPointsV2 object, alter its position and spawn name.
 
-![](/img/5_Dev/HowToMap/spawn_points.PNG)
+![](/img/5_Dev/HowToMap/spawn_points.png)
 
 - So you can see what you are placing tile-wise on a particular layer, you can select obstructing layers to hide in the Hierarchy. You then can press the crossed-out eye above the scene view window to toggle the layers’ visibility.
 
