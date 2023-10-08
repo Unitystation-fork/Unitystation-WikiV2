@@ -6,7 +6,7 @@ Security and the Dorms are placed in the center of the map with the rest of the 
 
 The map is currently not supported and isn't in the map pool.
 
-![Map](\img\Stations\UnrealStation.png)
+![Map](/img/Stations/UnRealStation.png)
 
 
 

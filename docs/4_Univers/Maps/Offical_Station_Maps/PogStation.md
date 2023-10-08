@@ -4,7 +4,7 @@ Pog Station is the Second map to be added to the game, authored by 0ozymandias o
 
 It is currently a high-population map, requiring 20 players in game to be randomly drawable.
 
-![map](\img\Stations\PogStation.png)
+![map](/img/Stations/PogStation.png)
 
 ​
 
