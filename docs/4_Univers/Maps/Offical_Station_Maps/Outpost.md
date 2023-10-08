@@ -61,9 +61,9 @@ The stations [Atmos Techs](/3_HowToPlay/Jobs/Engineering_roles/Atmospherics-Tech
 ### R&D
 Where all the [scientists](/3_HowToPlay/Jobs/Science_roles/Scientist.md) gather and make half-life references between getting killed in various science advancing ways.[[File:R&D.PNG|none|thumb|308x308px]]
 ### Security
-Where the [true dictatorial overlords](/3_HowToPlay/Jobs/Security_roles/Security-Officer.md) of the station send their victims. Outpost's armory is particularly well equipped, coming with extra weapons, but lacks a few choices that are typically available on other stations, such as lasguns.![Sec](/img/Body/Sec.png)
+Where the [true dictatorial overlords](/3_HowToPlay/Jobs/Security_roles/Security-Officer.md) of the station send their victims. Outpost's armory is particularly well equipped, coming with extra weapons, but lacks a few choices that are typically available on other stations, such as lasguns.![Sec](/img/Stations/Sec.webp)
 ### Chapel
-[Sacerdos](/3_HowToPlay/Jobs/Entertainment_Roles/Chaplain.md) in templum laborat et [vocat cum deus](/4_Univers/Other/Jokes/So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](/img/Body/Chruch.png)
+[Sacerdos](/3_HowToPlay/Jobs/Entertainment_Roles/Chaplain.md) in templum laborat et [vocat cum deus](/4_Univers/Other/Jokes/So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](/img/Stations/Chruch.webp)
 
 
 
