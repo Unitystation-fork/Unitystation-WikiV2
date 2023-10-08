@@ -184,10 +184,10 @@ If you want to combine items have one in each of your hands and then left-click 
 
 | Picture      | Name    | Ingredients | Description |
 | ------------ | ------- | ----------- | ----------- |
-| ![Flour](\img\Icon\No_image.png)   | Flour   | 1 wheat     | N/A         |
-| ![Rice](\img\Icon\No_image.png)    | Rice    | 1 rice      | N/A         |
-| ![Sugar](\img\Icon\No_image.png)   | Sugar   | 1 sugarcane | N/A         |
-| ![Ketchup](\img\Icon\No_image.png) | Ketchup | 1 tomato    | N/A         |
+| ![Flour](/img/Icon/No_image.png)   | Flour   | 1 wheat     | N/A         |
+| ![Rice](/img/Icon/No_image.png)    | Rice    | 1 rice      | N/A         |
+| ![Sugar](/img/Icon/No_image.png)   | Sugar   | 1 sugarcane | N/A         |
+| ![Ketchup](/img/Icon/No_image.png) | Ketchup | 1 tomato    | N/A         |
 
 
 
