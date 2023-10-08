@@ -1,0 +1,6 @@
+services:
+  unitystation-wiki:
+    build: .
+    ports:
+      - "3200:3000"
+    restart: always
