@@ -72,7 +72,7 @@ A main feature of Unitystation is that almost any item in the game can be either
 | ![Beanie](/img/Construction/Clothing/hats_beanie.png)                  | Beanie            | 2    |
 | ![Plant Bag](/img/Construction/Clothing/equipment_plantbag.png)        | Plant Bag         | 4    |
 | ![Mining Satchel](/img/Construction/Clothing/mining_satchel.png)       | Mining Satchel    | 4    |
-| ![White Bedsheet](/img/Construction/Clothing/bedsheets_sheetwhite.png) | White Bedsheet    | 3    |
+| ![White Bedsheet](/img/Construction/bedsheets_sheetwhite.png) | White Bedsheet    | 3    |
 | ![Fingerless Gloves](/img/Construction/Clothing/gloves_fingerless.png) | Fingerless Gloves | 1    |
 | ![White Gloves](/img/Construction/Clothing/gloves_white.png)           | White Gloves      | 3    |
 
@@ -442,7 +442,7 @@ Eventually you'll cut a wire and when testing the door it'll say "Airlock is unp
 |This wire provides power to the door. When cut, you can open the door with a crowbar.
 |-
 |Electrifies Door
-|When cut, the door will be set to electrified causing anyone interacting with door without insulated gloves to be shocked. 
+|When cut, the door will be set to electrified causing anyone interacting with door without insulated gloves to be shocked.
 |-
 |Bolts Door
 |When cut, the door's bolt gets activated meaning you can no longer open or pry open the door. Can be reset with remote or Bolt Card.
@@ -461,4 +461,3 @@ Rest of wires do other interactions as well but the one's above are the 4 main o
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
 <Jobs />
-
