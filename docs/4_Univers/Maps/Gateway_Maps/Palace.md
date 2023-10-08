@@ -5,7 +5,7 @@ The Palace is one of the possible teleporter destinations. It is currently unfin
 
 ## Village
 
-![village](\img\No_image.png)
+![village](/img/Gateway/Palace/village.PNG)
 
 ##  Grand Church
 
