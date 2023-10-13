@@ -1,235 +1,224 @@
-# The (Revised) Guide to Combat
+# Руководство по боёвке
 
-## Introduction
-Combat in Unitystation is both very complex and unique. While the base upon which it is built on is itself rather intricate, the myriad of interacting mechanics introduced by other systems
-increases its complexity exponentially. This, aswell as the social element, lends itself well to making combat in unitystation more tactically unique.
-Unfortunately (or fortunately?) this makes combat in unitystation very difficult to master. While this guide will by no means cover all the details (wed be here all week), it should
-introduce and teach the core combat system, aswell as provide practical advice for combat and how to work towards a better understanding.
+## Введение
+Боёвка в Unitystation очень комплексна и уникальна. Хотя основа, на которой она строится, сама довольно сложна, огромное количество взаимодействующих механик, привносимых другими системами, увеличивает ее сложность в геометрической прогрессии.
+Это, а также социальный элемент, позволяет сделать бой в Unitystation более тактически уникальным.
+К сожалению (или к счастью?), это делает бой в Unitystation очень сложным для освоения. Хотя это руководство ни в коем случае не будет охватывать все детали (иначе мы проведем здесь всю неделю), оно должно познакомить вас с основной боевой системой,
+а также дать практические советы по ведению боя и работе над его усвоением.
 
-# Core systems
-The very core of the combat system is a combination of parts of the [intent](\3_HowToPlay\Guides\General_guides\Intents.md) and health systems. [Intents](\3_HowToPlay\Guides\General_guides\Intents.md) are important to learn to interact with the combat system, and health is good
-to know to reduce how often you die, and allow you to more effectively choose targets.
+# Основные системы
+В основе боевой системы лежит сочетание частей [intent](\3_HowToPlay\Guides\General_guides\Intents.md) и системы здоровья. [Intents](\3_HowToPlay\Guides\General_guides\Intents.md) важны для взаимодействия с боевой системой, а знания о здоровье полезны для того, чтобы
+уменьшить частоту смерти и позволить более эффективно выбирать цели.
 
-## Intents
-There are 4 [intents](\3_HowToPlay\Guides\General_guides\Intents.md). Help, grab, disarm and harm
+## Интенты
+Есть 4 [Интенты](\3_HowToPlay\Guides\General_guides\Intents.md). Помощь, захват, разоружить и удар
 
-### Help (green)
-Help intent, as implied by the name, is mainly used for non-combat interactions. It is still useful to know. If you on help intent, and not carrying a weapon in your hands,
-you cannot injure others, and will swap places/pass those you run into rather than stopping (good for chasing someone or being on the run). Using help intent on someone (including yourself) with medecine
-in hand will apply the medecine to a selected body part, healing it (assuming you apply the correct meds).
+### Помощь (зелёный)
+Помощь, как следует из названия, используется в основном для небоевых взаимодействий. Тем не менее, это полезно знать. Если вы идете с намерением помочь и не несете в руках оружие,
+вы не можете ранить других, и будете меняться местами/проходить мимо тех, с кем столкнулись, а не останавливаться (хорошо подходит для погони или бегства). Используйте интент Помощи для помощи кому-либо (включая себя) с лекарством в руке применит лекарство к выбранной части тела,
+исцелив ее (при условии, что вы применили правильные лекарства).
 
-### Grab (yellow)
-Grab intent will grab the person you use it on. By moving, they can break out of your grab. When someone is grabbed, and not resisting, you can pull them, much the same as ctrl + click.
-If someone is handcuffed, they will be unable to break out of your grab, letting you pull them into a prison cell if your merciful, or into a discrete location if your not.
+### Захват (Жёлтый)
+Интент Захвата захватит человека, на которого вы его применили. Двигаясь, он может вырваться из захвата. Если человек схвачен и не сопротивляется, можно потянуть его за собой, что аналогично ctrl + click.
+Если человек закован в наручники, он не сможет вырваться из вашего захвата, что позволит вам затащить его в тюремную камеру, если вы проявите милосердие, или в укромное место, если вы этого не сделаете.
 
-### Disarm (blue)
-Dont let the name fool you, disarm plays a far bigger role than just wrenching a weapon out of someones hands. If used on another player, they have a very good chance to drop their weapon,
-which you can then pick up, and possibly use (note, some guns are locked by id-based firing pins). If you absolutely must fight someone who is equipped, and are unarmed, DONT use the harm intent.
-use the disarm intent and use their own weapons against them. This also works in reverse, dont get in melee range if you have a gun, as you will likely get disarmed and lit up with
-your own gun. While you cant avoid getting in melee range if your using a melee weapon, you can minimize the risk of being disarmed by spending as little time in melee range as possible (in open combat)
-and instead using Hit-and-Retreat methods, or by surprising/ambushing your foe to (hopefully) chop them up before they react.
+### Разоружить (Синий)
+Пусть вас не обманывает название: разоружение играет гораздо большую роль, чем простое вырывание оружия из рук. При использовании против другого игрока у него есть очень большой шанс выронить оружие,
+которое затем можно подобрать и, возможно, использовать (обратите внимание некоторое оружие не будет стрелять без авторизации ID-Картой). Если вам абсолютно необходимо сражаться с кем-то, кто экипирован, но не обезоружен, НЕ используйте Интент Удара (Красный цвет).
+Используйте интент разоружения (синий) что-бы использовать против них их собственное оружие. Это работает и в обратном направлении: не начинайте в ближний бой, если у вас есть оружие, так как вас, скорее всего, обезоружат и расстреляют из вашего же оружия.
+своим же оружием. Если вы не можете избежать ближнего боя, если используете оружие ближнего боя, вы можете минимизировать риск быть обезоруженным, проводя как можно меньше времени в ближнем бое
+и вместо этого использовать приём "удар и отступление" или неожиданно напасть на противника, чтобы (надеюсь) разрубить его до того, как он среагирует.
 
-Disarm doesnt stop there, though. Each individual disarm has a small chance to knock over the person being disarmed. While knocked down, people are stunned, and cannot shoot or melee back against attacks.
-The time given by a disarm knockdown is NOT enough to handcuff people, dont make the mistake of coming close to an angry man with a gun with only one free hand of your own. When someone is knocked down, if
-you are very quick, you can loot a few items from them. This can be anything on their person, from backpacks, to hidden guns, to their ID. If you plan on doing this to get your hands on a juicy ID or
-traitor objective, be sure you know where they are probably located in the persons inventory.
+Однако на этом разоружение не заканчивается. Каждое отдельное обезоруживание имеет небольшой шанс сбить с ног обезоруживаемого человека. В таком состоянии человек оглушен и не может стрелять или отражать атаки ближнего боя.
+Времени, которое дает нокдаун, НЕ достаточно для надевания наручников, не совершайте ошибку, приближаясь к разъяренному человеку с оружием, имея только одну свободную руку. Когда кто-то сбит с ног,
+если вы очень быстры, вы можете забрать у него несколько предметов. Это может быть что угодно: рюкзак, спрятанное оружие, удостоверение личности. Если вы планируете сделать это, чтобы заполучить сочное удостоверение личности или
+убедитесь, что вы знаете, где они могут находиться в инвентаре человека.
 
-### Harm (red)
-Harm intent, as is obvious from the name, is used to injure others with raw brute force. If you are on harm intent, you will attempt to hit those you click on in melee range (even if holding a gun!)
-with the weapon in hand. Weapons can all still be used in other intents, and harm is mostly an intent there to make sure you dont accidentally help someone. While in harm, you wont be able
-to apply medicine, help others up, etc. clicking someone while in harm intent with an empty hand will punch them, dealing a moderate amount of damage, but not enough to fight off a person who
-has a proper weapon.
+### Удар (Красный)
+Интент Удара, как понятно из названия, используется для нанесения повреждений другим людям с помощью грубой силы. Если у вас есть намерение причинить вред, вы попытаетесь поразить тех, на кого вы нажимаете, в зоне ближнего боя. (даже если у него в руках оружие!)
+с оружием в руках. Оружие может быть использовано и по другому назначению, а вред - это, в основном, для того, чтобы случайно кому-то навредить. Находясь в режиме удара, вы не сможете
+применить медицину, помочь другим подняться и т.д. Если вы нажмете на кого-то с пустой рукой, то получится удар, который нанесет умеренный урон, но недостаточный для того, чтобы отбиться от человека.
 
-## The health system
-In unitystation, health is much more complex than in most games. health can be decreased directly by 4 types of damage, two of which are applied to individual limbs. The total health is the base health, minus damage dealt to limbs,
-and minus damage dealt by other causes. This means that enough damage to a single limb can kill, even if it is the only limb damaged.
+## Система Лечения
+IВ Unitystation система здоровья гораздо сложнее, чем в большинстве игр. Здоровье может быть уменьшено непосредственно 4 типами повреждений, два из которых наносятся отдельным конечностям. Общее здоровье - это базовое здоровье, за вычетом урона, наносимого конечностям,
+и минус урон, нанесенный по другим причинам. Это означает, что достаточное повреждение одной конечности может привести к смерти, даже если это единственная поврежденная конечность.
 
-### Damage types
-Brute damage is dealt by ballistic weapons, most melee weapons, and punches. It can be healed with bandages, and is applied to individual limbs. Burn damage is similarly applied to individual limbs. it can be
-healed with ointment, and is dealt by lasers and fires. oxygen damage is caused by being in critical condition, or by a lack of air. It can be slowed with CPR (help intent on downed critical person) and is best healed
-by getting somewhere one can breathe, or by healing to take a person out of a critical state. Toxin/poision damage is caused mainly by toxins, and is harder to heal than other damage types, requiring specific
-chemicals to fix.
+### Типы Урона
+Грубый урон наносится с помощью стрелкового оружия, большинства видов оружия ближнего боя и ударов. Онн может быть излечена с помощью повязок и накладывается на отдельные конечности. Ожоги аналогичным образом наносятся отдельным конечностям. лечится мазью, а поражается лазерами и огнем. Кислородный урон вызывается критическим состоянием или недостатком воздуха. Его можно замедлить с помощью СЛР (намерение оказать помощь человеку, находящемуся в критическом состоянии), а наиболее эффективно лечить
+с помощью того, чтобы человек мог дышать, или с помощью лечения вывести человека из критического состояния. Повреждения от токсинов/отравления вызываются в основном токсинами, и их сложнее залечить, чем другие типы повреждений, для этого требуются
+химические вещества для устранения.
 
-### Limb targetting
-On your hud, there is a small doll. when bodyparts are clicked, they will be targeted. this allows you to heal or injure specific regions. different parts have different chances to be successfully
-hit (head is harder to hit than the torso for example). If an attack misses, it will most likely instead connect with another bodypart, only rarely will you whiff an attack entirely. The more injured you are,
-the more likely you are to miss. These body parts will also be targeted when firing a gun.
+### Нацеливание на конечность
+На экране монитора находится маленькая кукла. при нажатии на части тела куклы они становятся мишенью это так-же позволяет лечить или травмировать определенные части тела. разные части имеют разные шансы быть успешно пораженными
+(например, в голову попасть сложнее, чем в туловище). Если вы промахнулись скорее всего, попадёте в другую часть тела, и только в редких случаях урон не проходит совсем. Чем сильнее вы ранены,
+тем больше вероятность промаха.
 
-## Various maladies
-Especilly worthile to note are the many situational effects and objects that play large roles in combat.
+## Различные заболевания
+Особо стоит отметить многочисленные ситуационные эффекты и предметы, играющие большую роль в бою.
 
-### Stuns
-Players can be stunned in several ways. Disarms can disable them for a short period, as can tazers, while stun batons can knock someone to the ground for a long enough period to arrest them.
-It should be noted, again, that tazers and disarms will not give you enough time to fill the handcuff progress bar before the person your arresting gets back up. Stunned players can
-be looted by dragging their sprite onto your own, as can handcuffed people.
+### Оглушение (Стан)
+Игроки могут быть оглушены несколькими способами. Разоуживание может на короткое время вывести их из строя, как и тазеры, а электрошоковые дубинки могут повалить человека на землю на достаточно длительное время, чтобы арестовать его.
+Следует еще раз отметить, что тазеры и разоружение не дадут вам достаточно времени, чтобы заполнить шкалу прогресса наручников до того, как арестованный встанет на ноги.
+Оглушенных игроков можно грабить, перетащив их спрайт на свой собственный, как и прикованных наручниками.
 
-### Handcuffs
-Handcuffs can be applied at any time, but require time to put on. This means you cant just approach a man with a knife and cuff him, not without disabling him first. one of the
-few reliable methods to get this time is the stun baton, which can knock someone to the ground long enough to let you handcuff them. Those in cuffs cannot harm, punch, pick up objects,
-or resist grabs, meaning they can be safely moved to a different location. Keep in mind they can still talk on the radio, unless you take that too.
+### Наручники
+Наручники могут быть применены в любой момент, но для их надевания требуется время. Это означает, что вы не можете просто подойти к человеку с ножом и надеть на него наручники, не выведя его сначала из строя(но это не точно). Одним из немногих надежных методов на этот раз является электрошоковая дубинка, способная повалить человека на землю на достаточное время, чтобы вы могли надеть на него наручники.
+Находящиеся в наручниках не могут причинять вред, наносить удары, поднимать предметы,
+или сопротивляться захвату, то есть их можно безопасно переместить в другое место. Имейте в виду, что они все еще могут говорить по радио, если только вы не лишите их и этого.
 
-### Blindness
-While more rare, temporary blindness can be inflicted by flashbangs and portable flashes. While blind you can interact and run around, but cannot see. Frankly, blind people are incredibly
-unpredictable, so blinding someone will probably make it harder, not easier, to land a stun on them.
+### Слепота
+Хотя и реже, но временная слепота может быть вызвана световыми гранатами и переносными вспышками. В ослепшем состоянии вы можете взаимодействовать и бегать, но не можете видеть.
 
-# Weapons
-There is a very large amount of weapons in unitystation, and learning which weapons are best for which jobs is good for maximizing effectiveness
+# Оружие
+В Unitystation существует очень большое количество оружия, и изучение того, какое оружие лучше всего подходит для выполнения тех или иных задач, позволяет добиться максимальной эффективности.
 
-## firearms
-Most firearms shoot either lasers or bullets. Lasers can pass through windows and deal mainly burn damage, while guns deal brute damage.
+## Огнестрельное Оружие
+Большинство видов огнестрельного оружия стреляет либо лазерами, либо пулями. Лазеры могут проходить сквозь окна и наносят в основном ожоги, а пули - физический урон.
 
-### Lasers
-Laser weapons only have a few set types of bolts, only two of which are very common. Tazer/electric bolts stun players on impact for a short period, disabler bolts stun them for
-what is basically no time at all, "kill" lasers deal a moderate amount of burn damage, and disruptor bolts deal ridiculous amounts of damage capeable of melting walls. Laser and
-energy based weapons like them must be charged at charging stations, with very few exceptions.
+### Лазеры
+Лазерное оружие имеет только несколько установленных типов патронов, из которых очень распространены только два. Тазер/Электрический Болты оглушают игроков при ударе на короткий промежуток времени, болты-дезабилизаторы оглушают на практически полное бездействие, "убивающие" лазеры наносят умеренный урон от ожогов, а болты-разрушители наносят невероятный урон, способный расплавить стены.
+Лазерное и энергетическое оружие, подобное ему, должно заряжаться на зарядных станциях.
 
-### bullets
-There is a very large variety in ammunition in US, hell, almost every gun takes a different type of bullet. many of these bullets can also come in augmented forms, such as AP, hollow point,
-incindiary, and more. Guns clips must be ejected when the gun is empty by clicking the gun in hand, and must be loaded by clicking on the gun while holding a magazine. Bullets are typically
-more damaging than lasers, but the requirment of carrying around clips and lack of rapid adaptability means lasers still compete well.
+### Патроны
+В США существует очень большое разнообразие боеприпасов, практически для каждого пистолета используется свой тип пули. Многие из этих пуль также могут быть дополнены, например, AP, hollow point, incindiary и др.
+Оружейные обоймы необходимо выбрасывать, когда оружие разряжено, щелчком по пистолету в руках, а заряжать - щелчком по пистолету, удерживая магазин. Пули, как правило, наносят больший урон, чем лазеры, но из-за необходимости носить с собой обоймы и отсутствия возможности быстрой стрельбы лазеры все же выигрывают конкуренцию.
 
-### Fully automatic weapons
-Full auto weapons, such as smgs and machine guns, will continue firing for as long as you hold down the mouse. While capeable of rapidly killing people, they burn through ammo equally
-fast, and thus must be reloaded often. they are also rather inaccurate. Per-shot, they typically deal less damage than other weapons. They are great at mowing down single targets if you have plenty of down-time to reload
-and prepare, and are great at killing those you are chasing, but struggle in more extended fights, when there is little opportunity to recover, and struggle at long range, forcing you close to danger..
+### Полностью автоматическое оружие
+Полностью автоматическое оружие, такое как пулеметы и автоматы, будет вести огонь до тех пор, пока вы удерживаете кнопку мыши. Несмотря на то что такое оружие способно быстро убивать людей, оно так же быстро расходует патроны, поэтому его необходимо часто перезаряжать.
+Кроме того, они довольно неточны. За один выстрел они наносят меньше урона, чем другие виды оружия.
+Они отлично подходят для уничтожения одиночных целей, если у вас есть время на перезарядку и подготовку, и отлично убивают тех, кого вы преследуете, но испытывают трудности в более длительных боях, когда мало возможностей для восстановления, и испытывают трудности на дальних дистанциях, заставляя вас приближаться к цели.
 
-### Semi automatic weapons
-These fire once when you press the mouse button, are typically higher damage per shot, and are rather accurate. This means you can kill people without placing yourself in too much danger, and conserve
-ammunition. semi-auto weapons that can fire with little cooldown are equally effective in ambushes as automatic weapons, but those with longer cooldowns (such as rifles and lasers) struggle to kill people before
-they can flee. One exception to this is the sniper, which has a large cooldown but is great in ambushes, simply due to its massive damage per shot. Seni auto weapons cant mow people down
-as fast as full auto weapons, but let you be safer and conserve ammunition.
+### Полуавтоматическое оружие
+Оно стреляет один раз при нажатии кнопки мыши, обычно имеет более высокий урон за выстрел и достаточно точны.Полуавтоматическое оружие, стреляющее с малым временем ожидания, одинаково эффективно в засадах, как и автоматическое, но оружие с большим временем ожидания (например, винтовки и лазеры) с трудом позволяет убивать людей до того, как они успеют убежать.
+Исключение составляет снайперка, которая имеет большой кулдаун, но отлично подходит для засад, просто благодаря своему огромному урону за выстрел.
+Снайперское оружие не может убивать людей так же быстро, как автоматическое, но позволяет быть более внимательным и экономить боеприпасы.
 
-## melee weapons
-Melee weapons are inherantly far riskier than ranged ones, but can greatly reward the risk if utilized smartly. Unlike guns, most melee weapons (with few exceptions) follow
-the same simple point and stab interface. How you use a melee weapon can however change depending on just how effective and rare it is.
+## Оружие ближнего боя
+Оружие ближнего боя по своей природе гораздо более опасно, чем дальнобойное, но при грамотном использовании оно может значительно компенсировать риск. В отличие от огнестрельного оружия, большинство видов оружия ближнего боя (за редким исключением) работают по одному и тому же простому принципу.
+Однако способ применения оружия ближнего боя может меняться в зависимости от того, насколько эффективным и уникальным оно является.
 
-### Low effectiveness/improvised/punches
-Improvised weapons (chairs, fire extinguishers, etc) are far less effective than other melee weapons, but their accessability means they are often all you have. When using these,
-you can rush down and take more chances to be disarmed than someone using a more potent weapon, as you can simply grab another if you lose yours. This means your best off moving side to side
-facing a target, bashing on them repetedly, or trading disarms (especilly if you are unarmed). These weapons should not be used to try and assassinate someone, as theyll more than likely run off, but they
-are great for self defence.
+### Низкая эффективность/импровизация/удары
+Самодельное оружие (стулья, огнетушители и т.д.) гораздо менее эффективно, чем другое оружие ближнего боя, но его доступность означает, что зачастую это все, что у вас есть. Используя их,
+вы можете броситься на землю и иметь больше шансов быть разоруженным, чем тот, кто использует более мощное оружие, так как в случае потери своего вы можете просто схватить другое. Это означает, что лучше всего двигаться из стороны в сторону
+лицом к цели, нанося по ней многократные удары или обмениваясь обезоруживающими приемами (особенно если вы безоружны). Это оружие не следует использовать для покушения на человека, так как он, скорее всего, убежит,
+но для самозащиты оно подходит как нельзя лучше.
 
-### High effectiveness melee weapons
-Purpouse made melee weapons, such as eswords and sabers, are rarer, but a lot more devestating. their main weakness is less their own, and more because they can be disarmed and
-used against you, and you cant easily get another one. Therefore, when you have one of these, you want to minimize how much time they can disarm you. This can be done either by
-chopping them up before they can react in an ambush, or by only taking short periods to attack. Rather than berserk at your foe, you want to stay a tile or two seperate from them, and
-pop into melee range unexpectedly to give them a quick stab before jumping back out.
+### Высокоэффективное оружие ближнего боя
+Оружие ближнего боя, такое как мечи и сабли, встречается реже, но гораздо более губительно. Их главная слабость не столько в них самих, сколько в том, что вы можете быть разоружены и оружие будет использовано против вас, а вы не можете так просто достать еще одно оружие. Поэтому, когда у вас есть такой противник, вы хотите свести к минимуму время, в течение которого он может вас обезвредить.
+Этого можно добиться, либо разрубив его, прежде чем он успеет среагировать в засаде, либо атакуя лишь короткими промежутками времени.
+Вместо того чтобы бросаться на противника, лучше оставаться на расстоянии одной-двух плиток от него и неожиданно появляться в зоне ближнего боя, чтобы нанести ему быстрый удар, а затем отпрыгнуть назад.
 
-## Thrown weapons
-There are three main types of throwing weapons. improvised, dedicated, and grenades. objects can be thrown after using the "throw" button, or after using the (default) hotkey "r".
+## Метательное оружие
+Существует три основных типа метательного оружия: самодельное, специальное и гранаты. Бросать предметы можно как с помощью кнопки " throw ", так и с помощью горячей клавиши "r" (по умолчанию).
 
-### Improvised throwing weapons
-Melee weapons (like swords) thrown at attackers and other items, such as floor tiles, fall into this category. The rapidity with which items can be thrown, plus the decent damge per throw,
-means that thrown weapons can be unexpectedly deadly, even if makeshift. Particularly adventagous for improvised weapons is the plentitude of ammunition. Floor tiles make good
-throwing weapons, as do chairs and fire extinguishers, and they are absolutely goddamn everywhere. This means that you can engage in ranged combat, even without
-a dedicated ranged weapon, giving you the advantage over those using melee weapons.
+### Самодельное метательное оружие
+В эту категорию попадают оружие ближнего боя (например, мечи), бросаемое в нападающих, и другие предметы, например, напольные плитки. Быстрота метания предметов, а также приличный урон за бросок означают, что метательное оружие может быть неожиданно смертоносным, даже если оно самодельное.
+Особую опасность самодельное оружие представляет благодаря обилию боеприпасов. Напольная плитка, как и стулья, и огнетушители, являются хорошим метательным оружием, и они есть абсолютно везде. Это означает, что вы можете участвовать в дистанционном бою даже без специального оружия.
+Это дает вам преимущество перед теми, кто использует оружие ближнего боя.
 
-### dedicated throwing weapons
-Few of these exist, and the fact that they can be thrown back makes them a hard sell. They do not do enough to justify their low quanitity. if you have them, use them, but i
-would advise against actively looking for them.
+### Специализированное метательное оружие
+Существует мало таких изделий, и тот факт, что их можно просто выкидывать при возврате, делает их труднопродаваемыми. Они недостаточно много делают, чтобы оправдать свое низкое качество.
+Если они у вас есть, используйте их, но я бы не советовал активно искать их.
 
-### Grenades
-Grenades, on the other hand, absolutely justify their rarity. even ignoring chemistry, grenades can one shot people, force them to run, and, atop all this, can be "cooked"
-To use a grenade, you must first activate it by clicking it in hand. at which point you will throw it at the next location you click (pressing R or the throw button will make you keep holding it, so dont touch them.)
-When the grenade timer finishes, it will explode, greatly damaging players and objects in the blast.
+### Гранаты
+Гранаты, напротив, абсолютно оправдывают свою редкость, даже если не принимать во внимание химию. Гранаты могут нанести один удар по человеку, заставить его бежать, и, кроме того, их можно скрафтить.
+Чтобы использовать гранату, необходимо сначала активировать ее, нажав на нее в руке. В этот момент вы бросите его в следующее место, на которое вы нажмете (нажатие R или кнопки броска заставит вас продолжать держать его, поэтому не трогайте их).
+По истечении таймера граната взрывается, нанося значительные повреждения игрокам и объектам, попавшим под взрыв.
 
-## Notably useful tools/weapons/items.
+## Особо полезные инструменты/оружие/предметы.
 
--Tazers: stun for a short period, useful for getting into baton range
--Batons: stun for a very long period (unless they are the collapsable baton!), enough for handcuffs.
--Fire extinguishers: cover a large area in slippery water
--Flashs: blindness and stun
--handcuffs: see handcuffs under "various maladies"
--magboots: prevent slipping, but slow you down.
--banna peels/clown pda/similar items: slip when stepped on
--crowbar: not a very good weapon, source for floor tiles
--floor tiles: effective and super cheap throwing weapons.
--Lit welders, hatchets, toolboxes: effective and easy to acquire melee weapons
+-Тазеры: оглушают на короткое время, полезны для приближения к цели.
+-Дубинки: оглушают на очень длительное время (если это не складная дубинка!), достаточно для надевания наручников.
+-Огнетушители: покрывают большую площадь скользящей жидкостью
+-Световые гранаты: слепота и оглушение
+-Наручники: наручники, наручники
+-Магбуты: предотвращают скольжение, но замедляют движение
+-банановая кожура/клоунские КПК/подобные предметы: проскальзывают, когда на них наступают
+-Лом: не очень хорошее оружие, инструмент для изготовления напольной плитки
+-напольные плитки: эффективное и очень дешевое метательное оружие.
+-Лит-сварки, топоры, ящики с инструментами: эффективное и простое в приобретении оружие ближнего боя
 
-# Armour
-Unlike weaponry, armour is rather simple, cutting damage by a certain percentage from certain sources.
+# Броня
+Броня довольно проста: она снижает урон от определенных источников на определенный процент.
 
-## Vests, helmets, coats
-Within unitystation, there are three main types of armour generally available to crew members. Bulletproof, standard, and riot gear. These come with matching helmets, and each
-are good at dealing with specific types of damage. Bulletproof gear will dampen the damage dealt by bullets, but is bad against lasers, and garbage against melee weaponry. The opposite
-is true of the riot armour, which excells against melee, but suffers against bullets. Standard vest offer an intermediary between the two. Other, rarer, items can offer similar protection.
-for instance, the captains vest, HoS' coat, wardens vest, and the many aesthetic variants of the other vests all offer protection.
+## Жилеты, шлемы, плащи
+В Unitystation существует три основных типа брони, которые обычно доступны членам экипажа. Пуленепробиваемое, стандартное и омоновское снаряжение. К ним прилагаются соответствующие шлемы, и каждый из них
+хорошо справляется с определенными видами повреждений. Пуленепробиваемое снаряжение снижает урон, наносимый пулями, но плохо противостоит лазерам и не годится для оружия ближнего боя. Иначе обстоит дело с омоновской броней, которая превосходно защищает от ближнего боя, но страдает от пуль.
+Стандартный защитный жилет является промежуточным звеном между ними. Другие, более редкие предметы могут обеспечивать аналогичную защиту.
+Например, жилет капитана, мундир Главы Службы Безопасности, жилет вардена и множество эстетических вариантов других жилетов - все они обеспечивают защиту.
 
-## Hardsuits
-Dont be fooled by their looks, most hardsuits are a FAR worse choice than other armour when it comes to combat. Ignoring that (on the station) only the sec and captain suits have armour values anywhere comperable to a vest,
-hardsuits slow you down greatly, meaning you are less able to escape or chase down others and more predictable. Their main usage is simply to let you go into space or breached regions to catch anyone in them.
-The one exception is the hardsuits used by nuclear operatives, which do not slow down the wearer and have great armour values.
+## Скафандры
+Не обманывайтесь их внешним видом, большинство скафандров гораздо хуже других видов брони, когда дело доходит до боя. Не обращая внимания на то, что (на станции) только скафандры охраны и капитана имеют показатели брони, сравнимые с бронежилетами, скафандры сильно замедляют вас, что означает, что вы менее способны убежать или преследовать других и более предсказуемы.
+Основное их использование - это выход в космос или прорвавшиеся регионы, чтобы поймать в них кого-либо.
+Единственное исключение - бронекостюмы, используемые ядерщиками, которые не замедляют работу пользователя и обладают высокой бронестойкостью.
 
-# Acquiring gear
-All the gear in the world cant help you if you dont actually possess it. To this end there are many things you can do to acquire it. Following are some ideas.
-- Buy/Bribe for it (it is a social game, after all)
-- Utilize a favor or friend
-- Acquire it through legitimate means (taking a tazer as [sec](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), for instance)
-- stealing it with or without a disguise
-- killing or mugging the person who has it
-- other strategies that can be found in the [guide to access](\3_HowToPlay\Guides\General_guides\Access.md)
+# Приобретение оборудования
+Все оборудование в мире не поможет вам, если вы им реально не владеете. Для этого существует множество способов его приобретения. Ниже приведены некоторые идеи.
+- Купить/подкупить за это (это же социальная игра, в конце концов)
+- Используйте своих друзей (зачем же они вам ещё?)
+- Приобрести его законным путем (taking a tazer as [sec](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), for instance)
+- Кража с маскировкой или без нее
+- Убийство или ограбление человека, у которого она есть
+- Иные способы которые можно найти в [руководстве по доступам](\3_HowToPlay\Guides\General_guides\Access.md)
 
-# Fighting
-Combat in unitystation is fundamentally based in knowledge, gear, and planning. Raw reflexive skill plays a part, but the victor in a fight is most often the one who strikes first and stacks
-the most advantages while reducing those of the opponent, meaning it is almost always better to wait and prepare if you can, rather than rushing in.
+# Бой
+Бой в unitystation в основе своей базируется на знаниях, снаряжении и планировании. Безусловно, рефлекторное мастерство играет свою роль, но в бою чаще всего побеждает тот, кто первым наносит удар и накапливает наибольшее количество преимуществ, уменьшая их у противника, а значит, почти всегда лучше подождать и подготовиться, если есть такая возможность, а не бросаться в бой.
 
-## Planning
-A good plan is a great way of ensuring that you win a fight. If you go in prepared, equipped, and ready, against someone who is unaware or still plotting, you will have an enormous
-advantage. Likewise, if someone ambushes or otherwise springs a plot against you, your best choice is to flee and plan your own defense. There are many things that can be considered while planning,
-or when figuring things out on the fly, such as equipment, access, enviornment, relation, behaviour and your own skill.
+## Планирование
+Хороший план - это отличный способ обеспечить себе победу в борьбе. Если вы придете подготовленным, оснащенным и готовым к встрече с тем, кто не знает об этом или ещё не догадывается, у вас будет огромное
+преимущество. Аналогичным образом, если кто-то устраивает засаду или иным образом готовит против вас заговор, лучший выбор - бежать и планировать свою защиту. Tесть много вещей, которые можно учитывать при планировании,
+например, оборудование, доступ, окружающая среда, отношения, поведение и собственное мастерство.
 
-### Equipment
-While equipment itself is covered above, planning how to use it is another thing entirely. When planning, you should consider what you have onhand formost, such as stunning tools
-or ways to access more hidden areas if you need to escape. If your plan require a specific item, it is often better to consider an alternate route than acquire the item if it poses a risk.
+### Экипировка
+Если о самом оборудовании уже говорилось выше, то планирование его использования - это совсем другое дело. При планировании следует учитывать прежде всего то, что у вас есть под рукой, например, подручные средства
+или способы доступа к более скрытым местам, если вам нужно будет бежать. Если по вашему плану требуется определенный предмет, то часто лучше рассмотреть альтернативный маршрут, чем приобретать этот предмет, если он представляет опасность.
 
-You should also take into account what your opponent has, if at all possible. If they are wearing riot armour for instance, bring a gun, if they have their own, wear a bulletproof vest.
-Opponents without dedicated weapons or armour are easy prey, meaning if you can ambush them without equipment or get someone to remove theirs, it is worthwhile to attack even if you do not
-have a set plan in mind.
+При этом следует учитывать, что есть у оппонента, если это возможно. Если они, например, одеты в броню возьмите с собой оружие, если у них есть свое, наденьте бронежилет.
+Противники, не имеющие специального оружия или брони, являются легкой добычей, поэтому, если вы можете устроить засаду без снаряжения или заставить кого-то снять его, стоит напасть,
+даже если у вас нет определенного плана.
 
-### Access
-something that is difficult to determine but very helpful to know is the access level of the person you are fighting as well as your own, and how they stack up. If you dont take this into account, you may end up setting up
-ambushes that cant be tripped and run into areas they can still hunt you down in. Having higher amounts of access opens up easier access to equipment aswell as escape routes, while having low access oftentimes
-limits you to open and exposed areas with little gear.
+### Доступ
+То, что трудно определить, но очень полезно знать, - это уровень доступа врага а также ваш собственный, и как они соотносятся. Если этого не учитывать, то в итоге можно устроить
+засады, в которые невозможно заманить, и забегать в места, где все равно смогут вас выследить. Наличие большого доступа открывает более легкий доступ к снаряжению и путям эвакуации, в то время как низкий доступ часто
+ограничивает вас открытыми и незащищенными участками с небольшим количеством снаряжения.
 
-If you are fighting someone with more access, it is best to stage an ambush, especilly in a region they feel safe, so that you can kill them before they can bring their equipment to bear
-or escape.
+Если вы сражаетесь с человеком, имеющим более широкий доступ, лучше всего устроить засаду, особенно в районе, где он чувствует себя в безопасности, чтобы уничтожить его до того, как он сможет пустить в ход свое оборудование или сбежать.
 
-On the flipside, when fighting someone with lower access, it is often more time-efficient to corral them into corners and chase them down, utilizing your superior access to use shortcuts and
-close the gap. If they somehow manage to gain the upper hand, you can escape into a region they cannot enter.
+С другой стороны, при борьбе с противником, имеющим более низкий уровень доступа, зачастую эффективнее загнать его в угол и преследовать, используя свой более высокий уровень доступа для использования коротких путей и
+сократить разрыв. Если им удастся одержать верх, вы сможете скрыться в области, куда они не смогут попасть.
 
-### Enviornment
-If you plan on fighitng in a particular location, it is helpful to know how it is layed out, and any maluses affecting the area. When fighting in space, for instance, you should
-plan ahead by bringing neccesary supplies to spacewalk, aswell as account for the lack of gravity. Tight regions with many corners, like maint, are great for melee ambushes, while
-more open areas such as hallways lend themselves well to gunfights.
+### Окружение
+Если вы планируете проводить бои в определенном месте, полезно знать, как оно расположено, и какие вредоносные факторы влияют на это место. Например, при ведении боевых действий в космосе необходимо
+заранее спланировать выход в космос, взяв с собой необходимые припасы, а также учесть отсутствие гравитации. Тесные помещения с большим количеством углов, такие как основные помещения, отлично подходят для засад с применением ближнего боя, в то время как
+Более открытые участки, такие как коридоры, хорошо подходят для перестрелок.
 
-Other things you should account for include visibility, ease of escape, possible reinforcements, and hazards.
+Кроме того, необходимо учитывать такие факторы, как видимость, удобство эвакуации, возможное подкрепление и опасности.
 
-It should be noted that you can always change the enviornment itself to suit you. Atmos techs can easily start fires, anyone can break windows to space, and anyone (but especilly engineers) can build new structures.
+Следует отметить, что вы всегда можете изменить окружение под себя. Атмосферные техники могут легко устроить пожар, любой может разбить окно в космос, и любой (но особенно инженеры) может построить новые сооружения.
 
-### Relations
-Taking into account your targets relation is really useful for surprise attacks and ambushes, and is very simple. If your target trusts you, and is friendly with you, you can
-very easily lure them into an isolated room where you can perform your evil deed (no, not that one, get your mind out of the gutter).
+### Отношения
+Учет отношения целей очень полезен для внезапных атак и засад и очень прост.Если ваш объект доверяет вам и дружит с вами, вы можете
+очень легко заманить его в изолированную комнату, где вы сможете совершить свое злодеяние (нет, не это, выкиньте мысли из головы).
 
-Knowing who the target considers his friends is also useful for predicting what possible reinforcements may arrive or tag along with them, for whom you can now plan.
+Знание того, кого цель считает своими друзьями, также полезно для прогнозирования возможной помощи, которое теперь можно планировать.
 
-### Behaviour
-Knowing how someone behaves is similarly great for setting up surprise attacks, for obvious reasons, but also plays a large role in more open combat. If you know that someone is
-aware they are less important, say, an assistant, they may be willing to take greater risks, or even suicide attacks, to try and off you. On the flipside captains and other heads tend
-to run to security at the first sign of trouble, so you should prepare for a chase. You may even be ignored by some in favor of pursuing a more important objective, such as Nuke ops looting a disk
-or someone attempting to call the shuttle. Understanding how someone will react is something that comes with time, though reading the pages for the roles themselves can lend you
-an idea.
+### Поведение
+Знание того, как кто-либо ведет себя, по понятным причинам, отлично подходит для организации внезапных атак, но также играет большую роль в более открытом бою. Если вы знаете, что кто-то
+знает, что он менее важен, скажем, помощник, то он может быть готов пойти на больший риск или даже на самоубийство, чтобы попытаться отстраниться от вас. С другой стороны, капитаны и другие руководители обычно
+при первых признаках неприятностей бегут к службе безопасности, поэтому следует приготовиться к погоне. Некоторые могут даже проигнорировать вас как возможную угрозу в пользу более важной цели, например, если Ядерные Оперативники украдут диск.
+или кто-то пытается вызвать шаттл.Понимание того, как будет реагировать человек, приходит со временем, хотя чтение страниц, посвященных самим ролям, может дать вам представление о том.
 
-### Skill
-Finally, you should gauge your own skill against your opponents. If you are equally prepared, but they have played for ages, its probably best not to touch them. On the flipside, if your
-experienced, you can probably afford to get into fights with less thinking and preperation, even though its not reccomended. Skill is not an enormous factor, so dont be afraid to ambush the 1000 hour
-greyshirt if you feel you are prepared.
+### Скилл
+Наконец, следует оценивать свое мастерство в сравнении с противниками. Если вы подготовлены одинаково, но они играют уже давно, то лучше их не трогать. С другой стороны, если вы
+опытный, то, вероятно, вы можете позволить себе вступать в бой с меньшими раздумьями и подготовкой, хотя это и не рекомендуется. Скилл не является решающим фактором, поэтому не бойтесь устроить засаду на 1000-часового ассистента,
+если вы чувствуете себя подготовленным.
 
-## Movement
-Something that plays a large factor into your survivability during a fight is your movement. skilled movement reduced the windows your opponent has to attack you, and lets you
-engage in favourable situations, while also allowing for easier escapes and an easier time catching others. If you intend on getting into fights, you are probably best off avoiding
-anything that can reduce your movement speed, such as hardsuits or magboots.
+## Движение
+Умелое передвижение сокращает количество возможностей для атаки противника и позволяет действовать в благоприятных ситуациях.
+А также позволяет легче убегать и легче ловить других. Если вы намерены ввязываться в драки, то, вероятно, лучше избегать
+всего, что может снизить скорость передвижения, например, защитные костюмы или магбутсы.
 
-### Open combat
+### Открытый бой
 How you approach open combat movement wise differs depending on what weapons you are equipped with. In all cases, it is best to remain further away, but in range, until you
 intend to attack.
 
