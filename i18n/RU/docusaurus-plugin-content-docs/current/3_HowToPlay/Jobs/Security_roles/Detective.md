@@ -1,20 +1,19 @@
-# Detective
-**Role type**: <font color="#711e25">Security</font>. Access: <font color="#711e25">Security & Cells</font>, <font color="#711e25">Detective's office</font>, Maintenance. **Difficulty**: <font color="Orange">Medium</font>
+# Детектив
+**Тип роли**: <font color="#711e25"> Служба Безопасности </font>. Доступ: <font color="#711e25">Службеные помещения и камеры</font>, <font color="#711e25">Кабинет детектива</font>, Техническое обслуживание. **Сложность**: <font color="Orange">Средний</font>
 
 
 
 
-## Overview
+## Обзор
 
-As a Detective, your job is to report to crime scenes and help [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) figure out who killed the dead body found inside a locker in Maintenance. If there's no crime scenes to look at, all you have to do is walk around, smoke cigarettes, look cool, and think you're an actual Security member even though you aren't.
-
-
-### Looks like he was murdered by a crowbar
+В качестве детектива вы должны прибывать на места преступлений и помогать [Безопасность](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) выяснить, кто убил труп, найденный в шкафчике в отделе технического обслуживания. Если нет места преступления, то остается только ходить вокруг, курить сигареты, выглядеть круто и думать, что ты настоящий сотрудник службы безопасности, хотя это не так.
 
 
-please note that there currently are no detective-related items in the game. for now, just act as another security member that comes with a bonus revolver.
+### Похоже, его убили ломом....
 
-Once you pick Detective, you'll spawn inside your office. Make sure to open your locker, there's some useful stuff inside it. After this, it's mostly waiting. You can patrol the hallways and look through areas if you want, but you'll likely either not find anything, or get ambushed by Assistants that want your shiny revolver. Eventually, you'll see someone say that they found a dead body, with no way of knowing how they died. That's your cue to head to the crime scene, and investigate.
+Обратите внимание!! Что в настоящее время в игре нет предметов, связанных с детективами. пока что достаточно выступить в роли еще одного сотрудника службы безопасности, который получает в качестве бонуса револьвер.
+
+После того как вы выберете детектива, вы появитесь в своем офисе. Не забудьте открыть шкафчик, в нем есть несколько полезных вещей. После этого остается только ждать. Вы можете патрулировать коридоры и осматривать помещения, но, скорее всего, либо ничего не найдете, либо попадете в засаду помощников, которым нужен ваш блестящий револьвер. В конце концов, вы увидите, как кто-то говорит, что нашел труп, но не знает, как он умер. Это сигнал к тому, чтобы отправиться на место преступления и провести расследование.
 
   <br/>
 <br/>
