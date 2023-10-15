@@ -1,63 +1,61 @@
-# Guide to Flying
+# Руководство по полётам
 
-# Overview
-This guide will cover what shuttles are, shuttle operation, how to fly shuttles, the quirks of each "type" of shuttle, and the dangers shuttles can pose.
+# Ввод
+В этом руководстве мы рассмотрим, что такое шаттлы, как они работают, как летать на шаттлах, особенности каждого типа шаттлов, а также опасности, которые могут представлять шаттлы.
 
-## what is a shuttle?
-Unlike Byond SS13, where shuttles must teleport between destinations or perform Z-Level trickery to fake flight, shuttles in unitystation are fully flyable and much more
-responsive. In effect, the shuttles act like moving rooms (or sets of rooms), that can be boarded and (outside special exceptions) manually piloted. objects within
-the shuttle are fully interactable, and can be used midflight, and people can travel across the shuttle while it is moving. The downside to this 
-full flyability and interactivity is that large shuttles, with many moving tiles, can create large amounts of lag.
+## Что такое шаттл?
+В отличие от Byond SS13, где шаттлы должны телепортироваться между пунктами назначения или использовать трюки Z-уровня, чтобы имитировать полет. Шаттлы в Unitystation полностью летают и гораздо более отзывчивы.
+По сути, шаттлы действуют как движущиеся помещения, в которые можно садиться и (за особыми исключениями) пилотировать вручную. объекты внутри
+шаттла являются полностью функциональными и могут быть использованы в полете, а люди могут перемещаться по шаттлу во время его движения. 
+полной управляемости и интерактивности является то, что большие шаттлы с большим количеством движущихся плиток могут создавать значительное отставание тайлов.
 
-## How they work
-The most important part of a shuttle is its piloting console, a shuttle can fly if its walls are torn apart and it has a single engine left, but without the console it will become
-dead in the water, or worse, continue moving infinitely. If the console is emagged, it will display the locations of people (and the disk) on the console map and disable shuttle
-safeties. Most shuttles are equipped with collision sensors, if a sensor detects a blocked tile directly infront of it, it will 
-instantly stop the shuttle and prevent the collision, these are turned off if the shuttle console is emagged, which will allow for shuttle ramming. some shuttles are equipped with
-RCS systems, responsible for translating the shuttle left and right when in action, these are optional and not required to fly, but are helpful for docking. shuttles require fuel
-to function, in particular, plasma, canisters of which must be wrenched in place over fuel connectors to supply the shuttle engines. The only things actually needed for a shuttles
-successful operation is a console, an engine, and fuel. Yes, walls are optional.
+## Как это работает
+Важнейшей частью шаттла является пульт управления. Шаттл может лететь, если его стены разнесены в клочья но у него остался один двигатель,
+но без консоли он встанет намертво или, что еще хуже, продолжит двигаться в бесконечном направлении. Если консоль эмагнута, то на карте консоли будет отображаться местоположение людей (и диска), а также будет отключена защита шаттла
+Большинство шаттлов оснащены датчиками столкновения, если датчик обнаружит прямо перед собой заблокированную плитку, он мгновенно остановит шаттл и предотвратит столкновение. 
+Она отключается, если консоль шаттла эмагнута, что позволяет таранить шаттл. Некоторые шаттлы оснащены
+RCS-системамми, отвечающими за поворот шаттла влево вправа во время движения; они необязательны и не нужны для полета прямо, но полезны для стыковки.
+для функционирования, в частности, плазмы, канистры с которой должны закручиваться в топливные разъемы для питания двигателей шаттла. Единственное, что действительно необходимо для успешной работы шаттла
+- это консоль, двигатель и топливо. Да, стены необязательны.
 
-## Ace pilot
-If the shuttle is capeable of flying, it can be flown from the shuttle console. When interacted with it will show a popup screen displaying a map, turn controls, an RCS button, a
-button to start/stop the shuttle, and a thrust slider. The map normally displays the locations of other shuttles, asteroids, and the station origin. If the console is emagged
-it will additionally show the locations of players and the nuke disk. Do note the map only displays the origin/center of the station, and NOT its outer bounds, if you see it ANYWHERE
-on the map it is best to slow down unless you are fully intent on commiting space jihad. The turn controls rotate the shuttle 90 degrees left or right when used, and the thrust slider
-changes how fast the shuttle moves forward, do note that shuttles cannot move backwards using ordinary engine setups. When the RCS button is used, it will toggle RCS, which will make the
-turn buttons translate the shuttle left or right instead of turning it, good for docking.
+## Асы
+Если шаттл способен летать, им можно управлять с консоли шаттла. При взаимодействии с ним появляется всплывающий экран, на котором отображается карта, элементы управления поворотами, кнопка RCS, кнопка запуска/остановки шаттла и регулятор тяги.
+для запуска/остановки шаттла и ползунок тяги. На карте обычно отображается расположение других шаттлов, астероидов и местонахождение станции. Если консоль эмагнута
+в ней дополнительно отображаются местоположения игроков и ядерного диска. Обратите внимание, что на карте отображается только начало/центр станции, но не ее внешние границы, если вы видите ее в любом месте
+на карте, то лучше притормозить, если только вы не намерены совершить космический джихад. Регуляторы поворота поворачивают шаттл на 90 градусов влево или вправо, а регулятор тяги изменяет скорость движения шаттла вперед.
+при этом следует учитывать, что шаттлы не могут двигаться назад при использовании обычных двигателей. Когда используется кнопка RCS, она переключает RCS, что заставляет кнопки поворота переводить шаттл влево.
+кнопки поворота переводят шаттл влево или вправо поворачивают его, что удобно для стыковки.
 
-# Types of shuttles
-there are a few "types" of shuttle in unitystation, which while not differing in control can vary in size, danger, and operation.
+# Виды шаттлво
+В Unitystation существует несколько "типов" шаттлов, которые, не отличаясь по управлению, могут различаться по размеру, опасности и режиму работы.
 
-## Small shuttles
-These are shuttles like the personal shuttles, often found attached to various departments or in a bay. they are the most common, and cannot fit many occupants, but their small
-size means that they are able to fit in more places just near the station than other larger shuttles. The fact that the shuttles are self powering, and these small shuttles are
-rarely missed, makes them a perfect getaway, secret lair, or electronic warfare center if you have a spacesuit and materials. A lesser known small shuttle is the centcom shuttle,
-tucked away in the top right of the centcom station. the fact that centcom is normally only visited seconds before the round ends and is very far away makes it practically unused
-and useless, in theory it could be used for centcom boarding parties.
+## Небольшие шаттлы
+Эти шаттлы, как и персональные шаттлы, часто можно встретить прикрепленными к различным отделам или в бухте. Они являются самыми распространенными и не могут вместить много пассажиров,
+но их небольшой размер означает, что они могут поместиться в большем количестве мест вблизи станции, чем другие более крупные шаттлы.Тот факт, что шаттлы имеют автономное питание, а эти маленькие шаттлы практически не теряют своей силы, делает их идеальным убежищем, тайным логовом или центром радиоэлектронной борьбы, если у вас есть скафандр и материалы.
+Менее известный маленький шаттл - шаттл Центкома, расположенный в правом верхнем углу станции Центкома. Тот факт, что Центком обычно посещается только за несколько секунд до окончания раунда и находится очень далеко, делает его практически неиспользуемым и бесполезным.
+но теоретически он мог бы использоваться для высадки членов Центкома.
 
-## Large shuttles
-Large shuttles are less common, and many large shuttles only appear in certain gamemodes or maps. They are just as fast as small shuttles (owing to more engines), but cannot fit
-in as many places and typically require extensive docks to hold them. on some maps, mining will have access to a large mining shuttle capeable of holding and supporting
-the entire mining team, equipped with a small medbay and storage. Nuke ops have the syndicate shuttle, a bulky and well armoured shuttle with a large and well stocked medbay
-and armoury, aswell as a far larger than normal bridge and actual airlocks instead of single doors which allow for air conservation even when not docked, for stealthy
-station boarding. A lesser known large shuttle is the wizards shuttle, which is very large and contains all manner of strange rooms. the front of the ship contains a piloting console
-which is seldom used, as wizards dont have to fly and can just teleport to the station.
+## Большие шаттлы
+Большие шаттлы встречаются реже, и многие из них появляются только в определенных игровых режимах или на определенных картах. Они так же быстры, как и малые шаттлы (благодаря большему количеству двигателей), но не могут поместиться в таком большом количестве мест и обычно требуют обширных доков.
+На некоторых картах у шахтеров есть доступ к большому шахтерскому шаттлу, способному вместить и поддерживать всю команду шахтеров.
+на некоторых картах шахтерам доступен большой шахтерский шаттл, способный вместить всю команду шахтеров, оборудованный небольшим медблоком и хранилищем. У ядерщиков есть шаттл синдиката - громоздкий и хорошо бронированный шаттл с большим и хорошо укомплектованным медпунктом и оружейным складом.
+и оружейным складом, а также гораздо большим, чем обычно, мостиком и настоящими шлюзами вместо одиночных дверей, позволяющими сохранять воздух даже без стыковки для скрытной посадки на станцию.
+Менее известный большой шаттл - шаттл магов, который очень велик и содержит всевозможные странные помещения. В передней части корабля находится пульт управления.
+Он редко используется, поскольку волшебникам не нужно летать, они могут просто телепортироваться на станцию.
 
-## Special shuttles
-There also exist special shuttles, shuttles that dont obey normal shuttle operation, these are the cargo shuttle, arrivals shuttle, and escape shuttle. The cargo shuttle
-does not start with a shuttle console, and is instead piloted automatically when it recives orders to come to or leave cargo. interestingly, it does not actually go anywhere,
-instead spending some time far away from the station before magically returning with requested goods onboard. If it is equipped with a console, be VERY careful, as the shuttle is
-faster than normal and has no collision sensors, making it a perfect way to accidentally (or purpousefully) carve a hole into the station and die in a crash. It is practically
-invincible, and if piloted into asteroids or the station will have no problem carving directly through them. The arrivals shuttle is interesting, because despite having a shuttle matrix,
-it cannot actually be flown, only turned. it is also where late-join players will appear. The escape shuttle is by FAR the fastest shuttle, and similarly to the cargo shuttle is
-piloted automaticallt to and from the station during evacuation. It is goddamn immortal, and though it can take damage it will not stop, cleanly carving through asteroids in its path.
-If it is equipped with a console, by manually building one, its incredible speed and armour make it a perfect projectile, and the shuttle can cleanly tear through the entire station,
-and then sail through the other side.
+## Специальные шаттлы
+Существуют также специальные шаттлы, которые не соответствуют обычному режиму работы шаттла, - это грузовой, прибывающий и спасательный шаттлы. Грузовой шаттл
+не стартует с консоли шаттла, а пилотируется автоматически, когда получает приказ прибыть или покинуть грузовой корабль. Интересно, что на самом деле он никуда не летит,
+Вместо этого он проводит некоторое время вдали от станции, а затем волшебным образом возвращается с требуемым грузом на борту. Если шаттл оснащен консолью, будьте ОЧЕНЬ осторожны, так как шаттл движется быстрее обычного не имеет датчиков столкновения
+что делает его идеальным способом случайно (или намеренно) проделать дыру в станции и погибнуть при крушении. Он практически
+неуязвим, и если пилотировать его на астероиды или станцию, то он без проблем пробьет их насквозь. Прибывающий шаттл интересен тем, что, несмотря на наличие в его основе шаттловой матраса,
+на нем нельзя летать, только поворачивать. Спасательный шаттл, безусловно, самый быстрый шаттл, и так же, как и грузовой шаттл, автоматически пилотируется.
+пилотируется автоматически при эвакуации на станцию и обратно. Он чертовски неубиваемый, и хотя он может получить повреждения, но не остановится, пробивая астероиды на своем пути.
+Если его оснастить консолью, создав ее вручную, то невероятная скорость и броня сделают его идеальным снарядом, и шаттл сможет пронестись через всю станцию,
+а затем проплыть по другой стороне.
 
-## Danger Zone
-Shuttles pose a few dangers, namely, when crashed they will destroy tiles, kill those directly impacted, and kill those onboard if the collision was fast enough. The onboard plasma
-canister can start fires if tampered with (rarely), and it being always adjacent to space means that any hull breach or nick can quickly kill unsuited crew. if a shuttle runs out of fuel, it
-becomes stuck, and if the console is destroyed while it is flying it will continue to fly in the direction it was going until fuel runs out or the console is rebuilt.
-
+## Опасные зоны
+Шаттлы представляют собой несколько опасностей, а именно: при столкновении они разрушают плитку, убивают тех, кто непосредственно пострадал, и тех, кто находится на борту, если столкновение было достаточно быстрым.
+В случае несанкционированного вмешательства (в редких случаях) бортовая плазменная канистра может вызвать пожар, а постоянное нахождение в космосе означает, что любая пробоина в корпусе или зазубрина может быстро привести к гибели экипажа.
+Если у шаттла закончится топливо, он просто встанет, а если во время полета будет разрушена консоль, то он продолжит лететь в том направлении, в котором летел, пока не закончится топливо или не будет восстановлена консоль.
 
