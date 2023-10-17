@@ -1,19 +1,19 @@
-# Intents
-The intent selector of the UI has four modes: 'Help**, **Disarm**, **Grab**, and **Harm'.
+# Интенты
+Селектор интентов пользовательского интерфейса имеет четыре режима работы: 'Помощь**, **Разоружение**, **Схватить**, and **Удар'.
 
-##  Help Intent
-The 'Help** intent is used for helpful interactions. For example, if someone is in critical condition, clicking on them (with an empty hand) will have you perform CPR. You'll also apply medication if you're holding any. In addition, if you have your intent on Help, and walk into someone who also has their intent on Help, you'll swap places with each other (instead of just pushing them in the drection you're moving). **Be careful' - if you have an item in your hand that isn't designed to help someone, you'll still attack them with it!
+##  Интент Помощь
+Интент "Помощь**" используется для полезных взаимодействий. Например, если кто-то находится в критическом состоянии, щелкнув на нем (с пустой рукой), вы сделаете искусственное дыхание. Вы также примените лекарства, если они у вас есть. Кроме того, если у вас включен интент "Помочь", и вы столкнетесь с кем-то, у кого тоже включен интент "Помочь", вы поменяетесь местами (вместо того чтобы просто толкать его в том направлении, в котором вы двигаетесь). **Будьте осторожны" - если у вас в руке предмет, не предназначенный для помощи, вы все равно атакуете его этим предметом!
 
-##  Disarm Intent
-The 'Disarm** intent is used to nonlethally disarm and incapacitate people. If you click on someone with an empty hand while on Disarm, you'll **shove' them.
+##  Разоружение
+Интент 'Разоружение**  используется для несмертельного обезоруживания и обездвиживания людей. Если вы нажмете на человека с пустой рукой, находящегося в режиме "Обезвредить", то вы **ударите его.
 
-It's also important to note that 'these actions only work if you're clicking on the target with an empty hand', just as with all intents.
+Также важно отметить, что "эти действия работают только в том случае, если вы нажимаете на цель с пустой рукой", как и в случае со всеми интентами .
 
-##  Grab Intent
-The 'Grab** intent allows you to, as it says, grab people. Grabbing someone with Grab intent works differently from control-clicking. If you click on someone with an empty hand, you'll have a **passive** grab, which makes you pull people. You stop dragging the same way you stop pulling. While on passive grab, clicking on the person once more upgrades it to an **aggressive' grab. The target can press "resist" to try to escape from an aggressive or above grab level.
+##  Схватить
+Интент 'Схватить** позволяет, как сказано, хватать людей. Захват с намерением "Захватить" работает иначе, чем щелчок контрольной кнопкой мыши. Если вы щелкните на ком-то с пустой рукой, то у вас будет **пассивный** захват, который заставляет вас тянуть людей. Вы прекращаете тянуть так же, как прекращаете тянуть. При пассивном захвате повторный щелчок на человеке переводит его в режим **агрессивного** захвата. Цель может нажать кнопку "сопротивляться", чтобы попытаться освободиться от агрессивного или выше уровня захвата.
 
-##  Harm Intent
-The 'Harm' intent will harm. On standing targets you will attempt to punch them. The chance to miss a punch increases the more stamina and brute damage you have. Punching has a chance to knockdown the target. The more brute and stamina damage the target has, the longer the target will be knocked down. If using harm intent on prone targets you will kick them.
+##  Удар
+Интент 'Ударить' нанесет вред. По стоящим целям вы попытаетесь нанести удар. Шанс пропустить удар увеличивается тем больше, чем больше у вас выносливости и грубого урона. При ударе есть шанс отправить цель в нокдаун. Чем больше у цели грубого урона и урона выносливости, тем дольше она будет находиться в нокдауне. При использовании намерения нанести вред лежащим целям вы будете бить их ногами.
 
   <br/>
 <br/>

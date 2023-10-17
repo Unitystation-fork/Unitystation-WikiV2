@@ -1,31 +1,31 @@
-# Guide to Player Species
-During your time on station you may find yourself face to face (or face to mirror) with the not quite human. Be they aliens, mutated humans, or self aware constructs you're expected to try and coexist on this deathtrap
-Learning their quirks can be key to knowing how to keep them amicable in times of peace, and easy to put down in times of strife.
+# Руководство по расам игроков
+Во время пребывания на станции вы можете оказаться лицом к лицу (или лицом к зеркалу) с не совсем людьми. Будь то инопланетяне, мутировавшие люди или самосознающие конструкции, вам предстоит попытаться сосуществовать в этой смертельной ловушке.
+Изучение их причуд может стать ключом к тому, чтобы понять, как сделать их дружелюбными в мирное время и легко утихомирить во время раздоров.
 
-##  <u>Roundstart Choices</u> 
+##  <u>Раунд-стартовые расы</u> 
 
-These are the races allowed to be chosen at round start. Because they are freely available, you should expect to deal with them nearly every round.
+Это расы, которые разрешено выбирать в начале раунда. Поскольку они находятся в свободном доступе, следует ожидать, что вы будете иметь с ними дело почти каждый раунд.
 
-### <u>Humans</u>
-Sort of like a plucked chicken, if you squint really hard.
-
-
-### <u>Lizards</u>
-Lizards can be any color, and can come with tails, frills and other markings. 
+### <u>Люди</u>
+Похожи на ощипанного цыпленка, если сильно прищуриться.
 
 
-### <u>Moths</u>
-Giant moths, usually colorful and with majestic wings. 
+### <u>Унатхи</u>
+Унатхи могут быть любого цвета, с хвостами, оборками и другими признаками.
 
 
-### <u>Felinids</u>
-Humans, but with cat ears and a tail!
+### <u>Мотыльки</u>
+Гигантские мотыльки, обычно разноцветные и с величественными крыльями.
 
 
-### <u>Vulpkanin</u>
-These are fox-like humanoids. 
+### <u>Феллиниды</u>
+Люди, но с кошачьими ушами и хвостом!
 
-##  <u>Exotics</u>
 
-### <u>AI</u>
-Big blue cubes somewhere near science that are always watching you. 
+### <u>Вульпканины</u>
+Это лисоподобные гуманоиды.
+
+##  <u>Экзотика</u>
+
+### <u>ИИ</u>
+Большие синие кубы которые всегда наблюдают за вами.

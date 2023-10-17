@@ -1,10 +1,10 @@
-# Battle royale
-Battle royale is an absolute emergency status where the station failed to keep a civilized state and every character is on his own trying not to die. Often times this turns into a massive carnage with dozens of casualties and three possible outcomes: a very traumatized small group of survivors calling the escape shuttle, the last man standing achieving a moral win and then maybe escaping (or just committing not alive) or the complete destruction of the station due to some [nuclear](Nuclear-Emergency.md), [plasma](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md) or just [reset map](Resetting-the-map.md) attack.
+# Королевская битва
+Королевская битва - это абсолютное чрезвычайное положение, когда станция не смогла сохранить цивилизованное состояние, и каждый персонаж сам по себе пытается не умереть. Часто это превращается в массовое побоище с десятками жертв и тремя возможными исходами: очень травмированная небольшая группа выживших вызывает спасательный шаттл, последний оставшийся в живых добивается моральной победы и затем, возможно, спасается (или просто совершает самоубийство) или полностью уничтожает станцию в результате [ядерной](Nuclear-Emergency. md), [Плазменной](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md) or just [reset map](Resetting-the-map.md) атаки.
 
-##  <u>Preventing a battle royale</u>
+##  <u>Предупреждение Королевской битвы</u>
 
-Battle royale is often prevented by the combined forces of the [janitor](\3_HowToPlay\Jobs\Service_roles\Janitor.md)(s) and [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) with the first one keeping the station clean of blood and chaos related things and the second keeping it clean of the men who make them in the first place.
+Королевская битва часто предотвращается объединенными силами [уборщика](\3_HowToPlay\Jobs\Service_roles\Janitor.md)(в) и [охраны](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) При этом первый следит за чистотой станции от крови и вещей, связанных с хаосом, а второй - за чистотой людей, которые их создают.
 
-##  <u>What to do</u>'
+##  <u>Что нужно делать</u>'
 
-Unless there is a serious reason to start killing people (like being a traitor or being attacked by one), you should never try to kill people in the hysteria of a battle royale, instead the best course of action should be to keep yourself out of danger (run if needed), get people to help you survive ([combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) is seriously number oriented if there aren't any traps involved) and try going back to work when chaos starts to go down. If chaos rises too much though, you should consider calling the [emergency shuttle](emergency-shuttle.md) if it hasn't been called yet.
+Если нет серьезной причины начать убивать людей (например, быть предателем или подвергнуться нападению), вы никогда не должны пытаться убивать людей в истерии Королевской биты, вместо этого лучшим вариантом действий должно быть уберечься от опасности (бежать, если нужно), позвать людей, чтобы они помогли вам выжить [Боёвка](\3_HowToPlay\Guides\General_guides\Combat_Guide. md) и попробуйте вернуться к работе, когда хаос начнет спадать. Если же хаос будет расти слишком сильно, то следует подумать о вызове [спасательного шаттла](emergency-shuttle.md) если он ещё не был вызван.

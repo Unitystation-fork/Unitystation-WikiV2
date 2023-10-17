@@ -1,74 +1,76 @@
-# How not to die instantly
+# Как не погибнуть мгновенно
 
-## Back to Basics
+## Возвращение к основам
 
-Unitystation, like it's predecessor Space Station 13, has an incredibly steep learning curve. Death early on will force you into a ghost state where you watch over the round until someone clones you (there is a way to keep playing after death currently under implementation). But unlike Space Station 13, you can't respawn in anyway. If you are new to Unitystation here is a small list for you so you can try to not die instantly.
-
-
-### How not to die instantly
-
-1) To not die you need to know the controls - W A S D for walking and mouse for interacting. You have two hands to pickup things with, you can swap between them with the X key. Using actual hands to move stuff arround can be confusing at first, but with some practice it gets done. See [intents](\3_HowToPlay\Guides\General_guides\Intents.md) to find out how to interact with things and beings.
-
-1a) Other controls: Q to drop the thing you are currently holding on the ground, Z to "activate" the item you are holding (it can also be done by clicking the item), R to throw the item you are holding far away, Ctrl + Click to drag something (a body or locker usually), and Shift + Click to see a description on something or someone.
-
-1b) Talk controls: T to talk normally, Y to radio chat
+Unitystation, как и ее предшественница Space Station 13, имеет невероятно крутую программу обучения. Смерть на ранних этапах переведет вас в состояние призрака, где вы будете наблюдать за раундом до тех пор, пока кто-нибудь не клонирует вас (способ продолжить игру после смерти в настоящее время находится в стадии реализации). Но, в отличие от Space Station 13, вы не можете возродиться. Если вы новичок в Unitystation, то вот вам небольшой список, чтобы вы могли попытаться не умереть мгновенно.
 
 
-2) Eat. Food can be found at the cafeteria, if food cannot be found then find a knife, hunt some prey (animals and humans work, but unless you want to get arrested use animals) and butcher it, the meat can then be used for a variety of [foods](Cooking.md).
+### Как не погибнуть мгновенно
+
+1) Чтобы не умереть, нужно знать управление - W A S D для ходьбы и мышь для взаимодействия. У вас есть две руки, которыми вы можете брать предметы, переключаясь между ними с помощью клавиши X. Использование рук для перемещения предметов поначалу может быть непонятным, но с некоторой практикой все становится на свои места. Смотрите[intents](\3_HowToPlay\Guides\General_guides\Intents.md) чтобы узнать, как взаимодействовать с предметами и существами.
 
 
-3) If the door you try to open flashed yellow you probably should not go through it, because it's depressurized on the other side.
+1a) Другие элементы управления: Q - бросить предмет, который вы держите в руках, на землю, Z - "активировать" предмет, который вы держите в руках (это также можно сделать, щелкнув по предмету), R - бросить предмет, который вы держите в руках, далеко, Ctrl + Click - перетащить предмет (обычно тело или шкафчик), Shift + Click - просмотреть описание предмета или человека.
 
 
-4) If you do need to walk through that door then get a heavy duty suit and preferably mag boots, and an oxygen supply, that requires a mask and an oxygen tank in your hot bar, to enable the supply click the icon on the right.
+1b) Управление разговором: T - обычный разговор, Y - рация
 
 
-5) Do the "tutorial". The "tutorial" step of every round is opening your backpack, getting out the box in your backpack, putting on the oxygen mask from the box to your face slot, getting the oxygen bottle out, putting it on your pocket and enabling the oxygen supply.
+2) Питание. Еду можно найти в кафетерии, а если еды нет, то найдите нож, поймайте какую-нибудь добычу (подойдут и животные, и люди, но если вы не хотите, чтобы вас арестовали, используйте животных) и разделайте ее, мясо можно использовать для различной [еды](Cooking.md).
 
 
-6) Learn to do your role, to do so look on the bottom of the [main page](Main-page.md), it contains a guide on (almost) every role in the game.
+3) Если дверь, которую вы пытаетесь открыть, мигает желтым цветом, вам, вероятно, не следует проходить через нее, поскольку с другой стороны она разгерметизирована.
 
 
-7) Don't do crimes, unless you want to be brigged, and possibility abused, learn the [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) if you want to, it is your best weapon against [shitcurity](\3_HowToPlay\Guides\Joke_guides\Shitsec.md).
+4) Если вам все же придется войти в эту дверь, то возьмите специальный костюм и, желательно, магбутсы, а также запас кислорода - для этого нужно иметь маску и кислородный баллон в "панели быстрого доступа", чтобы включить его, щелкните на значке баллона справа.
 
 
-8) If you get spaced (the act of being thrown out into space by pressure) shoot something or throw anything and everything you can in the direction you're flying, that will hopefully, make you fly the other way. Unless you have a spacesuit, you're still going to die, but you're more likely to be found by your crew mates. Also an extinguisher works for this, remember the wall-e movie?
+5) Выполните "обучающий" шаг, откройте рюкзак, достаньте из рюкзака коробку, наденьте кислородную маску из коробки наденьте на лицо, достаньте кислородный баллон, положите его в карман и включите подачу кислорода.
 
 
-9) If there is a Xenomorph invasion, [Syndies](Nuclear-Emergency.md), or too much chaos on board:
+6) Научитесь выполнять свою роль, для этого посмотрите [main page](Main-page.md), он содержит руководство по (почти) каждой роли в игре.
 
 
-9a) If you are armed and robust, you can go at em (not recomended for newbies, but who cares), however, be careful and try to never go on your own.
+7) Не совершайте преступлений, если не хотите, чтобы вас посадили на гауптвахту, и не злоупотребляйте возможностями, изучайте [Космозакон](\3_HowToPlay\Guides\Security_guides\Space-Law.md) Это ваше лучшее оружие против [щиткура](\3_HowToPlay\Guides\Joke_guides\Shitsec.md).
 
 
-9b) If you are not armed or not robust then run away, cower behind sec and hide in a locker, or get to the escape shuttle or some other safe place. You can also call atention to the thing that you saw through the radio (open the chat and click the radio icon)
+8) Если вас выбросило в космос под действием давления, стреляйте или бросайте все, что можете, в то направление, куда вы летите, и это, надеюсь, заставит вас лететь в другую сторону. Если у вас нет скафандра, вы все равно погибнете, но вероятность того, что вас найдут ваши товарищи по экипажу, будет выше. Также для этого подойдет огнетушитель, помните фильм Wall-e?
 
 
-10) Learn to [build](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in case you need to, and more importantly to destroy (same guide) if you are trapped.
+9) Если произошло вторжение Ксеноморфов [Syndies](Nuclear-Emergency.md), или на станции полный хаос.
 
 
-11) You should try to keep a tool-stacked tool-belt, med-kit, a light and some food at all times in your person. I prefer six cutlets, but to each their own.
+9a) Если вы вооружены и выносливы, то можете идти на них (новичкам не рекомендуется, но кому как), однако будьте осторожны и старайтесь никогда не ходить в одиночку.
 
 
-12) You are expected to know how to role play to a certain extent, use these [role play abbreviations](\3_HowToPlay\RP\RP-words-and-abbreviations.md). To roleplay means that you can ask for help in game as your character instead of using the mentor help button.
+9b) Если вы не вооружены или не защищены, то убегайте, прячьтесь в шкафчике или в спасательном челноке или в другом безопасном месте. Вы также можете обратить внимание на то, что вы услышали в рации (откройте чат и нажмите на значок радио).
 
 
-13) Try not to pick antagonists (antags) the first times you play, at least until you are familiar with the controls. If you want to start being antag, try being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md), and remember that as one you are allowed to get away with many war crimes, but try to only make life hell for your target, please.
+10) Научитесь строить [строительство](\3_HowToPlay\Guides\Engineering_guides\Construction.md) на случай необходимости, а главное - для разрушения (то же руководство), если вы попали в ловушку.
 
 
-14) Do not pick any security role untill you have at least some idea of how the combat system works (you are "robust" enough). If you're a [security officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), please don't make power plays, it ruins the other's experience and gives you temporary euphoria, with regret afterwards.
+11) Нужно стараться постоянно иметь при себе уложенные в пояс инструменты, аптечку, фонарь и немного еды. Я предпочитаю шесть котлет, но каждому свое.
 
 
-15) If you're injured you should go to medical to get treated or treat yourself. You can see how bad you are doing by checking the color of your body in the ui.
+12) Предполагается, что вы в определенной степени умеете играть в ролевые игры =), используйте эти [Рп сокращения](\3_HowToPlay\RP\RP-words-and-abbreviations.md). Ролевая игра означает, что вы можете просить помощи в игре от имени своего персонажа, а не писать администрации или менторам.
 
 
-16) If the floor is wet, press C to walk. You will move more slowly, but you wont slip and fall into the floor. You wont slip at all if you are wearing the janitors boots however.
+13) Постарайтесь не выбирать антагонистов (antag) в первые разы игры, по крайней мере, до тех пор, пока вы не освоитесь с управлением. Если вы хотите быть антагом, попробуйте быть [Предателем](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md), И помните, что вам, могут сойти с рук многие военные преступления, но постарайтесь превратить жизнь только вашей цели в ад, пожалуйста.
+
+
+14) Не выбирайте роль Офицера СБ до тех пор, пока не получите хотя бы некоторое представление о том, как работает боевая система (вы достаточно "выносливы"). Если вы [Офицер СБ](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), Пожалуйста, не заигрывайтесь во власть, это разрушает опыт других и дает вам временную эйфорию, о которой вы потом сожалеете.
+
+
+15) Если вы получили травму, вам следует обратиться за медицинской помощью или лечиться самостоятельно. Вы можете узнать, насколько плохи ваши дела, проверив цвет вашего тела в на экране.
+
+
+16) Если пол мокрый, нажмите C, чтобы идти. Вы будете двигаться медленнее, но не поскользнетесь и не упадете на пол. Однако если на вас надеты ботинки уборщика, вы вообще не поскользнетесь.
 
 
 17) And most importantly, talk. UnityStation is, in fact, a chating game, so experiment with the chat as much as you can before trying anything else.
 
 
-(Being 'robust' is being acquainted with the combat system enough, a guide on which can be found [here](\3_HowToPlay\Guides\General_guides\Combat_Guide.md). How much is enough you ask? Well there's no real measure.)
+(Быть "робастым" - значит быть достаточно знакомым с боевой системой, руководство по которой можно найти [здесь](\3_HowToPlay\Guides\General_guides\Combat_Guide.md). Насколько это достаточно, спросите вы? Ну, реальной меры не существует).
 
   <br/>
 <br/>

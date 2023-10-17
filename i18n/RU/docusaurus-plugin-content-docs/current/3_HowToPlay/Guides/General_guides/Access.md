@@ -1,45 +1,45 @@
-# Access
-Note: This guide is about access and getting it, for the job that changes it, look for the HoP guide [here](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
+# Доступ
+Примечание: Это руководство посвящено доступу и его получению, для работы, которая его меняет, прочитайте руководство для Главы Персонала(ХОП) [здесь](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
 
-## So you want to open a door?
+## Итак, вы хотите открыть дверь?
 
-Well, surprisingly, getting into an area is something that may appear easy, but is underneath very complex. In this guide there will be a variety of ways to get into rooms, both legal and illegal.
+Как ни странно, но попасть в помещение - это то, что может показаться простым, но на самом деле является очень сложным. В этом руководстве будут рассмотрены различные способы проникновения в помещения, как легальные, так и нелегальные.
 
-### The completely legal ways
+### Полностью легальные способы
 
-If your the goody two shoes sort, there are several ways to get into places without worrying about your moral compass.
+Если вы относитесь к категории "хороших парней", есть несколько способов проникнуть внутрь, не беспокоясь о своем моральном облике.
 
-- Just use your own ID to open doors you have access to. The most boring and plain way, but the most efficient and legal by far.
-- Get your ID changed legally by the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) or [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) to get access, then try option 1 above. This will likely involve talking, but unless your trying to get into an area thought of as secure, it generally fairly easy.
-- Convince someone to let you in. If your persuasive enough, have made a bud, or are lacking time, this is a good way to legally get into areas. If its a secure area this will likely not work, but you can probably ask them for the specific thing your after regardless. If you just want the item but they aren't willing to give it up, propose a trade. if you offer the [CMO](\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md) an smg for some medicine, he's more than likely to give it to you in a fair exchange.
-
-
-### The Grey Area
-
-Some ways of getting into an area are in a gray area, and can be legal or illegal depending on who you ask and where it is done..
-
-- Follow somebody inside. Wait outside the door, then, when someone passes in, tail them inside the room. This is often ignored for places like the kitchen or medical, but can get your ass kicked if you do it to enter someplace like command or security.
-- Convince somebody, but lie. If your found out, security may do something about it, but unless you did it to get into a secure area its unlikely anyone will care.
-- Bribe someone to let you enter. If you give someone a nice wad of cash or a gun, they'll be much more likely to "accidentally" leave the door open for you. This will work on practically everyone short of the most dutiful, command, and security. If your feeling ballsy, you can try to bribe the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) himself into giving you access.
+- Просто используйте свою собственную ID-карту для открытия дверей, к которым у вас есть доступ. Самый скучный и простой способ, но самый эффективный и легальный на сегодняшний день.
+- Получите легальную замену удостоверения личности у [ХОПа](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) или у [Капитана](\3_HowToPlay\Jobs\Command_roles\Captain.md) чтобы получить доступ, попробуйте воспользоваться вариантом 1, приведенным выше. Это, скорее всего, потребует разговоров, но если вы не пытаетесь попасть в зону, считающуюся безопасной, это, как правило, довольно просто.
+- Убедите кого-нибудь впустить вас. Если вы достаточно убедительны, у вас есть приятель или не хватает времени, это хороший способ легального проникновения на территорию. Если это охраняемая территория, то такой способ, скорее всего, не сработает, но вы, вероятно, сможете попросить у них конкретную вещь, которая вам нужна.  Если вам нужен только предмет, но они не хотят его отдавать, предложите обмен. [CMO](\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md) Если вы предложите smg за какое-нибудь лекарство, он, скорее всего, отдаст его вам в рамках честного обмена.
 
 
-### The Illegal Ways
+### Серая зона
 
-The most varied of the categories is the ways you can get in without permission.
+Некоторые способы проникновения в область находятся в "серой зоне" и могут быть законными или незаконными в зависимости от того, кого вы спрашиваете и где это делается.
 
-- Threaten your way in. This is unlikely to work and anyone you threaten is more likely to call security than let you inside.
+- Проследить за кем-либо внутри помещения. Подождите за дверью, а затем, когда кто-то пройдет мимо, проследите за ним внутри помещения. Этим часто пренебрегают в таких помещениях, как кухня или медицинский отдел, но за такое поведение можно получить пинка под зад, если вы входите в помещения командной зоны или службы безопасности.
+- Убедите кого-нибудь, солгите но если вас обнаружат, служба безопасности может что-то предпринять, но если вы не сделали ничего, чтобы попасть в охраняемую зону, вряд ли кому-то будет до этого дело.
+- Подкупить кого-нибудь, чтобы он позволил вам войти. Если вы дадите кому-то хорошую пачку денег или пистолет, он с гораздо большей вероятностью "случайно" оставит для вас дверь открытой. Это подействует практически на всех, кроме самых послушных, и преданных законам НаноТрейзен. Если вы чувствуете себя смелым, вы можете попытаться подкупить [ХОПа](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) чтобы он предоставил вам доступ.
 
--  Fit in to get in. Use a disguise and you can probably convince someone to let you inside, so long as they dont look at your ID.
 
-- "I'm in". Use "[hacking](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md)" and rearrange wires until the door opens for you regardless of ID. Make sure to learn the wires beforehand so you don't stand there for minutes looking suspicious as hell.
+### Нелегальные способы
 
--  Get the ID of someone who has access. Mug, Slip, or kill a proper someone, take their ID, and use it to open the door. This has a high success rate, but will also make you get caught equally often.
+Самая разнообразная из категорий - способы проникновения без разрешения.
 
--  Clean burglarizing. Disassemble (don't break) a window or wall cleanly to make your way inside. makes little noise but requires knowledge of [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) and a good chunk of time.
+- Угрожать, чтобы попасть внутрь. Это вряд ли сработает, а тот, кому вы угрожаете, скорее всего, вызовет охрану, чем впустит вас внутрь.
 
-- a dirty break-in. Destroy a window using a weapon of some sort, or, if your VERY well armed, destroy the door or wall. Windows are much more weak to gunshots than melee weapons, so much so that if your trying to use a melee weapon your usually better off just stealing a gun and coming back.
+-  Чтобы попасть внутрь, нужно вписаться. Используйте маскировку, и вы, вероятно, сможете убедить кого-нибудь пропустить вас внутрь, если он не будет смотреть на ваше удостоверение личности.
 
-- Explosions (or fire). If you can get an explosive, you can try blowing apart the wall or window. you can also try to use a plasmafire to do the same. This is greatly frowned upon if you aren't an [antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md), but is by far the most stylish way of doing it.
+- "Я в деле". Используйте "[Взлом](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md)" и переставляйте провода до тех пор, пока дверь не откроется независимо от идентификатора. Не забудьте заранее выучить провода, чтобы потом не стоять несколько минут с подозрительным видом.
+
+-  Получить ID-карту человека, имеющего доступ. Ограбьте, подсуньте или убейте подходящего человека, заберите его удостоверение и используйте его для открытия двери. Этот способ имеет высокий процент успеха, но шансы что вас раскроют увеличены.
+
+-  Простое вскрытие. Разобрать (не ломать) окно или стену, чтобы пробраться внутрь. Не производит много шума, но требует знания [Строительства](\3_HowToPlay\Guides\Engineering_guides\Construction.md) и значительное количество времени.
+
+- Грязное проникновение. Разрушить окно, используя какое-либо оружие, или, если вы очень хорошо вооружены, разрушить дверь или стену. Окна гораздо более слабы к выстрелам, чем к холодному оружию, так что если вы захотите воспользоваться оружием ближнего боя, то лучше просто украсть пистолет.
+
+- Взрывы (или огонь). Если у вас есть взрывчатка, попробуйте разнести стену или окно. Для этого также можно использовать плазмотрон. Это очень нежелательно, если вы не являетесь [Антагонистом](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md), но, безусловно, это самый стильный способ.
 
     <br/>
 <br/>
