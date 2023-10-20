@@ -1,48 +1,48 @@
 
-# Nuclear Operative
+# Ядерный Оперативник
 
-## Overview
-
-
-Ten Hut! You have been hand picked by the [Syndicate](\4_Univers\Lore\Groups.md) to join an elite commando team with the one goal of blowing [Nanotrasen](\4_Univers\Lore\Groups.md)'s most valuable asset, Space Station 13, to high hell through the use of a nuclear bomb.
+## Обзор
 
 
-### How to get started
+Бинго!! Вы были отобраны [Синдикатом](\4_Univers\Lore\Groups.md) присоединиться к элитному отряду коммандос с единственной целью - взорвать[Nanotrasen](\4_Univers\Lore\Groups.md)'В результате применения ядерной бомбы самый ценный актив - космическая станция 13 - попадает в ад.
 
-As a nuke operative you will spawn at the Syndicate base or near a When you have made your plan, board the syndicate shuttle and head off towards the station (which is near 0,0. Use your nuke disk pinpointers if you need extra guidance).
 
-The shuttle contains the nuke, the very thing you need to complete your mission, as well as lots of useful equipment that boarding station personnel could easily turn on you. The shuttle also has a small dedicated medical bay which comes with the furnishings to treat wounds and perform surgery. It also has oxygen gear vital for keeping you alive in the vacuum of space. Many a new nukie has died out in the cold airless void because they forgot to turn on their internals.
+### Как начать работу
 
-### Your gear and you
+В качестве оперативника вы появляетесь на базе Синдиката или рядом с ней. Когда вы составите свой план, садитесь на шаттл Синдиката и отправляйтесь к станции (она находится около 0,0. Если вам нужны дополнительные подсказки, воспользуйтесь пинпойнтерами на ядерном диске).
 
-The stock nukie gear consists of your uniform, night vision goggles, hardsuit helm, a syndicate mask, your signature red hardsuit, a pair of red magboots or black jackboots, your headset, gloves, an oxygen tank, a stalker SMG, a PDA which has your telecrystal uplink, and your trusty stetchkin pistol.
+В шаттле находится ядерная бомба, необходимая для выполнения задания, а также множество полезного оборудования, которое персонал станции может легко использовать против вас. В шаттле также имеется небольшой медицинский отсек, оснащенный оборудованием для лечения ран и проведения операций. В нем также имеется кислородное оборудование, необходимое для поддержания жизни в вакууме космоса. Многие новоиспеченные нукеры погибли в холодной безвоздушной пустоте из-за того, что забыли включить свои внутренние устройства.
 
-Your night vision does exactly what youd expect, letting you see in dark areas. The hardsuit helm and torso pieces make you immune to the cold and pressure, while offering very decent protection against weapons and explosives. You are not invincible in these however, and getting shot will still hurt. The headset doesn't let you hear the crew, but it does give you access to your own syndicate channel.
+### Ваше снаряжение и вы
 
-The Stalker will be your main offensive weapon unless you choose to [buy something else](\4_Univers\Items\Syndicate-Items.md) to replace it. Be sure to bring extra ammo for it, as it burns through magazines rapidly.
+Снаряжение нюкера состоит из униформы, очков ночного видения, шлема, маски синдиката, фирменного красного комбинезона, пары красных или черных сапог, гарнитуры, перчаток, кислородного баллона, сталкерского SMG, КПК с телекристаллической связью и верного пистолета "Стечкин".
 
-The stetchkin is a small but scrappy fallback pistol. Use it if you've run out of other ammo or wish to conserve it. One of the best uses for the pistol, however, is getting someone out of the way, as one or two shots will usually send any unarmed crew member running. Be creative with your gear and strategize before hand, its how you'll win! speaking of which:
+Ночное зрение позволяет видеть в темных помещениях. Шлем и торс защитного костюма делают вас неуязвимым для холода и давления, а также обеспечивают очень хорошую защиту от оружия и взрывчатки. Однако в них вы не неуязвимы, и получить пулю все равно будет больно. Гарнитура не позволяет слышать команду, но дает доступ к собственному каналу синдиката.
 
-### How to do your job
+Сталкер будет вашим основным наступательным оружием, если вы не решите [купить что-то другое](\4_Univers\Items\Syndicate-Items.md) для его замены. Не забудьте взять с собой запасные патроны для него, так как он быстро сжигает магазины.
 
-You need to get the [Nuclear Authentication Disk](\4_Univers\Items\Nuclear-Authentication-Disk.md). The pinpointer in your pack will show a large arrow pointing directly to it. plan with your fellow operatives as to how you'll approach it, will you infiltrate stealthily as miners, sneak up and blow open a wall to surprise security, or ram the shuttle directly into the station? <s>Once</s> *If* you get the disk, you will need to bring it back to nuke and insert it in. Enter the code you got at roundstart, unlock it, drag it over to the station, start the timer, and run like hell!
+Стечкин - это небольшой, но надежный запасной пистолет. Используйте его, если у вас закончились другие патроны или вы хотите их сэкономить. Однако одно из лучших применений пистолета - это убирание кого-либо с дороги, поскольку один-два выстрела обычно обращают в бегство любого безоружного члена экипажа. Подойдите к выбору снаряжения творчески и разработайте стратегию заранее - это поможет вам победить!
 
-###  How to use TC Shop
+### Как выполнять свою работу
 
-First what you need to do is open your PDA, go to settings, click in the textbox underneath "Change Ringtone" and type in that ***case sensitive*** code you see in chat. The code should look something like **"Kilo-350"**. If you forget your code, you can hit the antagonist objective reminder button near the top of your screen to get a reminder what your code was.
+Вам необходимо получить [Диск ядерной аутентификации](\4_Univers\Items\Nuclear-Authentication-Disk.md). Пинпоинтер в вашем рюкзаке покажет большую стрелку, указывающую прямо на него. Продумайте с коллегами, как вы к нему подойдете: проникнете незаметно, как шахтеры, подкрадетесь и взорвете стену, чтобы застать врасплох охрану, или протараните шаттл прямо на станцию? <s>Если</s> *если* вы получите диск, то вам нужно будет вернуть его в бомбу. Введите код, полученный на старте, разблокируйте его, перетащите на станцию, запустите таймер и бегите, как черт!
 
-As an operative, You start with 25TC, but you can acquire more if you declare war on the syndicate operations console. Go to the [Syndicate Items](\4_Univers\Items\Syndicate-Items.md) page to see what you can buy. As a nuclear Operative, you get many extra options that traitors don't have access to.
+###  Как использовать TC Shop
 
-### This means WAR!!!
-Before you leave the base to make your attack, you have the option to declare war on the station. This is done on the Syndicate Operations Console. Prepare a threatening message and hit the big red button to declare war.
+Для начала необходимо открыть КПК, зайти в настройки, нажать на текстовое поле под надписью "Change Ringtone" и ввести тот ***case sensitive*** код, который вы видите в чате. Код должен выглядеть примерно так **"Kilo-350"**. Если вы забыли код, вы можете нажать кнопку напоминания о цели антагониста в верхней части экрана, чтобы получить напоминание о том, какой у вас был код.
 
-Declaring war takes away one of your largest advantages because the entire station now knows you are coming, letting them prepare defenses against you. The advantage you get for doing so is a lot a of bonus TC; Near the operations console will be a few TC Withdrawal stations, each of which will dispense extra TC every minute for 20 minutes, giving you a total of 280TC extra to buy loads of fun equipment you can't normally afford to buy.
+Как оперативник, вы начинаете с 25TC, но можете получить больше, если объявите войну на консоли операций синдиката. Перейдите в раздел [Предметы синдиката](\4_Univers\Items\Syndicate-Items.md)страницу, чтобы посмотреть, что можно приобрести. Будучи ядерным оперативником, вы получаете множество дополнительных возможностей, которые недоступны предателям.
 
-There is no requirement to wait until the full 280TC has been dispensed, and it is advised that once you've made all the purchases you want, start heading for the station ASAP, as the longer you wait, the more time they have to prepare for your arrival.
+### Это значит - ВОЙНА!!!
+Перед тем как покинуть базу и совершить нападение, у вас есть возможность объявить станции войну. Это делается на операционной консоли Синдиката. Подготовьте угрожающее сообщение и нажмите на большую красную кнопку, чтобы объявить войну.
 
-### How to improve
+Объявление войны лишает вас одного из самых больших преимуществ, поскольку теперь вся станция знает о вашем приближении, что позволяет ей подготовить оборону против вас. Преимущество, которое вы получаете при этом, заключается в большом количестве бонусных TC; рядом с операционной консолью будет расположено несколько станций вывода TC, каждая из которых будет выдавать дополнительные TC каждую минуту в течение 20 минут, что даст вам в общей сложности 280TC на покупку кучи интересного оборудования, которое вы обычно не можете себе позволить купить.
 
-Nuke Ops is generally a very confrontational gamemode. Unlike traitors, you cant use the argument that you mean no harm, as you absolutely do. As such you will spend most of your time running around and shooting things, though if you are very smart about it, you can go for the sneaky route. To get better at the running and gunning, you can play <s>a catgirl clown</s> [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). Go on patrol and respond to shootouts as often as possible. Or, if you are the diplomatic type, maybe, just maybe, you could [figure out a peaceful approach?](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
+Нет необходимости ждать, пока будет выдана вся сумма 280TC, и рекомендуется, сделав все необходимые покупки, как можно скорее отправляться на станцию, так как чем дольше вы ждете, тем больше времени у них есть, чтобы подготовиться к вашему прибытию.
+
+### Как улучшить
+
+Nuke Ops - это вообще очень конфронтационная игра. В отличие от предателей, вы не можете использовать аргумент, что не хотите причинить вреда, так как это совершенно точно так. Поэтому большую часть времени вы будете проводить, бегая и стреляя, хотя, если вы очень умны, то можете пойти и по хитрому пути. Чтобы лучше освоить бег и стрельбу, вы можете поиграть в <s>кошку-клоуна</s> [security] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). Как можно чаще выходите на патрулирование и реагируйте на перестрелки. Или, если вы дипломатичный человек, может быть, вы сможете найти мирный подход?](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
 
   <br/>

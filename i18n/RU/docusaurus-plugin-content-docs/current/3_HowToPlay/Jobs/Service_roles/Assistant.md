@@ -1,25 +1,25 @@
 # Assistant
-Role type: <font color="#4e7331">Service</font>. Access levels: Maintenance. Difficulty: <font color="Green">Easy</font>.
+Тип роли: <font color="#4e7331">Сервис</font>. Уровни доступа: Обслуживание. Сложность: <font color="Green">Легко</font>.
 
-"I've seen enough greysuits with more red than grey on them to work that job." -Chap McCip, writer of Much Ado About Robusting!, and The Drunkards Guide to losing 32% Less Limbs
+"Я видел достаточно серых костюмов, на которых больше красного, чем серого, чтобы работать в них". -Чэп Маккип, автор книг "Много шума по поводу робустинга!" и "Руководство для пьяниц, чтобы потерять на 32% меньше конечностей".
 
-Assistants are the most expendable role on the station, and usually number one suspect whenever something goes wrong, be it a broken window or items missing from a department. Picking assistant is usually a good choice for anyone new to the game.
+Ассистенты - самая расходная роль на станции, и обычно они становятся подозреваемыми номер один, когда что-то идет не так, будь то разбитое окно или пропажа вещей из отдела. Выбор помощника обычно является хорошим выбором для новичков.
 
-### Your "job"
+### Ваша "работа"
 
-According to [Nanotrasen](\4_Univers\Lore\Groups.md), the people in suits who hired you, your duty on the station is to assist people in any way you can. Sometimes you may find yourself inside the medbay, helping medical by dragging in dead bodies for cloning or injured people that need healing. But, most often you find yourself bringing coffee to one of the department heads. If you do actually want to help the station and do what you're supposed to do, head on over to the [Head of Personnel's](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) office, hope he's there and not abusing the all-access he so generously awarded himself, and ask for a job. Don't expect to be given a high-ranking job, such as [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md); you'll likely just end up with a job like [janitorial](\3_HowToPlay\Jobs\Service_roles\Janitor.md) since no one trusts assistants (and for good reason).
+Согласно [Nanotrasen](\4_Univers\Lore\Groups.md),Если вас наняли люди в скафандрах, ваша обязанность на станции - помогать людям всем, чем можно. Иногда вы можете оказаться в медпункте, помогая медикам, притаскивая трупы для клонирования или раненых, нуждающихся в лечении. Но чаще всего вы приносите кофе одному из руководителей отдела. Если вы действительно хотите помочь станции и делать то, что должны, отправляйтесь в кабинет начальника отдела кадров (\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md), надеясь, что он там и не злоупотребляет вседозволенностью, которой он так щедро себя наградил, и попросите работу. Не надейтесь, что вам дадут высокую должность, например [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md); скорее всего, вы просто получите работу типа [janitorial](\3_HowToPlay\Jobs\Service_roles\Janitor.md), поскольку помощникам никто не доверяет (и не зря).
 
-### The fun stuff
+### Самое интересное
 
-please note, these things may get you in trouble either [IC or OOC](\3_HowToPlay\RP\RP-words-and-abbreviations.md) if you're not an [antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)
+обратите внимание, что эти вещи могут привести к неприятностям [IC or OOC](\3_HowToPlay\RP\RP-words-and-abbreviations.md) if you're not an [antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)
 
-If all that sounds boring to you, I've got some news; one benefit of picking assistant is that, unless the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) has given you a job, you have exactly 0 duties on the station. You know what that means? Mischief, baby! Grab a welder and weld shut doors, and sit back in pride as the members of the department you trapped shout over comms about the fact that they're stuck; spend half an hour breaking into security's Armory only to realize that you need a higher access level to open any of the crates or lockers; hack into engineering and mess with the plasma generator; the choice is yours! Just.. keep in mind that if [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) catch you, you might be going in for a long time, so be careful.
+Если все это кажется вам скучным, у меня есть новости: одним из преимуществ выбора помощника является то, что, если не [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) дал вам работу, у вас ровно 0 обязанностей на станции. Знаете, что это значит? Непорядок, детка! Возьмите сварочный аппарат, заварите двери и с гордостью наблюдайте за тем, как сотрудники отдела, в который вы попали, кричат по связи о том, что они застряли; потратьте полчаса на проникновение в оружейную комнату охраны, чтобы понять, что для открытия ящиков или шкафчиков вам нужен более высокий уровень доступа; взломайте инженерный отсек и повозитесь с плазменным генератором - выбор за вами! Только... имейте в виду, что если [охрана](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) поймает вас, вы можете загреметь надолго, так что будьте осторожны.
 
-### A good reason not to trust that assistant ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) assistant)
+### Веская причина не доверять этому помощнику.([предатель](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) assistant)
 
-A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) assistant. A perfect weapon. An undercover mastermind. You know, as long as said assistant didn't get picked as traitor the first time they play, in which case, *oh boy.*
+A [предатель](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) помощник. Совершенное оружие. Мастерство под прикрытием. Если только помощник не стал предателем в первый раз, когда они играли, в таком случае, *охренеть*.
 
-The fact that you have no duties means that you can easily sneak around and accomplish your objectives rather easily, if you play your cards right. Your access to the maintenance hallways also provides you with an easy way to reach your target, as long as the room they're in isn't surrounded by reinforced walls. Pretend to be just a mindless, simple moron, and your target will have no idea that you're sneaking up on them with a toolbox about to robust their ass.
+Тот факт, что у вас нет обязанностей, означает, что вы можете легко красться и выполнять свои задачи довольно легко, если правильно разыграете свои карты. Доступ к коридорам технического обслуживания также позволяет легко добраться до цели, если помещение, в котором она находится, не окружено укрепленными стенами. Притворитесь просто безмозглым идиотом, и ваша цель даже не догадается, что вы подкрадываетесь к ней с ящиком инструментов, готовым вот-вот разнести ее задницу.
 
   <br/>
 <br/>
