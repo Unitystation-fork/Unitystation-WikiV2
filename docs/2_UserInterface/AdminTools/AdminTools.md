@@ -24,8 +24,9 @@ Note there is currently no Ctrl+W.
 
 
 ### 1.3 -  Variable Viewer
-La fenêtre de variable est composée ainsi
-![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)Les couleurs de variable peuvent ainsi être différenciées.
+The variable window is composed as follows
+![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)
+Variable colours can therefore be differentiated.
 ![VariableColor](https://i.imgur.com/jsMibs1.png)
 
 1. refresh hierarchy
@@ -66,12 +67,12 @@ on the right - history and correspondence area.
 
 ------------
 
-### 2.2 - [Admin Toolbar
+### 2.2 - Admin Toolbar
 ![Pannel](https://i.imgur.com/zWCeQzz.png)
 
 This panel is divided into 7 windows.
 
-#### 2.2a - [GameModeManager
+#### 2.2a - GameModeManager
 ![GameModeManager](https://i.imgur.com/wMViLXt.png)
 
 #### 2.2b - PlayerManager
@@ -90,7 +91,7 @@ If the list is too long, you can use the search function above.
 ------------
 
 ##### 2.2b.2 - Ban a player
-![enter image description here] (https://i.imgur.com/sdtcGgo.png)
+![Ban](https://i.imgur.com/sdtcGgo.png)
 
 ------------
 
@@ -126,7 +127,7 @@ For example, you can revive a character with "cleaner" + "blob".
 ------------
 
 ##### 2.2b.8 - Teleport player to administrator
-Teleports **selected **player** to you
+Teleports **selected player** to you
 ------------
 
 ##### 2.2b.9 - Teleport to Admin - ALL players
@@ -149,20 +150,20 @@ Nor does it heal death.
 ##### 2.2b.11 - Assign Mentor
 Allows you to give selected players the role of mentor.
 
--at the moment
--this can only open up the mentor interface in addition.
+* at the moment
+* this can only open up the mentor interface in addition.
 ------------
 
 #### 2.2c - CC (Central Command, CentComm
 ![CentComm](https://i.imgur.com/h1IA8gc.png)
 
-This is a role-playing tool** `/!\* **This is a role-playing tool** `/!\*`.
+`/!\` **This is a role-playing tool** `/!\`.
 
 CentComm is a unit above the captain.
 
 For more information, see
 
-| CenterComp** | [Central-Command-Officer.md], [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
+| **CenterComp** | ![Central-Command-Officer](HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Central-Command-Officer.md), [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
 
 #### 2.2d - Event Manager
 ![EventManager](https://i.imgur.com/1PYvGB4.png)** Event Type:**.
@@ -172,7 +173,8 @@ For more information, see
 * special
 * Antagonist
 * debugger
-**Event to trigger: **(subtype category)
+
+**Event to trigger:** (subtype category)
 
 press **[run event]** to confirm.
 
@@ -187,7 +189,7 @@ press **[run event]** to confirm.
 Various "other" server control settings are collected here, new ones will be added soon.
 
 ### 2.3 - ACHAT
-[Purchasing] (https://i.imgur.com/uVoHfiK.png)
+![Purchasing](https://i.imgur.com/uVoHfiK.png)
 In-game chat window for administrators, only between them.
 ### 2.4 - ALOGS
 ![AdminLogs](https://i.imgur.com/uvhI6EE.png)
@@ -201,7 +203,7 @@ Chat window from player to admin
 
 player can open the window by pressing Enter, then press [help] button at the bottom left, this window will show the message for admin, left list of conversations.
 
-### 2.6 - [INFO
+### 2.6 - INFO
 ![Info](https://i.imgur.com/S3bbx59.png)
 This little button (1st button, 2nd line)
 
@@ -216,7 +218,7 @@ Sound player, audible to the whole server.
 
 Music player audible to the entire server.
 
-### 2.9 - APRIZRAK
+### 2.9 - AGhost
 ![APPRISER](https://i.imgur.com/qPV89TN.png) allows you to step out of your body,
 
 useful for making objects appear or observe the player without being seen.
