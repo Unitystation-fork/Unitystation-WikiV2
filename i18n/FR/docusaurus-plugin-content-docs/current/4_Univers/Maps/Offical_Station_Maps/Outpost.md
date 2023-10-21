@@ -1,74 +1,70 @@
-# Outpost
- Outpost Station is the oldest, and most changed station in the game.
+# Avant-poste
+Outpost Station est la station la plus ancienne et la plus modifiée du jeu, créée par Epicworlds (aka Avalanche) le 7 août 2017 à des fins de test. À l'origine, il s'agissait d'une petite carte, mais elle s'est considérablement agrandie, devenant l'une des plus grandes cartes du pool de cartes actuel. Destiné à offrir une expérience vanille, Outpost a une disposition en grille avec plusieurs départements centraux ayant plusieurs points d'accès.
 
+Le service médical et le service de sécurité sont centralisés, en face l'un de l'autre, avec des salles de service réparties autour d'eux. L'ingénierie et la chapelle forment la moitié est de la station, tandis que le cargo, les dortoirs et les sciences forment la moitié ouest. L'évacuation est placée au sud, tandis que la passerelle et le satellite d'IA couvrent toute la partie nord de la station.
 
-!!Headder|Header## |titleMining!!
-This is where the stations [miners](\3_HowToPlay\jobs\Cargo_roles\Shaft-Miner.md) can prepare expeditions and offload ores.![Mineing V4057](\img\Icon\No_image.png)
+Il s'agit actuellement d'une carte à forte population, nécessitant 20 joueurs en jeu pour pouvoir être tirée au hasard.
+
 
 
 
 
 ### Cargo
-This is where the [QM](\3_HowToPlay\jobs\Cargo_roles\Quartermaster.md) and [Cargo Techs](\3_HowToPlay\jobs\Cargo_roles\Cargo-Technician.md) spend their time loading and offloading crates![Cargo 4097](\img\Icon\No_image.png)
+C'est ici que les [QM](/3_HowToPlay/Jobs/Cargo_roles/Quartermaster.md) et les [Cargo Techs](/3_HowToPlay/Jobs/Cargo_roles/Cargo-Technician.md) passent leur temps à charger et décharger les caisses ![Cargo 4097](/img/Icon/No_image.png)
+
+#### Exploitation minière
+
+C'est ici que les stations [minières](/3_HowToPlay/Jobs/Cargo_roles/Shaft-Miner.md) peuvent préparer des expéditions et décharger des minerais ![Mineing V4057](/img/Icon/No_image.png)
+
 ### Bar
-This is where the [bartender](\3_HowToPlay\jobs\Service_roles\Bartender.md) spends his time serving cold drinks.
-![Bar v4097](\img\Icon\No_image.png)
+C'est ici que le [barman](/3_HowToPlay/Jobs/Service_roles/Bartender.md) passe son temps à servir des boissons fraîches.
+![Bar v4097](/img/Icon/No_image.png)
 
 
-### Medical
-Where you end up if you piss someone off or slip. Full of [doctors](\3_HowToPlay\jobs\Medical_roles\Medical-Doctor.md).![Medical v4097](\img\Icon\No_image.png)
+### Médical
+L'endroit où tu finis si tu énerves quelqu'un ou si tu dérapes. Plein de [médecins](/3_HowToPlay/Jobs/Medical_roles/Medical-Doctor.md). ![Médical v4097](/img/Icon/No_image.png)
 
 
-### Janitorial Closet
-The [janitors](\3_HowToPlay\jobs\Service_roles\Janitor.md) hideout, comes with a free Clean bot.![Cleaning](\img\Icon\No_image.png)
+### Placard du concierge
+La cachette des [concierges](/3_HowToPlay/Jobs/Service_roles/Janitor.md) est équipée d'un robot de nettoyage gratuit. ![Nettoyage](/img/Icon/No_image.png)
 
 
-### Micro-Chip Storage
-Stores circuits and boards for the [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) of machines and consoles![Chip room](\img\Icon\No_image.png)
+### Stockage de micro-puces
+Stocke des circuits et des cartes pour la [construction](/3_HowToPlay/Guides/Engineering_guides/Construction.md) de machines et de consoles ![Salle des puces](/img/Icon/No_image.png)
 
+### Salon
+Un endroit où l'équipage fatigué peut se reposer ou régler ses différends dans l'arène ![Lounge](/img/Icon/No_image.png)
 
-
-### Lounge
-A place for weary crew to rest or settle their differences in the ring![Lounge](\img\Icon\No_image.png)
-
-
-
-### Office
-An office, empty of purpose but full of boring potential.![Lol tf](\img\Icon\No_image.png)
-### Hydroponics
-The home of the weed loving [botanists](\3_HowToPlay\jobs\Service_roles\Botanist.md), can also be called botany.![Hydropon](\img\Icon\No_image.png)
+### Bureau
+Un bureau, vide de sens mais plein de potentiel ennuyeux ![Lol tf](/img/Icon/No_image.png)
+### Hydroponique
+La maison des [botanistes](/3_HowToPlay/Jobs/Service_roles/Botanist.md) qui aiment l'herbe, on peut aussi l'appeler botanique ![Hydropon](/img/Icon/No_image.png)
 
 ### Eva
-Stands for extra-vehicular-activity, but this is a station, not a vehicle. has all the essentials for a trip to the void.![EVA room](\img\Icon\No_image.png)
-### Kitchen
-The [cooks](\3_HowToPlay\jobs\Service_roles\Cook.md) very own barbecue joint, with attached slaughterhouse.![Cooking](\img\Icon\No_image.png)
-### Gateway
-A room with a portal that can lead you to some (generally very hazardous) special locations.![Portal Room](\img\Icon\No_image.png)
-### Dorm
-A den of the most disgusting filth imaginable.![Doorm](\img\Icon\No_image.png)
-### Command
-A very large section of the station containing the rooms of both the [captain](\3_HowToPlay\jobs\Command_role\Captain.md) and his [best bud](\3_HowToPlay\jobs\Command_role\Head-of-Personnel.md), along with the stations command deck.![Command](\img\Body\Command.png)
+C'est l'acronyme d'extra-véhicular-activity, mais il s'agit d'une station, pas d'un véhicule. elle contient tous les éléments essentiels pour un voyage dans le vide. ![EVA room](/img/Icon/No_image.png)
+### Cuisine
+Le [cuisinier](/3_HowToPlay/Jobs/Service_roles/Cook.md) tout à fait personnel, avec un abattoir attenant ![Cuisine](/img/Icon/No_image.png)
+### Portail
+Une pièce avec un portail qui peut vous mener à des endroits spéciaux (généralement très dangereux). ![Portal Room](/img/Icon/No_image.png)
+### Dortoirs
+Un repaire de la crasse la plus dégoûtante que l'on puisse imaginer ![Dortoir](/img/Icon/No_image.png)
+### Commandement
+Une très grande section de la station contenant les chambres du [capitaine](/3_HowToPlay/Jobs/Command_roles/Captain.md) et de son [meilleur ami](/3_HowToPlay/Jobs/Command_roles/Head-of-Personnel.md), ainsi que le pont de commandement de la station. ![Command](/img/Body/Command.png)
 ### Funny Room
-A room containing essentials for both the [mime](\3_HowToPlay\jobs\Entertainment_Roles\Mime.md) and [clown](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md). HONK!![Clown and mime](\img\Icon\No_image.png)
-### Artificial Intelligence Satellite
-A super-reinforced fortress surrounded on all sides with he vacuum of space designed to house the AI.![AI](\img\Icon\No_image.png)
-### Engineering
-Where the stations power comes from and where the [engineers](\3_HowToPlay\jobs\Engineering_roles\Engineer.md) spend their short breaks between parts of the station exploding.![Engi](\img\Icon\No_image.png)
-### Atmospheric
-The stations [Atmos Techs](\3_HowToPlay\jobs\Engineering_roles\Atmospherics-Technician.md) work tirelessly from here to [hopefully keep the air all around the station breathable](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md).![Atmos](\img\Atmos\Atmos.png)
+Une pièce contenant des éléments essentiels pour le [mime](/3_HowToPlay/Jobs/Entertainment_Roles/Mime.md) et le [clown](/3_HowToPlay/Jobs/Entertainment_Roles/Clown.md). HONK !![Clown et mime](/img/Icon/No_image.png)
+### Satellite d'intelligence artificielle
+Une forteresse super renforcée, entourée de tous côtés par le vide spatial, conçue pour abriter l'IA. ![AI](/img/Icône/No_image.png)
+### Ingénierie
+C'est de là que provient l'énergie de la station et que les [ingénieurs](/3_HowToPlay/Jobs/Engineering_roles/Engineer.md) passent leurs courtes pauses entre les explosions de la station ![Engi](/img/Icon/No_image.png)
+### Atmosphérique
+Les [techniciens Atmos] de la station (/3_HowToPlay/Jobs/Engineering_roles/Atmospherics-Technician.md) travaillent sans relâche pour [garder l'air respirable autour de la station] (/4_Univers/Other/Jokes/So close-to-impossible-that-it-mas-well-n'even-exist.md). ![Atmos](/img/Atmos/Atmos.png)
 ### R&D
-Where all the [scientists](\3_HowToPlay\jobs\Science_roles\Scientist.md) gather and make half-life references between getting killed in various science advancing ways.[[File:R&D.PNG|none|thumb|308x308px]]
-### Security
-Where the [true dictatorial overlords](\3_HowToPlay\jobs\Security_roles\Security-Officer.md) of the station send their victims.![Sec](\img\Body\Sec.png)
-### Church
-[Sacerdos](\3_HowToPlay\jobs\Entertainment_Roles\Chaplain.md) in templum laborat et [vocat cum deus](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)![Chruch](\img\Body\Chruch.png)
+Là où tous les [scientifiques](/3_HowToPlay/Jobs/Science_roles/Scientist.md) se réunissent et font des références à la demi-vie en se faisant tuer de diverses manières pour faire avancer la science.[[File:R&D.PNG|none|thumb|308x308px]]]
+### Sécurité
+C'est là que les [véritables dictateurs](/3_HowToPlay/Jobs/Security_roles/Security-Officer.md) de la station envoient leurs victimes. L'armurerie de l'avant-poste est particulièrement bien équipée, avec des armes supplémentaires, mais il manque quelques choix qui sont généralement disponibles sur d'autres stations, comme les fusils lasers. ![Sec](/img/Stations/Sec.webp)
+### Chapelle
+[Sacerdos](/3_HowToPlay/Jobs/Entertainment_Roles/Chaplain.md) in templum laborat et [vocat cum deus](/4_Univers/Other/Jokes/So-close-to-impossible-that-might-as-was well-not-even-exist.md) ![Chruch](/img/Stations/Chruch.webp)
 
 
 
-  <br/>
-<br/>
-<br/>
-
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
-
-<Jobs />
+{% include 'html/rolesnavbar.md' %}
