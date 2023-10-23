@@ -160,6 +160,14 @@ Allows you to give selected players the role of mentor.
 ##### 2.2b.12 - Personnal objective
 ![personnal](/img/UI/AdminTools/PersonnalObjective.png)
 
+* 1 - List of objectives and field for input some info for obj
+* 2 - Adds current objective (that displayed left) with all inputed settings
+* 3 - Preview of objectives
+* 4 - Objective accomplish ? Y/N
+* 5 - Delet a objective (must confirme)
+* 6 - Adds custom objective with field for custom obj text
+* 7 - cancel all and validate all
+
 #### 2.2c - CC (Central Command, CentComm
 ![CentComm](/img/UI/AdminTools/2-CentComm.png)
 
@@ -202,9 +210,18 @@ Various "other" server control settings are collected here, new ones will be add
 #### 2.2I - Add Ghost Roles
 ![ghost](/img/UI/AdminTools/8-GhostRoles.png)
 
+* 1 - Title and description of active roles
+* 2 - Settings - opens role settings (left time, min-max players, etc. (maybe will be added more settings later))
+* 3 - Delet button - delete role (if on server need to send info first)
+* 4 -adds new ghost role that can be choiced from list with all current ghost roles (only before sending to server)
+* 5 - New roles Preview
+* 6 - List of roles
+* 7 - Cancel all local admin input and sends info to server
+
 ### 2.3 - ACHAT
 ![Purchasing](https://i.imgur.com/uVoHfiK.png)
 In-game chat window for administrators, only between them.
+
 ### 2.4 - ALOGS
 ![AdminLogs](https://i.imgur.com/uvhI6EE.png)
 Admin logs
