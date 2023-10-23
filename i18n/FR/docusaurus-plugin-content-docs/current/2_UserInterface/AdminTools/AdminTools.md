@@ -3,7 +3,7 @@ titre : Interface d'administration
 sidebar_position : 2
 ---
 
-![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
+![unityico](/img//Icon/Unitystation.png)
 # Interface d'administration
 
 ## 1 - Barre d'outils de l'administrateur

@@ -3,7 +3,7 @@ title: Admin Interface
 sidebar_position: 2
 ---
 
-![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
+![unityico](/img//Icon/Unitystation.png)
 # Admin Interface
 
 ## 1 - Administrator toolbar
@@ -22,8 +22,10 @@ Note there is currently no Ctrl+W.
 
 ------------
 
+### 1.3 Tile manager
+![tiles](/img/UI/AdminTools/TilesManager.png)
 
-### 1.3 -  Variable Viewer
+### 1.4 -  Variable Viewer
 The variable window is composed as follows
 ![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)
 Variable colours can therefore be differentiated.
@@ -67,16 +69,17 @@ on the right - history and correspondence area.
 
 ------------
 
-### 2.2 - Admin Toolbar
-![Pannel](https://i.imgur.com/zWCeQzz.png)
 
-This panel is divided into 7 windows.
+### 2.2 - Admin Toolbar
+![Pannel](/img/UI/AdminTools/Bar.png)
+
+This panel is divided into  windows.
 
 #### 2.2a - GameModeManager
-![GameModeManager](https://i.imgur.com/wMViLXt.png)
+![GameModeManager](/img/UI/AdminTools/0-GameMode.png)
 
 #### 2.2b - PlayerManager
-![PlayerManager](https://i.imgur.com/Go0hAUI.png)
+![PlayerManager](/img/UI/AdminTools/1-PlayerManager.png)
 
 This window collects several visual tools.
 
@@ -154,8 +157,11 @@ Allows you to give selected players the role of mentor.
 * this can only open up the mentor interface in addition.
 ------------
 
+##### 2.2b.12 - Personnal objective
+![personnal](/img/UI/AdminTools/PersonnalObjective.png)
+
 #### 2.2c - CC (Central Command, CentComm
-![CentComm](https://i.imgur.com/h1IA8gc.png)
+![CentComm](/img/UI/AdminTools/2-CentComm.png)
 
 `/!\` **This is a role-playing tool** `/!\`.
 
@@ -179,14 +185,22 @@ For more information, see
 press **[run event]** to confirm.
 
 #### 2.2e - Current Round Manager
+![event](/img/UI/AdminTools/4-RoundManager.png)
+
 
 #### 2.2f - Developer Tools
 ![DevTool](https://i.imgur.com/plGL6aB.png)
 
 #### 2.2g - Server settings
-![ServerSettings](https://i.imgur.com/7LMIvPP.png)
+![ServerSettings](/img/UI/AdminTools/6-ServerSettings.png)
 
 Various "other" server control settings are collected here, new ones will be added soon.
+
+#### 2.2H - Station objectif
+![station](/img/UI/AdminTools/7-TeamObjectives.png)
+
+#### 2.2I - Add Ghost Roles
+![ghost](/img/UI/AdminTools/8-GhostRoles.png)
 
 ### 2.3 - ACHAT
 ![Purchasing](https://i.imgur.com/uVoHfiK.png)
@@ -196,6 +210,12 @@ In-game chat window for administrators, only between them.
 Admin logs
 
 Logs of admin operations, such as item spawning.
+
+### 2.4bis Pray !
+![pray](/img/UI/AdminTools/Prayers.png)
+when a player ingame use the button "pray" (with hand) you recive this message here
+you can ignore it, or reply, or give what it asking for (item, heal etc)
+it's Roleplay
 
 ### 2.5 - AHELP
 ![AHELP](https://i.imgur.com/9dd4Vxh.png)
