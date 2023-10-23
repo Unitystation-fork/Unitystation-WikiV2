@@ -121,4 +121,4 @@ The Latest Models
 * Fire Extinguisher
 * Flash
 
-*redacted by Dr.Aleccia Rosewater, doctoral in robotics*
+*redacted by Dr.Mithra Sharma, doctoral in robotics*
