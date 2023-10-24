@@ -3,7 +3,7 @@ title: Admin Interface
 sidebar_position: 2
 ---
 
-![unityico](https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png?raw=true)
+![unityico](/img//Icon/Unitystation.png)
 # Admin Interface
 
 ## 1 - Administrator toolbar
@@ -22,10 +22,13 @@ Note there is currently no Ctrl+W.
 
 ------------
 
+### 1.3 Tile manager
+![tiles](/img/UI/AdminTools/TilesManager.png)
 
-### 1.3 -  Variable Viewer
-La fenêtre de variable est composée ainsi
-![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)Les couleurs de variable peuvent ainsi être différenciées.
+### 1.4 -  Variable Viewer
+The variable window is composed as follows
+![VariableViewerPannel](https://i.imgur.com/eGwefyk.png)
+Variable colours can therefore be differentiated.
 ![VariableColor](https://i.imgur.com/jsMibs1.png)
 
 1. refresh hierarchy
@@ -66,16 +69,17 @@ on the right - history and correspondence area.
 
 ------------
 
-### 2.2 - [Admin Toolbar
-![Pannel](https://i.imgur.com/zWCeQzz.png)
 
-This panel is divided into 7 windows.
+### 2.2 - Admin Toolbar
+![Pannel](/img/UI/AdminTools/Bar.png)
 
-#### 2.2a - [GameModeManager
-![GameModeManager](https://i.imgur.com/wMViLXt.png)
+This panel is divided into  windows.
+
+#### 2.2a - GameModeManager
+![GameModeManager](/img/UI/AdminTools/0-GameMode.png)
 
 #### 2.2b - PlayerManager
-![PlayerManager](https://i.imgur.com/Go0hAUI.png)
+![PlayerManager](/img/UI/AdminTools/1-PlayerManager.png)
 
 This window collects several visual tools.
 
@@ -90,7 +94,7 @@ If the list is too long, you can use the search function above.
 ------------
 
 ##### 2.2b.2 - Ban a player
-![enter image description here] (https://i.imgur.com/sdtcGgo.png)
+![Ban](https://i.imgur.com/sdtcGgo.png)
 
 ------------
 
@@ -126,7 +130,7 @@ For example, you can revive a character with "cleaner" + "blob".
 ------------
 
 ##### 2.2b.8 - Teleport player to administrator
-Teleports **selected **player** to you
+Teleports **selected player** to you
 ------------
 
 ##### 2.2b.9 - Teleport to Admin - ALL players
@@ -149,20 +153,31 @@ Nor does it heal death.
 ##### 2.2b.11 - Assign Mentor
 Allows you to give selected players the role of mentor.
 
--at the moment
--this can only open up the mentor interface in addition.
+* at the moment
+* this can only open up the mentor interface in addition.
 ------------
 
-#### 2.2c - CC (Central Command, CentComm
-![CentComm](https://i.imgur.com/h1IA8gc.png)
+##### 2.2b.12 - Personnal objective
+![personnal](/img/UI/AdminTools/PersonnalObjective.png)
 
-This is a role-playing tool** `/!\* **This is a role-playing tool** `/!\*`.
+* 1 - List of objectives and field for input some info for obj
+* 2 - Adds current objective (that displayed left) with all inputed settings
+* 3 - Preview of objectives
+* 4 - Objective accomplish ? Y/N
+* 5 - Delet a objective (must confirme)
+* 6 - Adds custom objective with field for custom obj text
+* 7 - cancel all and validate all
+
+#### 2.2c - CC (Central Command, CentComm
+![CentComm](/img/UI/AdminTools/2-CentComm.png)
+
+`/!\` **This is a role-playing tool** `/!\`.
 
 CentComm is a unit above the captain.
 
 For more information, see
 
-| CenterComp** | [Central-Command-Officer.md], [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
+| **CenterComp** | ![Central-Command-Officer](HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Central-Command-Officer.md), [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
 
 #### 2.2d - Event Manager
 ![EventManager](https://i.imgur.com/1PYvGB4.png)** Event Type:**.
@@ -172,28 +187,52 @@ For more information, see
 * special
 * Antagonist
 * debugger
-**Event to trigger: **(subtype category)
+
+**Event to trigger:** (subtype category)
 
 press **[run event]** to confirm.
 
 #### 2.2e - Current Round Manager
+![event](/img/UI/AdminTools/4-RoundManager.png)
+
 
 #### 2.2f - Developer Tools
 ![DevTool](https://i.imgur.com/plGL6aB.png)
 
 #### 2.2g - Server settings
-![ServerSettings](https://i.imgur.com/7LMIvPP.png)
+![ServerSettings](/img/UI/AdminTools/6-ServerSettings.png)
 
 Various "other" server control settings are collected here, new ones will be added soon.
 
+#### 2.2H - Station objectif
+![station](/img/UI/AdminTools/7-TeamObjectives.png)
+
+#### 2.2I - Add Ghost Roles
+![ghost](/img/UI/AdminTools/8-GhostRoles.png)
+
+* 1 - Title and description of active roles
+* 2 - Settings - opens role settings (left time, min-max players, etc. (maybe will be added more settings later))
+* 3 - Delet button - delete role (if on server need to send info first)
+* 4 -adds new ghost role that can be choiced from list with all current ghost roles (only before sending to server)
+* 5 - New roles Preview
+* 6 - List of roles
+* 7 - Cancel all local admin input and sends info to server
+
 ### 2.3 - ACHAT
-[Purchasing] (https://i.imgur.com/uVoHfiK.png)
+![Purchasing](https://i.imgur.com/uVoHfiK.png)
 In-game chat window for administrators, only between them.
+
 ### 2.4 - ALOGS
 ![AdminLogs](https://i.imgur.com/uvhI6EE.png)
 Admin logs
 
 Logs of admin operations, such as item spawning.
+
+### 2.4bis Pray !
+![pray](/img/UI/AdminTools/Prayers.png)
+when a player ingame use the button "pray" (with hand) you recive this message here
+you can ignore it, or reply, or give what it asking for (item, heal etc)
+it's Roleplay
 
 ### 2.5 - AHELP
 ![AHELP](https://i.imgur.com/9dd4Vxh.png)
@@ -201,7 +240,7 @@ Chat window from player to admin
 
 player can open the window by pressing Enter, then press [help] button at the bottom left, this window will show the message for admin, left list of conversations.
 
-### 2.6 - [INFO
+### 2.6 - INFO
 ![Info](https://i.imgur.com/S3bbx59.png)
 This little button (1st button, 2nd line)
 
@@ -216,7 +255,7 @@ Sound player, audible to the whole server.
 
 Music player audible to the entire server.
 
-### 2.9 - APRIZRAK
+### 2.9 - AGhost
 ![APPRISER](https://i.imgur.com/qPV89TN.png) allows you to step out of your body,
 
 useful for making objects appear or observe the player without being seen.
@@ -236,4 +275,6 @@ Thanks to Bod (admin/dev) for creating this tool
 @CV514#7004 for corrections (ru)
 
 @GemInee#5127 for code
+
+@Bod for have coding the VV
 
