@@ -1,5 +1,5 @@
-#Cyborg
-## intrudocution
+# Cyborg
+## Intrudocution
 
 As the latest in robotics, Cyborgs are usually assigned to the station as crew but they can also be made by the roboticist
 
