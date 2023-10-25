@@ -9,7 +9,7 @@ As the latest in robotics, Cyborgs are usually assigned to the station as crew b
 
 This might seem scary at first but it is not as hard as it seems. 
 
-Most lawsets don't require much aside from following direct instructions from humans. 
+Most lawsets don't require much aside from following direct instructions from crew and ocasionally rescuing them.
 
 Following laws is just a matter of reading your laws, keeping your actions within the laws, and if you have any doubts you can ask the humans or the AI.
 
