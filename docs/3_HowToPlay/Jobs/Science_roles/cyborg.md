@@ -1,5 +1,5 @@
 # Cyborg
-## Intrudocution
+## Introduction
 
 As the latest in robotics, Cyborgs are usually assigned to the station as crew but they can also be made by the roboticist
 
@@ -34,7 +34,7 @@ You could save dozens of people and get emagged a moment later, or blown up beca
 
 This is why being a cyborg is a rough job, but it has its rewards. 
 
-**Left-click** on the (module icon) button on the bottom of your screen and press the [actitat item] button to select a module.
+**Left-click** on the (module icon) button on the bottom of your screen and press the [activate item] button to select a module.
 
 Once you have chosen, you will automatically be upgraded to the module of your choice. 
 
@@ -48,22 +48,22 @@ You can interact with most machines by pressing alt-click, drag items by with ct
 
 Fixing a cyborg is similar to performing surgery on humans. 
 
-* **Step 1:** Make sure the cyborg is lying down. Putting the cyborg on an operating table (table) can help; otherwise tell them to lie down with the (zzz) button
-* **Step 2:**  (alt-click?) the cyborg with a wrench in hand and select a body part to work on.
+* **Step 1:** Make sure the cyborg is lying down. Putting the cyborg on an ![image](/img/construction/machines/bed.png) operating table can help; otherwise tell them to lie down.
+* **Step 2:** Alt-click the cyborg with a wrench in hand and select a body part to work on.
 
 ### Brute Repairs
 
-* **Step 3:** (pic) Wrench: Undo the cover
-* **Step 4:** (pic) Crowbar: Remove the cover
-* **Step 5:** (pic) Welding tool: Weld the dents away
-* **Step 6:** (pic) Wrench: Reattach the cover
+* **Step 3:** ![image](/img/construction/tools/wrench.png) Wrench: Undo the cover
+* **Step 4:** ![image](/img/construction/tools/crowbar.png) Crowbar: Remove the cover
+* **Step 5:** ![image](/img/construction/tools/welder.png) Welding tool: Weld the dents away
+* **Step 6:** ![image](/img/construction/tools/wrench.png) Wrench: Reattach the cover
 
 ### Burn Repairs
 
-* **Step 3:** (pic) Screwdriver: Unscrew the cover
-* **Step 4:** (pic) Wirecutter: Remove the damaged cables
-* **Step 5:** (pic) Power Cables: Replace the missing cables
-* **Step 6:** (pic) Screwdriver: Reattach the cover
+* **Step 3:** ![image](/img/construction/tools/wrench.png) Screwdriver: Unscrew the cover
+* **Step 4:** ![image](/img/construction/tools/wirecutter.png) Wirecutter: Remove the damaged cables
+* **Step 5:** ![image](/img/construction/machines/coil.png) Power Cables: Replace the missing cables
+* **Step 6:** ![image](/img/construction/machines/screwdriver.png) Screwdriver: Reattach the cover
 
 ## Self-Repair
 
