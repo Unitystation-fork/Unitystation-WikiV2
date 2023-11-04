@@ -43,7 +43,7 @@ https://flathub.org/apps/details/org.unitystation.StationHub
  1. **Command(⌘) + [Space]** write "terminal" and validated with [enter] (⏎)
  2.  Copy past this line
 ```bash
-mkdir -p ~/Games/Unitystation ; cd ~/Games/Unitystation ; curl -O https://github.com/unitystation/stationhub/releases/download/931/osx931.zip ; curl -O https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png; unzip *.zip ; rm -rfv *.zip ./ ; chmod -R 750 ./StationHub ; exit
+mkdir -p ~/Games/Unitystation ; cd ~/Games/Unitystation ; wget https://github.com/unitystation/stationhub/releases/download/933/osx933.zip ; unzip osx933.zip ; tar -xzvf StationHub.tar && rm -rfv *.zip *.tar ./  ;  cp -R StationHub.app /Applications/ ; exit
 ```
 To start the game, just double click on "stationHub". in your game folder
 
