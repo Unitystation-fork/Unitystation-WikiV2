@@ -1,32 +1,32 @@
-# Redshield Officer
-**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Security and command</font>. **Difficulty**: <font color="Red">Extreme</font>.
+**Работа в компании
+**Тип роли**: <font color="#D4AF37">ЦентрКом</font>. **Доступ**: <font color="green">Безопасность и командование</font>. **Трудность**: <font color="Red">Экстремальная</font>.
 
 
 
 
-## Who you are
+## Кто вы
 
-Welcome, Redshield. You have been given special training by Central Command, and been dispatched to serve as the personal bodyguard of everyone with access to Command Comms.
-
-
-Most of your time will be spent shadowing those you have been assigned to protect, making sure that they're alive and well, and keep an eye on a crew monitor to make sure they're still on sensors. Your job is to keep everyone in Command, as well as CentCom VIPs, alive.
+Добро пожаловать, Redshield. Вы прошли специальную подготовку в Центральном командовании и были направлены в качестве личного телохранителя всех, кто имеет доступ к командной связи.
 
 
-One very important detail of your job is that you are not [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). Do not let your Security access fool you. You should not be concerned with the goings-on at Security, nor should you be doing their job for them. You are not a Security Officer with elevated access and snazzy outfit. You are a bodyguard.
+Большую часть времени вы будете следить за теми, кого вам поручено охранять, убеждаясь, что они живы и здоровы, и следить за монитором экипажа, чтобы убедиться, что они все еще на сенсорах. Ваша задача - сохранить жизнь всем членам командования, а также VIP-персонам CentCom.
+
+
+Одна очень важная деталь вашей работы заключается в том, что вы не являетесь [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). Не позволяйте своему доступу к безопасности обмануть вас. Вас не должны волновать события, происходящие в службе безопасности, и вы не должны выполнять их работу за них. Вы не сотрудник службы безопасности с повышенным уровнем доступа и шикарной экипировкой. Вы - телохранитель.
 
 
 
-## How to do your job
+## Как выполнять свою работу
 
 ---
 
-## Your gear
+## Ваше оборудование
 
-The Redshield does not come with much special equipment, being outfitted mostly as a security officer with a stylish beret. Depending on the whims of your [supervisors](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md), you may, rarely, receive additional gear.
+Особого снаряжения у Редшильда нет, он экипирован в основном как сотрудник службы безопасности со стильным беретом. В зависимости от прихоти ваших [начальников] (\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md), вы можете, в редких случаях, получить дополнительное снаряжение.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

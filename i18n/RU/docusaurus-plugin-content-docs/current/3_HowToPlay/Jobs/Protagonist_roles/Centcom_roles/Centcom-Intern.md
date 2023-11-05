@@ -1,20 +1,20 @@
 # Centcom Intern
-**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Public</font>. **Difficulty**: <font color="Red">Extreme</font>.
+**Тип должности**: <font color="#D4AF37">CentCom</font>. **Доступ**: <font color="green">Public</font>. **Трудность**: <font color="Red">Экстремальная</font>.
 
 
 
-Note: The central command Intern is not a roundstart role and can currently only be accessed through admin events.
+Примечание: Центральный командный интерн не является ролью раундстарта и в настоящее время может быть доступен только через события администратора.
 
 
-## Who you are
-
-
-
-## How to do your job
+## Кто вы
 
 
 
-## Your gear
+## Как выполнять свою работу
+
+
+
+## Ваше оборудование
 
 
 

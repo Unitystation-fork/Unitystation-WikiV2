@@ -1,67 +1,67 @@
-# Death Squad
-**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="lightgreen">Stupid Easy</font>-<font color="Red">Extreme</font>.
+# Эскадрон смерти
+**Тип роли**: <font color="#D4AF37">ЦентрКом</font>. **Доступ**: <font color="green">Все</font>. **Трудность**: <font color="lightgreen">Дурацки легко</font>-<font color="Red">Экстремально</font>.
 
-Note: Death squad, for reasons that should be made clear by the end of this guide, is not a round-start role. It can only be accessed via events.
-### RIP AND TEAR
-
-
-Your goal is simple. Kill anything that moves on the station and blow it to high hell with the onboard nuke. This is typically because the station decided to "form a union", is infested in some way, or is so fucked beyond repair that it may just be best for [NT](\4_Univers\Lore\The-Lore.md) to kill everyone and cover it up. The amount of resistance you'll face will vary wildly, but this wont typically pose a problem, as you are equipped with the most flat out overpowered gear anyone can lay hands on. Without exaggeration, two or three [robust](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) death troopers can waste an entire station.
-### HUUUGE GUNS
+Примечание: "Эскадрон смерти", по причинам, которые должны стать понятны к концу этого руководства, не является ролью круглого старта. Доступ к ней можно получить только через события.
+### РАЗРЫВ
 
 
-Death Squad troopers spawn with a potent personal arsenal. This gear is the Mateba revolver, your trusty disruptor cannon, your SWAT MK3 helmet, armor, and magboots. The mateba revolver packs as much punch as a desert eagle ('60** brute damage) The disruptor cannon can ''rapid-fire lasers that deal 50 burn damage per shot, enough to kill most targets, human or otherwise, in two or three hits.
+Ваша цель проста. Убить все, что движется на станции, и разнести ее к чертям собачьим с помощью бортовой ядерной бомбы. Обычно это происходит потому, что станция решила "объединиться", заражена каким-то вирусом или настолько разрушена, что [NT](\4_Univers\Lore\The-Lore.md) просто лучше убить всех и скрыть это. Уровень сопротивления, с которым вы столкнетесь, будет варьироваться в широких пределах, но обычно это не представляет проблемы, поскольку вы оснащены самым мощным снаряжением, которое только может попасть в руки. Без преувеличения, два или три [robust](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) солдата смерти могут уничтожить целую станцию.
+### ОГРОМНЫЕ ПУШКИ
 
-Your armor is space-proof and does not slow you down and it has a higher resistance than even [Nuke ops](Nuclear-Emergency.md) armor against most kinds of damage, possessing 80% bullet resistance, 90% brute melee resistance (including the underclothes), and 100% bomb resistance;'' You can blow a grenade ''in your hand and take zero damage. Note that energy weapon resistance is just 50%, so take out guys with laser guns first, and also watch out for tasers; as tough as you are, they can give the mob of frantic station crewmembers enough time to disarm you and shoot you with your own weapons. The magboots act as any other magboots, and allow you to better engage in combat in areas where the atmosphere is shifting due to breaches or opened canisters.
+
+Бойцы "Эскадрона смерти" рождаются с мощным личным арсеналом. Это револьвер Mateba, ваша надежная пушка-разрушитель, шлем SWAT MK3, броня и ботинки. Револьвер "Матеба" по силе удара не уступает пустынному орлу (60** грубого урона), а пушка-разрушитель может "скорострельно стрелять лазерами, наносящими 50 ед. урона за выстрел, что достаточно для уничтожения большинства целей, как людей, так и других, за два-три попадания".
+
+Ваша броня устойчива к воздействию космического пространства и не замедляет вас, а ее сопротивление большинству видов повреждений выше, чем даже у брони [Nuke ops](Nuclear-Emergency.md): 80% сопротивления пулям, 90% сопротивления грубой силе ближнего боя (включая нижнюю одежду) и 100% сопротивления бомбам;'' Вы можете взорвать гранату "в руке и получить ноль повреждений". Обратите внимание, что сопротивление энергетическому оружию составляет всего 50%, поэтому в первую очередь следует уничтожать парней с лазерными пушками, а также остерегаться тазеров: как бы вы ни были сильны, они могут дать толпе взбешенных членов экипажа станции достаточно времени, чтобы обезоружить вас и расстрелять из вашего же оружия. Магботы действуют так же, как и любые другие магботы, и позволяют лучше вести бой в зонах, где атмосфера смещается из-за пробоин или открытых канистр.
 ### Nuke it from orbit
 
-Turns out that the best way to kill something is a large nuclear warhead. While you are not provided one, the station thankfully has one onboard. Your primary goal is to grab the disk, shove it in this nuke, and detonate it with the code provided to you by your overseers.
+Оказывается, лучший способ уничтожить что-то - это большая ядерная боеголовка. Хотя вам ее не предоставили, на станции, к счастью, она есть. Ваша главная задача - захватить диск, засунуть его в эту ядерную боеголовку и взорвать ее с помощью кода, предоставленного вам вашими надсмотрщиками.
 
-Here's a handy braindead guide to success at Deathsquad:
+Вот удобное руководство по успешному прохождению игры Deathsquad:
 
-1.  Walk towards the nuke disk using your disk tracker
+1.  Подойдите к диску с ядерной бомбой, используя трекер дисков.
 
-	* if you see something that is alive while walking to the disk, shoot it dead.
-
-
-
-1. grab the disk, you may have to kill [whoever](\3_HowToPlay\Jobs\Command_roles\Captain.md) is holding it
+	* Если во время движения к диску вы увидите что-то живое, застрелите его.
 
 
 
-1. walk to the station's onboard nuke.
+1. возьмите диск, возможно, вам придется убить [того](\3_HowToPlay\Jobs\Command_roles\Captain.md), кто его держит
 
 
 
-1. Shove in the disk
+1. подойдите к бортовой ядерной бомбе станции.
 
 
 
-1.  input the nuke code
-
-	* disable safety and start the timer
+1. Засунуть диск
 
 
 
-1.  get as far away from it as you can
+1. ввести код ядерной бомбы
+
+	* отключить защиту и запустить таймер
+
+
+
+1. отойдите от него как можно дальше
 
 
 ### Death Row
 
-So, Centcom's sent a station alert saying in no exhaustive terms how much of a disappointment you have been, and that they've just decided to wipe the slate clean. You're much more the problem then the victim, and they just feel it'd be easier to replace than recover. A Death Squad is on its way right now. What should you do?
+Итак, Centcom прислал на станцию сообщение, в котором в исчерпывающих выражениях говорится о том, каким разочарованием вы были для них и что они просто решили стереть вас с лица земли. Вы скорее проблема, чем жертва, и они просто считают, что вас легче заменить, чем восстановить. Эскадрон смерти уже на подходе. Что вы должны делать?
 
-Well first, you should appraise what tools are available to you, namely; can you get a taser or not? If you have access to security, get a taser as fast as you can. It's the only way you'll stand a chance in a direct confrontation. Other crewmembers will know this, too, so they will go extremely fast. you should also procure other weapons, especially energy weapons to exploit the deathsquad's particular weakness to that type of damage. Also grab a welder if you can easily access one. Try and find people to ally with, one or two people watching your back infinitely increases your survival chances.
+Прежде всего, оцените, какие средства вам доступны, а именно: можете ли вы достать электрошокер или нет? Если у вас есть доступ к охране, достаньте электрошокер как можно быстрее. Только так у вас будет шанс в прямой конфронтации. Другие члены команды тоже знают об этом, поэтому они будут действовать очень быстро. Вам также следует приобрести другое оружие, особенно энергетическое, чтобы использовать особую слабость "группы смерти" к этому типу повреждений. Захватите также сварочный аппарат, если он вам доступен. Постарайтесь найти людей, с которыми можно заключить союз: один или два человека, прикрывающие вашу спину, бесконечно повышают ваши шансы на выживание.
 
-Whether you can get these things or not, you must evacuate the station through any available means. Without some really strong [leadership](\3_HowToPlay\Jobs\Command_roles\Captain.md), the station is likely already devolving into a complete [free-for-all](Battle royale), so crew are going to be stealing any docked shuttles fast. Try and get one for yourself. Most station maps give one to [mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md), [engineering](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), and some give one to command. The other more risky choice is the emergency shuttle, It's very likely to become more of a trap than a viable method of escape. Deathsquad will quickly be swarming all over evac, shooting anyone that tries to get on board. If they aren't, then you should find a room to hide in nearby evac. For even further security, take your blowtorch and weld doors shut to slow hunting death squad down. They can destroy doors in half a dozen shots from their disruptor cannons, but that can give ample time to escape and find another hiding place. Also keep in mind that currently Deathsquad's night vision does not work, so take out the lights if you can.
+Независимо от того, удастся ли вам получить эти вещи или нет, вы должны эвакуироваться со станции любым доступным способом. Без сильного руководства (\3_HowToPlay\Jobs\Command_roles\Captain.md) станция, скорее всего, уже превратилась в полную [free-for-all] (Battle royale), поэтому команда будет быстро угонять любые пристыкованные шаттлы. Постарайтесь заполучить один для себя. Большинство карт станций дают по одному шаттлу [шахтерам] (\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md), [инженерам] (\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), а некоторые дают по одному шаттлу командованию. Другой, более рискованный вариант - аварийный шаттл, который, скорее всего, станет скорее ловушкой, чем реальным способом спасения. Отряд Смертников будет быстро роиться вокруг эвакуатора, расстреливая всех, кто попытается попасть на борт. Если это не так, то вам следует найти комнату для укрытия поблизости от эвакуатора. Для еще большей безопасности возьмите паяльную лампу и заваривайте двери, чтобы замедлить охоту на эскадрон смерти. Они могут разрушить двери за полдюжины выстрелов из своих разрушительных пушек, но это может дать достаточно времени, чтобы сбежать и найти другое укрытие. Также имейте в виду, что в настоящее время ночное зрение у "Эскадрона смерти" не работает, поэтому по возможности отключите свет.
 
-So, if all shuttles are taken and the emergency shuttle is destroyed or on its way, then you pretty much have one choice left; you've got to take the fight to them. To be honest, without a taser or other ranged stunning weapons, this is all but impossible. explosives deal no damage to death squad, and all it takes is for them to snap off a handful of shots and you will be dead from full health. So, play super Viet Cong guerilla-fighter style. Pop off one or two shots at them then flee like mad. rinse and repeat. Wear them down, and do NOT let them get access to healing supplies. Make them over-pursue and bleed out from their wounds. Use banana peels and space lube to slip them up as well. Maybe even steal their weapons while they are slipped on the ground.
+Итак, если все шаттлы захвачены, а аварийный шаттл уничтожен или уже в пути, то у вас остается практически единственный выход - принять бой. Честно говоря, без электрошокера или другого оружия дальнего поражения это практически невозможно. Взрывчатка не наносит "эскадрону смерти" никакого урона, им достаточно сделать несколько выстрелов, и вы будете мертвы от полного здоровья. Поэтому играйте в стиле партизан Вьетконга. Сделайте один-два выстрела по ним, затем бегите как сумасшедший. Изматывайте их и не давайте им доступа к лечебным средствам. Заставьте их преследовать себя и истекать кровью из ран. Используйте банановую кожуру и космическую смазку, чтобы подсунуть их. Может быть, даже украдите их оружие, пока они лежат на земле.
 
-Set up traps along the way to the station nuke room or the nuke disk if they haven't taken it from the captain's stiff and cold hands. Do not forget that setting off the nuke is their goal, and if they succeed, then it's game over for everyone.
+Устройте ловушки на пути к ядерной комнате станции или к ядерному диску, если они не забрали его из жестких и холодных рук капитана. Не забывайте, что их целью является подрыв ядерной бомбы, и если им это удастся, то игра будет окончена для всех.
 
-Now, understand that even if you do prepare a hell of a defense, getting everything you could want from the armory and a team together to counter attack, or if you just hide in lockers in maintenance the whole time until you can make a mad dash for the emergency shuttle, you should know that there's an extremely high chance of dying. Often it will feel unfair, but that's Deathsquad for you. They are meant to cap off the peak craziness that can happen on unity station. So do what you can to survive, but make sure to have fun with it. And if by some chance you do survive, that's quite an achievement, so feel proud of yourself.
+Теперь поймите, что даже если вы подготовите чертовски эффективную защиту, собрав все необходимое в арсенале и команду для контратаки, или просто будете все время прятаться в шкафах в техническом отсеке, пока не доберетесь до аварийного шаттла, вы должны знать, что шанс умереть чрезвычайно высок. Часто это кажется несправедливым, но таковы правила Deathsquad. Они призваны завершить пик безумия, которое может произойти на станции "Единство". Так что делайте все возможное, чтобы выжить, но не забывайте получать от этого удовольствие. А если вы по какой-то случайности выживете, это уже будет достижением, так что гордитесь собой.
 
   <br/>
-<br/>
-<br/>
+<br/>>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
