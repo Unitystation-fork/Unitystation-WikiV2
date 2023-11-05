@@ -1,2 +1,2 @@
-# Weapon Stats
+# Статистика оружия
 Mega Wip

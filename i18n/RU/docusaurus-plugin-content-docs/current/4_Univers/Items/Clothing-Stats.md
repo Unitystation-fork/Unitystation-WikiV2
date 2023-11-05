@@ -1,2 +1,2 @@
-# Clothing Stats
+# Статистика одежды
 Mega Wip

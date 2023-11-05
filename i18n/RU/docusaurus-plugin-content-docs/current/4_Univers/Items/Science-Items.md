@@ -1,2 +1,2 @@
-# Science Items
+# Научные предметы
 Mega Wip

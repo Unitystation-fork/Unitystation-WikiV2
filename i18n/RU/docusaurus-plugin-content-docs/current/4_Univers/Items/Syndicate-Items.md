@@ -1,101 +1,101 @@
 # Syndicate Items
 
-This is a comprehensive list of all items that [Traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) and [Nuclear Operatives](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) can purchase through their Syndicate uplink hidden on their PDAs. Shortly after round spawn, operatives and traitors will receive notifications telling them a code phrase to input into their PDAs in the ringtone configuration under settings. Traitors start with 20 Telecrystals (TC) while operatives start with 25 TC to spend on specialist equipment to complete their objectives.
+Это полный список предметов, которые [Предатели](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) и [Ядерные оперативники](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) могут приобрести через скрытый на их КПК канал связи с Синдикатом. Вскоре после начала раунда оперативники и предатели получат уведомления с кодовой фразой, которую они должны ввести в свой КПК в настройках мелодии звонка. Предатели начинают игру с 20 телекристаллами (ТК), а оперативники - с 25 ТК, которые можно потратить на специальное оборудование для выполнения поставленных задач.
 
-#### Traitor and Operative items:
+#### Предметы предателя и оперативника:
 
-| Category/Name | Description | TC cost |
+| Категория/Название | Описание | Стоимость TC |
 | - | - | - |
-| **<font color="red">CONSPICUOUS WEAPONS</font>** | Obvious and hard to hide weapons. |  |
-|  Makarov Pistol | A small, easily concealable 9mm handgun. It deals 20 damage a shot and has a threaded barrel for suppressors. | 7TC |
-|  Energy Sword  | When turned off, can be hid in many regions, when on, is a very distinct, loud, and deadly light-saber esque blade. Deals high damage and can inflict body traumas. | 8TC |
-|  Lucifer .357  | very loud and very powerful revolver, comparable to the cent officers own mateba. deals 50 damage a shot. | 12TC |
-|  Reverse Revolver | Revolver that shoots anyone that tries to fire it, with one exception. | 8TC |
-| **<font color="red">AMMUNITION</font>** | Ammo for weapons |  |
-|  9mm pistol magazine  | 9mm makarov ammo, currently deals 20 damage a shot. | 1TC |
-|  9mm pistol magazine AP | 9mm makarov ammo, negates 50% of armor on hit. | 2TC |
-|  9mm pistol magazine incendiary | 9mm makarov ammo, deals half damage (10) but adds two firestacks to hit targets, giving a net gain of damage | 2TC |
-|  .357 speedloader  | .357 ammo, used by the lucifer. | 4TC |
-| <font color="red">**EXPLOSIVES**</font>            | Explosives, used for AOE damage or destruction of important objects. |  |
-|  Syndicate Minibomb  | stronger blast than a grenade, but hits a smaller total area. The detonation time after being activated is 5 seconds. | 6TC |
-|  C4  | A bomb that can be attached to walls, objects, and people while on harm intent. It can be configured to detonate on a timer (minimum time 10 seconds), or can be paired with a remote signaller to be remotely triggered. To pair it, simply click the remote signaller on the C4 brick and they are paired. | 1TC |
-|  X4  | C4 but more explosive. | 4TC |
-|  Pizza Bomb | A bomb concealed in a pizza box. | 10TC |
-|  Powersink | A bomb that charges up from a wire under it while anchored with a screwdriver. How fast and how strong it exploads depends on how much power is flowing under it and will cause a black out as long as a nearby department battery is offline. | 15TC |
-|  Syndicate Bomb | A huge bulky bomb that is twice as strong as a single X4. When ordered it will give the user a device that will summon the bomb and a remote upon activating directly at where the user is standing. | 20TC |
-| <font color="red">**STEALTHY WEAPONS**</font> | Easily concealed and hard to trace weapons. |  |
-|  Energy Dagger | A smaller and weaker esword disguised as a pen, can be placed anywhere you can fit a pen, like your PDA. | 2TC |
-|  Miniature Energy Crossbow | An (expensive) self charging and easily hideable pocket crossbow that stuns and poisons those it hits. basically a self charging concealable tazer. When fired, it does not leave a message in the chat that would give away your identity | 10TC |
-|  Syndicate Holster | A holster for storing all the guns you buy. Cannot currently be disguised, so it's not a very effective stealth tool at the moment. | 1TC |
-|  Suppressor | Reduces the volume of guns with threaded barrels and it does not leave chat messages saying who fired it. Current weapons that can be silenced are Makarovs and Stalker SMGs. | 3TC |
-| <font color="red">**SUITS**</font> | Various suits, typically of the spaceworthy variety. |  |
-|  Syndicate Spacesuit | A spacesuit that can be used similarly to other softsuits on the station. Despite being a softsuit, it is actually very protective, providing better stats than standard security officer armor. while it's main utility is for Traitors, don't forget that as a nuclear operative, this is a good option if you plan to sneak aboard the station and adopt a disguise as it is small enough to fit inside a backpack, allowing you to keep it for when you need to go loud or escape the station. | 4TC |
-|  Syndicate Hardsuit | The same armoured blood-red hardsuit used by nuclear operatives. Very distinct looking, very robust. | 8TC |
-| <font color="red">**MISC. GADGETS**</font> | Gadgets that don't fit in with others |  |
-|  Chest Rig | Acts as an 8 slot belt that can store guns, ammo, grenades, and all manner of other devices. Very cheap, very flexible storage, but also can't be hidden when worn. | 1TC |
-|  Cryptographic Sequencer | Otherwise known as the Emag. It causes doors to open, and certain other machinery to malfunction. Generally, the effects of the Emag are permanent unless someone repairs the affected machines; For example, doors will stay permanently open until repaired. The effects of the Emag are powerful, but it does mean that you leave an obvious trail to follow if you are being pursued. The Emag has 5 regenerating charges, and you can see roughly how many you have left on the card's sprite. It regenerates one charge after 30 seconds. | 6TC |
-|  Surgical Equipment Bundle | Comes with all the tools for surgery in a conspicuous, red and black duffel bag. | 3TC |
-|  Full Syndicate Toolbox | A mechanical toolbox full of tools, but eviler. Small serrations on the exterior of the toolbox also give it slightly increased melee damage. | 1TC |
-|  Syndicate Soap | Soap, but red, menacing. good for cleaning up any blood from your assassinations. | 1TC |
-| <font color="red">**(POINTLESS) BADASSERY**</font> | Useless fun, or with very niche or RP oriented uses. |  |
-|  Syndicate Balloon | A baloon to show everyone you are with the syndicate, great for getting yourself shot. | 20TC |
-|  Briefcase Full of Cash | A Briefcase full of cash, need I say more? | 1TC |
-|  Syndicate Smokes | A pack of syndicate smokes, operate in style! | 2TC |
-| <font color="red">**BUNDLES**</font> |  |  |
-|  Raw Telecrystals | The currency for transactions made with the syndicate. Add them to a PDA by clicking on it with them in hand. If you kill another traitor, check to see if their uplink is still unlocked on their PDA and take their telecrystals for yourself. | 1, 5, 10, or 20 TC |
+| **<font color="red">КОНСПИКУЮЩЕЕ ОРУЖИЕ</font>** | Очевидное и трудно скрываемое оружие. | |
+| Пистолет Макарова | Небольшой, легко скрываемый 9-мм пистолет. Наносит 20 единиц урона за выстрел и имеет нарезной ствол для установки подавителей. 7TC | |
+| Энергетический меч | В выключенном состоянии может быть спрятан во многих регионах, во включенном - представляет собой очень четкий, громкий и смертоносный световой меч. Наносит большой урон и может наносить телесные повреждения. 8TC | 8TC |
+| Люцифер .357 | Очень громкий и очень мощный револьвер, сравнимый с матебой офицеров центов. наносит 50 единиц урона за выстрел. 12TC | 12TC |
+| Реверсивный револьвер | Револьвер, стреляющий во всех, кто пытается из него выстрелить, за одним исключением. | 8TC |
+| **<font color="red">АММУНИЦИЯ</font>** | Патроны для оружия | | |
+| Магазин для 9-мм пистолета | 9-мм пистолет Макарова, наносит 20 единиц урона за выстрел. | 1TC |
+AP | 9mm pistol magazine | 9mm makarov ammo, сводит на нет 50% брони при попадании. | 2TC |
+| Зажигательный магазин к 9-мм пистолету | 9-мм патроны к Макарову, наносит половину урона (10), но добавляет два стака огня к пораженным целям, что дает чистый прирост урона | 2TC |
+| | .357 speedloader | .357 ammo, используется Люцифером. | 4TC |
+| <font color="red">**EXPLOSIVES**</font> | Взрывчатка, используется для нанесения АОЕ-урона или уничтожения важных объектов. | |
+| Синдикатская минибомба | взрывается сильнее, чем граната, но поражает меньшую площадь. Время детонации после активации составляет 5 секунд. 6TC | 6TC |
+| C4 | Бомба, которая может быть прикреплена к стенам, предметам и людям с целью причинения вреда. Она может быть настроена на детонацию по таймеру (минимальное время 10 секунд) или может быть сопряжена с дистанционным сигнализатором для дистанционного срабатывания. Для сопряжения достаточно щелкнуть удаленным сигнализатором по кирпичу C4, и они будут сопряжены. 1TC | 1TC |
+| X4 | C4, но более взрывоопасный. | 4TC |
+| Бомба для пиццы | Бомба, спрятанная в коробке из-под пиццы. 10TC | 10TC |
+| Powersink | Бомба, которая заряжается от проложенного под ней провода, закрепленного отверткой. Скорость и сила заряда зависит от количества энергии, проходящей под ней, и вызывает отключение электричества до тех пор, пока близлежащая батарея не отключена. 15TC | 15TC |
+| Бомба Синдиката | Огромная громоздкая бомба, которая в два раза сильнее, чем один X4. При ее заказе пользователь получает устройство, вызывающее бомбу, и пульт дистанционного управления, который активируется прямо на месте, где стоит пользователь. | 20TC |
+| <font color="red">**СТРОГОЕ ОРУЖИЕ**</font> | Легко скрываемое и трудно отслеживаемое оружие. | |
+| Энергетический кинжал | Меньший и слабый эсворд, замаскированный под ручку, может быть помещен в любое место, куда можно поместить ручку, например, в КПК. 2TC | 2TC |
+| Миниатюрный энергетический арбалет | (дорогой) самозаряжающийся и легко прячущийся карманный арбалет, который оглушает и отравляет тех, в кого попадает. По сути, это самозаряжающийся скрытый тазер. При выстреле не оставляет сообщения в чате, которое могло бы выдать вашу личность | 10TC | |
+| Кобура Синдиката | Кобура для хранения всех купленных вами пистолетов. В настоящее время не может быть замаскирована, поэтому в данный момент не является эффективным средством скрытности. | 1TC |
+| Подавитель | Уменьшает громкость оружия с нарезными стволами и не оставляет сообщений в чате о том, кто стрелял. В настоящее время глушителями являются пистолеты Макарова и Stalker SMG. | 3TC | 3TC.
+| <font color="red">**SUITS**</font> | Различные костюмы, как правило, космического назначения. | |
+| Космический скафандр Синдиката | Скафандр, который можно использовать так же, как и другие скафандры на станции. Несмотря на то, что это мягкий скафандр, он очень хорошо защищает, обеспечивая лучшие показатели, чем стандартная броня офицера безопасности. Хотя он в основном используется для предателей, не забывайте, что для ядерных оперативников это хороший вариант, если вы планируете пробраться на станцию и замаскироваться, поскольку он достаточно мал, чтобы поместиться в рюкзак, что позволит вам сохранить его на случай, когда вам нужно будет громко говорить или сбежать со станции. 4TC | 4TC |
+| Бронекостюм Синдиката | Тот же самый бронекостюм кроваво-красного цвета, который используется оперативниками ядерных сил. Очень необычный вид, очень прочный. 8TC | 8TC |
+| <font color="red">**MISC. ГАДЖЕТЫ**</font> | Гаджеты, которые не сочетаются с другими | | | |
+| Chest Rig | Действует как пояс с 8 слотами, на котором можно хранить оружие, патроны, гранаты и всевозможные другие устройства. Очень дешево, очень гибкая система хранения, но также не может быть спрятана при ношении. 1TC | 1TC |
+| Криптографический секвенсор | Иначе известный как Эмаг. Он заставляет открываться двери и выводить из строя некоторые другие механизмы. Как правило, эффект Emag остается постоянным, пока кто-нибудь не отремонтирует пострадавшие машины. Например, двери будут оставаться открытыми до тех пор, пока их не починят. Эффект Emag очень силен, но в случае преследования за вами остается очевидный след. Emag имеет 5 регенерируемых зарядов, и на спрайте карты можно увидеть, сколько их осталось. Он восстанавливает один заряд через 30 секунд. 6TC | 6TC |
+| Набор хирургического оборудования | В заметном красно-черном вещевом мешке находятся все инструменты для хирургии. | 3TC |
+| Ящик с инструментами полного синдиката | Механический ящик, полный инструментов, но более злой. Небольшие зазубрины на внешней стороне ящика также немного увеличивают его урон в ближнем бою. 1TC | |
+| Мыло Синдиката | Мыло, но красное, грозное. Хорошо подходит для отмывания крови после убийств. | 1TC |
+| <font color="red">**(POINTLESS) BADASSERY**</font> | Бесполезная забава или очень нишевое или RP-ориентированное применение. | |
+| Воздушный шар синдиката | Воздушный шар, показывающий всем, что вы состоите в синдикате, отлично подходит для того, чтобы в вас стреляли. | 20TC |
+| Чемодан, полный денег | Чемодан, полный денег, нужно ли говорить что-то еще? | 1TC |
+| Пачка синдикатских сигарет | Пачка синдикатских сигарет, действуйте стильно! | 2TC |
+| <font color="red">**BUNDLES**</font> | | | | |
+| Сырые телекристаллы | Валюта для сделок с синдикатом. Добавьте их в КПК, нажав на него с этими кристаллами в руках. Если вы убьете другого предателя, проверьте, не разблокирован ли его канал связи на КПК, и заберите его телекристаллы себе. | 1, 5, 10 или 20 TC |
 
-#### Operative Exclusive Items:
+#### Эксклюзивные предметы для оперативников:
 
-Some items are only available to [Nuclear Operatives.](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md)
+Некоторые предметы доступны только [Оперативникам-ядерщикам] (\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md)
 
-| Category/Name                                    | Description                                                  | TC cost |
+| Категория/Название | Описание | Стоимость ТС |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------- |
-| **<font color="red">CONSPICUOUS WEAPONS</font>** | Obvious and hard to hide weapons.                            |         |
-| Stalker SMG                                      | Your stock firepower, a .45 cal SMG with a 24 round capacity. Hits pretty hard and comes with a syndicate electronic firing pin, which prevents enemies from using it. Additional magazines are pretty affordable, making this the obvious budget option (no price better than free!). | 10TC    |
-| Bulldozer shotgun                                | A drum-fed shotgun with a decent rate of fire. It accepts many different ammunition types, but the standard buckshot load is perhaps the deadliest one available to you. | 8TC     |
-| M90-gl carbine                                   | A strange 5.56 carbine with a high rate of fire and a currently non-functional under-barrel grenade launcher. Unremarkable without that grenade launcher, unfortunately, save for a very peculiar optional ammo type; 5.56 Phasic ammo. This ammo currently has some of the high armor penetration of any weapon in the game at 70%. Sadly, you can't get it with the carbine without declaring war or getting a fellow operative to donate 1TC to you. | 18TC    |
-| Buzzsaw LMG                                      | High capacity pain. This LMG fires fast, hits like a truck at 40 damage a bullet, and holds 50 rounds per magazine, making it one of the nastiest weapons available to you, especially if you invest in some of the alternate ammo types. | 18TC    |
-| Migraine .50 cal sniper rifle                    | A slow firing sniper rifle. You might think it strange to bring a sniper with you on a space station assault, but it has a few qualities that are quite valuable. First, it's standard ammunition deals 70 damage a shot and is inherently armor piercing, reducing armor by 50%. Second, it has a very high bullet velocity, making it hard to dodge. Third, it stuns targets for a brief moment. All of these qualities makes it a very effective ambush weapon. | 16TC    |
-| Toy LMG                                          | A toy buzzsaw that fires donksoft darts                      | 10TC    |
-| Toy SMG                                          | A toy stalker that fires donksoft darts                      | 5TC     |
-| Surplus Rifle                                    | A cheap piece of trash that isn't particularly effective, but for the TC spent, It provides some value. Your free stalker is *signficantly* more effective and it's free, though, so don't buy this unless you're looking to meme around. | 2TC     |
-| Stechkin APS machine Pistol                      | An automatic 9mm pistol. Similar overall effectiveness to the Makarov at a higher price, but definitely more fun to use. | 10TC    |
-| 84mm Rocket Launcher                             | A reloadable rocket launcher preloaded with an 84mm HE rocket grenade. With a very large blast radius, a potent weapon versus crowds. the alternate HEDP rocket also has utility for  taking out heavily armored targets. | 8TC     |
-| Biohazardous chemical Sprayer                    | A currently semi-functional tool. Chemicals are in an awkward state, balance wise, so this item isn't recommended for use just yet. | 20TC    |
-| **<font color="red">AMMUNITION</font>**          | Ammo for Operative exclusive weapons                         |         |
-| 12g buckshot drum                                | Powerful, and the spread makes it hard to dodge. Two full volleys of buckshot will down an unarmored target, but your average [Security Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) will take three. | 2TC     |
-| 12g Dragons Breath drum                          | the *fun* option. fires 4 low-damage flaming projectiles. A great option for sowing panic. While you are unlikely to drop people with dragon's breath, you will definitely distract them, and likely force a retreat so they can put themselves out. Repeatedly shooting people with dragon's breath isn't a very effective use of the ammo as a single shell will apply 4 firestacks to them, and characters can only receive 5 firestacks at a given time. Since they can't put themselves out, a single shell will eventually burn a critted player to death if they don't have any fire protection, as the damage potential is over 100. | 2TC     |
-| 12g slug drum                                    | Fires a single slug that deals slightly less total damage than buckshot, but has 20% armor penetration and a higher projectile velocity, so if you are facing armored targets or are fighting over distance, consider picking this. | 3TC     |
-| .45 Magazine                                     | An extra magazine for the stalker SMG. Grab a few of these if you plan to stick with it. | 3TC     |
-| .45 Magazine Incendiary                          | Like other incendiary ammunition, this magazine deals half normal damage in exchange for igniting the target on fire. The stalker doesn't have a lot of synergy with incendiary ammunition, but it isn't a strictly bad purchase either, and it's cheap. | 4TC     |
-| .45 Magazine AP                                  | The stalker *does* have a lot of synergy with AP ammunition. If you know you are going to deal with a station prepared for your arrival or if you expect to encounter [Unusually](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Redshield-Officer.md) [Tough](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Emergency-Response-Team.md) [Resistance,](Death-Squad.md) since you get the stalker for free, this is a very cost effective way to get 50% armor penetration in an automatic package. | 5TC     |
-| 7.12 Box Magazine                                | More lead for the buzzsaw. Useful if the station is well populated or if you plan to use the buzzsaw as a literal saw to cut through windows and walls. | 6TC     |
-| 7.12 AP Box Magazine                             | Expensive, but if you are going against a full squad of [the best and baddest,](Death-Squad.md) accept no substitutes. | 9TC     |
-| 7.12 Incendiary Box Magazine                     | This paired with the Elite Syndicate Hardsuit is a contender for one of the most cancerous weapon-ammo-armor combos in the game. The buzzsaw deals so much damage per shot that the half-damage penalty for incendiary ammo isn't as significant as with other weapons, and lighting people on fire creates a significant problem for them to deal with while they fight you. | 6TC     |
-| .50 Sniper Magazine                              | With the low bullet count per magazine, you will probably have to buy a few of these (or better yet, buy the sniper bundle). Don't forget that this has 50% armor penetration as standard. | 4TC     |
-| .50 Penetrator Sniper Magazine                   | Doesn't currently go through targets like it's supposed to, but it does have somewhat better AP qualities over the standard magazine. | 5TC     |
-| 5.56 Magazine                                    | Nothing remarkable when compared to the stock stalker you get. If you are going for the carbine, then you want to look at the variant below. | 4TC     |
-| 5.56 Magazine Phasic                             | the cost is high, but so it the armor penetration. At 70% armor pen, this ammo destroys armored targets. It also has unusual projectile properties that can be advantageous. | 8TC     |
-| 40mm Grenade Rounds Box                          | without access to a grenade launcher, pass on this for now.  | 6TC     |
-| 84mm HE Rocket                                   | a high damage, wide blast area rocket. Use versus crowds. Also ensure that you have a space suit on because it will definitely punch a hole through the station. | 4TC     |
-| 84mm HEDP Rocket                                 | Doesn't have a very good use case (yet!). It does have high AP effects on the rocket's impact point, but because most of its damage is bomb damage, it's not even very good against centcom forces. | 6TC     |
-| 9mm stechkin Pistol Magazine                     | 15 round magazine for the fancy 9mm sidearm.                 | 2TC     |
-| Riot Dart Box                                    | ammo for the dart guns.                                      | 2TC     |
-| <font color="red">**EXPLOSIVES**</font>          | Operative exclusive explosive items, used for AOE damage or destruction of important objects. |         |
-| Grenadier's Belt                                 | Very expensive, but if you are planning to buy a lot of grenades, this belt provides good savings. Comes with 2 minibombs, 6 grenades, 2 EMP grenades, a multitool, and an evil screwdriver. | 24TC    |
-| EMP grenade box                                  | A box full of 7 EMP grenades. If you want to cause chaos on the station without blowing holes in it, this kit is a good option. | 10TC    |
-| <font color="red">**SUITS**</font>               | Various suits, typically of the spaceworthy variety.         |         |
-| Blood-Red Magboots                               | For when you don't like the pair you start with for some reason. | 2TC     |
-| Elite Syndicate Hardsuit                         | an upgrade over your standard blood red hardsuit, this suit's utility isn't derived from extra protection from laser and bullets (it's a bit better than the standard suit, but actually has slightly weaker laser protection). Instead, you get this for the enhanced protection to environmental damages, such as bomb, fire, and acid damage. This is a great choice if you are at risk of damaging yourself with your own AOE weaponry. | 8TC     |
-| <font color="red">**MISC. GADGETS**</font>       | Gadgets that dont fit in with others                         |         |
-| Jaws of Life                                     | A handy power tool that can act as both a crowbar and wirecutters. It's main utility is that while in crowbar mode, it can force open *powered* airlocks, allowing you to force through any doors in your way. Do note that it's a bit loud when it does so, though, and it can't force open bolted doors, so a watchful [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) can stall your progress. | 4TC     |
-| Syndicate Reinforcement                          | This option buys you a small transponder that when activated opens a ghost role that lets one dead player spawn as an extra Nuclear Operative. They start with all the stock equipment, but *no TC of their own,* so you've got to share with them to get them equipped. That, combined with the price of this option means this item is really only viable if you've declared war on the station for extra TC. | 25TC    |
-| <font color="red">**BUNDLES**</font>             | Think of the savings!                                        |         |
-| Bioterror bundle                                 | Currently not worth getting as chemistry is underdeveloped. 12 TC saved. | 30TC    |
-| Bulldozer bundle                                 | Comes with a Bulldozer shotgun, a 12g *stun* slug drum and buckshot drum. Stun slugs are a useful way to get stuns if you need to take someone alive for one reason or another. Saves you 3TC | 13TC    |
-| Stalker bundle                                   | A duffel bag that comes with a stalker with a supressor and two extra magazines. | 14TC    |
-| Sniper bundle                                    | A briefcase that comes with a Migraine, two spare magazines, and a worn out suit and tie. Saves you 6TC | 20TC    |
-| Spetznas Pyro Bundle                             | Currently not worth getting as it doesn't come with all items it is supposed to. | 30TC    |
+| **<font color="red">КОНСПИКУЮЩЕЕ ОРУЖИЕ</font>** | Очевидное и трудно скрываемое оружие.                            | |
+| Stalker SMG | Ваш основной вид оружия - SMG 45-го калибра с 24 патронами. Бьет довольно сильно и снабжен синдикатовским электронным предохранителем, который не позволяет врагам использовать его. Дополнительные магазины доступны по цене, что делает этот пистолет самым бюджетным вариантом (лучше бесплатно!). 10TC | 10TC |
+| Дробовик "Бульдозер"| Барабанный дробовик с приличной скорострельностью. Оно может использовать множество различных боеприпасов, но стандартная картечь, пожалуй, самая смертоносная из всех доступных. 8TC | 8TC |
+| Карабин M90-gl | Странный карабин калибра 5,56 с высокой скорострельностью и неработающим подствольным гранатометом. Без гранатомета, к сожалению, ничем не примечателен, кроме весьма своеобразного дополнительного боеприпаса - патрона 5.56 Phasic. В настоящее время этот боеприпас обладает одним из самых высоких показателей бронепробиваемости среди всего оружия в игре - 70%. К сожалению, его нельзя получить из карабина без объявления войны или без того, чтобы кто-то из оперативников пожертвовал вам 1TC. 18TC | 18TC |
+| Buzzsaw LMG | Боль высокой мощности. Этот LMG стреляет быстро, бьет как грузовик, нанося 40 единиц урона за пулю, и вмещает 50 патронов в магазин, что делает его одним из самых неприятных видов оружия, особенно если вы вложитесь в некоторые альтернативные типы патронов. 18TC | 18TC |
+| Снайперская винтовка 50-го калибра "Мигрень"| Медленная снайперская винтовка. Вам может показаться странным брать с собой на штурм космической станции снайперку, но у нее есть несколько весьма ценных качеств. Во-первых, стандартный боеприпас наносит 70 единиц урона за выстрел и по своей сути является бронебойным, снижая броню на 50%. Во-вторых, у него очень высокая скорость полета пули, поэтому от него трудно увернуться. В-третьих, он на короткое время оглушает цель. Все эти качества делают его очень эффективным оружием для засады. 16TC | 16TC |
+| Игрушечный LMG | Игрушечная жужжалка, стреляющая дротиками из донксофта | 10TC |
+| Игрушечный SMG | Игрушечный преследователь, стреляющий дротиками из донксофта | 5TC |
+| Surplus Rifle | Дешевый хлам, который не особенно эффективен, но за потраченные деньги приносит некоторую пользу. Однако ваш бесплатный сталкер *значительно* эффективнее, и он бесплатный, так что не покупайте его, если только вы не хотите пошутить. 2TC | 2TC |
+| Пистолет-пулемет Стечкина АПС | Автоматический 9-мм пистолет. Схож по эффективности с Макаровым по более высокой цене, но определенно более интересен в использовании. 10TC | 10TC |
+| 84-мм гранатомет | Перезаряжаемый гранатомет с 84-мм реактивной гранатой HE. Имея очень большой радиус взрыва, это мощное оружие против толпы. 8TC | 8TC |
+| Распылитель биологически опасных химикатов | В настоящее время полуфункциональный инструмент. Химикаты находятся в неудобном состоянии с точки зрения баланса, поэтому этот предмет пока не рекомендуется использовать. | 20TC |
+| **<font color="red">АММУНИЦИЯ</font>** | Патроны для эксклюзивного оружия оперативников | | |
+| 12-граммовая картечь | Мощная, а благодаря разбросу от нее трудно увернуться. Два полных залпа картечи убьют небронированную цель, но средний [Офицер безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) сделает три. 2TC | 2TC |
+| Барабан "Дыхание дракона"| 12g - "веселый" вариант. Выстреливает 4 огненных снаряда с низким уроном. Отличный вариант для сеяния паники. Хотя вы вряд ли повалите людей с помощью "Дыхания дракона", вы определенно отвлечете их и, скорее всего, заставите отступить, чтобы они могли покончить с собой. Многократный обстрел людей дыханием дракона - не очень эффективное использование боеприпасов, так как один снаряд наносит им 4 огневых удара, а персонажи могут получить только 5 огневых ударов в одно и то же время. Так как они не могут потушить себя, один снаряд в конечном итоге сожжет крит-игрока до смерти, если у него нет защиты от огня, так как потенциал урона составляет более 100 единиц. 2TC | 2TC |
+| 12-граммовая пуля | Выстреливает одну пулю, которая наносит немного меньше общего урона, чем картечь, но имеет 20% бронепробиваемость и большую скорость полета снаряда, так что если перед вами бронированные цели или вы сражаетесь на дистанции, стоит выбрать этот вариант. 3TC | 3TC |
+| Магазин .45 | Дополнительный магазин для SMG сталкера. Захватите несколько таких магазинов, если планируете остаться с этим оружием. 3TC | 3TC |
+| Зажигательный магазин .45 | Как и другие зажигательные боеприпасы, этот магазин наносит половину обычного урона в обмен на поджигание цели. У сталкера не так много синергии с зажигательными боеприпасами, но это не совсем плохое приобретение, к тому же оно дешевое. 4TC | 4TC |
+| .45 Magazine AP | Сталкер *очень* хорошо сочетается с боеприпасами AP. Если вы знаете, что будете иметь дело со станцией, подготовленной к вашему прибытию, или если вы ожидаете столкнуться с [Необычно](\3_Как играть\Jobs\Protagonist_roles\Centcom_roles\Redshield-Officer.md) [Жесткий](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Emergency-Response-Team.md) [Сопротивление,](Death-Squad.md) поскольку вы получаете преследователя бесплатно, это очень экономичный способ получить 50% бронепробиваемость в автоматическом пакете. 5TC | 5TC |
+| 7.12 Box Magazine | Больше свинца для "жужжалки". Пригодится, если станция сильно заселена или если вы планируете использовать пилу в качестве буквальной пилы для прорезания окон и стен. 6TC | 6TC |
+| 7.12 AP Box Magazine | Дорого, но если вам предстоит сразиться с полным отрядом [лучших и самых плохих] (Death-Squad.md), то вы не найдете им замены. 9TC | 9TC |
+| 7.12 Incendiary Box Magazine | В паре с Elite Syndicate Hardsuit это один из самых опасных комбо из оружия и боеприпасов в игре. Зажигательная пила наносит столько урона за выстрел, что штраф в половину урона для зажигательных патронов не так значителен, как для других видов оружия, а поджигание людей создает для них серьезную проблему, с которой они вынуждены бороться, пока сражаются с вами. 6TC | 6TC |
+| Снайперский магазин .50 | Из-за малого количества патронов в магазине вам, скорее всего, придется купить несколько таких магазинов (а еще лучше - приобрести снайперский набор). Не забывайте, что в стандартной комплектации он имеет 50% бронепробиваемость. 4TC | 4TC |
+| Снайперский магазин .50 Penetrator | В настоящее время он не пробивает цели так, как должен, но имеет несколько лучшие показатели AP по сравнению со стандартным магазином. 5TC | 5TC |
+| 5.56 Magazine | Ничего выдающегося по сравнению со стандартным магазином. Если вы собираетесь приобрести карабин, то вам стоит обратить внимание на вариант ниже. | 4TC |
+| 5.56 Magazine Phasic | Стоимость высока, но и бронепробиваемость тоже. При бронепробиваемости 70% этот патрон уничтожает бронированные цели. Кроме того, он обладает необычными свойствами снаряда, которые могут оказаться полезными. | 8TC |
+| Коробка с 40-мм гранатами | Если у вас нет гранатомета, пока откажитесь от этого варианта.  6TC | 6TC |
+| 84-мм HE Rocket | ракета с высоким уроном и большой площадью поражения. Используйте против толпы. Также убедитесь, что на вас надет скафандр, потому что он точно проделает дыру в станции. 4TC | 4TC |
+| 84-мм ракета HEDP | Не имеет очень хорошего применения (пока!). Ракета имеет высокие эффекты AP в точке попадания, но поскольку большая часть ее урона приходится на бомбы, она даже не очень хороша против сил центрокома. 6TC | 6TC |
+| 9mm stechkin Pistol Magazine | Магазин на 15 патронов для модного 9-мм пистолета.                 2TC | 2TC |
+| Коробка с дротиками для бунта | патроны для дротикового оружия.                                      | 2TC |
+| <font color="red">**EXPLOSIVES**</font> | Оперативные эксклюзивные взрывные устройства, используемые для нанесения АОЕ-ущерба или уничтожения важных объектов. | |
+| Пояс гранатометчика | Очень дорогой, но если вы планируете купить много гранат, этот пояс позволяет неплохо сэкономить. В комплект входят 2 минибомбы, 6 гранат, 2 ЭМИ-гранаты, мультиинструмент и злая отвертка. | 24TC |
+| Ящик с ЭМИ-гранатами | Ящик, наполненный 7 ЭМИ-гранатами. Если вы хотите устроить хаос на станции, не проделывая в ней дыр, этот набор - отличный вариант. | 10TC |
+| <font color="red">**SUITS**</font> | Различные костюмы, как правило, космического назначения.         | |
+| Кроваво-красные магботы | Для тех случаев, когда вам по какой-то причине не нравится пара, с которой вы начали. 2TC | 2TC |
+| Элитный комбинезон Синдиката | Улучшенный по сравнению со стандартным кроваво-красным комбинезоном, этот костюм полезен не из-за дополнительной защиты от лазера и пуль (она немного лучше, чем у стандартного костюма, но фактически имеет чуть более слабую защиту от лазера). Вместо этого вы приобретаете его за повышенную защиту от повреждений, наносимых окружающей средой, таких как взрывчатка, огонь и кислота. Это отличный выбор, если вы рискуете повредить себя собственным АОЕ-оружием. 8TC | 8TC |
+| <font color="red">**MISC. ГАДЖЕТЫ**</font> | Гаджеты, которые не сочетаются с другими | | | |
+| Челюсти жизни | Удобный электроинструмент, который может служить и ломом, и кусачками. Основная польза заключается в том, что в режиме лома он может силой открывать шлюзы, позволяя пробивать любые двери на своем пути. Обратите внимание на то, что он немного шумит при работе и не может открыть запертые двери, поэтому бдительный [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) может помешать вашему прогрессу. 4TC | 4TC |
+| Усиление Синдиката | Эта опция позволяет купить небольшой ретранслятор, который при активации открывает роль призрака, позволяющую одному мертвому игроку появиться в качестве дополнительного ядерного оперативника. Они начинают со всем инвентарем, но *без собственных ТС*, поэтому вам придется делиться с ними, чтобы они были экипированы. Это, в сочетании с ценой данной опции, означает, что данный пункт действительно жизнеспособен только в том случае, если вы объявили войну станции за дополнительные ТК. 25TC | 25TC |
+| <font color="red">**BUNDLES**</font> | Подумайте об экономии!                                        | |
+Пакет | Биотеррор | В настоящее время не стоит приобретать, так как химия недостаточно развита. Сэкономлено 12 TC. | 30TC |
+| Набор "Бульдозер"| Включает в себя дробовик "Бульдозер", 12-граммовые пули и картечь. Оглушающие пули - полезный способ получить оглушение, если вам по той или иной причине нужно взять кого-то живым. Экономия 3TC | 13TC |
+| Комплект сталкера | Вещевой мешок, в который входит сталкер с супрессором и двумя дополнительными магазинами. | 14TC |
+| Снайперский набор | Портфель, в который входят Мигрень, два запасных магазина и поношенный костюм и галстук. Экономия 6TC | 20TC |
+| Spetznas Pyro Bundle | В настоящее время его не стоит приобретать, так как в него входят не все предметы, которые должны быть в комплекте. 30TC | |
 
 
 
