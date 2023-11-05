@@ -1,60 +1,60 @@
-# Engineer
-**Job type:** <font color="#74652c">Engineer</font>. **Access:** <font color="#74652c">Engineering</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
+#Инженер
+**Тип работы:** <font color="#74652c">Инженер</font>. **Доступ:** <font color="#74652c">Инженер</font>, техническое обслуживание. **Сложность:** <font color="Yellow">Средняя</font>.
 
 
-## Overview
+## Обзор
 
-Engineers are the repairmen and electricians of the station. If there's a hole in the station providing one of the hallways or departments with a fresh view of space, it's the Engineer's job to fix it. If wires have been cut and half the station is out of power, it's the Engineer's job to fix it.
+Инженеры - это ремонтники и электрики станции. Если в станции есть дыра, открывающая одному из коридоров или отделов свежий вид на пространство, инженер обязан ее заделать. Если перерезаны провода и половина станции осталась без электричества, инженер обязан это исправить.
 
-As an Engineer, people expect you to know at least the basics of Construction, how the power system works and how to lay wires, etc. If you're ever confused on what to do, ask the [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md). They should give you advice, since they are your superior and it's their job to coordinate and assist engineers.
+От инженера ожидают, что он будет знать хотя бы основы строительства, как работает энергосистема, как прокладывать провода и т.д. Если вы не знаете, что делать, спросите [главного инженера](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md). Он должен дать вам совет, поскольку является вашим начальником, и в его обязанности входит координация и помощь инженерам.
 
-At the bare minimum, you must know how to fix a hull breach and how to turn on the SMES. Learn how to do these as an assistant to the [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) before you play as the only engineer on a low population server. Otherwise, you will have a really angry station on your back.
+Как минимум, вы должны знать, как заделать пробоину в корпусе и как включить SMES. Научитесь делать это в качестве помощника [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md), прежде чем играть в качестве единственного инженера на малонаселенном сервере. В противном случае у вас на спине будет очень злая станция.
 ### Bob the Builder
 
-this is just a very basic guide to how the construction system works. for a more in-depth guide, see [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md).
+Это лишь базовое руководство по работе системы строительства. более подробное руководство см. в разделе [Строительство](\3_HowToPlay\Guides\Engineering_guides\Construction.md).
 
-In Unitystation, there are three materials you'll need to worry about: Metal Plates, Glass Sheets, and Metal Rods. There are some more, but these are the ones you'll most often be using. In order to craft/construct something, have a material selected in your hand, and either press Z or click on it in your hand. This will open a construction menu where you can select what item to build. Keep in mind some items will need more materials than others, for example a department battery will need 30 metal plates where as a girder will only need 2.
+В Unitystation есть три материала, о которых вам нужно позаботиться: Металлические пластины, Стеклянные листы и Металлические стержни. Есть и другие, но чаще всего вы будете использовать именно эти. Для того чтобы изготовить или построить что-либо, выберите материал в руке и нажмите Z или щелкните на нем в руке. Откроется меню строительства, в котором можно выбрать, какой предмет нужно построить. Имейте в виду, что для некоторых предметов требуется больше материалов, чем для других, например, для батареи управления потребуется 30 металлических пластин, а для балки - всего 2.
 
-Once you've clicked on the item you want to build, wait for the bar above your head to fill up, and boom, you've built the item you want to build. Another note is that some items in the construction menu are intermediary constructions that must be finished with additional construction. For example, to build a wall requires you to construct a metal girder with 2 metal sheets, then finish the wall by clicking on the girder with 2 more sheets.
+После того как вы щелкнули на предмете, который хотите построить, подождите, пока заполнится полоса над головой, и бум, вы построили предмет, который хотели построить. Еще одно замечание: некоторые пункты меню строительства являются промежуточными постройками, которые должны быть завершены дополнительными постройками. Например, чтобы построить стену, нужно построить металлическую балку из 2 металлических листов, а затем закончить строительство стены, щелкнув на балке еще 2 листа.
 
-Construction materials will go very fast, especially with a full engineering department. It will likely be necessary to order more materials from [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md). If you have a [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md), get in touch with them about what you need. Their status as a head will get things ordered and shipped faster. However, the [Shaft Miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) [might](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) randomly show up with a humongous shipment of construction materials, both basic and exotic, to let you go nuts with. Be thankful you don't have to share them with [Science](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) yet.
-
-
-### Electricity
-
-An Engineer's job is also to keep the station powered. At the beginning of the round, the station will have some power available in the SMESs, but it won't last long. It is your responsibility to **start the engine.**
-
-Different maps will have different engines for you to work with. The plasma generator is pretty typical and easy to set up. On some maps it will have to be taken out of storage, but you wrench it onto the high voltage power line that feeds into the transformer and then you power it on. In most stations, a crate of plasma will be available to you at round start, but the rest of engineering's stockpile is usually kept locked by shutters, unlockable only by the Chief Engineer. If someone complains about the lack of power despite the generator being fine, head to the area without power and make sure the wiring hasn't been cut.
-
-The alternative choices to powering the station are much more complicated, and can go horribly wrong if you don't manage things closely. It is highly recommended to not mess with them without having read the guides or having a more experienced engineer walk you through the steps.
-
- [click here for the guide to starting the Singularity and Tesla Engines](\3_HowToPlay\Guides\Engineering_guides\Guide_to_the_Singularity_and_Tesla.md)
-
- [click here for the guide to starting the nuclear reactor](\3_HowToPlay\Guides\Engineering_guides\Guide-to-the-nuclear-reactor.md)
+Строительные материалы будут расходоваться очень быстро, особенно при наличии полного инженерного отдела. Скорее всего, придется заказывать дополнительные материалы у [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md). Если у вас есть [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md), свяжитесь с ним о том, что вам нужно. Их статус главы позволит быстрее заказать и доставить все необходимое. Однако [шахтеры](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) [могут](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) случайно появиться с огромной партией строительных материалов, как основных, так и экзотических, и дать вам возможность сойти с ума. Будьте благодарны, что вам пока не придется делиться ими с [Science](\3_HowToPlay\Jobs\Science_roles\Roboticist.md).
 
 
-### Tools
+### Электричество
+
+Работа инженера также заключается в том, чтобы поддерживать станцию в рабочем состоянии. В начале раунда станция будет иметь некоторое количество энергии в SMES, но это ненадолго. Ваша обязанность - **запустить двигатель*.
+
+На разных картах будут использоваться разные двигатели. Плазменный генератор довольно типичен и прост в настройке. На некоторых картах его придется доставать из хранилища, но вы подключаете его ключом к высоковольтной линии электропередачи, идущей к трансформатору, и включаете его. На большинстве станций ящик с плазмой будет доступен вам в начале раунда, но остальные запасы инженера обычно закрыты ставнями, которые может открыть только главный инженер. Если кто-то жалуется на отсутствие электричества, хотя генератор в порядке, отправляйтесь в зону, где нет электричества, и убедитесь, что проводка не перерезана.
+
+Альтернативные варианты электроснабжения станции гораздо сложнее, и если не следить за ситуацией, все может пойти наперекосяк. Настоятельно рекомендуется не прибегать к ним, не прочитав руководства или не попросив более опытного инженера провести вас через все шаги.
+
+ [нажмите здесь для получения руководства по запуску двигателей Singularity и Tesla](\3_HowToPlay\Guides\Engineering_guides\Guide_to_the_Singularity_and_Tesla.md)
+
+ [нажмите здесь для получения руководства по запуску ядерного реактора](\3_HowToPlay\Guides\Engineering_guides\Guide-to-the-nuclear-reactor.md)
 
 
-Engineers get given a set of tools, both in their toolbelt and in toolboxes stored around the department. These include:
+### Инструменты
 
-*A Crowbar, for prying up floor tiles and prying open stuck doors and firelocks.
-*A Screwdriver, for detaching windows, grilles, and dismantling unsecured girders.
-*A Welder, for detaching the plates from walls and making repairs to damaged components.
-*A Wrench, for securing and unsecuring items (such as vents, girders, plasma tanks [when in a shuttle's fuel slot], etc.)
-*A Wirecutter, for cutting wires and destroying grilles
-*A Multitool, used for connecting electrical machine to an APC and a variety of niche purposes. Also used for hacking.
-*High, medium, and low voltage wires.
 
-In addition, on most stations, each Engineer gets their own hardsuit. Cherish your birthright and never take it off. It will save your life.
+Инженерам выдается набор инструментов, как в поясе, так и в ящиках, хранящихся по всему отделу. К ним относятся:
 
-### Traitorneering ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) engineer)
+* Ломик - для откола плитки пола, открытия заклинивших дверей и противопожарных замков.
+* Отвертка для отвинчивания окон, решеток и демонтажа незакрепленных балок.
+*Сварщик - для отсоединения плит от стен и ремонта поврежденных элементов.
+*Гаечный ключ - для фиксации и снятия креплений (например, вентиляционных отверстий, балок, плазменных баков [когда они находятся в топливном отсеке шаттла] и т.д.).
+* Кусачки для резки проводов и разрушения решеток.
+*Мультиинструмент, используемый для подключения электрических машин к БТР и для различных нишевых целей. Также используется для взлома.
+*Провода высокого, среднего и низкого напряжения.
 
-A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) engineer isn't as easy as you might think it is. While you do have good access, a lot of useful equipment (including a hardsuit), and a generally effective excuse to be in lots of places you aren't supposed to ("just making repairs!"), you critically don't get access to any swanky weapons. No matter where you go, you also have a responsibility *to look busy.* Lingering around a place for too long without doing anything will very quickly arouse suspicions, so find things to do.
+Кроме того, на большинстве станций каждый инженер получает свой собственный защитный костюм. Берегите его и никогда не снимайте. Он спасет вам жизнь.
+
+### Traitorneering ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) инженер)
+
+Инженер [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) - это не так просто, как вам кажется. Хотя у вас есть хороший доступ, много полезного оборудования (включая защитный костюм) и в целом эффективное оправдание для того, чтобы находиться в местах, где не положено ("просто делаю ремонт!"), вы, по сути, не получаете доступа к какому-либо шикарному оружию. Куда бы вы ни отправились, вы также обязаны выглядеть занятым.* Слишком долгое пребывание в каком-либо месте без дела быстро вызовет подозрения, поэтому найдите себе занятие.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

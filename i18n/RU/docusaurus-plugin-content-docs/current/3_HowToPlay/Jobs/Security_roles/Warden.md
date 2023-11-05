@@ -1,30 +1,30 @@
 # Warden
-**Role type:** <font color="#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
+**Тип роли:** <font color="#711e25">Охрана</font>. **Доступ:** <font color="#711e25">Охрана и камеры</font>, <font color="#711e25">Брига</font>, <font color="#711e25">Арсенал</font>. **Сложность:** <font color="Orange">Трудность</font>.
 
 
-## Overview
+## Обзор
 
-The Warden is essentialy the Security department's watch dog. Your relationship with the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) is analogous to the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) and the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md). Your job is to sit in your office, hand [Security officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) weapons or armor if they have explicit permission from the HoS or Captain, and take over for the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) if they ever die or get deposed. You are responsible for the brig and management of the prisoners.
-### No i'm not giving you guns just because you *think* Cargo is revolting
-
-
-For the most part, all you need to do is guard the cells, feed the prisoners, put prisoners in perma to work growing fruit, and manage the armory. Give out weapons or armor to Sec officers when they are cleared for it. Typically, lethal weapons cannot be issued without clearance from the [HoS](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) or the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md), unless the station is on red alert. Your job is NOT to leave the security area and stop crime like a regular [Sec Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), though if there's a small amount of them you do kind of have a valid reason to. Due to your valuable Armory Access, your card getting stolen is a big deal. Stay inside Security as much as you can, only leaving if you need to eat, or if someone desperately needs security and no other officers can help. And check on the armory and evidence room from time to time. People can be sneaky as all hell, and it's crucial you find out if weapons have been stolen as soon as possible.
+Надзиратель - это, по сути, сторожевая собака отдела безопасности. Ваши отношения с [начальником службы безопасности] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) аналогичны отношениям [HoP] (\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) и [Captain] (\3_HowToPlay\Jobs\Command_roles\Captain.md). Ваша задача - сидеть в своем кабинете, выдавать [офицерам безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) оружие или броню, если они получили на это разрешение от HoS или капитана, и замещать [начальника безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), если он умрет или будет смещен. Вы отвечаете за гауптвахту и управление заключенными.
+### Нет, я не дам вам оружие только потому, что вы считаете, что карго бунтует.
 
 
-### Mr. Dispatch
+По большей части, все, что вам нужно делать, это охранять камеры, кормить заключенных, отправлять заключенных в перму на работу по выращиванию фруктов и управлять оружейным складом. Выдавайте оружие или броню офицерам Sec, если они имеют на это право. Обычно смертоносное оружие не выдается без разрешения [HoS](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) или [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md), если только станция не находится в состоянии красной тревоги. Ваша задача - не выходить из зоны безопасности и не пресекать преступления, как это делает обычный [Sec Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), хотя, если их немного, у вас есть на то веские причины. Из-за того, что вы имеете ценный доступ к оружейной комнате, кража вашей карты - это большая проблема. Оставайтесь в службе безопасности как можно дольше, выходя только если вам нужно поесть или если кто-то отчаянно нуждается в охране, а другие офицеры не могут помочь. Время от времени проверяйте оружейную комнату и комнату хранения улик. Люди могут быть чертовски хитрыми, и очень важно как можно скорее обнаружить, что оружие было украдено.
 
 
-If you have nothing to do and no prisoners to beat, you should be coordinating the [Security Officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) over the security channel. Since you should always be in the brig, you can fill out arrest records as the officers or [Detective](\3_HowToPlay\Jobs\Security_roles\Detective.md) report them. You have the opportunity to make Security run like a well-oiled machine if you put the work in.
+### Мистер Диспетчер
 
-A note on authority and the Chain of Command: You are equal in rank'' to other Security Officers and the Detective. You have authority over what happens to prisoners and how the brig is run in absence of the HoS, but you can't really order them around, though they typically ''will listen to you anyways. You only gain true authority if there is no Head of Security or if they have been killed. In addition to that, the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) is not your superior, and you do not need to listen to them at all, unless they have taken over in absence of the Captain. The HoP also does not have the right to bear weapons whenever they feel like it as well, so if they try to take things from the armory without reason, you should stop them and call the HoS.
 
-Keep watch for any [suspicious](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [individuals](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) loitering outside the Brig. A lot of Officers die just after they walk out the doors of the brig, usually by surprise disarming or lubed floors.
+Если вам нечего делать и нет заключенных, которых нужно избить, вы должны координировать действия [Офицеров безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) по каналу безопасности. Поскольку вы всегда должны находиться на гауптвахте, вы можете заполнять протоколы арестов по мере поступления сообщений от офицеров или [Детектива](\3_HowToPlay\Jobs\Security_roles\Detective.md). У вас есть возможность заставить службу безопасности работать как хорошо отлаженный механизм, если вы приложите к этому усилия.
 
-If you've got all that handled and you've got spare time, have a philosophical chat with the [Lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md) about Securitization versus the Social Contract.
+Замечание по поводу полномочий и субординации: Вы равны по званию" с другими сотрудниками службы безопасности и детективом. Вы имеете право решать, что происходит с заключенными и как работает гауптвахта в отсутствие начальника, но вы не можете приказывать им, хотя они обычно "все равно вас слушают". Настоящую власть вы получаете только в том случае, если начальника охраны нет или он убит. Кроме того, [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) не является вашим начальником, и вы вообще не обязаны его слушаться, если только он не вступил в должность в отсутствие капитана. HoP также не имеет права носить оружие, когда ему вздумается, поэтому, если он пытается взять вещи из оружейной комнаты без причины, вы должны остановить его и вызвать HoS.
+
+Следите за всеми [подозрительными](\3_Как играть\Jobs\Service_roles\Assistant.md) [личностями](\3_Как играть\Jobs\Civilian_roles\Entertainment_Roles\Clown.md), слоняющимися возле гауптвахты. Многие офицеры погибают сразу после выхода из дверей гауптвахты, обычно от неожиданного обезоруживания или смазанных полов.
+
+Если вы со всем этим разобрались и у вас есть свободное время, побеседуйте с [Юристом](\3_HowToPlay\Jobs\Security_roles\Lawyer.md) на философские темы: "Секьюритизация против общественного договора".
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
