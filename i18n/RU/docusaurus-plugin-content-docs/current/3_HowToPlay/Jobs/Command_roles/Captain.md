@@ -1,54 +1,54 @@
-# Captain
-**Role type**: <font color="#green">Command</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Very Hard</font>. Colloquial name: "Cap"
+# Капитан
+**Тип роли**: <font color="#green">Командование</font>. **Доступ**: <font color="green">Все</font>. **Трудность**: <font color="Red">Очень сложно</font>. Разговорное название: "Шапка".
 
 
-## Overview
+## Обзор
 
-Captain is one of the most challenging roles on the station. At first glance, your job might seem simple. Just make sure every department is doing what they're supposed to do and hitting the quotas set by [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), and make sure that no [Antagonists](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md) can sabotage the place. However, it's never that simple. Not only is your job to prevent the station from descending into chaos, it's also your job to plan the next course of action once prevention fails.
+Капитан - одна из самых сложных ролей на станции. На первый взгляд, ваша работа может показаться простой. Просто следите за тем, чтобы каждый отдел делал то, что должен, и выполнял квоты, установленные [Centcom](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md), и следите за тем, чтобы никакие [Antagonists](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md) не могли саботировать работу станции. Однако все не так просто. Ваша задача - не только не дать станции погрузиться в хаос, но и спланировать дальнейшие действия после того, как предотвращение не удастся.
 
-Of course, calling the Emergency Shuttle is an option, but that should only be done when all other options have been exhausted. That's not the only thing making your job difficult either; [everyone](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) that has [some](Nuclear-Emergency.md) form of [sabotage](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in mind will have a crosshair aimed straight at your head, so be careful when Jimmy Bob asks you to follow him into the maintenance tunnels.
+Конечно, вызов аварийного шаттла - это вариант, но делать это следует только тогда, когда все остальные варианты исчерпаны. Это не единственное, что затрудняет вашу работу: [каждый](\3_Как играть\Jobs\Antagonist_roles\Traitor.md), кто задумал [какую-то](Nuclear-Emergency.md) форму [саботажа](\3_Как играть\Jobs\Antagonist_roles\Cargonia.md), будет держать перекрестие, направленное прямо на вашу голову, поэтому будьте осторожны, когда Джимми Боб попросит вас следовать за ним в ремонтные туннели.
 
-It is your duty to ensure the stability and productivity of the station as well as the safety of your crew. You should have some experience in most of the Heads of Staff jobs and reasonable combat skills. It is suggested that you only pick Captain if you think you're robust enough to handle the challenges.
-### So, how do you stay alive?
+Ваша обязанность - обеспечивать стабильность и производительность станции, а также безопасность экипажа. Вы должны обладать определенным опытом работы в большинстве командных должностей и иметь хорошие боевые навыки. Рекомендуется выбирать капитана только в том случае, если вы считаете себя достаточно сильным, чтобы справиться с трудностями.
+### Итак, как остаться в живых?
 
-With so many people out for your life, you'd be glad to know that your office comes with your own special gun, called the Imperator, as well as a security belt and taser. You also start with the best general purpose armor on the station (though it only protects your chest) and a very durable hardsuit in your office (which protects your whole body while wearing it with the helmet, but slows you down a bunch). All of these things are good for shooting someone with and running away.
+Когда на вашу жизнь покушается столько людей, вам будет приятно узнать, что в вашем офисе есть собственный специальный пистолет "Император", а также пояс безопасности и электрошокер. Кроме того, в вашем распоряжении лучшая на станции броня общего назначения (правда, она защищает только грудь) и очень прочный скафандр в вашем офисе (который защищает все тело при ношении вместе со шлемом, но сильно замедляет вас). Все эти вещи хороши для того, чтобы застрелить кого-нибудь и убежать.
 
-That's right, running away. Unless you are very, very, robust, your best option when [guys in red hardsuits](Nuclear-Emergency.md) or some [greyshirt](\3_HowToPlay\Jobs\Service_roles\Assistant.md) with a stetchkin attacks you is to run the hell away. That, or hiding in the armory behind walls of [meatshields](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md).
+Именно так, убежать. Если только вы не очень, очень, очень крепкий, ваш лучший вариант, когда на вас нападают [парни в красных комбинезонах](Nuclear-Emergency.md) или какой-нибудь [серый рубака](\3_HowToPlay\Jobs\Service_roles\Assistant.md) со стечкиным, - это убежать к черту. Или спрятаться в оружейной за стенами из [мясных щитов](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md).
 
 
 ### Delegator Prime
 
 
-When you are not fighting off [nukies](Nuclear-Emergency.md) and evading [traitorous](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [assistants](\3_HowToPlay\Jobs\Service_roles\Assistant.md), you are monitoring, managing, and inspecting. You have the ultimate veto power over all matters. There really is no way to tell you exactly how to run things, but here's some things you should keep in mind:
+Когда вы не боретесь с [ядерной катастрофой](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) и не уклоняетесь от [предательских](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [помощников](\3_HowToPlay\Jobs\Service_roles\Assistant.md), вы следите, управляете и инспектируете. Вы обладаете абсолютным правом вето по всем вопросам. Невозможно точно сказать, как именно следует вести дела, но вот некоторые моменты, которые следует иметь в виду:
 
-- 'Do not get involved, Delegate everything.' You should avoid doing any tasks that can be done by a subordinate. If there's a hull breach, do not fix it yourself. Get your [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) to get off his ass and do it.
-- 'Observe the Chain of Command.' You should spend the majority of the time commanding the department heads. Let them command their departments. Avoid skipping them in the decision-making process as they are the ones who should know their departments best.
-- 'Do not tolerate excessive incompetence.' If a department head repeatedly demonstrates ineptitude at their job, or disrespects your authority, demote them from their position. If they don't comply, have them thrown in the brig and tried for mutiny.
+- 'Не вмешивайтесь, делегируйте все'. Вы должны избегать выполнения тех задач, которые могут быть решены подчиненными. Если произошла поломка корпуса, не устраняйте ее самостоятельно. Пусть ваш [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) оторвет свою задницу и сделает это.
+- 'Соблюдайте субординацию'. Вы должны проводить большую часть времени, командуя начальниками отделов. Позвольте им командовать своими отделами. Старайтесь не пропускать их в процессе принятия решений, поскольку именно они должны лучше всех знать свои отделы.
+- 'Не миритесь с чрезмерной некомпетентностью'. Если руководитель отдела постоянно демонстрирует некомпетентность в своей работе или пренебрегает вашими полномочиями, понижайте его в должности. Если они не подчиняются, бросьте их на гауптвахту и судите за мятеж.
 
 
-### Keeping the crew overall happy
+### Поддерживать общий уровень удовлетворенности экипажа
 
-Delegating and staying hidden can, however, trip you over more than it may help you in many situations, especially if your ordering executions and sec crackdowns often. To help with this, you can try to shed some anonymity through announcements declaring certain things legal and making areas public access. If you legalize drugs and open the gateway to prospecting adventurers, the crew will see you in a more positive light than if you commandeered your personal gestapo to kill any who opposed you.
+Делегирование полномочий и скрытность могут, однако, во многих ситуациях скорее помешать Вам, чем помочь, особенно если Вы часто отдаете приказы о казнях и разгонах. Чтобы помочь в этом вопросе, можно попытаться избавиться от анонимности с помощью объявлений, объявляющих некоторые вещи легальными и открывающими доступ к ним. Если вы легализуете наркотики и откроете ворота для искателей приключений, команда будет воспринимать вас в более позитивном свете, чем если бы вы приказали своему личному гестапо убивать всех, кто вам противостоит.
 
 
 ### [Secure Dat Fukken Disk](\4_Univers\Items\Nuclear-Authentication-Disk.md)
 
 
-The first thing you should do is get the fukken nuke disk and hide it on your person. Also take your spare ID. And probably your disk pinpointer, too. Guard the disk with you life. Do not show it to anyone. Do not trust it to anybody except maybe the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) or [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
+Первое, что вы должны сделать, это достать фуккен-диск и спрятать его при себе. Также возьмите запасное удостоверение личности. И, возможно, пинпоинтер. Охраняйте диск всю жизнь. Не показывайте его никому. Не доверяйте его никому, кроме, может быть, [начальника службы безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) или [начальника отдела кадров](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
 
-If there is the barest hint of [Syndicate activity](Nuclear-Emergency.md) on the station, drop whatever you are doing and book it to [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). The Syndies have their own disk pinpointers, and they can track the disk wherever it is. So if they are attacking the station, you need to squad up with [the boys](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) ASAP.
-
-
-### Abandoning Ship
+При малейшем намеке на активность [Синдиката](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) на станции, бросьте все свои дела и обратитесь в [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). У синдикатов есть свои собственные дисковые пинпойнтеры, и они могут отследить диск, где бы он ни находился. Поэтому, если они атакуют станцию, вам нужно как можно скорее связаться с [ребятами](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md).
 
 
-As the way shifts in this game tend to go, at some point it might become necessary to abandon ship. This is done by going to your command console and summoning the Emergency Shuttle. The shuttle will arrive in a shorter amount of time the higher the station alert level is, so if the station is disintegrating from multiple meteor impacts or is actively being attacked, make sure to bump that alert level all the way to red.
+### Покидаем корабль
 
-Don't forget though: You are ultimately responsible for the station. You should not be summoning the shuttle lightly. You should be doing your utmost to keep the station up and running. If the station has sustained damage, appraise its integrity to see if it's repairable first.
+
+Как обычно происходит в этой игре, в какой-то момент может возникнуть необходимость покинуть корабль. Для этого нужно обратиться к командной консоли и вызвать аварийный шаттл. Шаттл прибудет тем быстрее, чем выше уровень тревоги на станции, поэтому, если станция разрушается от многочисленных метеоритных ударов или подвергается активным атакам, не забудьте поднять уровень тревоги до красного.
+
+Не забывайте, что ответственность за станцию лежит на вас. Вы не должны легкомысленно вызывать шаттл. Вы должны сделать все возможное для поддержания станции в рабочем состоянии. Если станция получила повреждения, сначала оцените ее целостность и определите, можно ли ее отремонтировать.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
