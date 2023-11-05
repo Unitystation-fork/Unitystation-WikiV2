@@ -1,24 +1,24 @@
-# Clown
-**Role type:** <font color="#c51f57">Entertainment</font> . **Access:** Maintenance. **Difficulty:** <font color="Red">H</font><font color="Yellow">O</font><font color="Blue">N<font color="Purple">K</font><font color="Red">!</font></font>
+# Клоун
+**Тип роли:** <font color="#c51f57">Развлечения</font> . **Доступ:** Обслуживание. **Трудность:** <font color="Red">H</font><font color="Yellow">O</font><font color="Blue">N<font color="Purple">K</font><font color="Red">!</font></font>.
 
 
-## Overview
+## Обзор
 
 
-You are the Clown. The Funnyman. Mortal enemy of the [Mime](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md). The one who's supposed to be making the crew members laugh, and act as stress relief. Instead, most see you as a threat due to most clown's tendencies to lube up the hallways and hide banana peels under doors. As such, don't be surprised if no one trusts you. The best clowns mix actual clown stuff into their pranks. Having a funny gimmick and telling some jokes now and then can mean the difference between being murdered in a hallway and getting All Access.
+Вы - клоун. Смешной человек. Смертельный враг [Мима](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md). Тот, кто должен смешить членов экипажа и снимать стресс. Вместо этого большинство воспринимает вас как угрозу, поскольку большинство клоунов склонны смазывать коридоры и прятать банановую кожуру под дверями. Поэтому не удивляйтесь, если никто вам не доверяет. Лучшие клоуны добавляют в свои розыгрыши настоящие клоунские штучки. Если у вас есть смешной трюк и вы время от времени рассказываете анекдоты, то разница между убийством в коридоре и получением All Access может оказаться существенной.
 
 
-### Just a prank bro HONK! HONK!
+### Просто розыгрыш, брат, HONK! HONK!
 
-Your job is simple. Make jokes, make people laugh, get beat up by the [people](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) [in](\3_HowToPlay\Jobs\Security_roles\Detective.md) [red](\3_HowToPlay\Jobs\Security_roles\Warden.md) [suits](Nuclear-Emergency.md) for placing a banana peel. But, because of Clown's tendencies to mess the station up, very few people actually trust you with anything, and you are disliked by most; even more disliked than [the people in gray jumpsuits](\3_HowToPlay\Jobs\Service_roles\Assistant.md).
+Твоя работа проста. Шутить, смешить людей, получать взбучку от [людей](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) [в](\3_HowToPlay\Jobs\Security_roles\Detective.md) [красный](\3_HowToPlay\Jobs\Security_roles\Warden.md) [костюм](Nuclear-Emergency.md) за размещение банановой кожуры. Но из-за склонности Клоуна к беспорядку на станции мало кто доверяет вам что-либо, и вас не любят большинство, даже больше, чем [людей в серых комбинезонах](\3_HowToPlay\Jobs\Service_roles\Assistant.md).
 
-But, [there are some times where people actually trust you](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md), instead of just immediately voting to introduce you to the cold, airless vacuum of space. Value these moments, because it could be the only time your life isn't in danger 24/7.
+Но [бывают моменты, когда люди действительно доверяют вам](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md), а не просто сразу голосуют за то, чтобы представить вас в холодном, безвоздушном вакууме космоса. Цените эти моменты, потому что это может быть единственный раз, когда ваша жизнь не находится в опасности 24 часа в сутки 7 дней в неделю.
 
-Don't forget that your PDA is slippery, and can be used when you lose your banana peel.
+Не забывайте, что ваш КПК скользкий, и его можно использовать, когда вы потеряете банановую кожуру.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

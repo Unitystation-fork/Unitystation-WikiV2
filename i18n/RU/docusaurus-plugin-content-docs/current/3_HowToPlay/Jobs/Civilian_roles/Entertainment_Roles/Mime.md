@@ -1,23 +1,23 @@
 # Mime
-**Role type:** <font color="#c51f57">Entertainment</font>. **Access:** <font color="#c51f57">Mime's office</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>.
+**Тип роли:** <font color="#c51f57">Развлечения</font>. **Доступ:** <font color="#c51f57">Кабинет Мима</font>, Обслуживание. **Трудность:** <font color="Green">Легко</font>.
 
 ## ...
 
-You are the mime, the silent type. you are bound by oath to keep your mouth shut and only express yourself through gestures using /me. Should you fail to keep your mouth shut, you'll likely end up suffering consequences ranging anywhere from annoyance to death. Your job is supposed to be t entertain the crew, but nobody will egg you on to do that. in practice, you are more or less a handicapped assistant, in that you cant scream for help.
+Вы - мим, молчаливый тип. Вы связаны клятвой держать рот на замке и выражать свои мысли только жестами, используя /me. Если вы не сможете держать язык за зубами, то, скорее всего, это повлечет за собой различные последствия - от раздражения до смерти. Предполагается, что ваша работа заключается в том, чтобы развлекать экипаж, но никто не будет подстрекать вас к этому. На практике вы более или менее помощник-инвалид, так как не можете кричать о помощи.
 
 
-### waves hands
+### размахивает руками
 
-A mime has a variety of unique mime-specific tools and gear, such as his mask, uniform, backpack, and the bottle of nothing in his pack. The latter can be used by the bartender to make drinks. The Clown will often be either your best bud or greatest nemesis, as has been the case ever since the foundation of the clown and mime federation, the latter falling apart as they couldn't pass any laws.
+У мима есть множество уникальных специфических для мима инструментов и приспособлений, таких как маска, униформа, рюкзак, бутылка "ничего" в рюкзаке. Последняя может быть использована барменом для приготовления напитков. Клоун может быть как лучшим приятелем, так и злейшим врагом - так повелось с тех пор, как была основана федерация клоунов и мимов, которая распалась, так как не смогла принять ни одного закона.
 
-## *waves hand as if using a wand*
+## *машет рукой, как палочкой*.
 
-| Name | Description |
+| Имя | Описание |
 | - | - |
-| Speech | Make or break a vow of silence, either allowing you to speak or use mime spells. |
-| Invisible box  | Create a box that is invisible. |
-| Invisible chair   | Create an invisible chair. |
-| Invisible wall   | Create an invisible wall. |
+| Речь | Наложить или снять обет молчания, позволяющий говорить или использовать мимические заклинания. |
+| Невидимый ящик | Создать невидимый ящик. |
+| | Невидимый стул | Создать невидимый стул. |
+| | Невидимая стена | Создать невидимую стену. |
 
 
 

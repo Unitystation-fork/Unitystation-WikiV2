@@ -1,5 +1,5 @@
-THE ADMIN
-Admins are weird spacial creatures that seem to exist all over the multiverse excerting incredible power over things for at times seemingly no reason at all.
+АДМИН
+Администраторы - это странные пространственные существа, которые, кажется, существуют по всей Вселенной и обладают невероятной властью над вещами, иногда, кажется, без всякой причины.
 
-How to Admin:
-coming soon
+Как стать администратором:
+скоро будет

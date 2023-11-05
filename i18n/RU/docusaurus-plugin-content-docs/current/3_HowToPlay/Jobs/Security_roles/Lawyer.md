@@ -1,32 +1,30 @@
-# Lawyer
-**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
+#Юрист
+**Тип должности:** <font color="#808080">Гражданин</font>. **Доступ:** Обслуживание. **Сложность:** <font color="Green">легко</font>.
 
-You are the wall between law and the suspect, it's in your hands to see that everything happens just-fully, or you know, dig your client in deeper because he is either a furry or a clown. This role is meant for those who know the [laws](\3_HowToPlay\Guides\Security_guides\Space-Law.md) and are seeking a role play heavy experience.
+Вы - стена между законом и подозреваемым, в ваших руках проследить, чтобы все произошло как надо, или закопать клиента поглубже, потому что он либо мохнатый, либо клоун. Эта роль предназначена для тех, кто знает [законы](\3_HowToPlay\Guides\Security_guides\Space-Law.md) и стремится к ролевой игре с большим опытом.
 
 
-### How to
+### Как
 
-Frankly - opportunities will present themselves to you, just hang around near the action, or security if there's no action. Make to have your [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) book handy at all times, the satisfaction of playing the role comes when you successfully null and void any and all accusations thrown at your defendant. But most of the time you have to enjoy the little things, like term shortening or getting the [guards](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) to not break the [Geneva Conventions](https://en.wikipedia.org/wiki/Geneva_Conventions).
+Честно говоря, возможности будут появляться сами собой, просто околачивайтесь рядом с местом действия или охраной, если действия нет. Всегда держите под рукой книгу [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md), удовлетворение от роли приходит, когда вы успешно аннулируете все обвинения, брошенные в адрес вашего подзащитного. Но большую часть времени вам приходится наслаждаться мелочами, такими как сокращение срока или уговоры [охранников](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) не нарушать [Женевские конвенции](https://en.wikipedia.org/wiki/Geneva_Conventions).
 
-## How court should go
+## Как должен проходить суд
 
-1) Meet your defendant one on one to talk over the details, ask him what he did and what he didn't do, and ask what he did but wants you to say he did not do.
+1) Встретьтесь с обвиняемым один на один, чтобы обсудить детали, спросить его, что он делал и чего не делал, а также спросить, что он делал, но хочет, чтобы вы сказали, что он этого не делал.
 
-2) Tell the [guards](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) you're ready to move on and get ready for court. Memorize what your defendant told you and you told your defendant, if you made up a story to cover up some of his crimes, make sure you both remember it.
+2) Скажите [охранникам](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), что вы готовы двигаться дальше и готовиться к суду. Запомните, что сказал вам ваш подзащитный и что вы сказали своему подзащитному, если вы придумали историю, чтобы скрыть какие-то его преступления, убедитесь, что вы оба это запомнили.
 
-3) During court speak **for** your client, only have the defendant speak when **directly** asked, if the question doesn't imply that specifically he should answer then answer it for him, in a manner that benefits him.
+3) Во время судебного заседания выступайте **за** своего клиента, пусть подсудимый говорит только тогда, когда его **прямо** спрашивают, если вопрос не подразумевает, что именно он должен отвечать, то отвечайте за него, так, чтобы это было выгодно ему.
 
-4) Listen to the outcome, and learn your mistakes if you made any.
+4) Прислушивайтесь к результату и учитесь на своих ошибках, если вы их совершили.
 
-Don't worry, all professions take practice and no one does anything perfectly on the first try, so you have to learn what it feels like to play Lawyer.
+Не волнуйтесь, все профессии требуют практики, и никто не делает ничего идеально с первой попытки, так что вам придется узнать, каково это - играть в адвоката.
 
   <br/>
-<br/>
-<br/>
+<br/>>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
 <Jobs />
 
-# Space Law
-please check "security officer page"
