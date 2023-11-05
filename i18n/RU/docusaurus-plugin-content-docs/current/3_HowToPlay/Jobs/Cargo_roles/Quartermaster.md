@@ -1,133 +1,133 @@
-# Quartermaster
+# Квартермейстер
 
 <div class="card bg-dark text-white">
     <div class="card-body">
         <div class="card-img-top d-flex align-items-center">
             <div>
-                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_qm.png" alt="Card image cap"></img>
-                <b>Role type:</b>  <font color="#734823">Cargo</font>. <b>Access:</b> ???  <b>Difficulty:</b> <font color="Yellow"> Medium</font>. Colloquial name: "QM"
+                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_qm.png" alt="Шапка изображения карты"></img>
+                <b>Тип роли:</b> <font color="#734823">Груз</font>. <b>Доступ:</b> ???  <b>Сложность:</b> <font color="Yellow">Средняя</font>. Разговорное название: "QM".
             </div>
         </div>
     </div>
 </div>
 
-Note: This is the guide to QM, if your new to cargo please read the guide to being a [Cargo Technician](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) and/or [Shaft Miner](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md)
+Примечание: Это руководство по QM, если вы новичок в грузоперевозках, пожалуйста, прочитайте руководство по работе с [Cargo Technician] (\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) и/или [Shaft Miner] (\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md).
 
-"[*Move Freight. Miners*,](So-close-to-impossible-that-it-might-as-well-not-even-exist.md)" - A wise QM
+"[*Перемещать грузы. Шахтеры*,](Так близко к невозможному, что это может даже не существовать.md)" - Мудрый QM
 
-### King of the delivery squad
+### Король отряда доставки
 
-As the QM, your job is simple, you oversee the regular operations of cargo, be that paperwork, orders, exports, or coordinating mining operations on some god-forsaken rock from the comfort of your office. While the normal [Cargo Techs](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) are good at moving crates and making money, they tend to have trouble juggling bounties and spending that money. This is where you come in. Check with other departments to see what supplies they are running low on, and buy them, either in person or over the radio, they'll be more than happy to inform you. You should also almost always buy [meat crates](Cooking.md) for the [Chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) and metal for engineering as soon as you can, as stocks of both run out rapidly.
+Как QM, ваша работа проста: вы следите за регулярными операциями с грузами, будь то оформление документов, заказов, экспорт или координация горных работ на какой-нибудь богом забытой скале, не выходя из своего кабинета. В то время как обычные [Cargo Techs](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) хороши в перемещении ящиков и зарабатывании денег, они обычно испытывают трудности с жонглированием наградами и тратой этих денег. Вот тут-то вы и придете на помощь. Узнайте у других отделов, какие припасы у них на исходе, и купите их - лично или по радио, они будут рады сообщить вам об этом. Вам также следует почти всегда покупать [ящики с мясом](Cooking.md) для шеф-повара (\3_HowToPlay\Jobs\Service_roles\Cook.md) и металл для инженеров при первой же возможности, поскольку запасы того и другого быстро заканчиваются.
 
-### Requests
+### Запросы
 
-Oftentimes, you wont be the one asking others if they need supplies, rather, the crew will be asking you. You could be a prick and hand anyone asking for so much as a pen ten sheets of paperwork, which will likely result in your untimely demise, or you can heed their requests like an ordinary human being. The requests you'll get will range anywhere from spare generators to clowning tools. You will generally be expected to fulfill these requests in a reasonable time-frame and have someone deliver the goods to the relevant department or room.
+Зачастую не вы будете спрашивать у других, нужны ли им припасы, а команда будет спрашивать вас. Вы можете быть мудаком и вручать каждому просящему хоть ручку, хоть десять листов бумаги, что, скорее всего, приведет к вашей безвременной кончине, а можете прислушаться к их просьбам, как обычный человек. Просьбы могут быть самыми разными - от запасных генераторов до клоунских инструментов. Как правило, от вас требуется выполнить эти просьбы в разумные сроки и поручить кому-нибудь доставить товар в соответствующий отдел или комнату.
 
-A critical part of fulfilling requests that you must coordinate with your [Cargo Techs](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) is crate reclamation.'' Shipping crates can be exchanged for a significant portion of their original cost, sometimes as high as 100% ("''it's free real state.") of their purchase price. Always badger people about the crates they have taken and not returned. Stretch those dollars as far as you can.
+Важнейшей частью выполнения заявок, которую вы должны согласовывать со своими [Cargo Techs](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md), является рекультивация ящиков''. Транспортные ящики можно обменять на значительную часть их первоначальной стоимости, иногда до 100% ("'it's free real state.") от их покупной цены. Всегда спрашивайте людей о тех ящиках, которые они взяли и не вернули. Растягивайте эти доллары как можно дальше.
 
-### Exports
+### Экспорт
 
-To spend money, you must make money, and the way you do that is through exports. The way this is done is very simple. Drag whatever you want to sell onto the Cargo Shuttle and send it to Centcom. Lockers and crates (see above) are worth a sizable amount, with the prior being manufacturable with some metal for easy money. Other exports may include raw material, Bounties, stolen goods from other departments, refined ore, produce from botany, and generally whatever else you can find with your export scanner.
+Чтобы тратить деньги, нужно их зарабатывать, а делать это можно с помощью экспорта. Это делается очень просто. Перетащите все, что хотите продать, на грузовой шаттл и отправьте на Centcom. Шкафчики и ящики (см. выше) стоят приличную сумму, а предшественник может быть изготовлен из некоторого количества металла за легкие деньги. Другими предметами экспорта могут быть сырье, награбленное имущество, краденые товары из других отделов, очищенная руда, продукция ботаники и вообще все, что можно найти с помощью сканера экспорта.
 
-When the [miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) actually [survive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) their expedition and grace your department with a fresh haul of ore, you should:
+Когда [шахтеры](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) действительно [выживают](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) в своей экспедиции и радуют ваш отдел свежей порцией руды, вы должны:
 
-*Distribute all [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) materials (glass and metal) to lathes or [Engineer](Engineering.md)
-*Give [solid plasma](Plasma.md) and uranium to engineering for powering the station.
+*Распределить все [строительные](\3_HowToPlay\Guides\Engineering_guides\Construction.md) материалы (стекло и металл) по токарным станкам или [Engineer](Engineering.md)
+*Отдайте [твердую плазму](Plasma.md) и уран инженеру для питания станции.
 
-* Sell gold, silver, bananium, bluespace crystals, and diamonds. Or give them to the [Roboticist](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) and taunt them for their current lack of job functionality.
-*take all recovered [Xenomorph](\4_Univers\Mobs\Xenomorph.md) bodies to the [chef](\3_HowToPlay\Jobs\Service_roles\Cook.md) for some green steaks.
+* Продавайте золото, серебро, бананиум, голубые космические кристаллы и алмазы. Или отдайте их [Роботизатору](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) и поиздевайтесь над ним за то, что он сейчас не может выполнять свою работу.
+*Отнесите все восстановленные тела [ксеноморфов](\4_Univers\Mobs\Xenomorph.md) к [повару](\3_HowToPlay\Jobs\Service_roles\Cook.md) за зелеными стейками.
 
 
 
-| Item Name                                    | Price        | Contents                                                     | Crate Reclamation Payout (refund%) |
+| Название предмета | Цена | Содержимое | Выплата за рекультивацию ящика (возврат %) |
 | -------------------------------------------- | ------------ | ------------------------------------------------------------ | ---------------------------------- |
-| Kitchen                                      |              |                                                              |                                    |
-| Beet Crate                                   | 700          | 3 beers (really?)                                            | 500 (71%)                          |
-| Meat Kit Crate                               | 600          | 5 Meats, 1 Chef's Knife                                      | 500 (83%)                          |
-| Knife Kit Crate                              | 500          | 3 chef's knives                                              | 500 (100)%                         |
-| Energy Crate                                 | 500          | 5 iced coffees                                               | 500 (100%)                         |
-| Better Eyes Crate                            | 600          | 5 cups of carrot(?) juice                                    | 500 (83%)                          |
-| **Security**                                 |              |                                                              |                                    |
-| [Handcuffs Crate](\3_HowToPlay\Guides\Security_guides\Security-Officer-Guide.md) | 900          | 5 handcuffs                                                  | 500 (55%)                          |
-| Batons Crate                                 | 1500         | 3 wooden batons                                              | 750 (50)                           |
-| Shotgun Crate                                | 5000         | 3 combat shotguns (loaded)                                   | 750 (15%)                          |
-| Machine-gun Crate                            | 5000         | 3 machine-guns (loaded)                                      | 750 (15%)                          |
-| Laser Gun Crate                              | 4500         | 3 laser guns                                                 | 750 (16%)                          |
-| Laser Pistol Crate                           | 4000         | 3 laser pistols                                              | 750 (18%)                          |
-| **Medical**                                  |              |                                                              |                                    |
-| First Aid Kit Crate                          | 800          | 3 First Aid Kits                                             | 500 (62%)                          |
-| Burn Kit Crate                               | 800          | 3 Burn Kits                                                  | 500 (62%)                          |
-| Body Bag Crate                               | 800          | 2 body bag boxes (14 body bags)                              | 500 (62%)                          |
-| Beaker Box Crate                             | 700          | 3 beaker boxes (21 beakers)                                  | 500 (71%)                          |
-| **Science**                                  |              |                                                              |                                    |
-| Chemistry Kit Crate                          | 800          | 1 bucket, 1 chemist's labcoat, 2 large beakers               | 500 (62%)                          |
-| **Engineering**                              |              |                                                              |                                    |
-| Tool Crate                                   | 700          | 2 mechanical toolboxes, 2 tool belts                         | 500 (71%)                          |
-| Low Voltage Cable Crate                      | 800          | 3x30 low power cable bundles                                 | 500 (62%)                          |
-| Cable Crate                                  | 800          | 3x30 power cable bundles                                     | 500 (62%)                          |
-| High Voltage Cable Crate                     | 700          | 3x30 high power cable bundles                                | 500 (71%)                          |
-| Circuit Board Crate                          | 800          | 1 circuit board each: Cargo Console, Cloning console, Comms console, ID Console, Security Records Console, Shuttle Console | 500 (62%)                          |
-| Plasma Generator                             | 1000         | 1 Plasma Generator                                           | 500 (50%)                          |
-| Reactor Starting Rod Crate                   | 1000         | 2 engine starter rods                                        | 500 (50%)                          |
-| Reactor Control Rod Crate                    | 2000         | 6 control rods                                               | 500 (25%)                          |
-| Reactor Fuel Rod Crate                       | 2500         | 5 fuel rods                                                  | 500 (20%)                          |
-| **Service**                                  |              |                                                              |                                    |
-| Storage Crate                                | 600          | just an empty crate. Get the energy crate for cheaper. And it comes with free coffee! | 500 (83%)                          |
-| Cleaning Supplies Crate                      | 700          | 1 bucket, 1 mop, 1 trashbag, 1 space cleaner bottle          | 500 (71%)                          |
-| Replacement Lights Crate                     | 1000         | 3 boxes of lights (21 lightbulbs, 42 light tubes)            | 500 (50%)                          |
-| Wet Floor Signs Crate                        | 800          | 10 blank IDs                                                 | 500 (62%)                          |
-| ID Crate                                     | 550          | 10 blank IDs                                                 | 500 (90%)                          |
-| **Botany**                                   |              |                                                              |                                    |
-| Hydroponics Crate                            | 800          | 1 seed pack each: apples, bananas, berries, cherries, chilis, grapes, grass, lemons, limes, sunflowers | 750 (93%)                          |
-| **Mining**                                   |              |                                                              |                                    |
-| Mining Tools Crate                           | 600          | 2 shovels, 2 picks, 2 lanterns, 2 PKAs                       | 500 (83%)                          |
-| Plasma Cutter Crate                          | 600          | 1 Plasma Cutter                                              | 500                                |
-| Advanced Plasma Cutter Crate                 | 600          | 1 Advanced Plasma Cutter                                     | 500                                |
-| **Emergency**                                |              |                                                              |                                    |
-| EVA Crate                                    | 800          | 1 mining hardsuit set, 1 large oxygen tank and mask          | 500 (62%)                          |
-| Internals Crate                              | 1000         | 3 oxygen masks, 3 large oxygen tanks, 3 personal oxygen tanks | 500 (50%)                          |
-| Firefighting Crate                           | 1000         | 2 flashlights, 2 fire extinguishers, 2 large oxygen tanks and masks | 500 (50%)                          |
-| Radiation Protection Crate                   | 800          | 2 radiation suit sets, 2 Geiger counters, 1 large oxygen tank and mask | 500 (62%)                          |
-| **Materials**                                |              |                                                              |                                    |
-| Cardboard sheets Crate                       | 1000         | 50 cardboard sheets                                          | 750                                |
-| Metal Crate                                  | 1500         | 50 metal                                                     | 500                                |
-| Glass Crate                                  | 2000         | 50 glass                                                     | 500                                |
-| Solid Plasma Crate                           | 3000         | 4 solid plasma                                               | 750                                |
-| Half Plasteel Crate                          | 7500         | 20 Plasteel                                                  | 500                                |
-| Full Plasteel Crate                          | 16500        | 50 Plasteel                                                  | 500                                |
-| Wood Planks Crate                            | 2000         | 50 wood planks                                               | 500                                |
-| BZ Canister                                  | 8000         | 1 Canister                                               | N/A                                |
-| CO2 Canister                                 | 3000         | 1 Canister                                               | N/A                                |
-| N2 Canister                                  | 2000         | 1 Canister                                               | N/A                                |
-| N2O Canister                                 | 3000         | 1 Canister                                               | N/A                                |
-| O2 Canister                                  | 1500         | 1 Canister                                               | N/A                                |
-| Water Vapor Canister                                  | 2500         | 1 Canister                                               | N/A                                |
-| Firefighting Foam Tank                            | 1500         | 1 Tank                                               | N/A                                |
-| Fuel Tank                            | 800         | 1 Tank                                               | N/A                                |
-| Extra Capacity Water Tank                            | 1200         | 1 Tank                                               | N/A                                |
-| Water Tank                            | 600         | 1 Tank                                               | N/A                                |
-| Vending Resupply Crate                       | 1500         | 1 Vending Resupply pack (doesn't work, just eats credits like a real vending machine) | 500 (33%)                          |
-| **Miscellaneous**                            |              |                                                              |                                    |
-| Monkey Crate                                 | 550          | 6 banana peels                                               | 500 (90%)                          |
-| Robusting Crate                              | 1000         | 8 mechanical toolboxes                                       | 500 (50%)                          |
-| Uniform Sets                                 |              |                                                              |                                    |
-| There's a crate for every station job        | 600 ~ 100000 |                                                              | 500 to 750(???)                    |
+Кухня | | | | | | |
+| Ящик со свеклой | 700 | 3 бутылки пива (правда?) | 500 (71%) |
+| Ящик с мясным набором | 600 | 5 видов мяса, 1 поварской нож | 500 (83%) |
+| Knife Kit Crate | 500 | 3 поварских ножа | 500 (100)% |
+| Энергетический ящик | 500 | 5 порций кофе со льдом | 500 (100%)|
+| Ящик для улучшения зрения | 600 | 5 чашек морковного(?) сока | 500 (83%) |
+| **Безопасность** | | | | | | | |
+| [Наручники Crate](\3_HowToPlay\Guides\Security_guides\Security-Officer-Guide.md) | 900 | 5 наручников | 500 (55%) |
+| Ящик с дубинками | 1500 | 3 деревянные дубинки | 750 (50) |
+| Ящик с дробовиком | 5000 | 3 боевых дробовика (заряженных) | 750 (15%) |
+| Ящик с пулеметом | 5000 | 3 пулемета (заряженные) | 750 (15%) |
+| Laser Gun Crate | 4500 | 3 лазерных пушки | 750 (16%) |
+| Laser Pistol Crate | 4000 | 3 лазерных пистолета | 750 (18%) |
+| **Медицина** | | | | | | |
+| Ящик с аптечкой первой помощи | 800 | 3 аптечки первой помощи | 500 (62%) |
+| Ящик с ожоговым комплектом | 800 | 3 ожоговых комплекта | 500 (62%) |
+| Ящик для мешков для трупов | 800 | 2 ящика для мешков для трупов (14 мешков для трупов) | 500 (62%) |
+| Beaker Box Crate | 700 | 3 коробки с мензурками (21 мензурка) | 500 (71%) |
+| **Наука** | | | | | | | |
+| Ящик с набором для химии | 800 | 1 ведро, 1 халат химика, 2 большие мензурки | 500 (62%) |
+| **Инженерия** | | | | | | | |
+| Ящик для инструментов | 700 | 2 ящика для механических инструментов, 2 ремня для инструментов | 500 (71%) |
+| Ящик для низковольтных кабелей | 800 | 3x30 пучков низковольтных кабелей | 500 (62%) |
+| Кабельный ящик | 800 | 3x30 пучков силовых кабелей | 500 (62%) |
+| High Voltage Cable Crate | 700 | 3x30 пучков силовых кабелей | 500 (71%) |
+| Ящик для печатных плат | 800 | По 1 печатной плате: Грузовая консоль, консоль клонирования, консоль связи, консоль идентификации, консоль записей безопасности, консоль шаттла | 500 (62%) |
+| Генератор плазмы | 1000 | 1 генератор плазмы | 500 (50%) |
+| Reactor Starting Rod Crate | 1000 | 2 пусковых стержня двигателя | 500 (50%) |
+| Reactor Control Rod Crate | 2000 | 6 управляющих стержней | 500 (25%) |
+| Reactor Fuel Rod Crate | 2500 | 5 топливных стержней | 500 (20%) |
+| **Сервис** | | | | | | |
+| Ящик для хранения | 600 | просто пустой ящик. Энергетический ящик стоит дешевле. И к нему прилагается бесплатный кофе! | 500 (83%) |
+| Ящик с принадлежностями для уборки | 700 | 1 ведро, 1 швабра, 1 мешок для мусора, 1 бутылка для чистки помещений | 500 (71%) |
+| Ящик для сменных ламп | 1000 | 3 коробки ламп (21 лампочка, 42 трубки) | 500 (50%) |
+| Ящик со знаками мокрого пола | 800 | 10 пустых идентификаторов | 500 (62%) |
+| Ящик для удостоверений личности | 550 | 10 пустых удостоверений личности | 500 (90%) |
+| **Ботаника** | | | | | | | |
+| Гидропоника | 800 | По 1 пакету семян: яблоки, бананы, ягоды, вишни, чили, виноград, трава, лимоны, лаймы, подсолнухи | 750 (93%) | |
+| **Горное дело** | | | | | | |
+| Ящик с инструментами для горной промышленности | 600 | 2 лопаты, 2 кирки, 2 фонаря, 2 PKA | 500 (83%) |
+| Ящик с плазменным резаком | 600 | 1 плазменный резак | 500 |
+| Ящик с усовершенствованным плазменным резаком | 600 | 1 усовершенствованный плазменный резак | 500 |
+| **Emergency** | | | | | | |
+| Ящик EVA | 800 | 1 комплект защитного костюма для шахтеров, 1 большой кислородный баллон и маска | 500 (62%) |
+| Internals Crate | 1000 | 3 кислородные маски, 3 больших кислородных баллона, 3 персональных кислородных баллона | 500 (50%) |
+| Ящик для пожарных | 1000 | 2 фонаря, 2 огнетушителя, 2 больших кислородных баллона и маски | 500 (50%) |
+| Ящик для радиационной защиты | 800 | 2 комплекта радиационных костюмов, 2 счетчика Гейгера, 1 большой кислородный баллон и маска | 500 (62%) |
+| **Материалы** | | | | | | | |
+Ящик с картонными листами | 1000 | 50 картонных листов | 750 | |
+| Металлический ящик | 1500 | 50 металлических | 500 |
+| Стеклянный ящик | 2000 | 50 стеклянных | 500 |
+| Ящик для твердой плазмы | 3000 | 4 ящика для твердой плазмы | 750 |
+| Половина пластелинового ящика | 7500 | 20 пластелиновых | 500 |
+| Полный ящик с пластелином | 16500 | 50 пластелинов | 500 |
+| Ящик с деревянными досками | 2000 | 50 деревянных досок | 500 |
+| Канистра BZ | 8000 | 1 канистра | N/A |
+| Канистра CO2 | 3000 | 1 канистра | N/A |
+| Канистра N2 | 2000 | 1 канистра | N/A |
+| Канистра N2O | 3000 | 1 канистра | N/A |
+| Канистра O2 | 1500 | 1 канистра | N/A |
+| Канистра с водяным паром | 2500 | 1 канистра | N/A |
+| Емкость с пеной для пожаротушения | 1500 | 1 емкость | N/A |
+| Топливный бак | 800 | 1 бак | N/A |
+| Бак для воды повышенной емкости | 1200 | 1 бак | N/A |
+| Бак для воды | 600 | 1 бак | N/A |
+| Ящик для пополнения запасов | 1500 | 1 ящик для пополнения запасов (не работает, просто потребляет кредиты, как настоящий торговый автомат) | 500 (33%) |
+| **Разное** | | | | | | | |
+| Ящик с обезьянами | 550 | 6 банановых кожурок | 500 (90%) |
+| Ящик для прочности | 1000 | 8 механических ящиков для инструментов | 500 (50%) |
+| Наборы униформы | | | | | |
+| Для каждого задания на станции есть свой ящик | 600 ~ 100000 | | 500 - 750(??)|
 
 
 
-### The business of blood and money ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md)QM):
+### Бизнес на крови и деньгах ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md)QM):
 
-A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) QM is one of the best times you can have in this game. Through the cargo console you have easy access to weapons, illicit materials, basically whatever you need. Just be mindful of an active [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) or a snooping [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
+[traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md)QM - одно из лучших развлечений в этой игре. Через грузовую консоль вы можете легко получить оружие, незаконные материалы, в общем, все, что вам нужно. Только не забывайте об активном [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) или подглядывающем [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md).
 
-The cryptographic sequencer is one of the most valuable tools available to a traitor QM in the syndicate uplink. It can be used to unlock any secure crates you purchase like gun crates. You can even distribute them amongst the [greyshirts](\3_HowToPlay\Jobs\Service_roles\Assistant.md) if you want to spread chaos throughout the station, though that will draw attention to cargo *quickly,* so make sure you've got an alibi or are making your moves by then.
+Криптографический секвенсор - один из самых ценных инструментов, доступных QM-предателю в восходящем канале синдиката. С его помощью можно разблокировать любые приобретенные защищенные ящики, например, ящики с оружием. Вы даже можете распространить их среди [серых рубашек](\3_HowToPlay\Jobs\Service_roles\Assistant.md), если хотите посеять хаос на станции, хотя это быстро привлечет внимание к грузу, так что убедитесь, что у вас есть алиби или вы уже делаете свои шаги к этому времени.
 
-You also have access to the Autolathe, which is handy if you need to manufacture something that you can't buy.
+Кроме того, у вас есть доступ к автолазеру, который пригодится, если вам нужно изготовить что-то, что нельзя купить.
 
-All in all, if you've been lucky enough to roll traitor as the Quartermaster, you're probably going to have a pretty crate (get it?) time.
+В общем, если вам посчастливилось стать предателем в роли Квартального, то, скорее всего, вы проведете время в ящике.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
