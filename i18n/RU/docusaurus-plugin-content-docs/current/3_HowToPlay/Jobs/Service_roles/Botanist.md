@@ -1,38 +1,38 @@
-# Botanist
-**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Hydroponics</font>, Maintenance. **Difficulty:** <font color="Yellow">Medium</font>
+# Ботаник
+**Тип должности:** <font color="#4e7331">Служба</font>. **Доступ:** <font color="#4e7331">Гидропоника</font>, Обслуживание. **Сложность:** <font color="Yellow">Средняя</font>.
 
-Botanists are the farmers of the station, and the main source of food once the [kitchen](\3_HowToPlay\Jobs\Service_roles\Cook.md) runs out of food. Or, you could just grow some random crops instead of actually feeding people. Whichever one you feel like doing.
+Ботаники - это фермеры станции и основной источник пищи, когда на [кухне](\3_HowToPlay\Jobs\Service_roles\Cook.md) заканчиваются продукты. Или вы можете просто выращивать случайные культуры вместо того, чтобы кормить людей. В зависимости от того, что вам больше по душе.
 
 
-### Like watching grass grow. Oh wait, it is watching grass grow
+### Как будто смотришь, как растет трава. О, подождите, это и есть наблюдение за ростом травы.
 
-Despite Botanist being classed as Medium, it's currently one of the easiest roles. All you have to do is grab a seed packet from the vending machine inside Hydroponics, plant the seeds in a Hydroponics tray, and cultivate the crop when it needs it. The trays have lights that shine when they need something:
+Несмотря на то, что Ботаник относится к среднему классу, в настоящее время это одна из самых простых ролей. Все, что вам нужно сделать, - это взять пакет с семенами из автомата внутри Гидропоники, посадить семена в лоток Гидропоники и выращивать культуру, когда это необходимо. В лотках есть лампы, которые светят, когда им что-то нужно:
 
-| Tray color | Meaning | What do |
+| Цвет лотка | Значение | Что делать |
 |----|----|----|
-| Green | ready to harvest | click to harvest |
-| Red | weeds in the tray | take a gardening claw and remove the weeds |
-| Blue | plants are thirsty | grab a bucket, fill it with water and dump it in the tray |
-| orange | plants are hungry | use the bottle of nutriment from the dispenser. |
+| Зеленый | готов к сбору урожая | нажмите на кнопку сбора урожая |
+| Красный | сорняки в лотке | возьмите садовую клешню и удалите сорняки |
+| Синий | растения хотят пить | возьмите ведро, наполните его водой и вылейте в поддон |
+| Оранжевый | Растения хотят есть | Используйте бутылку с питательным веществом из автомата. |
 
 
-If the vending machine ever runs out of seeds, put some of your produce in the seed extractor or just ask [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) to order some more. If you fail at your job and plants die, then use the gardening spade to dig them up.
-### Why aren't you playing stardew valley then?
+Если в автомате когда-нибудь закончатся семена, положите часть своей продукции в семяизвлекатель или просто попросите [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) заказать еще немного. Если вы не справились с заданием и растения погибли, то используйте садовую лопату, чтобы выкопать их.
+### Почему вы не играете в Stardew Valley?
 
-Even if many people think this job is more of a farm simulator rather than a true space station 13 role, the truth is that the biggest interaction the botanist has is with the [Cook](\3_HowToPlay\Jobs\Service_roles\Cook.md), and it's a complicated one. Also, a plasma incident is bad for the crops, so you are not just watching the plants grow, you are protecting them from the raising chaos of the station while they slowly develop into a fully grown plant, not just waiting for them to be harvested.
+Несмотря на то, что многие считают эту работу скорее симулятором фермы, чем настоящей ролью на космической станции, правда в том, что самое большое взаимодействие ботаника - это взаимодействие с [Cook](\3_HowToPlay\Jobs\Service_roles\Cook.md), и оно сложное. Кроме того, инцидент с плазмой плохо сказывается на урожае, поэтому вы не просто наблюдаете за ростом растений, вы защищаете их от нарастающего хаоса станции, пока они медленно развиваются в полноценное растение, а не просто ждете, когда их соберут.
 
 
-At the moment, the amount of things the botanist can do is limited. Grow apples to supplement the hunger for meat and grow wheat so the [Cook](\3_HowToPlay\Jobs\Service_roles\Cook.md) can blend it into flour for burgers. When civil station life [disintegrates](\3_HowToPlay\Guides\General_guides\Battle-royale.md), grow bananas and lay a minefield of peels around your turf to dissuade attackers. If you're an [Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md), you should mass produce as many lemons as you can, destroying the plants after each harvest and planting new ones from your yield or simply using unstable mutagen with a non-help intent to get mass producible grenades.
+На данный момент возможности ботаника ограничены. Выращивать яблоки, чтобы утолить голод по мясу, и пшеницу, чтобы [Повар](\3_HowToPlay\Jobs\Service_roles\Cook.md) мог перемолоть ее в муку для гамбургеров. Когда жизнь на гражданской станции [распадется](\3_HowToPlay\Guides\General_guides\Battle-royale.md), выращивайте бананы и выкладывайте вокруг своей территории минное поле из кожуры, чтобы отвлечь нападающих. Если вы [Антагонист] (\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md), вам следует массово производить как можно больше лимонов, уничтожая растения после каждого сбора урожая и сажая новые из полученного урожая или просто используя нестабильный мутаген с целью получения гранат, не приносящих пользы.
 
-### The [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) botanist
+### [предатель](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) ботаник
 
-Time to eschew the hippie crap; how do you best utilize the art of hydroponics to complete your nefarious [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) objectives?
+Пора отказаться от хипповской чуши; как лучше всего использовать искусство гидропоники для достижения своих гнусных [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) целей?
 
-if you are lucky and fast you have access to many horrifying things: bluespace bananas, gatfruit, and lemon-nades being your most powerful plants available currently. Unless you set up a secret garden it will be extremely obvious which horrors you're growing, but often no one really cares about botany. You can try to expedite the process by bribing the [chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md) for some mutagen.
+Если вы удачливы и быстры, у вас есть доступ ко многим ужасающим вещам: бананы блюспейса, гатфрут и лимон-надес - самые мощные растения, доступные на данный момент. Если вы не устроите секретный сад, то будет совершенно очевидно, какие ужасы вы выращиваете, но зачастую никому нет дела до ботаники. Вы можете попытаться ускорить процесс, подкупив [химика](\3_HowToPlay\Jobs\Medical_roles\Chemist.md) за мутаген.
 
   <br/>
-<br/>
-<br/>
+<br/>>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
