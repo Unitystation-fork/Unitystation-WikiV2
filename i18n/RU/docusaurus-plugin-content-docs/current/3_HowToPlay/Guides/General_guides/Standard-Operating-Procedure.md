@@ -1,36 +1,36 @@
-# Standard Operating Procedure
+# Стандартные процедуры реагирования
 
-## <font color="#green">Code Green - All Clear</font>.
+## <font color="#green">Зеленый код - все чисто</font>.
 
-Standard operating level. No immediate or clear threat to the station. All departments may carry out work as normal.
+Уровень стандартных процедур. Непосредственной или явной угрозы для станции нет. Все отделы могут работать в обычном режиме.
 
-- Weapons worn by security are to be hidden except when in the case of an emergency.
-- Crew members may freely walk in the hallways.
-- Security must respect the privacy of crew members and no unauthorized searches are allowed.
+- Оружие носимое сотрудниками охраны, должно быть скрыто, за исключением случаев, когда речь идет о чрезвычайных ситуациях.
+- Экипаж может спокойно передвигаться по коридорам.
+- Служба безопасности должна уважать приватность экипажа и не авторизованные обыски запрещены.
 
-## <font color="blue">Code Blue - Confirmed Threat</font>.
+## <font color="blue">Синий код - потвержденная угроза</font>.
 
-Elevated alert level. There are reports or other proof available to indicate that there is a threat to the station. When a Centcom threat summary is received and printed at communication consoles (happens automatically every roundstart), the blue alert level is applied. This pretty much means that this is the _actual_ standard operating procedure.
+Повышенный уровень тревоги. Имеются отчеты или другие доказательства, указывающие на наличие угрозы для станции. Когда сводка Centcom об угрозе получена и распечатана на пультах связи (это происходит автоматически при каждом старте раунда), применяется синий уровень тревоги. Это практически означает, что такова _фактическая_ стандартная операционная процедура.
 
-- Security may have weapons visible.
-- Crew members may be searched by security with probable cause.
-- the AI may bolt down high-risk areas.
-- Energy guns, laser guns and riot gear are allowed to be given out to security personnel if the HoS or Warden agree.
+- Служба безопасности может не скрывать оружие.
+- Служба безопасности может обыскивать экипаж при наличии основания.
+- ИИ может заблокировать зоны выского риска.
+- Энергетические оружие, лазерное оружие и оборудование против массовых беспорядков разрешы для выдачи службе безопасности если Хос(ГСБ) или Варден(Смотритель) согласятся на это это.
 
-## <font color="red">Code Red - Immediate Threat</font>.
+## <font color="red">Красный код - крупная угроза</font>.
 
-Maximum alert level. There is an immediate threat to the station or severe damage. Martial Law is in effect.
+Максимальный уровень угрозы. На станции есть крупная угроза или определенные разрушения. На станции введено военное положение
 
-- Security can raid departments and arrest any crew member deemed a threat to the station.
-- All station personnel that are not members of Command or Security must remain in their departments.
-- the AI may bolt down any threatened sectors as it sees fit.
+- Служба безопасности может совершать рейды на отделы и арестовать экипаж если он представляет угрозу для станции.
+- Весь персонал на станции должен оставаться в своих отделах если они не принадлежат к отделу командования или службы безопасности
+- ИИ можно заблокировать любые зоны который могут быть под угрозой.
 
-## <font color="#purple">Code Delta - Imminent Destruction</font>.
+## <font color="#purple">Код дельта - скорое самоуничтожение </font>.
 
-The station's self destruct mechanism has been engaged due to overwhelming threat to the station. Martial Law is in effect.
+На станции запущен механизм самоуничтожения из-за непреодолимой угрозы. На станции введено военное положение
 
-- All orders from Heads of Staff and Security must be followed, any disobedience is punishable by death.
-- All crew members are to evacuate immediately, if possible.
+- Все приказы от глав отдела или службы безопасности должны быть выполненны, любое неповиновение наказуемо смертью
+- Весь экипаж должен быть немедленно эвакуирован, если есть возможность.
 
 
 
