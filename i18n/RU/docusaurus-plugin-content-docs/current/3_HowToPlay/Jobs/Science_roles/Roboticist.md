@@ -1,28 +1,28 @@
-# Roboticist
-**Role type:** <font color="#a85fb9">Science</font>. **Access:** <font color="#a85fb9">Robotics</font>, <font color="#a85fb9">Science</font>, Maintenance. **Difficulty**: <font color="Green">Easy</font>.
+# Робототехник
+**Тип роли:** <font color="#a85fb9">Наука</font>. **Доступ:** <font color="#a85fb9">Робототехника</font>, <font color="#a85fb9">Наука</font>, Обслуживание. **Трудности**: <font color="Green">Легко</font>.
 
 
 
 
-## Overview
+## Обзор
 
 
-As a Roboticist, your job is simply to create robots. From simple cleaning bots to (eventually) giant combat mech suits, your department is usually vital in either fighting off the [nuke ops](Nuclear-Emergency.md), or keeping the floors clean.
+Ваша работа, как робототехника, заключается в создании роботов. От простых роботов-уборщиков до (в конечном счете) гигантских боевых мехкостюмов, ваш отдел обычно играет важную роль в борьбе с [ядерным оружием] (Nuclear-Emergency.md) или в поддержании чистоты полов.
 
 
 
 
-### So what do i do?
+### Так что же мне делать?
 
 
-this is a short summary of your job as a roboticist. for a more in-depth guide, see [Robotics Guide](\3_HowToPlay\Guides\Science_guides\Robotics-Guide.md)
+Это краткое описание вашей работы в качестве робототехника. для более подробного руководства смотрите [Robotics Guide](\3_HowToPlay\Guides\Science_guides\Robotics-Guide.md)
 
-Simple. Make robots. At the time of this page being made, you have three robots that you can make: Floor bots, which replace removed floor tiles; Cleaning bots, which clean up bloodied floors (without leaving any slippery floors behind!); and Medical bots, which currently do nothing, however will be able to heal injured people in the future.
+Просто. Создайте роботов. На момент создания этой страницы у вас есть три робота, которых вы можете создавать: Боты-полы, которые заменяют удаленные плитки пола; Боты-уборщики, которые убирают окровавленные полы (не оставляя после себя скользких полов!); Боты-медики, которые в настоящее время ничего не делают, но в будущем смогут лечить раненых людей.
 
 
 
   <br/>
-<br/>
+<br/>>
 <br/>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'

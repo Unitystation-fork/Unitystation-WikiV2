@@ -1,5 +1,5 @@
 # Scientist
-'SCIENCE ROLES CURRENTLY CAN NOT DO ANYTHING RELATED TO THEIR JOB. KEEP THIS IN MIND WHEN PICKING VIROLOGIST, SCIENTIST,  OR GENETICIST. PAGE WILL BE ADDED ONCE ROLE IS FUNCTIONAL.'
+'НАУЧНЫЕ РОЛИ В НАСТОЯЩЕЕ ВРЕМЯ НЕ МОГУТ ДЕЛАТЬ НИЧЕГО, СВЯЗАННОГО С ИХ РАБОТОЙ. ИМЕЙТЕ ЭТО В ВИДУ, КОГДА ВЫБИРАЕТЕ ВИРУСОЛОГА, УЧЕНОГО ИЛИ ГЕНЕТИКА. СТРАНИЦА БУДЕТ ДОБАВЛЕНА, КОГДА РОЛЬ СТАНЕТ ФУНКЦИОНАЛЬНОЙ.
 
   <br/>
 <br/>

@@ -1,11 +1,11 @@
-# Research Director
-'SCIENCE ROLES CURRENTLY CAN NOT DO ANYTHING RELATED TO THEIR JOB. KEEP THIS IN MIND WHEN PICKING VIROLOGIST, SCIENTIST, OR GENETICIST. PAGE WILL BE ADDED ONCE ROLE IS FUNCTIONAL.'
+# Директор по исследованиям
+'НАУЧНЫЕ РОЛИ В НАСТОЯЩЕЕ ВРЕМЯ НЕ МОГУТ ДЕЛАТЬ НИЧЕГО, СВЯЗАННОГО С ИХ РАБОТОЙ. ИМЕЙТЕ ЭТО В ВИДУ, КОГДА ВЫБИРАЕТЕ ВИРУСОЛОГА, УЧЕНОГО ИЛИ ГЕНЕТИКА. СТРАНИЦА БУДЕТ ДОБАВЛЕНА, КОГДА РОЛЬ СТАНЕТ ФУНКЦИОНАЛЬНОЙ.
 
-"He turned himself into a slime captain, funniest shit ive ever seen"
+"Он превратил себя в капитана слизи, самое смешное дерьмо, которое я когда-либо видел".
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
