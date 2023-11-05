@@ -1,16 +1,16 @@
 # Groups
-Also see the [lore](\4_Univers\Lore\The-Lore.md)
+Также смотрите [lore](\4_Univers\Lore\The-Lore.md)
 
 ## **NanoTrasen**
 
-A Megacorporation, the largest in the galaxy, that controls the station that UnityStation takes place on. Research is what kept Nanotrasen a step ahead of all other corporations, with new technological marvels like Blue Space Teleportation, Advanced Medical Machines, Genetic Manipulation, and Cloning. 
+Мегакорпорация, крупнейшая в галактике, контролирующая станцию, на которой происходит действие UnityStation. Благодаря научным исследованиям Nanotrasen опережает все остальные корпорации, создавая новые технологические чудеса, такие как телепортация в голубое пространство, усовершенствованные медицинские машины, генетические манипуляции и клонирование.
 
-However, in the decades leading up to the present, the company was losing money and influence due to rival corporations and foreign empires. That trend forecasted the doom of NanoTrasen as a dominant power in known space, at least, until NT's expeditionary branch discovered a system filled with a new, rare, and mysterious material: Plasma, the discovery of which has secured NanoTrasen a new, financially liquid future for NanoTrasen so long as they maintain their monopoly over the mysterious product.
+Однако в течение десятилетий, предшествовавших настоящему времени, компания теряла деньги и влияние из-за конкурентов и иностранных империй. Эта тенденция предвещала гибель NanoTrasen как доминирующей силы в известном космосе, по крайней мере, до тех пор, пока экспедиционное отделение NT не обнаружило систему, наполненную новым, редким и загадочным материалом: Плазма, открытие которой обеспечило NanoTrasen новое, финансово ликвидное будущее, пока они сохраняют монополию на этот загадочный продукт.
 
 ## The Syndicate
 
-The Syndicate isn't so much one corporation, as it is a union of multiple companies, mercenary organizations, and raider groups. A loose coalition at best, each member group of the Syndicate works with the rest only as necessary to undermine their common enemy: NanoTrasen. As a well-funded, conspiratorial, and militant group, NanoTrasen regards the Syndicate as their number one enemy, and with good reason; The Syndicate have many times been responsible for the [destruction](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) [of](Nuclear-Emergency.md) NanoTrasen's advanced research space stations.
+Синдикат - это не столько одна корпорация, сколько объединение нескольких компаний, наемных организаций и рейдерских групп. Являясь в лучшем случае рыхлой коалицией, каждая группа, входящая в Синдикат, сотрудничает с остальными только по мере необходимости, чтобы подорвать своего общего врага - компанию NanoTrasen. Будучи хорошо финансируемой, заговорщической и воинственной группой, NanoTrasen считает Синдикат своим врагом номер один, и не без оснований: Синдикат много раз был ответственен за [уничтожение](\3_Как играть\Jobs\Antagonist_roles\Traitor.md) [передовых исследовательских космических станций NanoTrasen](Nuclear-Emergency.md).
 
 
 
-[more to be added in a few centuries](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
+[будет добавлено через несколько столетий](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
