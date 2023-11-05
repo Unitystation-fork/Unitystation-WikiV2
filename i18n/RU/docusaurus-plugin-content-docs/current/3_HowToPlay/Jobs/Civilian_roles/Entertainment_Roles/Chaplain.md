@@ -1,51 +1,51 @@
-# Chaplain
-**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance, Church. **Difficulty:** <font color="Green">easy</font>
+# Капеллан
+**Тип должности:** <font color="#808080">Гражданский</font>. **Доступ:** Обслуживание, церковь. **Сложность:** <font color="Green">легко</font>.
 
 
 [https://en.wiktionary.org/wiki/Citations:ph%27nglui_mglw%27nafh_Cthulhu_R%27lyeh_wgah%27nagl_fhtagn ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!]
 
 
-## Cult leadership and you!
+## Руководство секты и ты!
 
-The chaplains job is simple, you can form and follow whatever crazy religion you want! invent absurd and crazy rituals! Sacrifice volunteers to the eldritch ones! convert the crew into emperor worshiping zealots! so long as your within the bounds of reason and the rules, your basically free to do whatever you want, as the chaplain job has no set duties(as of now). if your successful and loyal enough, you may even attract the attention of whatever deity you follow.
+Работа капелланов проста: вы можете создать любую безумную религию и следовать ей! Придумывать абсурдные и безумные ритуалы! Приносить добровольцев в жертву старейшинам! Превращать команду в фанатиков, поклоняющихся императору! Пока вы находитесь в рамках разумного и правил, вы можете делать все, что хотите, поскольку у капеллана нет никаких обязанностей (пока). Если вы достаточно успешны и преданны, вы можете даже привлечь внимание божества, которому следуете.
 
-### Bell, book, and candle
+### Колокольчик, книга и свеча
 
-There's some neat hidden features of the chaplain that you might not know about.
+Есть несколько скрытых возможностей капеллана, о которых вы, возможно, не знаете.
 
-First, the chaplain's Null rod has the ability to transform into a choice of a huge list of religious weapons, allowing you to pick one that matches closer to your god's flavour. They each have different stats, and most are quite robust.
+Во-первых, жезл Null капеллана способен превращаться в один из огромного списка религиозных видов оружия, что позволяет выбрать тот, который ближе к вкусу вашего бога. Каждое из них обладает различными характеристиками, и большинство из них достаточно прочны.
 
-Second, the holy book has the ability to heal people. You can treat up to 10 brute and burn damage at a time by bashing the book on another character's head on help intent. This does come with some risk, as every bonk has a 40% chance to instead deal 10 brain damage, which is very difficult to treat, so use it sparingly.
+Во-вторых, святая книга обладает способностью исцелять людей. Вы можете вылечить до 10 единиц грубого и ожогового урона за один раз, ударив книгой по голове другого персонажа с намерением помочь. Правда, это сопряжено с определенным риском: каждый удар имеет 40%-ную вероятность вместо этого нанести 10 повреждений мозга, которые очень трудно лечить, поэтому используйте эту способность осторожно.
 
-### Some things to do
+### Некоторые вещи, которые нужно сделать
 
-Due to a lack of set goals, you may be a tad overwhelmed, however, here are some ideas
+Из-за отсутствия поставленных целей вы можете быть несколько перегружены, однако вот некоторые идеи
 
-* Recruit followers into your religion.
-* Have your followers recruit followers.
-* Hunt down heretics.
-* Perform sacrifices, animal or human.
-* Pray to your god.
-* Hold service with your followers.
-* Hold burials for anyone important.
-* Renovate the chapel.
-* Hunt down [holy artifacts](\4_Univers\Maps\Asteroid.md), alone or with your buds.
-* Tell other cults on the station to fuck off
-* bless random water tanks.
-* break into chemistry and create a holy hand grenade.
-* Perform exorcisms.
-* Convert the [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) and turn the station into a theocracy.
-* Perform an elaborate ritual to summon your deity to the mortal plane.
-* Craft ritual gear for your followers.
-* Summon and make pacts with whatever entities you come across.
-* Create a peaceful offshoot of the cult of Nar-Sie or Ratvar.
-* Lead a righteous crusade against other cults.
-* Work with the [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), sue god!
-* pray to the [spess gods](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md) for divine gifts or holy tasks.
-* Whatever other crazy shit you can come up with.
+* Вербовать последователей в свою религию.
+* Пусть ваши последователи вербуют последователей.
+* Охотиться на еретиков.
+* Совершать жертвоприношения, животные или люди.
+* Молиться своему богу.
+* Проводить службы со своими последователями.
+* Проводить похороны важных персон.
+* Отремонтировать часовню.
+* Охотиться за [священными артефактами](\4_Univers\Maps\Asteroid.md), одному или с приятелями.
+* Скажите другим культам на станции, чтобы они пошли на хуй.
+* освятить случайные резервуары с водой.
+* Взломать химию и создать священную ручную гранату.
+* Проводить экзорцизм.
+* Преобразовать [капитана](\3_HowToPlay\Jobs\Command_roles\Captain.md) и превратить станцию в теократию.
+* Проведите сложный ритуал, чтобы призвать божество на земной план.
+* Изготовить ритуальное снаряжение для своих последователей.
+* Вызывайте и заключайте договоры с любыми сущностями, которые вам встретятся.
+* Создайте мирное ответвление культа Нар-Си или Ратвара.
+* Возглавить праведный крестовый поход против других культов.
+* Работайте с [адвокатом](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), судитесь с богом!
+* Молиться [spess gods](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md) о божественных дарах или священных заданиях.
+* Все остальное безумие, которое вы можете придумать.
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

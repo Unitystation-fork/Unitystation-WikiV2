@@ -1,79 +1,79 @@
-[[File:Xenoarcheology_Wiki.png|128x128px]]
+[[Файл:Xenoarcheology_Wiki.png|128x128px]]
 
-Do you wish to join Nanotransen's [[Scientist]]s in their effort to study and collect alien artifacts? Welcome to Xenoarcheology! This guide will cover; Artifacts, Artifact Sampling, Xenoarcheology Machines, Xenoarcheology Items, Tips and tricks, Mapping.
+Вы хотите присоединиться к [[Ученый]]у Нанотрансена в его стремлении изучать и собирать инопланетные артефакты? Добро пожаловать в Ксеноархеологию! В этом руководстве мы расскажем об артефактах, сборе образцов артефактов, машинах для ксеноархеологии, предметах для ксеноархеологии, советах и рекомендациях, составлении карты.
 
-==Machines==
-[[File:Artifact Research Console.png|left|128x128px]]
-===Artifact Research Console===
-The artifact research console is the cornerstone of UnityStation's archeology. The artifact research console is where you will be recording all your observations about artifacts you are studying. To connect the console to an artifact, use a multitool on your desired artifact, and then use the same multitool on the console, if done correctly, the artifacts ID shall appear in the consoles UI. In order to save your data, an artifact data disk must be inserted into the console, data can then be saved via the 'Write Data' Button. The accuracy of your research is important, the more accurate the data the more valuable the datadisk becomes. The datadisk with the recorded data can than be sold at cargo, a flawless datadisk will award 10,000 credits. Note: Only one disk can be sold at cargo per artifact, attempts to sell multiple disks with information about the same artifact will result in no credit gain.[[File:Artifact Analyzer.png|left|128x128px]]
+==Машины==
+[[Файл:Artifact Research Console.png|left|128x128px]]
+===Консоль исследования артефактов===
+Консоль исследования артефактов является краеугольным камнем археологии UnityStation. Консоль для исследования артефактов - это место, куда вы будете записывать все свои наблюдения за изучаемыми артефактами. Чтобы подключить консоль к артефакту, используйте мультиинструмент на нужном артефакте, а затем используйте тот же мультиинструмент на консоли; если все сделано правильно, ID артефакта появится в пользовательском интерфейсе консоли. Для сохранения данных необходимо вставить диск с данными артефакта в консоль, после чего данные можно сохранить с помощью кнопки "Записать данные". Точность исследования очень важна, чем точнее данные, тем ценнее становится диск с данными. Диск с записанными на него данными можно затем продать в грузовом отделе, за безупречный диск дадут 10 000 кредитов. Примечание: за один артефакт можно продать только один диск, попытки продать несколько дисков с информацией об одном и том же артефакте не приведут к получению кредитов.[[Файл:Artifact Analyzer.png|left|128x128px]]
 
-===Artifact Analyzer===
-The artifact analyzer is one of the most useful tools you have at your disposal to analyze artifacts. The analyzer can scan and deconstruct samples taken from artifacts. These scans not only provide useful data about the artifacts being study but also provide a small RP reward to its connected research server. Deconstructing samples provides materials from the samples internal composition, this can become a reliable if minor source of rare materials such as bluespace, uranium and bananium sheets.
+===Анализатор артефактов===
+Анализатор артефактов - один из самых полезных инструментов для анализа артефактов. Анализатор может сканировать и деконструировать образцы, взятые из артефактов. Эти сканирования не только позволяют получить полезные данные об исследуемых артефактах, но и дают небольшое RP вознаграждение подключенному к нему исследовательскому серверу. Деконструкция образцов позволяет получить материалы из их внутреннего состава, что может стать надежным, хотя и незначительным, источником редких материалов, таких как голубое пространство, уран и банановые листы.
 
 
 
-== Artifacts ==
-Artifacts are strange objects found in the depths on space in the hearts of asteroids and the plains of lavaland. All artifacts posses effects, both positive and negative that effect their environment in a number of ways. It's your job as a scientist to study these objects and find out what their effects are.
+Артефакты == Артефакты ==
+Артефакты - это странные предметы, найденные в глубинах космоса, в сердцах астероидов и на равнинах Лаваланда. Все артефакты обладают как положительными, так и отрицательными эффектами, которые по-разному влияют на окружающую среду. Ваша задача как ученого - изучить эти объекты и выяснить, как они влияют на окружающую среду.
 
-=== Dormancy ===
-All Artifacts begin in a dormant state. While in this dormant state their effects on the world are greatly reduced, dormant artifacts are relatively safe to transport and be near. When an artifact is interacted with or it suffers damage, It has a chance to wake up. This process can be stream lined by catalyzing the artifact with a Uranium Sheet. Once an artifact is awake it's full power is unleashed for better or for worse. If the science department has found itself in possession of a dangerous artifact that they wish to store, artifacts can be returned to a dormant state by exposing them to an atmosphere of Nitrous Oxide (N2O). The higher the concentration the quicker the artifact will fall dormant. Taking samples can also wake up artifacts from their dormant state.
+=== Дремота ===
+Все артефакты находятся в спящем состоянии. В спящем состоянии их влияние на мир значительно снижается, поэтому спящие артефакты относительно безопасны при транспортировке и нахождении рядом с ними. Когда с артефактом взаимодействуют или он получает повреждения, у него есть шанс пробудиться. Этот процесс можно ускорить, катализируя артефакт урановым листом. После пробуждения артефакта вся его мощь высвобождается, как в лучшую, так и в худшую сторону. Если в распоряжении научного отдела оказался опасный артефакт, который необходимо сохранить, артефакты можно вернуть в спящее состояние, подвергнув их воздействию атмосферы закиси азота (N2O). Чем выше концентрация, тем быстрее артефакт перейдет в спящее состояние. Взятие образцов также может вывести артефакт из спящего состояния.
 
-=== Composition and Effects ===
-All artifacts have an internal composition that is a combination of bluespace, uranium, bananium and a base element based on its type. An artifacts composition can be studied with the Artifact Analyzer, wether by scanning the artifact, or deconstructing it and observing the obtained materials. An artifacts composition influences it's likely hood of possessing certain effects.
+Состав и эффекты === Состав и эффекты ===
+Все артефакты имеют внутренний состав, который представляет собой комбинацию голубого пространства, урана, банана и базового элемента в зависимости от типа артефакта. Состав артефакта можно изучить с помощью анализатора артефактов, сканируя артефакт, либо деконструируя его и наблюдая за полученными материалами. Состав артефакта влияет на вероятность появления у него тех или иных эффектов.
 
-Those with higher bluespace compositions are more likely to possess teleportation and summoning related effects.
+Так, артефакты с более высоким содержанием голубого пространства с большей вероятностью будут обладать эффектами телепортации и вызова.
 
-Those with higher uranium compositions are more likely to possess transmutation and damaging effects.
+Артефакты с более высоким содержанием урана с большей вероятностью будут обладать эффектами трансмутации и повреждения.
 
-Those with higher bananium compositions are more likely to possess physiological effects such as stuns and paranoia.
+Те, кто имеет более высокий состав банана, чаще обладают физиологическими эффектами, такими как оглушение и паранойя.
 
-=== Artifact Samples ===
-All artifacts can have samples taken from them, samples can be analyzed or deconstructed in the artifact analyzer. It is wise to note that while samples take after their parent artifacts properties, their properties can tend to vary upwards of 10%. As such Nanotransen encourages the taking of multiple samples to obtain the most accurate results. The tool needed to sample an artifact varies with its type, observe the table below for more information:
+Образцы артефактов === Образцы артефактов ===
+Со всех артефактов можно брать образцы, которые могут быть проанализированы или деконструированы в анализаторе артефактов. Следует отметить, что хотя образцы и повторяют свойства артефактов-родителей, их свойства могут отличаться на 10%. Поэтому для получения наиболее точных результатов Nanotransen рекомендует брать несколько образцов. Инструмент, необходимый для отбора образцов артефакта, зависит от его типа, более подробная информация приведена в таблице ниже:
 {| class="wikitable"
 |+
-!Type (Image)
-!Type (Name)
-!Tool
+!Тип (изображение)
+!Тип (имя)
+!Инструмент
 |-
 |[[File:Ano00.png|frameless|64x64px]]
 |Geological
-|[[File:Pick hand.png|frameless]]
+|[[Файл:Pick hand.png|frameless]]
 |-
 |[[File:Ano120.png|frameless|64x64px]]
 |Organic
-|[[File:Surgery scalpel.png|frameless|64x64px]]
+|[[Файл:Хирургический скальпель.png|frameless|64x64px]]
 |-
 |[[File:Ano90.png|frameless|64x64px]]
 |Mechanical
-|[[File:Tools welder.png|frameless|64x64px]]
+|[[Файл:Tools welder.png|frameless|64x64px]]
 |}
 
-== Xenoarcheology Items ==
+== Предметы ксеноархеологии ==
 
-=== Sample Container ===
-The sample container is storage item that can hold three small items. The container is heavily reinforced and resistant to explosives, fire and acid. Ideal for storing valuable artifacts somewhere safe.
+Контейнер для образцов === Контейнер для образцов ===
+Контейнер для образцов - это предмет хранения, вмещающий три небольших предмета. Контейнер сильно укреплен и устойчив к воздействию взрывчатых веществ, огня и кислоты. Идеально подходит для хранения ценных артефактов в безопасном месте.
 
-=== Artifact Data Disk ===
-Artifact data disks are hard drives that contain data about studied artifacts. Use the Artifact Research Console to write data onto the disk and then sell at cargo. If an artifacts research has already been sold once to cargo, the value of the disk will be 0. Artifact data disks are often found in boxes of 7 in the stations Xenoarcheology sub department. They can also be made at a research protolathe.
+Диск данных артефактов === Диск данных артефактов ===
+Диски данных артефактов - это жесткие диски, на которых хранятся данные об изученных артефактах. С помощью консоли исследования артефактов данные записываются на диск и затем продаются в грузовом отделе. Если исследуемый артефакт уже был однажды продан карго, стоимость диска будет равна 0. Диски с данными об артефактах часто можно найти в коробках по 7 штук в отделе ксеноархеологии на станции. Их также можно изготовить в исследовательском протолате.
 
 === AP Hardsuit ===
-AP hardsuits are hardsuits designed to resist the effects of anomalies, they provide good radiation protection and great anomaly protection. Although they are not as good as anomaly suits when it comes to blocking effects, it is advised to swap to an anomaly suit when inside the station walls.
+AP hardsuit - это скафандр, предназначенный для защиты от аномалий. Он обеспечивает хорошую защиту от радиации и отличную защиту от аномалий. Хотя они не так хороши, как аномальные костюмы, когда речь идет о блокировании эффектов, рекомендуется переходить в аномальный костюм, когда вы находитесь внутри стен станции.
 
-=== Anomaly Suit ===
-A suit specialised for anomaly research. The suit provides almost flawless protection from all artifact effects, this is the go to suit for artifact researchers.
+Костюм аномалии === Костюм аномалии ===
+Костюм, специализированный для исследования аномалий. Костюм обеспечивает практически безупречную защиту от всех эффектов артефактов, является основным для исследователей артефактов.
 
-== Tips & Tricks ==
+Советы и приемы == Советы и приемы ==
 
-* Remember, xenoarcheology is science's closest relation to the cargo department. On small stations it is cargo that provides xenoarcheology with its samples, and in return the researched artifacts provide a nice credit sum for cargo. As a result, make sure you have good relations with the cargo department so you don't get cut off of your specimen supply.
-* If you are planning on storing an artifact, gas it into dormancy. Dormancy is a powerful tool, and dangerous and deadly artifacts should be dormant whenever they can be without disrupting research, less you come under fire by the crew for a series of anomaly related injuries.
-* Practice taking multiple samples of an artifact, and using the collective data to make more informed guesses as to the true composition of the artifact, you only have one shot at selling the artifact data, so make sure it counts!
-* Always wear your AP Hardsuit/Anomaly suit when dealing with artifacts, the AP hardsuit provides 90% resistance and the anomaly suit 99%. If you are a research director, your prototype hardsuit provides a full 100% resistance. You don't want to be caught without it.
-* Artifacts react upon taking damage (including sample taking), and they do not possess much integrity, so make sure to look after your artifacts, otherwise you could lose valuable research.
+* Помните, что ксеноархеология - это ближайший родственник науки и грузового отдела. На небольших станциях именно груз обеспечивает ксеноархеологию образцами, а взамен исследованные артефакты приносят грузу неплохую кредитную сумму. Поэтому убедитесь, что у вас хорошие отношения с грузовым отделом, чтобы не лишиться поставок образцов.
+* Если вы планируете хранить артефакт, переведите его в спящий режим. Спящий режим - это мощный инструмент, и опасные и смертоносные артефакты должны находиться в спящем режиме всегда, когда это возможно, без ущерба для исследований, а также если вы не попадете под огонь команды за серию травм, связанных с аномалией.
+* Практикуйте взятие нескольких образцов артефакта и использование коллективных данных для более обоснованных предположений об истинном составе артефакта. У вас есть только одна попытка продать данные об артефакте, поэтому постарайтесь, чтобы она оправдалась!
+* При работе с артефактами всегда надевайте костюм AP Hardsuit/Anomaly: костюм AP Hardsuit обеспечивает 90% сопротивления, а костюм Anomaly - 99%. Если вы являетесь директором по исследованиям, то ваш костюм прототипа обеспечивает полную 100% защиту. Без него лучше не попадаться.
+* Артефакты реагируют на урон (в том числе и при взятии образцов) и не отличаются особой целостностью, поэтому следите за своими артефактами, иначе вы можете потерять ценные исследования.
 
 
 <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

@@ -1,42 +1,42 @@
-# Chief Engineer
-Job type: <font color="#74652c">Engineer</font>. Access: <font color="#74652c">Engineering</font>, Maintenance, <font color="#45467d">Command</font>. Difficulty: <font color="Yellow">Medium</font>
+# Главный инженер
+Тип должности: <font color="#74652c">Инженер</font>. Доступ: <font color="#74652c">Инженер</font>, Техническое обслуживание, <font color="#45467d">Командование</font>. Сложность: <font color="Yellow">Средний</font>.
 
 
-"ALRIGHT! what goddamn moron cut the high voltage wire again?"
+"АЛЛАЙТ! Какой проклятый идиот опять перерезал высоковольтный провод?"
 
-Relevent guides: [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md), [Engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmos](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md) and [Atmospherics technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md)
-
-
-## Your Job
-
-As the CE your main goal is to make sure the rest of the station is airtight, breathable, and functional. To achieve this you have your hired help, ordinary [engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) and [atmospherics technicians](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md). [Engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) are easier to order around, and will generally do their job, unlike [atmos techs](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md), who while usually capable, are more likely dicking about and setting themselves on fire. Don't worry, chances are one of them is a wizard at engineering and will know how to do your job better than you, its almost guaranteed.
+Релевантные руководства: [Строительство](\3_HowToPlay\Guides\Engineering_guides\Construction.md), [Инженер](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md), [Atmos](\3_HowToPlay\Guides\Engineering_guides\Guides\Guides-to-Atmospherics.md) и [Atmospherics technician](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md)
 
 
-### Help the lights are off
+## Ваша работа
 
-One of the first things you'll want to do is set up a power source. order the engineers to do it for you or get outside your office and do it yourself. once that's done, make sure it stays on. You may want to secure the generator with things like reinforced windows, as it is a favorite target of saboteurs.
+Ваша главная задача как СЕ - обеспечить герметичность, воздухопроницаемость и функциональность всей станции. Для этого у вас есть наемные помощники - обычные [инженеры](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) и [техники по атмосфере](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md). [Инженерам легче приказывать, и они, как правило, выполняют свою работу, в отличие от [атмотехников] (\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md), которые, хотя обычно и способны, чаще всего болтают без дела и поджигают себя. Не волнуйтесь, скорее всего, один из них - волшебник в инженерном деле и знает, как сделать вашу работу лучше вас, это почти гарантировано.
 
-### Help my chair broke
 
-You'll have to ignore many of the calls for engineering that come your way, as you'll simply be dealing with more pressing issues most of the time. For those rare cases where the station isn't being dragged into hell, be sure to send engineers out to fix things so as to tell the crew that engineering exists.
+### Помогите выключить свет
 
-### Help someone blew the wall open
+В первую очередь необходимо установить источник питания. Попросите инженеров сделать это за вас или выйдите из офиса и сделайте это сами. Возможно, вам захочется обезопасить генератор, установив, например, армированные окна, поскольку он является излюбленной целью диверсантов.
 
-The most often thing you'll deal with is breaches, most can be fixed with a single [engineer](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) and [atmos tech](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md), but a shuttleram from the syndicate shuttle is another beast entirely. simply designate someone by name to patch up the wall or floor and make sure they have a space-worthy suit.
+### Помогите, у меня сломался стул
 
-### OH GOD EVERYTHING IS BURNING AND EXPLODING
+Вам придется игнорировать многие вызовы инженерной службы, поскольку в большинстве случаев вы просто будете заниматься более насущными проблемами. В тех редких случаях, когда станция не превращается в ад, не забудьте послать инженеров для устранения неполадок, чтобы сообщить экипажу о существовании инженерной службы.
 
-The eventual end of most shifts, there are holes into space everywhere and almost everyone is dead. Generally, if the station gets to this point, its unfixable. Rather than bother with lost causes, seal burning halls and create safe routes to escape, making sure everyone at your disposal is working on getting others out alive. At this point your job is less about fixing the station and more about keeping it together just long enough for the shuttle to arrive. Make sure to pack a gun.
+### Помогите кому-нибудь взорвать стену
+
+Чаще всего вы будете иметь дело с пробоинами, большинство из которых можно устранить с помощью одного [инженера](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) и [атмотехника](\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.Просто назначьте кого-нибудь по имени для ремонта стены или пола и убедитесь, что у него есть скафандр, пригодный для работы в космосе.
+
+### О БОЖЕ, ВСЕ ГОРИТ И ВЗРЫВАЕТСЯ
+
+Конечный конец большинства смен, повсюду дыры в космос и почти все мертвы. Как правило, если станция дошла до такого состояния, ее уже невозможно починить. Вместо того чтобы заниматься ликвидацией последствий, запечатайте горящие залы и проложите безопасные пути эвакуации, убедившись, что все, кто находится в вашем распоряжении, работают над тем, чтобы вывести других живыми. На данном этапе ваша задача состоит не столько в том, чтобы починить станцию, сколько в том, чтобы продержаться на ней достаточно долго, чтобы прибыл шаттл. Не забудьте взять с собой оружие.
 
 ### Chief Screw-Loose ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) CE)
 
-A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) CE has a lot of fun option available to them to cause absolute *havoc* on the station. You have access to almost all critical rooms and machines in the station, the highlight options being the engine room, the bridge, department batteries, the [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) upload room, and ACUs. You also come with the best construction tools on the station, a very good hardsuit, advanced magboots, and whatever equipment that's in engineering's storage room.
+У [предателя](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) CE есть масса возможностей устроить на станции абсолютный *хаос*. Вы имеете доступ почти ко всем критическим помещениям и машинам станции, среди которых выделяются машинное отделение, мостик, батареи отдела, комната загрузки [AI](\3_HowToPlay\Jobs\Synthetic_roles\Station-AI.md) и ACU. Кроме того, вы получаете лучшие строительные инструменты на станции, очень хороший защитный костюм, продвинутые магботы и все оборудование, которое есть в инженерном отсеке.
 
-Because you have access to the engine bay, you also have the most effective way to create an excuse to call the evac shuttle by setting loose the engine, whether it's a Singularity, Tesla, or Supermatter. Just be sure that the shuttle is called *immediately,* as you won't have long once you sabotage any of them before they begin tearing the station apart.
+Поскольку у вас есть доступ к двигательному отсеку, у вас также есть самый эффективный способ создать повод для вызова эвакуационного шаттла, запустив двигатель, будь то Singularity, Tesla или Supermatter. Только убедитесь, что шаттл будет вызван *немедленно*, поскольку после саботажа любого из них у вас не будет много времени, прежде чем они начнут разрывать станцию на части.
 
   <br/>
-<br/>
-<br/>
+<br/>>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

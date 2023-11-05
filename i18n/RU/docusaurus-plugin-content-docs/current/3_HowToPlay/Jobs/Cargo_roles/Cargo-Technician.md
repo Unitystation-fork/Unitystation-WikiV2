@@ -1,60 +1,60 @@
-# Cargo Technician
+# Грузовой техник
 
 <div class="card bg-dark text-white">
     <div class="card-body">
         <div class="card-img-top d-flex align-items-center">
             <div>
-                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_cargo.png" alt="Card image cap"></img>
-                <b>Role type:</b> <font color="#734823">Cargo</font>. <b>Access</b> <font color="#734823">Cargo Department</font>, <font color="#734823">Mining Department</font>, Maintenance. <b>Difficulty</b> <font color="Green">Easy</font>. Colloquial name: "Tech"
+                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_cargo.png" alt="Шапка изображения карты"></img>
+                <b>Тип роли:</b> <font color="#734823">Груз</font>. <b>Доступ</b> <font color="#734823">Грузовой отдел</font>, <font color="#734823">Горный отдел</font>, Техническое обслуживание. <b>Сложность</b> <font color="Green">Легкая</font>. Разговорное название: "Техник".
             </div>
         </div>
     </div>
 </div>
 
-## Overview
+## Обзор
 
-You are the delivery boy on the station. Your job is pretty simple: Sit at the cargo desk, take the cargo orders of people that need some item or another, and help the [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md) in his goal to become the richest department on the station. You make sure every department has what they need to operate and that no one sneaks in and orders twenty machine gun crates without you knowing.
+Вы - курьер на станции. Ваша работа довольно проста: Сидеть за грузовым столом, принимать заказы на груз от людей, которым нужен тот или иной предмет, и помогать [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md) в его стремлении стать самым богатым отделом на станции. Вы следите за тем, чтобы у каждого отдела было все необходимое для работы и чтобы никто не пробрался к вам и не заказал без вашего ведома двадцать ящиков с пулеметами.
 
-Cargo Technician is perhaps the best role to play to learn the game after you get the basics of movement down from [Assisting](\3_HowToPlay\Jobs\Service_roles\Assistant.md) Your responsibilities are nearly zero. The only skills you need to know are how to move freight, process forms, and how the cargo console works. Delivery trips are also an excellent way to learn the layout of the station and how everything fits together. You will also discover the general needs and activities of the other departments based on what they order from you. It's a pretty cash money job.
+Грузовой техник - это, пожалуй, лучшая роль для освоения игры после того, как вы освоите основы передвижения, начиная с [Assisting](\3_HowToPlay\Jobs\Service_roles\Assistant.md) Ваши обязанности практически нулевые. Единственные навыки, которые вам необходимо знать, - это как перемещать грузы, оформлять бланки и как работает грузовая консоль. Поездки по доставке грузов - отличный способ изучить планировку станции и то, как все на ней устроено. Вы также узнаете об общих потребностях и деятельности других отделов по их заказам. Это довольно денежная работа.
 
-### Engineering come pick up your metal plates crate now or we will claim it for ourselves
+### Инженеры, забирайте свои ящики с металлическими пластинами прямо сейчас, иначе мы заберем их себе
 
-Let's start with a big note on 'safety:'
+Начнем с большой заметки о "безопасности".
 
-* Do not trap yourself or others between piles of boxes or by closing the docking shutters on people.
-* When you send the shuttle, make sure that the docking shutters are closed so you don't vent the cargo room out into space when the shuttle leaves.
-* Keep any conveyor belts off when you are not using them.
-* 'always** check to see if someone is in the cargo shuttle before you send it off. Anyone inside when it leaves will be instantly killed and ''cannot be revived by the admins. This will get you a temporary ban most of the time even if you are an [Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md)
-* If you are ever launched to your doom in the cargo shuttle, you have about 3-5 seconds to jump out the airlock in which someone might be able to find your cold dead corpse. It's better than nothing.
+* Не защемляйте себя и других между грудами ящиков и не закрывайте стыковочные затворы на людей.
+* Когда вы отправляете шаттл, убедитесь, что стыковочные затворы закрыты, чтобы не выпустить воздух из грузового отсека в космос при выходе шаттла.
+* Держите конвейерные ленты выключенными, когда они не используются.
+* Всегда** проверяйте, нет ли кого-нибудь в грузовом челноке, прежде чем отправлять его. Любой человек, находящийся в челноке, будет мгновенно убит и ''не сможет быть воскрешен администраторами. В большинстве случаев это приведет к временному бану, даже если вы являетесь [Антагонистом](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md)
+* Если вас когда-нибудь отправят на верную гибель в грузовом шаттле, у вас есть примерно 3-5 секунд, чтобы выпрыгнуть из шлюза, в котором кто-то сможет найти ваш хладный труп. Это лучше, чем ничего.
 
-Now that's covered...
+Теперь все...
 
-Your department head is the Quartermaster. Typically, they will be the one deciding what is purchased on the cargo console, so you will likely get stuck with paper duty when not dragging boxes on and off the shuttle. At the front desk, take paper and pens and prepare a couple General Request forms. You can come up with something on your own or just copy this template and paste it onto each paper:
+Ваш начальник отдела - квотермейн. Как правило, именно он решает, что будет закупаться на грузовой консоли, поэтому, когда вы не будете перетаскивать коробки на шаттл, вам, скорее всего, придется заниматься бумажной работой. На стойке регистрации возьмите бумагу и ручки и подготовьте пару форм общего запроса. Вы можете придумать что-то свое или просто скопировать этот шаблон и наклеить его на каждую бумажку:
 
-Request Form:
+Форма запроса:
 
-* Full Name:
-* Request:
-* Reason for request:
-* Destination Department:
+* ФИО:
+* Запрос:
+* Причина запроса:
+* Отдел назначения:
 
-### Sign Below
+### Подпишитесь ниже
 
-When people come by for stuff, have them fill out the forms. Look at the paper once they've finished and ask questions to make sure they know what they are requesting. If things still are not clear, Bring in the [QM](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md)
+Когда люди приходят за вещами, попросите их заполнить формы. После заполнения посмотрите на бумагу и задайте вопросы, чтобы убедиться, что они знают, о чем просят. Если все равно ничего не понятно, пригласите [QM](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md)
 
-Once some orders have been made, it will usually be your job to go deliver the crates to their requestors. A key mechanic to running a financially successful cargo department is engaging in the Centcom Crate Recycling Program; empty crates can be loaded back onto the cargo shuttle to be exchanged for a portion of their purchase price. So, remember to pick up crates once their requestors have emptied them out. If you forget what crates have gone where, that's what the forms are for.
+После того, как заказы будут сделаны, вам предстоит заняться доставкой ящиков заказчикам. Ключевым моментом в работе финансово успешного грузового отдела является участие в программе Centcom по переработке ящиков: пустые ящики можно загрузить обратно на грузовой шаттл и обменять на часть их покупной стоимости. Поэтому не забывайте забирать ящики после того, как их опустошили заказчики. Если вы забыли, какие ящики куда отправились, то для этого существуют специальные формы.
 
-Sometimes people may ask you to order something sketchy; at that point you either do it no questions asked, or tell them to go away. If you do give them what they want, don't be surprised if the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) or [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) bust down the door and arrest the entire department.
+Иногда люди могут попросить вас заказать что-то невразумительное; в этом случае вы либо делаете это без вопросов, либо говорите им, чтобы они уходили. Если вы дадите им то, что они хотят, не удивляйтесь, если [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) или [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) выломают дверь и арестуют весь отдел.
 
-### Revenge of the delivery boy ( [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Cargo Tech)
+### Месть курьера ( [предатель](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Cargo Tech)
 
-Being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) as a Cargo Tech is pretty nice. You don't have any significant responsibilities and low attention is paid to you by most people except the [QM](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md). Just do the bare minimum required of you while you hatch your scheme to fulfill your objectives. A prized possession of the Cargo Tech is the Cryptographic Sequencer. It allows you to bypass the locks on many devices, most notable to the Cargo Tech, the secure crates purchasable at the Cargo Console. While it can be difficult to ensure the QM doesn't notice it when he signs off on the order, if you do manage it, the Emag will allow for an easy supply of firepower. Still, it's risky.
+Быть [предателем](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) в качестве Cargo Tech довольно приятно. У вас нет никаких существенных обязанностей, и большинство людей, кроме [QM](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), не обращают на вас никакого внимания. Просто выполняйте необходимый минимум, пока вы вынашиваете свой план по выполнению поставленных задач. Ценным предметом, которым владеет техник-грузчик, является криптографический секвенсор. Он позволяет обходить блокировку многих устройств, в первую очередь грузовых ящиков, приобретаемых на грузовой консоли. Хотя это может быть трудно сделать так, чтобы QM не заметил этого, когда он подписывает приказ, если вам это удастся, то Emag позволит легко обеспечить себя огнестрельным оружием. Тем не менее, это рискованно.
 
-Whether you have an Emag or not, there's loads of purchasable items on the cargo console that won't immediately elicit suspicion. Peruse the options and you should be able to find some items that will help you develop a plan of action.
+Независимо от того, есть у вас "Эмаг" или нет, на грузовой консоли можно приобрести множество предметов, которые не сразу вызовут подозрение. Проанализируйте предлагаемые варианты, и вы сможете найти предметы, которые помогут вам разработать план действий.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

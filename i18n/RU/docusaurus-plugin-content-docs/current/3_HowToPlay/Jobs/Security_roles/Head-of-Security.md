@@ -1,38 +1,38 @@
-# Head of Security
-**Role type:** <font color="#711e25">Security</font>. **Access:** <font color="#711e25">Security & cells</font>, <font color="#711e25">Brig</font>, <font color="#711e25">Armory</font>. **Difficulty:** <font color="Orange">Hard</font>.
+# Руководитель службы безопасности
+**Тип должности:** <font color="#711e25">Безопасность</font>. **Доступ:** <font color="#711e25">Охрана и камеры</font>, <font color="#711e25">Бригада</font>, <font color="#711e25">Арсенал</font>. **Сложность:** <font color="Orange">Трудность</font>.
 
-Note: The HoS is a *very* difficult role to play and you should probably be experienced in [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) and with [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md), and [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) before picking it. Jumping in and playing HoS on your very first round ever is a great way to get yourself job-banned.
+Примечание: HoS - это *очень* сложная роль, и вы должны быть опытны в [боевых действиях] (\3_HowToPlay\Guides\General_guides\Combat_Guide.md) и в [безопасности] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) и [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md), прежде чем выбрать его. Если в первом же раунде вы начнете играть в HoS - это отличный способ лишиться работы.
 
-"alright, that's it, the chemist has lubed his last tile, blow up the chemlab boys."
-
-
-### Who you are
-
-The Head of Security (HoS) is, as the name implies, the Boss of all the [security officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) on the station, as well as the [warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) and [detective](\3_HowToPlay\Jobs\Security_roles\Detective.md). The only people that can order him around are the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) and any [centcom representatives](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md). The HoS's job is to order around his underlings and check in on them from time to time to make sure they are performing well, as well as to manage securities emergency response should the time come.
+"Так, все, химик смазал свою последнюю плитку, взрывайте химлабораторию".
 
 
+### Кто вы
 
-### managing the day-to-day
-
-For a good portion of any round, and [possibly the entire round](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md), the station will be in a state of moderate peace where arming everyone to the teeth isn't needed. During these periods make sure that any [security officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) stay on patrol and don't stick around the Brig when they aren't needed to let them nip problems in the bud.
-
-The [Warden's](\3_HowToPlay\Jobs\Security_roles\Warden.md) job is to manage guns and oversee timers, and as he doesn't need to hand any out during these periods hell likely be more than able to manage any unruly prisoners and keep track of release times. During these times of calm, you should check on patrolling [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) from time to time to make sure they aren't ruining everything and build favor with the crew.
-
-### when shit hits the fan
-
-If things start burning and exploding, it may be a good time to order the [Warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) to open the armory, but note that you cannot officially have your [Officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) openly carrying weapons unless the alert level is at <font color= "blue">Code Blue</font> or higher (but it's rarely a problem because of how [SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) works). In a true emergency, should you trust the crew, you may give them guns, though you'd likely be better off giving them non-lethals and saving the guns for the heads. Be sure to help the [warden](\3_HowToPlay\Jobs\Security_roles\Warden.md) manage the prison and direct [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) to recover their dead friends.
-
-If the alert level is ever elevated to <font color="red">Code Red,</font> this is the time to give harsher sentences. You still need to get permission from the Captain to perform executions on the spot, but in the event that the chain of command has been disrupted and there is no clear authority, it's your call; at this point the Brig is likely non functional and the danger posed by antagonists is at its greatest.
+Начальник службы безопасности (HoS), как следует из названия, является начальником всех [офицеров безопасности] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) на станции, а также [надзирателя] (\3_HowToPlay\Jobs\Security_roles\Warden.md) и [детектива] (\3_HowToPlay\Jobs\Security_roles\Detective.md). Единственные, кто может ему приказывать, - это [капитан](\3_HowToPlay\Jobs\Command_roles\Captain.md) и все представители [центрального комитета](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md). Задача HoS заключается в том, чтобы отдавать приказы своим подчиненным и время от времени проверять их, чтобы убедиться, что они хорошо работают, а также управлять действиями службы безопасности в чрезвычайных ситуациях, если придет время.
 
 
 
-### How to not end up with your head on a pike
+### управление повседневной деятельностью
 
-For any HoS, the crew can be just as much of a danger as [syndicate agents](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) and [revolutionaries](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md), and if you or your [officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) piss them off enough, you may find your corpse paraded down the hall. The best way to prevent this is to work with the [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), take headsets off your prisoners, and follow [space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md). During downtime you can also try and build goodwill with the crew, arresting unwanted vandals and thieves yourself will both show others security is doing their job and you are doing your part to help them.
+На протяжении значительной части любого раунда, а [возможно, и всего раунда](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md), станция будет находиться в состоянии умеренного покоя, когда вооружение всех до зубов не требуется. В такие периоды следите за тем, чтобы все [офицеры безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) оставались в патруле и не задерживались в Бриге, когда они не нужны, чтобы пресекать проблемы в зародыше.
+
+В обязанности начальника тюрьмы (\3_HowToPlay\Jobs\Security_roles\Warden.md) входит управление оружием и контроль за таймерами, и поскольку в эти периоды ему не нужно ничего выдавать, он, скорее всего, сможет справиться с неуправляемыми заключенными и следить за временем освобождения. Во время затишья вам следует время от времени проверять патрулирующих [офицеров](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), чтобы убедиться, что они ничего не портят, и завоевать расположение команды.
+
+###, когда дерьмо попадает в вентилятор
+
+Если все начинает гореть и взрываться, самое время приказать [Начальнику](\3_HowToPlay\Jobs\Security_roles\Warden.md) открыть оружейную комнату, но учтите, что вы не можете официально разрешить своим [Офицерам](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) открыто носить оружие, если только уровень тревоги не <font color="blue">Code Blue</font> или выше (но это редко является проблемой из-за того, как работает [SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md)). В экстренных случаях, если вы доверяете команде, вы можете дать им оружие, хотя, скорее всего, лучше дать им нелетальные патроны, а оружие приберечь для головы. Обязательно помогите [надзирателю](\3_HowToPlay\Jobs\Security_roles\Warden.md) управлять тюрьмой и направьте [офицеров](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) вернуть своих погибших друзей.
+
+Если уровень тревоги повышается до <font color="red">Code Red,</font> то это время для вынесения более суровых приговоров. Вам все еще необходимо получить разрешение капитана на исполнение приговора на месте, но в случае, если цепочка командования нарушена и нет четких полномочий, решать вам; в этот момент Бриг, скорее всего, не функционирует, и опасность, исходящая от антагонистов, максимальна.
+
+
+
+### Как не оказаться с головой на щуке
+
+Для любого HoS экипаж может представлять не меньшую опасность, чем [агенты синдиката](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) и [революционеры](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md), и если вы или ваши [офицеры] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) достаточно разозлите их, вы можете обнаружить свой труп, выставленный в коридоре. Лучший способ предотвратить это - работать с [адвокатом](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), снимать с заключенных гарнитуры и следовать [космическим законам](\3_HowToPlay\Guides\Security_guides\Space-Law.md). Во время простоя вы также можете попытаться наладить отношения с экипажем: арестовывая нежелательных вандалов и воров, вы и сами покажете другим, что служба безопасности выполняет свою работу, и внесете свою лепту в ее работу.
 
   <br/>
-<br/>
-<br/>
+<br/>>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

@@ -1,62 +1,62 @@
-# Janitor
-**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Janitorial closet</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>.'' ''Colloquial title: "Jani"
+# Уборщик
+**Тип должности:** <font color="#4e7331">Уборщица</font>. **Доступ:** <font color="#4e7331">Шкаф уборщика</font>, Обслуживание. **Трудность:** <font color="Green">Легко</font>.''' '''Разговорное название: '''Jani'''
 
 
-## Overview
+## Обзор
 
-Being a Janitor is a thankless job, but an important one. Not only is it simple, it's one of the two main jobs keeping the station from turning into a shit show, the other being [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). The more the station looks like an animal pen, the more the crew members [will act like it is one](\3_HowToPlay\Guides\General_guides\Battle-royale.md). It is more fun than it sounds.
+Быть уборщиком - работа неблагодарная, но очень важная. Она не только проста, но и является одной из двух основных работ, не позволяющих станции превратиться в балаган, вторая - [охрана](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). Чем больше станция похожа на загон для животных, тем больше членов экипажа [будут вести себя так, как будто это и есть загон](\3_HowToPlay\Guides\General_guides\Battle-royale.md). Это гораздо интереснее, чем кажется.
 
-Keep the floors clean. Pick up trash.  Change broken lightbulbs. Mop up messes. Point at your wet floor sign when someone inevitably slips.
+Поддерживайте чистоту полов. Собирайте мусор.  Меняйте разбитые лампочки. Вытирайте мусор. Указывайте на знак "мокрый пол", когда кто-то неизбежно поскользнется.
 
-This is the best role to pick as a new player.
+Это лучшая роль для новичка.
 
-## Equipment
+## Оборудование
 
-The Janitor's gear is highly specialized to cleaning messes:
+Снаряжение уборщика специализируется на уборке беспорядка:
 
-- First is the galoshes. They prevent you from slipping on wet floors (even space lubed floors, but do not protect you from banana peels or bars of soap).
-- Next is the janibelt. The janibelt is great because it starts with a mop, flashlight (equip to a pocket so it will shine at all times), a wet floor sign, and '4 space cleaner bottles.'
+- Во-первых, это галоши. Они не дают поскользнуться на мокром полу (даже на смазанном, но не защищают от банановой кожуры или кусков мыла).
+- Далее - джанибелт. Пояс уборщика хорош тем, что в него входят швабра, фонарик (прикрепленный к карману, чтобы он всегда светил), знак мокрого пола и "4 бутылки средства для уборки помещений".
 
-* The almightly space cleaner bottle. Space Cleaner is great because it does not leave a wet floor, so you can fire and forget. Not only that, but the bottle has a 3 tile range, allowing you to fire over counters and tables. Each bottle holds 100 space cleaner to begin with and consumes 6 per shot, so you get 17 per bottle. Once a bottle is empty, it can be refilled with water, but if there's a [Chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md), they can [manufacture more space cleaner](\3_HowToPlay\Guides\Medical_guides\Chemistry.md) for you.
-* The less mighty, but still useful in a pinch bar of soap. Soap does not leave a wet floor either, and it has a lot more uses before running out than the space cleaner, but it is a lot slower to use.
-* The mop-and-bucket combo is your main tool when the space cleaner runs out. The mop holds 25 units of fluid and consumes 5 units per use. You can clean multiple adjacent tiles at the same time. It can be refilled by dunking it in a bucket filled with water. Buckets hold 70 units of fluid and can be refilled at water tanks.
-* Wet floor signs. Place these around where you've recently mopped or otherwise you will be lynched shortly by an angry mob.
-* Last is the trash bag. You can use a wielded trash bag to pick up trash on the floor, such as snack wrappers, dirty plates, and [evidence](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md). Trash bags hold 15 assorted items.
-
-
-
-### Cleaning with a mop and bucket:
-
-1. Grab a mop and a bucket from one of the lockers inside the janitorial closet.
-2. Have the bucket selected and click on the water tank inside your closet. Do this until it says the bucket is full.
-4. Put down wet floor signs. this means that you won't get in trouble if someone slips on the wet floor.
-5. Click on the bucket with your mop.
-6. Click on the spill with the mop equipped.
-7. Wait for the bar to fill up, and you have successfully cleaned. Remember to collect the wet floor sign in a minute or two once the floor has dried.
+* Вредная бутылочка с очистителем пространства. Средство Space Cleaner замечательно тем, что не оставляет мокрого пола, так что можно запалить и забыть. Кроме того, бутылка имеет радиус действия 3 плитки, что позволяет стрелять по прилавкам и столам. Каждая бутылка вмещает 100 чистящих средств, а за один выстрел расходуется 6, так что на одну бутылку приходится 17. Как только бутылка опустеет, ее можно наполнить водой, но если рядом есть [химик](\3_Как играть\Jobs\Medical_roles\Chemist.md), он может [изготовить больше очистителя пространства](\3_Как играть\Guides\Medical_guides\Chemistry.md) для вас.
+* Менее могущественный, но все же полезный в крайнем случае брусок мыла. Мыло тоже не оставляет мокрого пола, и его можно использовать гораздо чаще, чем пылесос, но оно гораздо медленнее в использовании.
+* Швабра и ведро - основной инструмент, когда заканчивается средство для уборки помещений. Швабра вмещает 25 единиц жидкости и расходует 5 единиц за одно использование. Шваброй можно одновременно чистить несколько соседних плиток. Заправить швабру можно, окунув ее в ведро с водой. Ведра вмещают 70 единиц жидкости и могут быть пополнены в резервуарах с водой.
+* Знаки "Мокрый пол". Разместите их в тех местах, где вы недавно проводили уборку, иначе вас вскоре линчует разъяренная толпа.
+* И последнее - мусорный мешок. С помощью мусорного мешка можно собирать мусор на полу, например, обертки от закусок, грязные тарелки и [улики](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md). В мусорные мешки помещается 15 различных предметов.
 
 
 
-### Cleaning with the cleaner spray bottle:
+### Уборка с помощью швабры и ведра:
 
-1. Grab a bottle of cleaner, either from the janitorial lockers or from your belt.
-2. Click on the tile that needs cleaning. The spray bottle has a 3-tile range.
-4. You have successfully cleaned, <u>without leaving a wet floor behind.</u>
-
-
-
-### Cleaning with a bar of soap:
-
-1. Grab a bar of soap, either from the janitorial vendor or from your belt.
-2. Click on the tile that needs cleaning.
-3. Wait for the bar to fill up and you have successfully cleaned <u>without leaving a wet floor behind</u>.
+1. Возьмите швабру и ведро из одного из шкафчиков в кладовке для уборки.
+2. Выбрав ведро, щелкните на баке с водой в шкафу. Делайте это до тех пор, пока не появится сообщение о том, что ведро заполнено.
+4. Повесьте таблички "Мокрый пол". Это означает, что у вас не будет проблем, если кто-то поскользнется на мокром полу.
+5. Щелкните на ведре со шваброй.
+6. Щелкните на разливе с помощью швабры.
+7. Подождите, пока полоска заполнится, и вы успешно выполните уборку. Не забудьте собрать знак мокрого пола через минуту или две, когда пол высохнет.
 
 
 
-Keep in mind that, while the bottle is faster and doesn't make the floor wet, there's a limited amount of cleaner in the bottle, and you need a [competent](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) [Chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md) in order to get more.
+### Уборка с помощью баллончика с чистящим средством:
+
+1. Возьмите бутылку с чистящим средством либо из шкафчиков уборщицы, либо с пояса.
+2. Щелкните на плитке, которую нужно почистить. Радиус действия баллончика составляет 3 плитки.
+4. Вы успешно провели уборку, <u>не оставив после себя мокрого пола.</u>
+
+
+
+### Уборка с помощью куска мыла:
+
+1. Возьмите брусок мыла, либо у продавца, либо на поясе.
+2. Щелкните на плитке, которую нужно почистить.
+3. Подождите, пока брусок заполнится, и вы успешно уберете <u>не оставив после себя мокрый пол</u>.
+
+
+
+Имейте в виду, что, хотя бутылка работает быстрее и не делает пол мокрым, в ней находится ограниченное количество чистящего средства, и чтобы получить больше, вам нужен [компетентный](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) [Chemist](\3_HowToPlay\Jobs\Medical_roles\Chemist.md).
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

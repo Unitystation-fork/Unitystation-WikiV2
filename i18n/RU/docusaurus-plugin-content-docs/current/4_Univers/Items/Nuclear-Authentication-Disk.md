@@ -1,23 +1,23 @@
-# Nuclear Authentication Disk
+# Диск ядерной аутентификации
 ### GET DAT FUKKEN DISK
 
 
-This disk contains the the encrypted data needed to to activate the station's onboard nuke as well as the the nuke-on-wheels that the [Nuclear Operatives](Nuclear-Emergency.md) get.
+Этот диск содержит зашифрованные данные, необходимые для активации бортовой ядерной бомбы станции, а также ядерной бомбы на колесах, которую получают [Nuclear Operatives](Nuclear-Emergency.md).
 
-If you are the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) or a member of [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), for the love of all that is good on the station, protect this disk with your life. Do not let it fall into the wrong hands, [which](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) [is](\3_HowToPlay\Jobs\Service_roles\Janitor.md) [basically](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [anybody](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md) [else](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md).
+Если вы капитан (\3_HowToPlay\Jobs\Command_roles\Captain.md) или сотрудник службы безопасности (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), ради всего хорошего, что есть на станции, защитите этот диск своей жизнью. Не дайте ему попасть в чужие руки, [которые](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) [являются](\3_HowToPlay\Jobs\Service_roles\Janitor.md) [basically](\3_HowToPlay\Jobs\Service_roles\Assistant.md) [anybody](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Mime.md) [else](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md).
 
 
-### WHERE THE FUK IS IT?
+### ГДЕ ЭТО, БЛЯДЬ, НАХОДИТСЯ?
 
-Hello [Nukie](Nuclear-Emergency.md). You want the disk. How do you find who's hiding it? With that little device you got there called the pinpointer. It points in the general direct of the disk no matter how far away it is. All you have to do is follow the arrow and shoot people who try to stop you. So easy, a [Clown](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) could do it.
+Привет [Nukie](Nuclear-Emergency.md). Вам нужен диск. Как найти того, кто его прячет? С помощью того маленького устройства, которое у вас там есть, под названием пинпоинтер. Он указывает общее направление на диск, как бы далеко он ни находился. Все, что вам нужно делать, это следовать за стрелкой и стрелять в тех, кто пытается вам помешать. Это так просто, что даже клоун (\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) может это сделать.
 
-Note that if you manage to acquire the disk, you are not the only ones who can track it. The [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md) and the [HoS](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) have their own pinpointers, and some stations will have a few extra lying around. This means that you can be traced just the same as the Captain, though typically you won't have as hard a time keeping the disk.
+Обратите внимание, что если вам удастся заполучить диск, вы не единственные, кто может его отследить. У [Капитана](\3_HowToPlay\Jobs\Command_roles\Captain.md) и [HoS](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) есть свои собственные пинпойнтеры, а на некоторых станциях есть несколько дополнительных. Это означает, что вас могут отследить точно так же, как и капитана, хотя обычно вам будет не так трудно сохранить диск.
 
-Also, all [Death Squad Troopers](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md) come equipped with a pinpointer. If you, the nukies, have overstayed your welcome, or you are station personnel who have royally screwed up, Centcom may send a squad to get the disk, either to save the station or to blow it up themselves. If this happens, you are already dead. You just don't know it.
+Кроме того, все бойцы [Эскадрона смерти](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md) оснащены пинпоинтером. Если вы, нуки, просрочили свое гостеприимство, или вы - персонал станции, который ужасно облажался, Centcom может послать отряд за диском, чтобы либо спасти станцию, либо взорвать ее самим. Если это произойдет, вы уже мертвы. Вы просто не знаете об этом.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

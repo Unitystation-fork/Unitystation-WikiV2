@@ -1,30 +1,30 @@
-# Central Command Officer
-**Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">Extreme</font>.
+# Центральный командный офицер
+**Тип роли**: <font color="#D4AF37">CentCom</font>. **Доступ**: <font color="green">Все</font>. **Трудность**: <font color="Red">Экстремальная</font>.
 
 
 
-Note: The central command officer is not a roundstart role and can currently only be accessed through admin events. The highest roundstart role one can have is [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md).
+Примечание: Центральный командир не является ролью раундстарта и в настоящее время может быть доступен только через события администратора. Наивысшая роль раундстарта, которую можно получить, - [Капитан] (\3_HowToPlay\Jobs\Command_roles\Captain.md).
 
 
-## Who you are
+## Кто вы
 
-The CCO is the representative of centcom, and as such is higher in the chain of command than even the [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md). Compared to him, everyone on the station is disposable. Unless you are given a different goal by your [overseers](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md), your general role will be to guide the [captain](\3_HowToPlay\Jobs\Command_roles\Captain.md), perform inspections, report situations to centcom, and get the hell out as fast as you can when [people start burning alive](\3_HowToPlay\Guides\General_guides\Battle-royale.md). You should not, under any circumstance, try and apprehend threats to the station yourself or put yourself in harms way. Your revolver, while strong, is meant as a self defense tool, and no matter what armor you have, it wont protect you against a sufficiently willing and skilled [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md).
-
-
-
-## How to do your job
-
-While combat is out of the question, your job thankfully does not call for it. Instead you can generally ignore any thefts of the captains gear,or assassinations of officers and instead report them to your [supervisors](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md). To keep yourself safe, be near two or more people at any time and stay in public areas. NEVER wander into areas such as maint or escape alone. Should the station become inoperable, infested by some [biological](\3_HowToPlay\Jobs\Antagonist_roles\Blob.md) [threat](\4_Univers\Mobs\Xenomorph.md), stocked full of [blood god worshipping loonies](Blood-cult.md), or otherwise becomes a danger to NT operations in the area, it is your job to report it so that the mess can be [cleaned up](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md) or [fixed](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Emergency-Response-Team.md) by a specialized task force.
+CCO является представителем Centcom и как таковой стоит выше в командной цепочке, чем даже [капитан](\3_HowToPlay\Jobs\Command_roles\Captain.md). По сравнению с ним все на станции - одноразовые. Если только ваши [надсмотрщики] не поставят перед вами другую задачу (\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md), ваша общая роль будет заключаться в том, чтобы направлять [капитана] (\3_HowToPlay\Jobs\Command_roles\Captain.md), проводить инспекции, сообщать о ситуациях в centcom и убираться как можно быстрее, когда [люди начинают гореть заживо](\3_HowToPlay\Guides\General_guides\Battle-royale.md). Ни при каких обстоятельствах не пытайтесь сами задержать угрозу станции и не подвергайте себя опасности. Ваш револьвер, хотя и мощный, предназначен для самозащиты, и какая бы броня у вас ни была, она не защитит вас от достаточно желающего и умелого [предателя](\3_Как играть\Jobs\Antagonist_roles\Traitor.md).
 
 
 
-## Your gear
+## Как выполнять свою работу
 
-The CCO doesn't have much gear of his own, surprisingly. You have a bottle of Badmin Brew, A Mateba revolver which acts identically to the .357 revolvers, and a set of clothing that is just re-textured [captains](\3_HowToPlay\Jobs\Command_roles\Captain.md) gear. Depending on the whims of your [supervisors](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md), you may, rarely, receive additional gear or help from other centcom personnel.
+Хотя о боевых действиях не может быть и речи, ваша работа, к счастью, не требует этого. Вместо этого вы можете игнорировать любые кражи снаряжения капитанов или убийства офицеров и сообщать о них начальству (\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md). Чтобы обезопасить себя, всегда находитесь рядом с двумя или более людьми и не выходите из общественных мест. НИКОГДА не заходите в одиночку в такие зоны, как ремонтная или эвакуационная. Если станция выйдет из строя, будет заражена [биологической] (\3_HowToPlay\Jobs\Antagonist_roles\Blob.md) [угрозой] (\4_Univers\Mobs\Xenomorph.md), наполнена [психами, поклоняющимися богу крови] (Blood-cult.md), или иным образом представляет опасность для операций NT в этом районе, ваша задача - сообщить об этом, чтобы беспорядок был [устранен](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md) или [исправлен](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Emergency-Response-Team.md) специальной оперативной группой.
+
+
+
+## Ваше снаряжение
+
+У сержанта, на удивление, не так много собственного снаряжения. У вас есть бутылка Badmin Brew, револьвер Mateba, который действует идентично револьверам .357, и комплект одежды, который является просто перетекстурированной одеждой [капитана](\3_HowToPlay\Jobs\Command_roles\Captain.md). В зависимости от прихоти ваших [начальников](\3_HowToPlay\Jobs\Protagonist_roles\Special\Admin.md), вы можете, в редких случаях, получить дополнительное снаряжение или помощь от других сотрудников centcom.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

@@ -1,67 +1,67 @@
-# Cargo Bounties
+# Грузовые награды
 
-Bounties are a primary revenue source of the Cargo department. They take the form of requests from CentCom for specific items to be sent in the cargo shuttle in exchange for a reward.
+Заказы - основной источник дохода грузового отдела. Они представляют собой запросы от CentCom на отправку определенных предметов на грузовом шаттле в обмен на вознаграждение.
 
-Bounties are randomly generated from a pool of possible options. They appear in the Bounties tab in the cargo console.
+Задания генерируются случайным образом из множества возможных вариантов. Они отображаются на вкладке Bounties в консоли грузового отдела.
 
-## List of Bounties
+## Список вознаграждений
 
-| Name                                        | Description                                                  | Reward |
+| Название | Описание | Награда |
 | ------------------------------------------- | ------------------------------------------------------------ | ------ |
-| **[Engineering](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md)** **Bounties** |                                                              |        |
-| Airlock Electronics x2                      | Send 2 Airlock Electronics.                                  | 400    |
-| Hot Ice x10                                 | Send 10 Hot Ice and we'll grant a small budgetary bonus.     | 500    |
-| insulated gloves x2                         | Send 2 pairs of insulated gloves.                            | 400    |
-| Power Control Boards x2                     | Send 2 Power Control Boards.                                 | 500    |
-| Power cells x6                              | Send 6 Power Cells to replace burnouts.                      | 600    |
-| Toolboxes x6                                | There's an absence of robustness at Central Command. Hurry up and ship 6 toolboxes as a solution. | 600    |
-| **[Medical](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) Bounties**   |                                                              |        |
-| Defibrillator                               | Send 1 Defibrillator unit.                                   | 500    |
-| Heart                                       | Send 1 Heart.                                                | 1250   |
-| Medical Supplies                            | Send a health analyzer and one stack each of bruise packs, gauze, ointment and regen mesh. | 500    |
-| **[Mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) Bounties**       |                                                              |        |
-| Ashwalker Artifacts                         | Send over two [ashwalker](\3_HowToPlay\Jobs\Ghost_roles\Ashwalker.md) artifacts for study. | 2500   |
-| bluespace crystal                           | Send a bluespace crystal for study.                          | 500    |
-| Goliath Steaks                              | Send 3 lava-cooked goliath steaks.                           | 2000   |
-| glass x30                                   | Bonus alloy quota: send 30 plain glass sheets.               | 350    |
-| metal x30                                   | Bonus alloy quota: send 30 metal sheets.                     | 350    |
-| Metallic Hydrogen x5                        | Bonus alloy quota: send 5 bars of Metallic Hydrogen.         | 1000   |
-| plasma glass                                | Bonus alloy quota: Send 5 plasma glass sheets.               | 750    |
-| plasteel                                    | Bonus alloy quota: send 5 plasteel sheets.                   | 750    |
-| solid plasma                                | Bonus alloy quota: send 10 solid plasma.                     | 500    |
-| volcanic ash sample                         | Send a sample of Lavaland soil for independent testing.      | 500    |
-| PKAs x2                                     | Send 2 Proto Kinetic Accelerators.                           | 500    |
-| **[Science](\3_HowToPlay\Jobs\Science_roles\Scientist.md) Bounties**        |                                                              |        |
-| AI Module                                   | We are investigating concerns of an exploit allow AIs to subvert their laws. Send a law module board over for diagnosis. | 1800   |
-| Artifact Detector                           | Send 1 Artifact Detector.                                    | 1000   |
-| Endoskeletons x3                            | Send 3 cyborg endoskeletons.                                 | 1000   |
-| Spare Parts                                 | Send 1 each of; matter bin, capacitor, manipulator, micro laser, and scanning module. | 750    |
-| **Service Bounties**                        |                                                              |        |
-| Armor and Helmets x3                        | One of our FOBs has under-armored staff. Send 3 sets of armor vests and helmets. | 1000   |
-| Bluespace Bananas x5                        | Send 5 bluespace bananas.                                    | 1000   |
-| Bread x10                                   | A nearby outpost is performing experiments on loafs of bread. Send 10 over. | 1300   |
-| Cake                                        | NanoTrasen's birthday is coming up! Ship them a birthday cake to celebrate! | 1100   |
-| Cheese wheel                                | CentCom is conducting the annual cheesefest a few days early this year. Send a cheese wheel over for grading pronto. | 900    |
-| Cloth Rolls x10                             | The clothing at one of the planetary outposts is getting a bit ragged. Send 10 cloth rolls to help patch them up. | 800    |
-| Crayons x10                                 | The Marine Corps strike group in the system has requested a sample of our culinary offerings for a potential supply contract. Send them 10 crayons. | 800    |
-| Cream Pies x5                               | CC [Clown](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) supplies are getting dangerously low. Send 5 cream pies. | 2000   |
-| Donuts x10                                  | CentCom's security forces are facing heavy losses against the Syndicate. Ship 10 donuts to raise morale. | 800    |
-| Flowers x10                                 | Send 10 flowers for a welcoming wreath for a Centcom Admiral who is inspecting bases in the system. | 1600   |
-| jumpsuits x8                                | A new batch of [assistants](\3_HowToPlay\Jobs\Service_roles\Assistant.md) are in transit, but they are short of clothing; Ship 8 plain jumpsuits. | 1000   |
-| Monster Bread                               | CentCom has received reports of strange hostile mutations developing in bread. If you can replicate the process, send over a sample for analysis. | 1350   |
-| Pastries x10                                | Send 10 assorted pastries for a bakesale being hosted at the local orphanage. | 500    |
-| Pens x10                                    | We are hosting the intergalactic pen balancing competition. We need you to send us some standardized ball point pens. | 800    |
-| Raw Meats x10                               | Send 6 slabs of raw meat for the [lizard](\3_HowToPlay\Caractere\Guide-to-player-species.md) staff at a nearby satellite post. | 800    |
-| Soap x5                                     | There was a plumbing accident at CentCom. Send 5 bars of soap to help us take care of this mess. | 800    |
-| Trash x10                                   | Recently a group of janitors have run out of trash to clean up, without any trash CentCom wants to fire them to cut costs. Send a shipment of trash to keep them employed, and they'll give you a small compensation. | 400    |
-| **Misc Bounties**                           |                                                              |        |
-| Action figures x5                           | Send 5 Collectible Action Figures.                           | 1500   |
-| Axe                                         | Send 1 Axe.                                                  | 1000   |
-| Cardborg Suits and hats x3                  | Send 3 cardborg suits and hats.                              | 1000   |
-| Dead Facehugger                             | Send a dead [facehugger](\4_Univers\Mobs\Xenomorph.md) for dissection.       | 1500   |
-| Dead Mice x5                                | Space Station 14 ran out of freeze-dried mice. Ship 5 fresh ones so their janitor doesn't go on strike. | 1500   |
-| Firefighting gear x2                        | A nearby Outpost is experiencing a fire emergency. Ship 2 sets of firefighter suits, helmets, and extinguishers ASAP. | 1200   |
-| Hats x5                                     | Command has run short of staff hats. Send 5 pieces of replacement headwear. | 1000   |
-| Paper Bins x5                               | Our accounting division is all out of paper. We need a shipment of 5 paper bins immediately. | 1200   |
-| Plushies x3                                 | Discontent amongst the crew of Unreal station has risen to dangerous heights. Ship 3 plushies to assuage them. | 1000   |
+| **[Инженер](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md)** **Баунти** | | | | |
+| Шлюзовая электроника x2 | Отправить 2 шлюзовых электроники.                                  | 400 |
+| | Горячий лед x10 | Отправьте 10 горячих льдов, и мы предоставим небольшой бюджетный бонус.     | 500 |
+| Изолированные перчатки x2 | Отправить 2 пары изолированных перчаток.                            | 400 |
+| | Платы управления питанием x2 | Отправить 2 платы управления питанием.                                 | 500 |
+| | Элементы питания x6 | Отправить 6 элементов питания для замены перегоревших.                      | 600 |
+| Ящики для инструментов x6 | В Центральном командовании не хватает надежности. Поспешите отправить 6 ящиков для инструментов в качестве решения проблемы. | 600 |
+| **[Медицина](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) Баунти** | | | | |
+| Дефибриллятор | Отправьте 1 единицу дефибриллятора.                                   | 500 |
+| Сердце | Отправьте 1 сердце.                                                | 1250 |
+| Медицинские принадлежности | Отправить анализатор здоровья и по одной упаковке пакетов от ушибов, марли, мази и регенерирующей сетки. | 500 |
+| **[Mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) Bounties** | | | | | |
+| Артефакты пепельника | Пришлите два артефакта [пепельника](\3_HowToPlay\Jobs\Ghost_roles\Ashwalker.md) для изучения. | 2500 |
+| Кристалл блюспейса | Отправить кристалл блюспейса для изучения.                          | 500 |
+| Стейки голиафа | Отправить 3 приготовленных из лавы стейка голиафа.                           | 2000 |
+| Стекло x30 | Бонусная квота на сплав: отправить 30 листов обычного стекла.               | 350 |
+| металл x30 | Бонусная квота на сплав: отправить 30 металлических листов.                     | 350 |
+| | Металлический водород x5 | Бонусная квота на сплав: отправить 5 слитков металлического водорода.         | 1000 |
+| | Плазменное стекло | Бонусная квота на сплав: Отправить 5 листов плазменного стекла.               | 750 |
+| Пластель | Бонусная квота на сплав: отправить 5 листов пластеля.                   | 750 |
+| Твердая плазма | Бонусная квота на сплав: отправить 10 листов твердой плазмы.                     | 500 |
+| | Образец вулканического пепла | Отправить образец лавальдской почвы для независимого тестирования.      | 500 |
+| PKAs x2 | Отправить 2 протокинетических ускорителя.                           | 500 |
+| **[Наука](\3_HowToPlay\Jobs\Science_roles\Scientist.md) Награды** | | | | |
+| | Модуль ИИ | Мы расследуем сообщения об эксплойте, позволяющем ИИ нарушать законы. Пришлите нам на диагностику плату модуля законов. | 1800 |
+| Детектор артефактов | Отправить 1 детектор артефактов.                                    | 1000 |
+| Эндоскелеты x3 | Отправить 3 киборг-эндоскелета.                                 | 1000 |
+| Запчасти | Выслать по 1 контейнеру для материи, конденсатору, манипулятору, микролазеру и сканирующему модулю. | 750 |
+| **Служебные награды** | | | | | |
+| Бронежилеты и шлемы x3 | На одной из наших ПОБ есть недостаточно бронированный персонал. Пришлите 3 комплекта бронежилетов и шлемов. | 1000 |
+| Бананы из блюспейса x5 | Пришлите 5 бананов из блюспейса.                                    | 1000 |
+| Хлеб x10 | На соседнем форпосте проводятся эксперименты с буханками хлеба. Отправьте 10 штук. | 1300 |
+| Торт | Скоро день рождения НаноТрасены! Отправьте им праздничный торт! | 1100 |
+| Колесо сыра | В этом году CentCom проводит ежегодный праздник сыра на несколько дней раньше. Срочно отправьте им колесо сыра для сортировки. | 900 |
+| | Рулоны ткани x10 | Одежда на одном из планетарных форпостов немного поизносилась. Отправьте 10 рулонов ткани, чтобы подлатать их. | 800 |
+| Мелки x10 | Ударная группа морской пехоты в системе запросила образец нашей кулинарной продукции для потенциального контракта на поставку. Отправьте им 10 мелков. | 800 |
+| Пирожные с кремом x5 | CC [Клоун](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md) запасы становятся опасно малы. Пришлите 5 пирожных с кремом. | 2000 |
+| Пончики x10 | Силы безопасности CentCom несут большие потери в борьбе с Синдикатом. Отправьте 10 пончиков для поднятия боевого духа. | 800 |
+| Цветы x10 | Отправить 10 цветов для приветственного венка адмиралу Центокома, который инспектирует базы в системе. | 1600 |
+| комбинезоны x8 | Новая партия [ассистентов](\3_HowToPlay\Jobs\Service_roles\Assistant.md) находится в пути, но им не хватает одежды; отправьте 8 простых комбинезонов. | 1000 |
+| Хлеб-монстр | CentCom получил сообщения о странных враждебных мутациях, развивающихся в хлебе. Если вы сможете воспроизвести этот процесс, пришлите образец для анализа. | 1350 |
+| Выпечка x10 | Отправить 10 видов выпечки для продажи в местном детском доме. | 500 |
+| Ручки x10 | Мы проводим межгалактический конкурс по балансировке ручек. Нам нужно, чтобы вы прислали несколько стандартных шариковых ручек. | 800 |
+| Сырое мясо x10 | Отправьте 6 кусков сырого мяса для персонала [lizard](\3_HowToPlay\Caractere\Guide-to-player-species.md) на ближайшем спутниковом посту. | 800 |
+| Мыло x5 | В Центрокоме произошла авария на водопроводе. Пришлите 5 кусков мыла, чтобы помочь нам разобраться с этой проблемой. | 800 |
+| | Мусор x10 | Недавно у группы уборщиков закончился мусор для уборки, и CentCom хочет уволить их, чтобы сократить расходы. Отправьте партию мусора, чтобы сохранить им работу, и они выплатят вам небольшую компенсацию. | 400 |
+| **Минимум вознаграждений** | | | | | |
+| Коллекционные фигурки x5 | Отправить 5 коллекционных фигурок.                           | 1500 |
+| Топор | Отправить 1 топор.                                                  | 1000 |
+| Костюмы и шляпы кардборга x3 | Отправить 3 костюма и шляпы кардборга.                              | 1000 |
+| Мертвый фейсхаггер | Отправить мертвого [фейсхаггера](\4_Univers\Mobs\Xenomorph.md) для препарирования.       | 1500 |
+| Мертвые мыши x5 | На космической станции 14 закончились сублимированные мыши. Отправьте 5 свежих, чтобы уборщик не объявил забастовку. | 1500 |
+| Противопожарное снаряжение x2 | На соседнем форпосте возникла чрезвычайная ситуация с пожаром. Срочно отправьте 2 комплекта костюмов пожарных, касок и огнетушителей. | 1200 |
+| Шапки x5 | Командование испытывает нехватку головных уборов для персонала. Отправьте 5 запасных головных уборов. | 1000 |
+| | Контейнеры для бумаги x5 | В нашем бухгалтерском отделе закончилась бумага. Нам срочно требуется 5 контейнеров для бумаги. | 1200 |
+| Плюши x3 | Недовольство среди экипажа станции Unreal достигло опасных высот. Отправьте 3 плюшика, чтобы успокоить их. | 1000 |
 

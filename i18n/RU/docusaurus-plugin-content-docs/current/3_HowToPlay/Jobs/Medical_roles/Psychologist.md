@@ -1,28 +1,28 @@
-# Psychologist
+# Психолог
 
-**Role type**: <font color="#d673b2">Medical</font>/Service. **Access**: <font color="#d673b2">Medbay</font>, <font color="#d673b2">Psychology Office</font> **Difficulty:** **none.**
+**Тип должности**: <font color="#d673b2">Медицина</font>/Служба. **Доступ**: <font color="#d673b2">Медбай</font>, <font color="#d673b2">Кабинет психолога</font> **Сложность:** **нет.**
 
 
 
-The Psychologist is a listening ear, a shoulder to cry on, and a friend to all. Nominally part of service, and physically part of medbay, they are tasked with diffusing disputes and seeing to the psychological well-being of all the crew.
+Психолог - это помощник, плечо, на котором можно поплакаться, и друг для всех. Номинально являясь частью службы, а физически - частью медблока, он призван разрешать споры и заботиться о психологическом благополучии всего экипажа.
 
-NanoTrasen cares deeply about the mental health of its employees, and to this end, they have seen fit to drag an old carpet and couch into a disused broom closet in Medbay, even going so far as to hang up a motivational poster. Thus, the Psychology Office was born.
+NanoTrasen очень заботится о психическом здоровье своих сотрудников, и для этого они сочли нужным перетащить старый ковер и диван в заброшенную кладовку медблока и даже повесить там мотивационный плакат. Так родился кабинет психолога.
 
-Your job is primarily to simply talk and listen to any and all who request it, and secondarily to write and dispense prescriptions and doctor's notes for patients as you see fit.
+Ваша задача - в первую очередь просто разговаривать и слушать всех желающих, а во вторую - выписывать и выдавать пациентам рецепты и справки по своему усмотрению.
 
-*You are not another [Doctor](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md), your job is to help mentally, not physically.* This is largely a **roleplay-based** role - whether you have fun with it is largely tied to how much effort you and your patients put into it, as it is not tied to game mechanics at all.
+*Вы не очередной [Доктор] (\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md), ваша задача - помогать психически, а не физически.* Это в значительной степени **ролевая** роль - получите ли вы удовольствие от нее, зависит от того, сколько усилий вы и ваши пациенты в нее вкладываете, поскольку она совершенно не привязана к игровой механике.
 
-### Hearts and Minds
+### Сердца и умы
 
-it is a good idea to start 'advertising' around the station for anybody who could use some psychological care, and make sure to check the Brig, Medbay, or even places such as the Bar for any potential patient that could need some help.
+Неплохо бы начать "расклеивать" по станции объявления о тех, кому может понадобиться психологическая помощь, и обязательно проверять Бриг, Медблок или даже такие места, как Бар, на предмет потенциальных пациентов, которым может понадобиться помощь.
 
-### Hypocritical Oath ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Psychologist)
+### Лицемерная клятва ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Психолог)
 
-Being selected to be a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) as a Psychologist is basically a cruel joke. You'll have to be smart how you leverage your meek and disarming job title, because that's the only thing you get out of it, except a decently secluded room in the Medbay. The only trick you have is to invite any targets you have into your office for a therapy session, and that won't work often.
+Быть выбранным в качестве [предателя](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) психолога - это, по сути, злая шутка. Вам придется с умом использовать свое кроткое и обезоруживающее название должности, потому что это единственное, что вы получите, кроме укромной комнаты в медблоке. Единственная хитрость - приглашать в свой кабинет на сеанс психотерапии все имеющиеся у вас мишени, но это не часто удается.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

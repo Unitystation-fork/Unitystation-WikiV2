@@ -1,30 +1,30 @@
-# Paramedic
+# Парамедик
 
-**Role type**: <font color="#d673b2">Medical</font>. **Access**: <font color="#d673b2">Medbay</font>, <font color="#d673b2">Morgue</font>, maintenance, **Difficulty**: <font color="Yellow">Medium</font> to <font color="Red">High</font>.
+**Тип должности**: <font color="#d673b2">Медицинский</font>. **Доступ**: <font color="#d673b2">Медбай</font>, <font color="#d673b2">Морг</font>, обслуживание, **Сложность**: От <font color="Yellow">Средней</font> до <font color="Red">Высокой</font>.
 
-Note: for the guide to ordinary doctoring and first aid treatment, check [here](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md).
+Примечание: руководство по обычному лечению и оказанию первой помощи смотрите [здесь](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md).
 
 ### Mr. Gurney
 
-You are essentially a rescue medic. You spend most of your time outside Medbay and therefore have reduced access. However you have increased access to the rest of the station. Your job is to rescue people, take them to Medbay, and leave them to be treated there, performing first aid as needed to make sure they make it there alive.
+По сути, вы являетесь медиком-спасателем. Большую часть времени вы проводите за пределами медблока и поэтому имеете ограниченный доступ. Однако доступ к остальным помещениям станции у Вас расширен. Ваша работа заключается в том, чтобы спасать людей, доставлять их в Медбэй и оставлять там, оказывая им первую помощь, чтобы убедиться, что они дошли живыми.
 
-You are equal in rank to all other medical staff, and need only take orders from the CMO and Captain. It is, however, often a good choice to prolong your own existence by obeying sec within reason and leaving an area when ordered to by its director or workers. You should at all times carry a first-aid kit, medical belt, roller bed, and any manner of other healing gadgets you can feasibly store without pissing off the other doctors.
+Вы равны по званию со всем остальным медицинским персоналом и должны выполнять только приказы командира и капитана. Тем не менее, часто можно продлить свое существование, подчиняясь сек в пределах разумного и покидая зону по приказу ее директора или работников. Вы должны постоянно носить с собой аптечку, медицинский пояс, роликовый лежак и любые другие приспособления для лечения, которые вы можете хранить, не зля других врачей.
 
-### The practice
+### Практика
 
-When playing paramedic, there is little if any reason to stick around Medbay. Your goal is to patrol the station looking for those that are in need of medical assistance, heal them if possible or drag them to Medical. Checking maintenance on occasion to locate any corpses stuffed within is recommended, as is running into regions where combat or disaster is present or likely to occur. Maintaining a close relation and communication with sec and engineering is recommended, the prior will be the most likely to get into fights and need patching, while the latter is both the most common cause and solution to structural failures.
+Играя за фельдшера, практически нет причин задерживаться в Медбае. Ваша цель - патрулировать станцию в поисках тех, кто нуждается в медицинской помощи, лечить их, если это возможно, или тащить их в медблок. Рекомендуется время от времени проверять техническое обслуживание на предмет обнаружения трупов, а также посещать районы, где ведутся или могут произойти боевые действия или катастрофы. Рекомендуется поддерживать тесную связь с секьюрити и инженерами: первые чаще других вступают в бои и нуждаются в ремонте, в то время как вторые являются наиболее распространенной причиной и решением проблем, связанных с разрушением конструкций.
 
-In emergency situations, you have, unsurprisingly, among the most important roles of the whole crew. [Security Officers](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) can't fight xenos if they are bleeding out on the floor, and people cant run to evac if their legs have been blown apart. This is where you come in. Unlike the doctors, who will prioritize the dead for cloning the majority of the time, you should instead keep your attention to the injured outside medical and leave the dead for others to haul around.
+В аварийных ситуациях у вас, как это не удивительно, одни из самых важных ролей во всем экипаже. [Офицеры безопасности (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) не могут сражаться с ксеносами, если они истекают кровью на полу, а люди не могут бежать к эвакуации, если у них разнесены ноги. Вот тут-то вы и приходите на помощь. В отличие от врачей, которые в большинстве случаев отдают предпочтение мертвым для клонирования, вы должны уделять внимание раненым вне медицинской службы, а мертвых оставить для других.
 
-Fixing people up at the front line of either a disaster or battle and sending them back off to fight it is typically far more efficient than hauling dead bodies back to Medbay and returning. While you may think that the Paramedic would make a good rescuer when it comes to explosives and breaches, they aren't, and are instead just as likely to keel over responding to them as anyone else. let the engineers and atmos techs with their fancy hardsuits drag the corpses out for you instead and focus on healing those who barely made it out.
+Подлечить людей на переднем крае катастрофы или сражения и отправить их обратно на борьбу с ней, как правило, гораздо эффективнее, чем таскать трупы в медблок и возвращаться обратно. Хотя вы можете подумать, что парамедик будет хорошим спасателем, когда речь идет о взрывах и пробоинах, это не так, и он с такой же вероятностью упадет на землю, как и любой другой. Пусть инженеры и атмотехники в своих модных скафандрах вытаскивают трупы за вас, а вы сосредоточьтесь на лечении тех, кто едва выжил.
 
-### Emergency Malpractice Technician ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Paramedic)
+### Техник неотложной помощи ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Paramedic)
 
-You have access to dispose of bodies, access to EVA for some space murder action, and maintenance access to boot! Not to mention that you don't look out of place in any department and people won't find anything strange about you wandering the halls with a corpse so long as you stick it on your roller bed beforehand.
+У вас есть доступ к утилизации тел, доступ к EVA для некоторых космических убийств, а также доступ к техническому обслуживанию! Не говоря уже о том, что вы не будете выглядеть неуместно в любом отделе, и люди не найдут ничего странного в том, что вы бродите по коридорам с трупом, если вы предварительно положите его на свою кровать на роликах.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

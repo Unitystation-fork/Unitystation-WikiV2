@@ -1,2 +1,2 @@
-# General Items
+# Общие вопросы
 Mega Wip

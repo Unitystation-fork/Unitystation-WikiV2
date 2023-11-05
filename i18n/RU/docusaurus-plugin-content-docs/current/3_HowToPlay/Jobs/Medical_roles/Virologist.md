@@ -1,11 +1,11 @@
-# Virologist
-'SCIENCE ROLES CURRENTLY CAN NOT DO ANYTHING RELATED TO THEIR JOB. KEEP THIS IN MIND WHEN PICKING VIROLOGIST, SCIENTIST,  OR GENETICIST. PAGE WILL BE ADDED ONCE ROLE IS FUNCTIONAL.'
+# Вирусолог
+'НАУЧНЫЕ РОЛИ В НАСТОЯЩЕЕ ВРЕМЯ НЕ МОГУТ ДЕЛАТЬ НИЧЕГО, СВЯЗАННОГО С ИХ РАБОТОЙ. ИМЕЙТЕ ЭТО В ВИДУ, КОГДА ВЫБИРАЕТЕ ВИРУСОЛОГА, УЧЕНОГО ИЛИ ГЕНЕТИКА. СТРАНИЦА БУДЕТ ДОБАВЛЕНА, КОГДА РОЛЬ СТАНЕТ ФУНКЦИОНАЛЬНОЙ.
 
-Unfortunately, the only virus in Unity Station at the moment is incurable stupidity, so look elsewhere for now.
+К сожалению, единственный вирус на Станции Единства на данный момент - неизлечимая глупость, так что пока ищите другой.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

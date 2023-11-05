@@ -1,34 +1,34 @@
-# Curator
-**Role type:** <font color="#808080">Civilian</font>. **Access:** Maintenance. **Difficulty:** <font color="Green">easy</font>
+* Куратор
+**Тип должности:** <font color="#808080">Гражданский</font>. **Доступ:** Обслуживание. **Сложность:** <font color="Green">легко</font>.
 
-'<font color="red"> ''Disclaimer: the curator job is currently unfinished. this guide will (likely) be updated as the job is.''</font>'
-
-
-### So, you want to make a bestseller?
-
-Well settle down kid, because you wont. That's right, your a librarian on some space station in the ass end of nowhere. Instead, your job duties will mainly consist of giving catgirls and scalies their requested porn novels and being suspicious as hell. However, should you want to, you could write a book. To do this, simply take a pen and put it to paper, and make copies. Hand them out to anyone who comes to your office like some fanfic writer and hopefully they'll like it enough to... uh... im pretty sure theirs no benefit to doing this...
+'<font color="red"> ''Предупреждение: работа куратора в настоящее время не завершена. это руководство будет (вероятно) обновляться по мере выполнения работы.''</font>''
 
 
+### Итак, вы хотите создать бестселлер?
 
-### Summoning Satan
-
-If lifes got you down, why not change something and summon the lord of hell? As curator, you can also act as a non-religiously aligned chaplain if you want, gathering weird eldritch books and making deals with whatever bizarre daemon you summon, just make sure [the gods are on to hear your prayers](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) beforehand. Go summon Beelzebub and later shake hands with herma-mora so he gives you cool books. Alternatively, work with the [chaplain](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md), providing him eldritch tomes or whatever religious books he requests to summon some fish god and make a cult surrounding it, before going on a holy crusade to seafood aisle to liberate his borthers.
+Успокойся, малыш, потому что у тебя не получится. Правильно, ты библиотекарь на какой-то космической станции в жопе у черта на куличках. Вместо этого твои должностные обязанности будут заключаться в том, чтобы выдавать кошатницам и скалистам их желанные порнороманы и быть подозрительным, как черт. Однако, если вы захотите, вы можете написать книгу. Для этого достаточно взять ручку, написать на бумаге и сделать копии. Раздайте их всем, кто придет к вам в офис как автор фанфика, и, надеюсь, им понравится настолько, что они... э-э... я уверен, что в этом нет никакой пользы...
 
 
 
-### Indiana Jones and the hunt for cool shit
+### Вызов Сатаны
 
-Your a curator, not a book curator specifically, this means that your free to go delve into whatever [gateway ruins](Gateway-maps.md) you find and bring back the artifacts inside, so long as you can survive the horrors within. Make sure to stock up on weapons and supplies, you dont want to awkwardly shuffle back halfway through an ancient pyramid because you forgot a tool-belt. once you've gotten cool artifacts, build them a display or set them on your table and hope nobody steals them. invite people over to gaze at your cool loot and maybe even hire a [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) detail with some of it. alternatively, you can sell the jewels and gold you find by working with [cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md). These artifacts may even harbor special powers youd want to make use of to further your own goals.
+Если жизнь не дает Вам покоя, почему бы не изменить ситуацию и не вызвать владыку ада? Как куратор, вы также можете выступать в роли нерелигиозного священника, собирая странные эльдрические книги и заключая сделки с любым причудливым демоном, которого вы вызываете, только убедитесь, что [боги готовы услышать ваши молитвы](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) заранее. Пойдите и вызовите Вельзевула, а затем пожмите руку герма-море, чтобы он подарил вам классные книги. Или же поработайте с [капелланом](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md), предоставив ему элдрические тома или любые религиозные книги, которые он попросит, чтобы вызвать какого-нибудь рыбьего бога и создать вокруг него культ, а затем отправиться в священный крестовый поход к морскому проходу, чтобы освободить своих сородичей.
 
 
 
-### Oh damn it, Im evil!
+### Индиана Джонс и охота за крутым дерьмом
 
-As a traitor curator, your only real advantage compared to other roles is that nobody will bother ever visiting your library without reason. your basically a less suspicious assistant with the same amount of access. You could use this to your advantage, hiding bodies in your room and using your dweeb looks to appear harmless. As a traitor curator, your also more free to sacrifice others to summon things, so long as someone is around to hear you.
+Вы - куратор, но не книжный, а именно куратор, а это значит, что вы можете свободно отправляться в любые [Gateway Ruins](Gateway-maps.md), которые найдете, и возвращать артефакты, если только сможете выжить в ужасах, творящихся внутри. Не забудьте запастись оружием и провизией - вы же не хотите неловко пробираться назад через древние пирамиды, потому что забыли ремень с инструментами. Как только вы раздобудете крутые артефакты, соорудите из них витрину или положите на стол и надейтесь, что никто их не украдет. Приглашайте людей поглазеть на вашу крутую добычу и, возможно, даже наймите [security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md). Эти артефакты могут даже обладать особыми способностями, которые вы захотите использовать для достижения своих целей.
+
+
+
+### Проклятье, я злой!
+
+Как куратор-предатель, ваше единственное реальное преимущество по сравнению с другими ролями заключается в том, что никто не будет беспокоиться о посещении вашей библиотеки без причины. Вы, по сути, менее подозрительный помощник с тем же количеством доступа. Вы можете использовать это в своих интересах, пряча тела в своей комнате и используя свою внешность ботана, чтобы казаться безобидным. Как куратор-предатель, вы также можете свободно жертвовать другими для вызова вещей, если только кто-то рядом будет вас слышать.
 
   <br/>
-<br/>
-<br/>
+<br/>>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

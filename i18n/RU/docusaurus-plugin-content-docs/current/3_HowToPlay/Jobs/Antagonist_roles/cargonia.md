@@ -1,24 +1,24 @@
-# Cargonia
+# Каргония
 
-Cargonia is the current in-game name of this gamemode. A random department (excluding security and command) will become rogue and is tasked to steal an item and escape on the shuttle with at least 50% of the department staying alive until the end of the round.
+Каргония - это текущее внутриигровое название данного режима. Случайный отдел (за исключением службы безопасности и командования) становится изгоем и получает задание украсть предмет и сбежать на шаттле, при этом не менее 50% отдела должны остаться в живых до конца раунда.
 
-The gamemode can currently only be triggered manually by an admin.
+В настоящее время этот режим может быть запущен только вручную администратором.
 
-## Hail Cargonia!
+## Да здравствует Каргония!
 
-This antagonist gamemode heavily emphasizes coordination. A typical round often involves a period of preparation and then an alpha strike on all fronts, though it can be done without ever alerting the rest of the station. The key is how well you exploit the tools available to your department.
+В этом антагонистическом режиме большое внимание уделяется координации действий. Типичный раунд часто включает в себя период подготовки, а затем альфа-удар по всем фронтам, хотя это может быть сделано без оповещения остальной части станции. Ключевым моментом является то, насколько эффективно вы используете имеющиеся в вашем распоряжении инструменты.
 
-## Cargo
+## Груз
 
-The eponymous rogue department. With your own lathe, half a dozen hardsuits, the expeditionary shuttle, the almighty [PKA](Items/PKA), and the ability to buy whatever you want, you have it pretty good.
+Одноименный отдел-изгой. Собственный токарный станок, полдюжины скафандров, экспедиционный шаттл, всемогущий [PKA](Items/PKA) и возможность покупать все, что захочется, - все это очень неплохо.
 
-If you go the hostile-takeover route, your priority is to hoard as much money as possible to purchase the gear you need to succeed while ignoring requests from other departments, citing lack of funds or having them fill out needless and exuberant paperwork.
+Если вы пойдете по пути враждебного захвата, то ваша первоочередная задача - накопить как можно больше денег, чтобы приобрести необходимое для успеха снаряжение, игнорируя запросы других отделов, ссылаясь на отсутствие средств или заставляя их заполнять ненужные и обильные бумаги.
 
-You will likely want to purchase some weapons crates to arm the proletariats of Cargonia. These crates come locked, requiring security clearance to open. One strategy to getting past this is dragging the crates outside the station airlocks and pinning them against a wall along an indentation. Once you have secured yourself on an opposite wall, shoot the crates with a [PKA](PKA.md) until they break, then take the goodies back inside. Barring that solution, you could also just ask the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) for All Access; 50% of the time, it works every time.
+Скорее всего, вы захотите приобрести несколько ящиков с оружием, чтобы вооружить пролетариев Каргонии. Эти ящики заперты, и для их открытия требуется допуск службы безопасности. Один из вариантов решения этой проблемы - перетащить ящики за пределы шлюзов станции и прижать их к стене вдоль выемки. Укрепившись на противоположной стене, расстреляйте ящики из [PKA](PKA.md), пока они не сломаются, а затем заберите лакомства внутрь. Кроме того, можно просто попросить [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) о полном доступе; в 50% случаев это всегда срабатывает.
 
   <br/>
 <br/>
-<br/>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 

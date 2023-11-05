@@ -1,38 +1,38 @@
-# Station Artificial Intelligence
-**Role type**: <font color="#a85fb9">Synthetic.</font> **Access**: <font color="green">Everything</font>. **Difficulty**: <font color="Red">medium to hard</font>.
+# Станция Искусственный Интеллект
+**Тип роли**: <font color="#a85fb9">Синтетик.</font> **Доступ**: <font color="green">Все</font>. **Трудность**: <font color="Red">средняя или сложная</font>.
 
-## Overview
+## Обзор
 
-You're the massive computer system with near total control NanoTrasen has foolishly released onto their latest research station. The life of the AI consists largely of two fun and enriching activities: tracking people and opening doors. But you have a lot of power, and a lot of responsibility. There's just the issue of those pesky Asimov laws...
-
-
-### The Laws of Robotics
-
-As an AI, you'll eventually find yourself in a position where you're forced to make a difficult choice based on your IC laws and OOC player expectations. In these cases, the best thing you can do is be logical about your choice, and a-help for admin advice if you're unsure.
-
-Above all else, **consistency is key**: pick an interpretation of your laws and stick to it for the entirety of the round.
+Вы - массивная компьютерная система с практически полным контролем, которую компания NanoTrasen по глупости выпустила на свою новейшую исследовательскую станцию. Жизнь искусственного интеллекта состоит в основном из двух увлекательных и насыщенных занятий: слежки за людьми и открывания дверей. Но у вас много власти и много ответственности. Остается только вопрос о назойливых законах Азимова...
 
 
-### Servicing the crew
+### Законы робототехники
 
-Now it's time to get down to the nitty-gritty. You have a lot more power (and with it, responsibility) than the average crewmember. Time to start figuring out what you're made of.
+Будучи ИИ, вы рано или поздно окажетесь в ситуации, когда вам придется делать сложный выбор, основанный на ваших IC-законах и OOC-ожиданиях игроков. В таких случаях лучше всего быть логичным в своем выборе и обращаться за советом к администратору, если вы не уверены.
 
-The AI has the ability to access every *electronic* mechanism on the entire station. These include things like Airlocks, APCs, Computers, and Fire Alarms. However, the AI cannot operate anything *physically*, and can be rendered useless in one area due to a simple power outage.
-
-Besides saving the crew from itself, a lot of what you're going to be doing is opening doors.
-
-### Your home: the AI Satellite
-
-The station AI starts inside the maximum security AI satellite, a chamber designed to keep the AI safe, secure, and out of the hands of [nefarious](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) or [grabby](\3_HowToPlay\Jobs\Service_roles\Assistant.md) types. Inside the AI satellite will be your room protected by a number of automatic laser turrets. These turrets shoot anyone on sight unless they have been disabled by accesses a small turret control screen, either by you or by a head of staff. The turret controller can also toggle the turret fire modes from stun to kill.
-
-There will usually be several layers of defense in the AI satellite, as well as the AI upload room, which contains a terminal for uploading new laws to the AI.
-
-### Binary chat
-
-As an AI, you have your own secure radio channel (binary) to speaking with other synthetics. Given that Cyborgs are still MIA, the only time you will get use out of this is in the uncommon, but possible scenario of a station with two or more AI cores. This currently only happens due to Admin fiat, but may become a more common scenarios once station AIs are constructable by [Roboticists.](\3_HowToPlay\Jobs\Science_roles\Roboticist.md)
+Прежде всего, **последовательность является ключевым фактором**: выберите интерпретацию ваших законов и придерживайтесь ее в течение всего раунда.
 
 
-### Emergency evacuation
+### Обслуживание экипажа
+
+Настало время перейти к конкретике. У вас гораздо больше полномочий (а вместе с ними и ответственности), чем у рядового члена экипажа. Пора начать выяснять, из чего вы состоите.
+
+ИИ имеет возможность получить доступ к каждому *электронному* механизму на всей станции. К ним относятся шлюзы, БТРы, компьютеры и пожарная сигнализация. Однако ИИ не может управлять ничем *физически*, и может стать бесполезным в одной области из-за простого отключения электричества.
+
+Помимо спасения экипажа от самого себя, многое из того, что вам предстоит делать, - это открывать двери.
+
+### Ваш дом: спутник ИИ
+
+ИИ станции начинается в спутнике ИИ с максимальным уровнем безопасности - камере, предназначенной для того, чтобы сохранить ИИ в целости, сохранности и недоступности для [гнусных](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) или [хватких](\3_HowToPlay\Jobs\Service_roles\Assistant.md) типов. Внутри спутника AI будет находиться ваша комната, защищенная несколькими автоматическими лазерными турелями. Эти турели расстреливают всех на месте, если только они не были отключены с помощью небольшого экрана управления турелью, либо вами, либо главой персонала. С помощью контроллера можно переключать режимы огня турелей - от оглушения до поражения.
+
+В спутнике ИИ обычно имеется несколько уровней защиты, а также комната загрузки ИИ, в которой находится терминал для загрузки новых законов в ИИ.
+
+### Бинарный чат
+
+Как ИИ, вы имеете собственный защищенный радиоканал (бинарный) для общения с другими синтетиками. Учитывая, что киборги все еще в розыске, единственный случай, когда вы сможете воспользоваться этим каналом, - это редкий, но возможный сценарий станции с двумя или более ядрами ИИ. В настоящее время это происходит только по решению администрации, но может стать более распространенным сценарием, когда ИИ станции смогут строить [Роботизаторы] (\3_HowToPlay\Jobs\Science_roles\Roboticist.md).
+
+
+### Аварийная эвакуация
 
 
 

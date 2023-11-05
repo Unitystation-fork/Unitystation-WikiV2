@@ -1,22 +1,22 @@
 # Cook
-**Role type:** <font color="#4e7331">Service</font>. **Access:** <font color="#4e7331">Kitchen & Butcher</font>, Maintenance. **Difficulty:** <font color="Green">Easy</font>''. ''Colloquial title: "Chef"
+**Тип должности:** <font color="#4e7331">Служба</font>. **Доступ:** <font color="#4e7331">Кухня и мясник</font>, Обслуживание. **Сложность:** <font color="Green">Легко</font>''. '''Разговорное название: "Шеф-повар".
 
-Note: for the more detailed guide to food preparation, look [Here](Guide-to-Food-and-Drink.md).
-
-
+Примечание: более подробное руководство по приготовлению пищи смотрите [Здесь](Guide-to-Food-and-Drink.md).
 
 
-## Overview
 
 
-The Cook is one of the most simple roles on the station: Make food, serve it to customers, and say no to the [Chaplain](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md) when they ask you to give them a knife for "[ritualistic purposes](\3_HowToPlay\Guides\General_guides\Battle-royale.md)". Its usually recommended for new players to try the game with this role if they are on their own.
+## Обзор
 
 
-### Dinner's ready
+Повар - одна из самых простых ролей на станции: Готовьте еду, подавайте ее клиентам и отказывайте [капеллану](\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Chaplain.md), когда он просит вас дать ему нож для "[ритуальных целей](\3_HowToPlay\Guides\General_guides\Battle-royale.md)". Обычно новым игрокам рекомендуется попробовать игру с этой ролью, если они находятся в одиночестве.
 
-Being a Cook is a relatively simple job. You have one duty: make sure the station doesn't starve. You have two ways of doing this: cooking raw steaks in the microwave, or [botany](\3_HowToPlay\Jobs\Service_roles\Botanist.md) actually knowing how their job works. As for the meat steaks, you can either go to the Butcher's room (in Outpost station it's the room north of the kitchen, just head into the maintenance tunnels above you and the room will be on the other side), or by bugging [Medical](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) for bodies once they've cloned said bodies.
 
-To make a steak you must take the meat, put it in a microwave, wait 10 seconds and serve. How does the microwave magically add a plate to the steak? Nobody knows, but we do know that those plates are pretty good for abusing the clown.
+### Ужин готов
+
+Быть поваром - довольно простая работа. У вас есть одна обязанность: следить за тем, чтобы станция не голодала. У вас есть два способа сделать это: приготовить сырые стейки в микроволновке или [botany](\3_HowToPlay\Jobs\Service_roles\Botanist.md) действительно знать, как работает их работа. Что касается мясных стейков, то вы можете либо пойти в комнату мясника (на станции Outpost это комната к северу от кухни, просто зайдите в туннели обслуживания над вами, и комната будет с другой стороны), либо поставить жучок [Medical](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) для получения тел после того, как они клонировали эти тела.
+
+Чтобы приготовить стейк, нужно взять мясо, положить его в микроволновую печь, подождать 10 секунд и подать на стол. Каким образом микроволновая печь волшебным образом добавляет тарелку к стейку? Никто не знает, но мы знаем, что эти тарелки очень хорошо подходят для издевательств над клоуном.
 
 
 

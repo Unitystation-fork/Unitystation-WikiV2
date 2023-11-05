@@ -1,77 +1,77 @@
-# Traitor
-**Role type:** <font color= "Red">[Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Access:** Whatever your selected [Role](\3_HowToPlay\Jobs\Jobs.md) has. **Difficulty:**<font color="Yellow"> Medium</font>-<font color="Red">hard</font>.
+# Предатель
+**Тип роли:** <font color="Red">[Антагонист](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md)</font>. **Доступ:** Тот, который имеет выбранная вами [Роль](\3_HowToPlay\Jobs\Jobs.md). **Сложность:**<font color="Yellow">средняя</font>-<font color="Red">тяжелая</font>.
 
 
-## Overview
+## Обзор
 
-Traitor is one of the three types of Antagonist roles that can spawn, with the other two currently in the game being [Nuke Ops](Nuclear-Emergency.md) and [Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md).
-
-
-### MISSION SPECIFICATIONS DECRYPTED. WELCOME TO THE SYNDICATE.
-
-As a Traitor, you spawn as the station role you selected, with no visual distinction from everyone else. However, you are massively different from any other crew member: You're part of the [Syndicate](\4_Univers\Lore\Groups.md). Maybe you're a hardcore follower of the Syndicate ways; maybe you've just got a score to settle; or maybe you're just some poor sap who was in the wrong place at the wrong time and now you've been blackmailed into service. Whatever your motivation is, you have one job: [Complete your assigned objectives.](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
-
-Traitors get 3 objectives, shown at the round start in the chat: Steal a random high-tier item, assassinate a random crew member (often a department head), and survive until the end of the round. An example of what your objectives could be:
-
-- Steal the Chain of Command (found in the captain's quarters)
-- Assassinate Mr. Engineering man sir, [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md)
-- Escape on the [Emergency Shuttle](Emergency-Shuttle.md) alive
-
-Remember, if you ever need a reminder of what they are (or need to remember your uplink code) hit the objective reminder button at the top of the screen. It looks like a pair of bloody shoes.
-
-## Buying weapons and equipment from the Telecrystal Uplink
-
-One of the most important items to you as a traitor is your PDA. In order to assist in your mission, the syndicate have incorporated an uplink that allows you to purchase a limited selection from a large list of weapons and tools.
-
-At the start of your round as traitor, you will be given a *case-sensitive* password composed of a NATO alphabet letter and three numbers that you put on the ringtone changer under the options menu in your PDA. You will get to a screen that has weapons. Be sure to have your off hand empty or the items you purchase will drop onto the floor. However, the items cost a special finite resource called telecrystals (TC), and you have only 20 to spend, so make your purchases carefully.
-
-Acquiring more TC is functionally improbable, as it requires you to kill another traitor who has their own uplink *still unlocked* and *they haven't spent it all.*
-
-###### To see what's available to buy and some general footnotes about the items, go [here.](\4_Univers\Items\Syndicate-Items.md)
+Предатель - один из трех типов ролей антагонистов, которые могут появиться в игре: [Nuke Ops] (Nuclear-Emergency.md) и [Cargonia] (\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md).
 
 
+### СПЕЦИФИКАЦИИ МИССИИ РАСШИФРОВАНЫ. ДОБРО ПОЖАЛОВАТЬ В СИНДИКАТ.
 
-## [Theft](\4_Univers\Items\High-Risk-Items.md) objectives
+Став Предателем, вы появляетесь на свет в выбранной вами роли станции, ничем визуально не отличаясь от всех остальных. Однако вы значительно отличаетесь от любого другого члена экипажа: вы являетесь частью [Синдиката](\4_Univers\Lore\Groups.md). Может быть, вы твердо придерживаетесь правил Синдиката, может быть, у вас просто есть счеты с жизнью, а может быть, вы просто несчастный человек, оказавшийся не в том месте и не в то время, и теперь вас шантажом заставили служить. Чем бы вы ни руководствовались, у вас одна задача: [Выполнить поставленные перед вами задачи](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
 
-Often one or both of your objectives requires you to steal something. How hard this is depends on the item and whether the job that starts with it is filled by another player.
+Предатели получают 3 задания, которые показываются в чате в начале раунда: Украсть случайный высокоуровневый предмет, убить случайного члена экипажа (чаще всего главу отдела) и дожить до конца раунда. Пример того, какими могут быть ваши цели:
 
-Theft objectives will often require you to break into secure areas or to steal the items directly off of other players. Sometimes it will be shockingly easy, easier than taking candy from a baby. Other times it will be [so impossible](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) that you should probably take the L and try to have fun getting up to shenanigans with your exclusive traitor items. It all depends on what state the station is in and how many players are alive. Still, woe betide anyone who gets the objective `steal the Justitia.`
+- Украсть цепь управления (находится в капитанской каюте).
+- Убить господина инженера, [главного инженера](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md)
+- Сбежать на [аварийном челноке](Emergency-Shuttle.md) живым
 
-###### to see a complete list of steal objects you can expect to get, take a look at the [High Risk Items](\4_Univers\Items\High-Risk-Items.md) page.
+Помните, что если вам когда-нибудь понадобится напоминание о том, что это такое (или нужно будет вспомнить код восходящей линии связи), нажмите кнопку напоминания целей в верхней части экрана. Она выглядит как пара окровавленных ботинок.
 
-## Murder objectives
+## Покупка оружия и снаряжения в аплинке Телекристалла
 
-Another common objective is to murder a particular crewmember on the station. Sometimes this can be challenging, but engineering someone's death can often be as simple as asking them to come to your office to look at this 'problem' and then shooting them in the back of the head with a silenced makarov. The harder part is usually getting away with it, especially if you commit the murder early in the round.
+Одним из самых важных предметов для вас как для предателя является КПК. Чтобы помочь вам в выполнении миссии, синдикат встроил в него аплинкинг, позволяющий приобрести ограниченный выбор из большого списка оружия и инструментов.
 
-Honestly, one of the best pieces of advice to take to heart with murder objectives it to take your time, play it safe, build up a relationship with the target and other gullible crewmembers, and waiting for a perfect time to strike. Heck, given how a typical round of UnityStation goes, it's likely that after a long enough amount of time, they will have died to some other threat on the station, taking care of your objective for you. When that happens, just ensure that they *stay dead.* If their body ends up being brought to medical, they will likely get revived or cloned, which will set you back to square one.
+В начале раунда в качестве предателя вам будет выдан пароль, состоящий из буквы алфавита НАТО и трех цифр, который вы установите на смену мелодии звонка в меню опций вашего КПК. Вы попадете на экран с оружием. Следите за тем, чтобы свободная рука была пуста, иначе приобретаемые предметы будут падать на пол. Однако предметы стоят особый конечный ресурс - телекристаллы (ТК), а их у вас всего 20, так что делайте покупки осторожно.
 
-## General Tips:
+Приобрести больше ТК функционально невозможно, так как для этого нужно убить другого предателя, у которого еще не разблокирован собственный канал связи, и он не успел потратить его весь.
 
-#### Consider saving some TC for a rainy day.
+###### Посмотреть, что можно купить, а также ознакомиться с общими примечаниями к предметам, можно здесь [\4_Univers\Items\Syndicate-Items.md
 
-Its UnityStation, you never know what is going to happen. You may have lost your gun or you just ran out of ammo. Maybe you're trapped in a rapidly deteriorating station and all you need is a toolbox to hack yourself out of a depowered room. Not spending all of your TC at once will lend you some valuable flexibility in the late game.
 
-#### Acquire access.
 
-One great way to improve your odds of success is to acquire additional access, either through the proper way of asking the [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) to upgrade your clearance or by more nefarious means such as stealing another person's ID card. You need to go to all the places you can to get your items, and the captain's bedroom may be the place you need to break into to complete your objectives, and it's a lot easier and less conspicuous to get in there with an ID card than by hacking or emagging the door or by cutting through the walls.
+## [Theft](\4_Univers\Items\High-Risk-Items.md) цели
 
-#### Be polite
+Часто одна или обе цели требуют, чтобы вы что-то украли. Насколько это сложно, зависит от предмета и от того, занято ли задание, с которого он начинается, другим игроком.
 
-This may be the best advice you can take. Somehow, if you are polite people can even turn a blind eye on you *trying to murder them* if they are not entirely aware of your status as a traitor. When people start to look for others to blame, they are inclined to pick the mean guy, so being friendly, helpful, and generally cooperative can often set you up for success under quite incriminating circumstances.
+Для кражи часто требуется проникнуть в охраняемые помещения или украсть предметы непосредственно у других игроков. Иногда это будет удивительно легко, проще, чем отнять конфету у ребенка. В других случаях это будет [настолько невозможно](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md), что вы, вероятно, должны взять L и попытаться получить удовольствие от махинаций с вашими эксклюзивными предметами предателя. Все зависит от того, в каком состоянии находится станция и сколько игроков осталось в живых. Тем не менее, горе тому, кто получит задание "Украсть Юстицию".
 
-This can extend even as far as when you've already been captured and brigged, as a positive and understanding attitude can keep your sentence short. Please, if you are lucky enough to have a [lawyer](\3_HowToPlay\Jobs\Security_roles\Lawyer.md) available to you, *consult with them. They are your best chance at avoiding a permanent sentence or execution. They might even get your charges completely thrown out on occasion.*
+###### Чтобы ознакомиться с полным списком предметов для кражи, которые вы можете получить, загляните на страницу [High Risk Items](\4_Univers\Items\High-Risk-Items.md).
 
-#### Miscellaneous tips:
+## Цели убийства
 
-- Most security firearms are equipped with ID locked electronic firing pins which will not allow you to shoot their weapons without having security clearance. This makes stealing their gear an unreliable strategy. There are a few notable exceptions, such as the stun baton, which is a very effective ambush weapon that you should steal if you can manage it. Handcuffs are another good pick.
-- Never underestimate the power of slippables like banana peels and soap. Many haughty crewmembers have met their end at the hands of a Clown dragging around a peel behind him, only to be bludgeoned into unconsciousness while down and thrown into space.
-- You can impersonate another person by wearing a face covering and putting on their ID card. Talking will give away your identity in chat, but as long as you stay silent, you will identify as whatever name is recorded on the ID. Wearing a space suit or some other total body covering will help sell the false identity even further.
-- Even if it seems like you are alone, beware of security cameras. If there's an active [statiom AI,](Station-AI.md) it's impossible to predict when they have their eye on you and when they don't. Do your dirty business out of sight, such as in maintenance tunnels or, if you must, disable security cameras in the areas you have to operate in. Disabling cameras is risky, though, as they or another bystander might see you do it. The new blind spot might catch the AI's attention as well.
+Другой распространенной целью является убийство конкретного члена экипажа станции. Иногда это бывает непросто, но зачастую организовать чью-то смерть можно просто попросив его прийти к вам в офис, чтобы разобраться с "проблемой", а затем выстрелить ему в затылок из пистолета Макарова с глушителем. Самое сложное - это выйти сухим из воды, особенно если убийство совершено в самом начале раунда.
+
+Честно говоря, один из лучших советов, который стоит принять к сердцу при выполнении задач по убийству, - это не торопиться, играть безопасно, выстраивать отношения с целью и другими доверчивыми членами экипажа и ждать удобного момента для нанесения удара. Учитывая, как обычно проходит раунд UnityStation, вполне вероятно, что через достаточно продолжительное время они погибнут от какой-нибудь другой угрозы на станции, что позволит вам решить вашу задачу. Если их тело будет доставлено в медицинское учреждение, их, скорее всего, оживят или клонируют, что вернет вас к исходной точке.
+
+## Общие советы:
+
+#### Отложите несколько TC на черный день.
+
+Это UnityStation, вы никогда не знаете, что может случиться. Возможно, вы потеряли оружие или у вас просто закончились патроны. Может быть, вы застряли на стремительно разрушающейся станции, и все, что вам нужно, - это набор инструментов, чтобы выбраться из обесточенной комнаты. Если не тратить все свои TC сразу, то в поздней игре вы получите ценную гибкость.
+
+#### Получение доступа.
+
+Один из отличных способов повысить свои шансы на успех - получить дополнительный доступ, либо как положено, попросив [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) повысить ваш допуск, либо более гнусными способами, например, украв чужое удостоверение личности. Чтобы получить предметы, нужно побывать во всех возможных местах, и спальня капитана может оказаться тем местом, куда нужно проникнуть, чтобы выполнить поставленные задачи, а попасть туда с помощью удостоверения личности гораздо проще и менее заметно, чем взломав дверь или прорубив стены.
+
+#### Будьте вежливы
+
+Это, пожалуй, самый лучший совет, который можно дать. Если быть вежливым, то люди могут даже закрыть глаза на то, что вы пытаетесь их убить, если они не совсем понимают, что вы предатель. Когда люди начинают искать виноватых, они склонны выбирать подлого парня, поэтому дружелюбие, услужливость и общая готовность к сотрудничеству часто могут обеспечить вам успех при весьма сомнительных обстоятельствах.
+
+Это может распространяться даже на те случаи, когда вас уже схватили и посадили на гауптвахту, так как позитивное и понимающее отношение может сократить срок заключения. Пожалуйста, если вам повезло, и у вас есть [адвокат](\3_HowToPlay\Jobs\Security_roles\Lawyer.md), *консультируйтесь с ним. Они - ваш лучший шанс избежать пожизненного заключения или казни. В некоторых случаях они могут даже полностью снять с вас обвинения.*
+
+#### Разные советы:
+
+- Большинство видов огнестрельного оружия, используемого сотрудниками спецслужб, оснащено электронными стреляющими элементами с идентификационной блокировкой, которые не позволят вам стрелять из их оружия, не имея разрешения службы безопасности. Это делает кражу оружия ненадежной стратегией. Есть несколько заметных исключений, например электрошокер - очень эффективное оружие для засады, которое стоит украсть, если это удастся. Наручники - еще один хороший выбор.
+- Никогда не стоит недооценивать силу таких скользких предметов, как банановая кожура и мыло. Многие надменные члены экипажа погибли от рук клоуна, тащившего за собой кожуру, и были доведены до бессознательного состояния, а затем выброшены в космос.
+- Вы можете выдать себя за другого человека, надев на лицо маскировочный колпак и нацепив его ID-карту. Разговоры выдадут вашу личность в чате, но пока вы молчите, вы будете идентифицироваться под тем именем, которое записано на ID. Ношение скафандра или другого полностью закрывающего тело предмета поможет еще больше скрыть ложную личность.
+- Даже если кажется, что вы один, остерегайтесь камер наблюдения. При наличии активного [statiom AI,](Station-AI.md) невозможно предугадать, когда они следят за вами, а когда нет. Делайте свои грязные дела вдали от посторонних глаз, например, в ремонтных туннелях, или, если нужно, отключайте камеры наблюдения в тех местах, где вам приходится действовать. Отключать камеры рискованно, так как они или другой прохожий могут увидеть, как вы это делаете. Кроме того, новая "слепая зона" может привлечь внимание ИИ.
 
 
 
   <br/>
-<br/>
+<br/>>
 <br/>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'

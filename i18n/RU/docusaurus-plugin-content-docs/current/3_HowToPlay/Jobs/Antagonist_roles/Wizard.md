@@ -1,44 +1,44 @@
-# Wizard
-Role type:  <font color="#711e25">Antagonist</font>. Access levels: <font color="#711e25">anywhere they can teleport to</font>, Difficulty: <font color="Red">hard</font>.
+* Волшебник
+Ролевой тип:  <font color="#711e25">Антагонист</font>. Уровни доступа: <font color="#711e25">всюду, куда они могут телепортироваться</font>, Сложность: <font color="Red">трудный</font>.
 
-Space Wizards are a unique antagonist who has access to magical powers that defy scientific principles. Most are part of the Space Wizard Federation, a mysterious organization that is at war with NanoTrasen. The source of the wizard's power is their spellbook, which they consult to master a variety of spells to cast to cause chaos and devastation.
+Космические волшебники - уникальный антагонист, обладающий магическими способностями, которые противоречат научным принципам. Большинство из них входят в Федерацию космических волшебников - таинственную организацию, которая ведет войну с НаноТрасеной. Источником силы волшебников является их книга заклинаний, к которой они обращаются для освоения различных заклинаний, чтобы вызвать хаос и разрушения.
 
-As the wizard, you will be given quite a few objectives (typically 4) to complete that will require you to steal high-risk items and assassinate crew members. Even as an almighty wizard, master of time and space, you are ultimately just as squishy and vulnerable as any other person. So, if you are to complete your objectives and survive to the end of the round, you will still have to high degree of cleverness to get the job done.
+В роли волшебника вам предстоит выполнить несколько задач (обычно 4), которые потребуют от вас кражи особо опасных предметов и убийства членов экипажа. Даже будучи всемогущим волшебником, повелителем времени и пространства, вы в конечном итоге так же хрупки и уязвимы, как и любой другой человек. Поэтому, чтобы выполнить поставленные задачи и дожить до конца раунда, вам придется проявить недюжинную смекалку.
 
 
-**Understand that the Wizard is a work-in-progress antagonist, and does not have all of their abilties in game yet.**
+**Понимайте, что Волшебник - это антагонист, над которым ведется работа, и у него еще нет всех способностей в игре.
 
 
 ## Wizarding 101
 
-You can use the mirror to change your name to whatever you want.
+Вы можете использовать зеркало, чтобы изменить свое имя на любое другое.
 
-_coming soon_
+скоро будет
 
-## Spells
+## Заклинания
 
-| Spell Name     | Cost | Cooldown | description | Invocation |
+| Название заклинания | Стоимость | Время действия | Описание | Призыв |
 | -------------------- | ---- | -------- | ----------- | ---------- |
-| **Offensive Spells** |      |          | Used to kill or otherwise injure others             |            |
-| Fireball | 2 spell points | 6 seconds | Summons an explosive fireball. When thrown, it will explode upon hitting a target, dealing a high amount of fire damage. Maximum range 8 tiles |ONI'SOMA! |
-| Lesser Summon Guns | 3 spell points | 75 seconds | Summon a Surplus rifle in hand. Several others pop out of worm holes around the wizard |  |
-| Lighting Bolt | 1 spell point | 10 seconds | Summon lighting from your hands. | P'WAH, UNLIMITED P'WAH |
-| **Defensive** |        |         | Used to protect yourself |
-| Forcewall | 1 spell point | 10 seconds | Summon a 3x1 wall that you can walk through. | TARCOL MINTI ZHER! |
-| Rockdrop | 1 spell point | 45 seconds | Drop rocks on your enemies | BALDERDASH! |
-| Mastercrafted Armor Set | 2 spell points | N/A | Delivered via a drop pod landing on the wizard's tile. **Move out of the way or you will be crushed.** A magic-encrusted spacesuit. It slows you down a bit, but it provides good armor. | | |
-| **Mobility Spells** |  |  |Allow for more rapid movement, it is STRONGLY advised to take at least one  |  |
-| Teleport | 2 spell points | 60 seconds | Instantly teleport to a chosen location anywhere on your Z-level. | SCYAR NILA! |
-| Blink | 2 spell points | 2 seconds | _randomly_ teleport a medium distance. It will _try_ to not teleport the wizard into space, but it will sometimes, so be prepared. | |
-| **Assistance** |     |    | Spells that help in indirect ways |
-| Instant Summons | 1 spell point | 10 seconds | Teleports an item you selected to yourself, along with its container. | GAR YOK |
-| Contract of Apprencticeship | 2 spell points |  | Gives a ghost the opportunity to join you as an apprentice. |
-| **Rituals** |    |    | Really messes with security. |
-| Summon guns | 2 spell points |  | Arms everyone on the station. | |
-| Summon magic | 2 spell points | | Gives small magical books to everyone on the station. | |
+| **Наступательные заклинания** | | | | Используются для убийства или нанесения других повреждений | | | |
+| Огненный шар | 2 очка заклинаний | 6 секунд | Вызывает взрывной огненный шар. При броске он взрывается при попадании в цель, нанося большое количество огненного урона. Максимальный радиус действия 8 плиток |ONI'SOMA! |
+| Lesser Summon Guns | 3 пункта заклинаний | 75 секунд | Вызывает в руке винтовку Surplus. Из червоточин вокруг волшебника вылетает еще несколько винтовок.| | |
+| Lighting Bolt | 1 пункт заклинаний | 10 секунд | Вызвать освещение из рук. | НЕОГРАНИЧЕННОЕ КОЛИЧЕСТВО П'ВА, НЕОГРАНИЧЕННОЕ КОЛИЧЕСТВО П'ВА.
+**Оборона** | | | | Используется для самозащиты |
+| Силовая стена | 1 очко заклинания | 10 секунд | Создать стену 3x1, через которую можно пройти. | ТАРКОЛЬ МИНТИ ЖЕР! |
+| Сброс камней | 1 очко заклинаний | 45 секунд | Сбрасывает камни на врагов | BALDERDASH! |
+| Комплект брони мастера | 2 очка заклинаний | N/A | Доставляется с помощью капсулы, приземляющейся на плитку волшебника. **Уберитесь с дороги, иначе вас раздавит* ** Скафандр, инкрустированный магией. Он немного замедляет движение, но обеспечивает хорошую броню. | | |
+| Заклинания мобильности** | | | | Позволяют быстрее перемещаться, настоятельно рекомендуется взять хотя бы одно заклинание.
+| Телепорт | 2 очка заклинаний | 60 секунд | Мгновенно телепортирует в выбранное место в любой точке вашего Z-уровня. | СКИАР НИЛА! |
+| | Blink | 2 очка заклинаний | 2 секунды | _случайным образом_ телепортируется на среднее расстояние. Он будет стараться не телепортировать волшебника в космос, но иногда это происходит, так что будьте готовы. | |
+| **Помощь** | | | Заклинания, помогающие косвенным образом | |
+| Instant Summons | 1 пункт заклинания | 10 секунд | Телепортирует выбранный вами предмет к себе, вместе с его контейнером. | GAR YOK |
+| Контракт на ученичество | 2 очка заклинаний | | Дает призраку возможность присоединиться к вам в качестве ученика. |
+| **Ритуалы** | | | Очень мешает охране. |
+| Вызвать оружие | 2 очка заклинаний | | Вооружает всех на станции. | |
+| Призвать магию | 2 очка заклинаний | | Дает небольшие магические книги всем на станции. | |
 
 
-## The Friendly Wizard
+## Дружелюбный волшебник
 
-_coming soon_
+скоро будет
 

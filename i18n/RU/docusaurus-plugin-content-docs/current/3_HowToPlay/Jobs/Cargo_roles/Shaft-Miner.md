@@ -1,91 +1,91 @@
-# Shaft Miner
+# Шахтер
 
 <div class="card bg-dark text-white">
     <div class="card-body">
         <div class="card-img-top d-flex align-items-center">
             <div>
-                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_miner.png" alt="Card image cap"></img>
-                <b>Role type:</b> <font color="#734823">Cargo</font>. <b>Access:</b> <font color="#734823">Mining department</font>, <font color="#734823">Cargo department</font>, Maintenance. <b>Difficulty:</b> <font color="Orange">Hard</font>-<font color="Red">Very Hard</font>
+                <img class="img-fluid" width="64" src="https://raw.githubusercontent.com/unitystation/unitystation-wiki/master/docs/assets/images/jobs/Generic_miner.png" alt="Шапка изображения карты"></img>
+                <b>Тип роли:</b> <font color="#734823">Груз</font>. <b>Доступ:</b> <font color="#734823">Горный отдел</font>, <font color="#734823">Грузовой отдел</font>, Техническое обслуживание. <b>Сложность:</b> <font color="Orange">Hard</font>-<font color="Red">Very Hard</font>.
             </div>
         </div>
     </div>
 </div>
 
-## Overview
+## Обзор
 
-Shaft Miner is one of the most dangerous roles that is not a Command role. Not because you have a lot of responsibilities (you don't, you only have two: fulfill the mining quota and [come back alive](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). It's hard because you will often run into hordes of [Xenomorphs](\4_Univers\Mobs\Xenomorph.md) and space carp that will kill you fast if you're not good at the [combat](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) system.
+Шахтер - одна из самых опасных ролей, не относящихся к командным. Не потому, что у вас много обязанностей (нет, у вас их всего две: выполнить норму добычи и [вернуться живым](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)). Это трудно, потому что вы часто будете сталкиваться с ордами [ксеноморфов](\4_Univers\Mobs\Xenomorph.md) и космических карпов, которые быстро убьют вас, если вы не умеете вести [бой](\3_HowToPlay\Guides\General_guides\Combat_Guide.md) систему.
 
-## This is Mining, someone stole our shuttle. Anyone know who it was?
+## Это Шахта, кто-то украл наш шаттл. Кто-нибудь знает, кто это был?
 
-As a Shaft Miner, the station crew expects you to head out into space, mine ores from asteroids or lavaland, and get [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) some money. You're also expected to be at least somewhat [robust](\3_HowToPlay\Guides\General_guides\Combat_Guide.md), since you'll run into a lot of Aliens out there.
+В качестве шахтера экипаж станции ожидает, что вы отправитесь в космос, будете добывать руду на астероидах или в Лаваланде и получите [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) немного денег. От вас также ожидается, что вы будете хотя бы в некоторой степени [выносливым](\3_HowToPlay\Guides\General_guides\Combat_Guide.md), поскольку вам придется столкнуться с большим количеством Чужих.
 
-To assist in your efforts, you get given a multitude of tools: A Mining Hardsuit to protect you from the cold, airless vacuum of space as well as to give you very slight protection against damage; a mining satchel to store ores in; a lantern, since space is dark; and a pickaxe and shovel to mine ores and dig sand out of the asteroid ground. Since you're part of the Cargo department, you're under the supervision of the [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), so ask them for help if you're ever confused on what to do. Also, if Cargo is flushed with [Cargo Technicians](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) who know what they are doing, the Quartermaster has their own set of mining gear in their office, and may join you on your adventures in deep space.
+Чтобы помочь вам в ваших усилиях, вы получаете множество инструментов: Горнопромышленный комбинезон, защищающий от холода и безвоздушного вакуума космоса, а также дающий незначительную защиту от повреждений; шахтерский ранец для хранения руды; фонарь, поскольку в космосе темно; кирка и лопата для добычи руды и выкапывания песка из грунта астероидов. Поскольку вы работаете в отделе грузоперевозок, вы находитесь под руководством [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), поэтому обращайтесь к нему за помощью, если вы вдруг запутаетесь в том, что делать. Кроме того, если в грузовом отсеке есть [Cargo Technicians](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md), которые знают, что делают, то у Квотермейна в кабинете есть свой набор горного оборудования, и он может присоединиться к вам во время ваших приключений в глубоком космосе.
 
-## General tips and tricks.
+## Общие советы и рекомендации.
 
-You also have a Proto-Kinetic Accelerator, otherwise known as the Shaft Miner's best friend. It is a short range, high-damage, unlimited-use gun that can be used for propulsion in deep space, breaking asteroid rocks, and killing things. Its weaknesses include a slow rate of fire and a short range of 3 tiles. Mining typically begins with a few in the mining department and another in the [QM's](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md) office locker. Two more come in the mining equipment crate purchaseable by the cargo console.
+У вас также есть протокинетический ускоритель, известный как лучший друг шахтера. Это орудие малой дальности, с высоким уроном и неограниченным количеством боеприпасов, которое можно использовать для передвижения в открытом космосе, разрушения астероидных камней и убийства. К его недостаткам можно отнести медленный темп стрельбы и малую дальность стрельбы - 3 тайла. Добыча обычно начинается с нескольких штук в горном отделе и еще одной в шкафчике [QM's](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md). Еще два находятся в ящике с горным оборудованием, который можно купить на грузовой консоли.
 
-When mining with the pickaxe, keep in mind you can mine multiple chunks of rock at the same time as long as they are adjacent to you. This drastically speeds up mining operations. However, that is currently imposible as you need to use your gun for mining. It is recommended that when possible you buy the plasma cutter, as it is much more effective than the Proto-Kinetic Accelerator.
+При добыче с помощью кирки следует помнить, что можно добывать несколько кусков породы одновременно, если они находятся рядом с вами. Это значительно ускоряет процесс добычи. Однако в настоящее время это невозможно, так как для добычи необходимо использовать оружие. Рекомендуется по возможности приобретать плазменный резак, так как он гораздо эффективнее протокинетического ускорителя.
 
-You should also make use of the ore box. Ore boxes are handy, as they reduce the amount of fiddling with equipment. Ore boxes can be dragged behind you as you move to pick up any ore you pull the box over.
+Также следует использовать ящик с рудой. Ящики с рудой удобны тем, что уменьшают необходимость возиться с оборудованием. Ящики с рудой можно тащить за собой по ходу движения, чтобы подобрать любую руду, за которую вы потянете ящик.
 
-In addition to the Common channel, the Shaft Miner's [headset](Headset.md) comes with access to the Supplies channel to communicate with the rest of [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md), and the Science channel to organize what minerals and ores are needed to conduct R&D (when implemented).
+Помимо общего канала, [гарнитура] (Headset.md) шахтера имеет доступ к каналу Supplies для связи с остальными [Cargo] (\3_HowToPlay\Jobs\Cargo_roles\Cargo-Technician.md) и каналу Science для организации минералов и руд, необходимых для проведения НИОКР (при реализации).
 
-## Selling prices.
+## Продажные цены.
 
-| Name              | Uses                                                         | Processed Ore Sell Value |  Labor Points Reward |
-| ----------------- | ------------------------------------------------------------ | -------------------- | -------------------- |
-| Iron ore          | processed into metal, used for [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md)| 5/u                  | 1/u |
-| Sand              | processed into glass, used for construction                  | 5/u                  | 1/u |
-| Plasma ore        | processed into solid plasma, used for construction and powering plasma generators | 200/u                | 15/u |
-| Bananium ore      | Henk honk honk henk. Sell it.                                | 1000/u               | 60/u |
-| Gold ore          | useless, currently. Sell it.                                 | 125/u                | 18/u |
-| Uranium ore       | can be used to manufacture additional fuel rods for the reactor. | 100/u                | 30/u |
-| Titanium ore      | can be used to reinforce windows           | 125/u                | 30/u |
-| Silver ore        | useless, currently. Sell it.                                 | 50/u                 | 16/u |
-| Diamond           | useless, currently. Sell it.                                 | 500/u                | 50/u |
-| Bluespace crystal | useless, currently. Sell it.                                 | 300/u                | 50/u |
+| Название | Применение | Обработанная руда Стоимость продажи | Очки труда Награда |
 
-## So you want to be a Space Man...
+| Железная руда | перерабатывается в металл, используется для [строительства](\3_HowToPlay\Guides\Engineering_guides\Construction.md)| 5/u | 1/u |
+| Песок | перерабатывается в стекло, используется для строительства | 5/u | 1/u |
+| Плазменная руда | перерабатывается в твердую плазму, используется для строительства и питания плазменных генераторов | 200/u | 15/u |
+| Банановая руда | Хенк хонк хонк хенк. Продать.                                | 1000/u | 60/u |
+| Золотая руда | Бесполезна в данный момент. Продать.                                 | 125/u | 18/u |
+| Урановая руда | может быть использована для изготовления дополнительных топливных стержней для реактора. | 100/u | 30/u |
+| Титановая руда | может быть использована для укрепления окон | 125/u | 30/u |
+| Серебряная руда | бесполезна в настоящее время. Продайте ее.                                 | 50/u | 16/u |
+| Алмаз | бесполезен в данный момент. Продайте его.                                 | 500/u | 50/u |
+| Кристалл голубого пространства | бесполезен в данный момент. Продать.                                 | 300/u | 50/u |
 
-The most important step to do before you leave is get the [Asteroid](\4_Univers\Maps\Asteroid.md) Coordinates and mining quota sheet from the [Captain](\3_HowToPlay\Jobs\Command_roles\Captain.md). This is best asked for as soon as possible before they leave their office. If you have a [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), ask them apply pressure to a resistant or distracted Captain, or involve the [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md); you cannot do your job quite as effectively without those coordinates. The station is depending upon you to fulfill the quota or everyone misses out on that sweet, sweet greentext.
+## Итак, вы хотите стать Космическим Человеком...
 
-Ore is processed at the **Ore Redemption Machine.** You can load ore into it by hand. Ore boxes are loaded by pulling them adjacent to the ORM and hitting the load ores button in the ORM's interface. Once Ores are loaded, they are added to the station's Material Silo, which lets all lathes around the station instantly have access to the materials for item construction and withdrawal. Pretty handy. An important mechanic to understand about the ORM is Labor points. Labor points are a reward offered at the ORM for all ore you load into the ORM. Once you have finished loading all your ore, hit the claim button to transfer the labor points you have earned to your ID. Labor points can be spent on special and upgraded gear at the **Mining Equipment Vendor:**
+Самое важное, что нужно сделать перед отъездом, - это получить у капитана (\3_HowToPlay\Jobs\Command_roles\Captain.md) координаты [Астероида](\4_Univers\Maps\Asteroid.md) и лист с квотой на добычу. Лучше всего попросить об этом как можно скорее, пока они не покинули свой кабинет. Если у вас есть [Quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), попросите его оказать давление на сопротивляющегося или отвлекающегося капитана или привлечь [Head of Personnel](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md); без этих координат вы не сможете выполнять свою работу столь же эффективно. Станция зависит от того, выполните ли вы квоту, или все упустят этот сладкий, сладкий зеленый текст.
+
+Руда перерабатывается на **Машине для выкупа руды.** Вы можете загружать руду в нее вручную. Ящики с рудой загружаются путем подтаскивания их к ORM и нажатия кнопки загрузки руды в интерфейсе ORM. После загрузки руды она добавляется в материальный бункер станции, что позволяет всем токарным станкам вокруг станции мгновенно получить доступ к материалам для создания и извлечения предметов. Довольно удобно. Важным механизмом, который необходимо понимать в ОРМ, являются очки труда. Очки труда - это вознаграждение, которое выдается на ОРМ за всю руду, загруженную в ОРМ. После того как вы загрузите всю руду, нажмите кнопку claim, чтобы перевести заработанные очки труда на свой ID. Очки труда можно потратить на специальное и модернизированное оборудование в **Продавце горного оборудования:**.
 
 
-| Name              | Uses                                                         | Labor Points Price |
+| Название | Использование | Цена за очки труда |
 | ----------------- | ------------------------------------------------------------ | -------------------- |
-| Pickaxe        | a standard pickaxe for mining. | 100 points                |
-| Silver-Plated Pickaxe            | an improved pickaxe that mines considerably faster. deals slightly more damage.                  | 1000 points                 |
-| Diamond-Tipped pickaxe       | a pickaxe that mines much faster than the standard and also deals more damage. | 2000 points                |
-| Proto-Kinetic Accelerator     | infinite use mining gun you know and love.                                | 750 points              |
-| Shovel         | Use it to dig up sand for glass.                                | 100 points               |
-| Explorer's Webbing      | Some tactical webbing that goes takes the belt slot. Handy for storing and retrieving equipment needed quickly. | 400 points               |
-| Mining Conscription Kit     | Comes with most equipment needed to get a person kitted for mining in Lavaland.         | 1000 points                |
-| First Aid Kit        | Can save your life in a pinch.                                 | 600 points                |
-| Havanian Cigar Case           | No better way to prove who's best.                                | 5000 points                |
+| Кирка | стандартная кирка для горных работ. | 100 очков |
+| Серебряная кирка | улучшенная кирка, которая работает значительно быстрее, наносит немного больше урона.                  | 1000 очков |
+| Кирка с алмазным наконечником | кирка, которая работает намного быстрее стандартной и наносит больше урона. | 2000 очков |
+| Протокинетический ускоритель | шахтерская пушка бесконечного использования, которую вы знаете и любите.                                | 750 очков.
+| Лопата | Используйте ее, чтобы копать песок для стекла.                                100 очков | 100 очков |
+| Тактическая тесьма исследователя | Тактическая тесьма, которая крепится к поясу. Удобна для хранения и быстрого извлечения необходимого снаряжения. | 400 очков |
+| Призывной комплект шахтера | В комплект входит все необходимое для того, чтобы человек мог заниматься шахтерским делом в Лаваланде.         1000 очков | 1000 очков |
+| Аптечка первой помощи | В случае необходимости может спасти вам жизнь.                                 | 600 очков |
+| Портсигар Havanian | Нет лучшего способа доказать, кто лучший.                                5000 очков | 5000 очков |
 
 
-In the meantime, prepare the Expeditionary Shuttle for launch. In order to fuel the shuttle, you must take the wrench stashed in the engine room and wrench down the plasma canister onto the fuel connector. If your shuttle does not come with a plasma canister, you will have to acquire one from science or atmospherics.
+Тем временем подготовьте экспедиционный шаттл к запуску. Чтобы заправить шаттл топливом, необходимо взять гаечный ключ, спрятанный в машинном отделении, и прикрутить плазменную канистру к топливному разъему. Если шаттл не оснащен плазменным контейнером, его придется приобрести в научном отсеке или в отсеке атмосферы.
 
-### Go to hell.
+### Попасть в ад.
 
-**Note, lavaland is not complete, and does not pose much of a challenge currently.**
+**Примечание: Лаваланда не завершена и в настоящее время не представляет особой сложности.**
 
-So, fighting "the perfect organism" covered in spikes and larger than you repeatedly while mining asteroids hurtling through the void isnt enough of a challenge?
+Значит, сражаться с "идеальным организмом", покрытым шипами и превосходящим вас по размерам, во время добычи астероидов, проносящихся сквозь пустоту, - это недостаточно сложная задача?
 
-Well good news, because you can instead go and mine on a world perpetually fogged by ash and covered in lava. This is where the "very hard" rating comes in. If you aren't skilled or well prepared, you will die horribly and nobody will find your roasted corpse. If your going to lavaland, its best you go with buds, pack a gun, and have practiced kiting with xenos and other beasts.
+Хорошие новости, ведь вместо этого можно заняться добычей полезных ископаемых в мире, вечно затуманенном пеплом и покрытом лавой. Именно здесь и появляется рейтинг "очень сложно". Если вы не обладаете достаточными навыками или не подготовлены, вы умрете ужасной смертью, и никто не найдет ваш поджаренный труп. Если вы собираетесь в Лаваландию, лучше всего отправиться туда с друзьями, взять с собой оружие и потренироваться в борьбе с ксеносами и другими зверями.
 
-Alien fauna isn't the only threat you will deal with on lavaland. Near your base, there is a an alcove that hosts an ancient tendril. This tendril is home to a nasty collective of [lizards](\3_HowToPlay\Jobs\Ghost_roles\Ashwalker.md) who don't appreciate NanoTrasen's recent arrival on their ancient hunting grounds, and they intend to prove it through a show of force. If a ghost has picked up the role, then it's possible that you might encounter a more intelligent foe than you typically deal with.
+Инопланетная фауна - не единственная угроза, с которой вы столкнетесь на Лаваланде. Недалеко от вашей базы есть пещера, в которой находится древний усик. В этом усике живет отвратительный коллектив [ящеров](\3_HowToPlay\Jobs\Ghost_roles\Ashwalker.md), которые не рады недавнему появлению НаноТрасена на их древних охотничьих угодьях и намерены доказать это демонстрацией силы. Если эту роль взял на себя призрак, то вполне возможно, что вы столкнетесь с более умным противником, чем тот, с которым вы обычно имеете дело.
 
 ### A bone to pick ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) Shaft Miner)
 
-Shaft miners get a lot of useful tools to start that assist in completing [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) objectives. You get a space suit for free, as well as a pretty robust pickaxe, and the PKA, which serves as a decent short ranged weapon that can provide infinite maneuvering in space. People also won't suspect you much wandering around the station so long as you bring a crate full of minerals around with you. You also have your own mining ship to escape from the station if things go badly, as well as Lavaland if you're willing to brave that hostile wasteland.
+Шахтеры получают на старте множество полезных инструментов, которые помогают выполнять задачи [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md). Вы бесплатно получаете скафандр, довольно надежную кирку и ПКА, который служит неплохим оружием ближнего боя и позволяет беспрепятственно маневрировать в пространстве. Люди не будут подозревать вас в том, что вы бродите по станции, если вы захватите с собой ящик с минералами. Кроме того, у вас есть собственный шахтерский корабль, чтобы сбежать со станции, если дела пойдут плохо, а также Лаваланд, если вы захотите отважиться на эту враждебную пустошь.
 
 
 
   <br/>
-<br/>
+<br/>>
 <br/>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
