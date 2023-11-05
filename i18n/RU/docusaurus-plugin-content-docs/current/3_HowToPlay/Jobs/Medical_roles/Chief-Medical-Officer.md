@@ -1,43 +1,43 @@
-# Chief Medical Officer
+# Главный врач
 
-**Role type**: <font color="#d673b2">Medical</font> . **Access**: <font color="#d673b2">Medbay</font>. **Difficulty**: <font color="Red">Extreme</font>.
-
-
-
-Note: for the guide to ordinary doctoring and first aid treatment, check [here](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md).
+**Тип должности**: <font color="#d673b2">Медицинский</font> . **Доступ**: <font color="#d673b2">Медбай</font>. **Трудность**: <font color="Red">Экстремальная</font>.
 
 
 
-## How to keep everyone alive
+Примечание: руководство по обычному лечению и оказанию первой помощи можно найти [здесь](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md).
 
 
-Seeing as the kinds of unique medical emergencies that the station can face is pretty basic right now, the CMO does not operate much differently then a regular [Medical Officer](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md). This means that your purpose is much more about general logistical medical management right now. You need to manage the morgue, the cloner, wound treatment, crisis response, chemical distribution, and psychological diagnosis for the occasional trial.
+
+## Как сохранить жизнь всем
 
 
-The general procedures of operation is to make sure that there is one [general practitioner](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) and one person with access to the cloner (which is you and the [Geneticist](\3_HowToPlay\Jobs\Science_roles\Geneticist.md)) in Medical at any given moment. The rest of your doctors, if you have any, should be on patrol acting as paramedics across the station. Make sure they are telling you whenever they treat somebody, though.
-
-It should be noted that despite their proclivity for enacting [explosive](\3_HowToPlay\Guides\Medical_guides\Chemistry.md) science, [Chemists](\3_HowToPlay\Jobs\Medical_roles\Chemist.md) are under your command, and it is your responsibility to prevent them from water-potassium bombing a hole through the Medical Department. You should keep an eye on them and control the manufacturing and distribution of dangerous and unstable chemicals. Don't let them make buckets of space lube for the clown unless he's got a note from the [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) saying it's okay.
-
-This is in contrast with the [Geneticist](\3_HowToPlay\Jobs\Science_roles\Geneticist.md), which you actually share authority over with the [Research Director](\3_HowToPlay\Jobs\Science_roles\Research-Director.md). You have the power to tell the Geneticist to clone or not clone people, and you can recruit them as a general doctor for emergencies, but that's mostly it.
+Поскольку виды уникальных медицинских чрезвычайных ситуаций, с которыми может столкнуться станция, довольно просты, работа CMO не сильно отличается от работы обычного [Medical Officer](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md). Это означает, что сейчас ваше назначение в большей степени связано с общим логистическим медицинским менеджментом. Вам нужно управлять моргом, клозером, лечить раны, реагировать на кризисные ситуации, распределять химикаты и проводить психологическую диагностику для случайных испытаний.
 
 
-### Doctor's Orders
+Общий порядок работы заключается в том, чтобы в любой момент времени в Медицинском отделе находился один [врач общей практики](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) и один человек с доступом к клонеру (это вы и [генетик](\3_HowToPlay\Jobs\Science_roles\Geneticist.md)). Остальные врачи, если они у вас есть, должны патрулировать станцию в качестве парамедиков. Убедитесь, что они сообщают вам, когда оказывают помощь.
 
-Your purpose as the CMO is to prevent loss of life and minimize human suffering. It's recommended that you take a trip to the [Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) Department from time to time to ensure that the [prisoners in the brig are being fed and treated with at least a modicum of human decency.](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md)
+Следует отметить, что, несмотря на их склонность к применению [взрывчатки](\3_HowToPlay\Guides\Medical_guides\Chemistry.md), [химики](\3_HowToPlay\Jobs\Medical_roles\Chemist.md) находятся в вашем подчинении, и вы обязаны не допустить, чтобы они проделали дыру в медицинском отделе. Вы должны следить за ними и контролировать производство и распространение опасных и нестабильных химикатов. Не позволяйте им делать ведра космической смазки для клоуна, если у него нет записки от [HoP](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md), разрешающей это.
 
-One authority you possess is to evaluate whether a Department Head is unfit for duty, typically at the request of the captain or other heads of staff. If a Head of Staff is acting medically unstable, it is the CMO's duty to treat them till they are once again fit for duty, which could be never. If you go around flaunting this as an excuse to detain people and keep them locked up, expect to get killed by sec, command, and every average crewmember.
-
-
-### Crisis Response
+В отличие от [генетика] (\3_HowToPlay\Jobs\Science_roles\Geneticist.md), над которым вы фактически разделяете власть с [директором по исследованиям] (\3_HowToPlay\Jobs\Science_roles\Research-Director.md). У вас есть право указывать генетику, клонировать или не клонировать людей, и вы можете привлекать его в качестве врача общей практики в экстренных случаях, но это все.
 
 
-As the CMO, it is your job to direct aid operations when a crisis occurs.
+### Приказы врача
 
-If, say, a team of [commandos](Nuclear-Emergency.md) boards the station, you will have a lot of casualties, some of which will inevitably be your own [medics](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md). As such, it is advised that during such a crisis you [hack](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md) open or [deconstruct](\3_HowToPlay\Guides\Engineering_guides\Construction.md) your front doors to create a safe place for injured people to come heal themselves, but if you do, it is advised that you get at least one [Security Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) stationed in front of medical for the duration, because shit will go down. Send [doctors](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) on patrol to bring back bodies. Anyone who can walk is able to heal themselves, and should be ignored so that those in critical condition and those that are dead can get needed help.
+Ваша цель как CMO - предотвратить гибель людей и свести к минимуму их страдания. Рекомендуется время от времени посещать отдел [безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), чтобы убедиться, что [заключенных на гауптвахте кормят и обращаются с ними хотя бы с долей человеческой порядочности](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md).
+
+Одним из полномочий, которыми вы обладаете, является оценка непригодности начальника отдела к работе, обычно по просьбе капитана или других начальников штаба. Если начальник штаба ведет себя нестабильно с медицинской точки зрения, то в обязанности CMO входит его лечение до тех пор, пока он снова не станет пригодным к службе, чего может не произойти никогда. Если вы будете пользоваться этим как оправданием для задержания людей и содержания их под замком, ждите расправы со стороны службы безопасности, командования и всех рядовых членов экипажа.
+
+
+### Кризисная реакция
+
+
+В обязанности CMO входит руководство операциями по оказанию помощи при возникновении кризиса.
+
+Если, скажем, команда [коммандос](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) захватит станцию, у вас будет много жертв, среди которых неизбежно окажутся ваши собственные [медики](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md). Поэтому во время кризиса рекомендуется [взломать](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md) открытые или [деконструированные](\3_HowToPlay\Guides\Engineering_guides\Construction.md) входные двери, чтобы создать безопасное место для раненых, куда они смогут прийти подлечиться, но если вы это сделаете, рекомендуется, чтобы по крайней мере один [Security Officer](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) был размещен перед медицинской частью на все время, потому что дерьмо будет падать. Отправьте [врачей](\3_HowToPlay\Jobs\Medical_roles\Medical-Doctor.md) в патруль, чтобы они приносили тела. Любой, кто может ходить, способен исцелить себя, и его следует игнорировать, чтобы те, кто находится в критическом состоянии, и те, кто мертв, могли получить необходимую помощь.
 
   <br/>
-<br/>
-<br/>
+<br/>>
+<br/>>
 
 import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
 
