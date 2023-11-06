@@ -53,7 +53,7 @@ Une très grande section de la station contenant les chambres du [capitaine](/3_
 ### Funny Room
 Une pièce contenant des éléments essentiels pour le [mime](/3_HowToPlay/Jobs/Entertainment_Roles/Mime.md) et le [clown](/3_HowToPlay/Jobs/Entertainment_Roles/Clown.md). HONK !![Clown et mime](/img/Icon/No_image.png)
 ### Satellite d'intelligence artificielle
-Une forteresse super renforcée, entourée de tous côtés par le vide spatial, conçue pour abriter l'IA. ![AI](/img/Icône/No_image.png)
+Une forteresse super renforcée, entourée de tous côtés par le vide spatial, conçue pour abriter l'IA. ![AI](/img/Icon/No_image.png)
 ### Ingénierie
 C'est de là que provient l'énergie de la station et que les [ingénieurs](/3_HowToPlay/Jobs/Engineering_roles/Engineer.md) passent leurs courtes pauses entre les explosions de la station ![Engi](/img/Icon/No_image.png)
 ### Atmosphérique

@@ -140,7 +140,7 @@ Using a Bowl you can create some simple dough. To do that, combine 15 units of f
 | ![RawCutletPlain](\img\Food\food_rawcutlet.png)                                                                   | RawCutletPlain                                 | 1 monkey meat                              | N/A                                                                                 |
 | ![raw penguin cutlet](\img\Food\food_rawcutlet.png)                                                               | raw penguin cutlet                             | 1 penguin meat                             | N/A                                                                                 |
 | ![raw spider cutlet](\img\Food\food_rawcutlet.png)                                                                | raw spider cutlet                              | 1 spider meat                              | N/A                                                                                 |
-| ![killer tomato meat](\img\icon\No_image.png)                                                              | killer tomato meat                             | 1 killer-tomato                            | A slice from a huge tomato.                                                         |
+| ![killer tomato meat](\img\Icon\No_image.png)                                                              | killer tomato meat                             | 1 killer-tomato                            | A slice from a huge tomato.                                                         |
 
 ## Rolling pin
 

@@ -69,7 +69,6 @@ Files not found:
 [Zombies](Zombie.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Relicta.md
 [Husks](Husk.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Relicta.md
 [Ghosts](Ghost.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Gateway_Maps\Relicta.md
-[construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Maps\Offical_Station_Maps\Outpost.md
 [meme](Meme.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Mobs\Ian.md
 [emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Mobs\Ian.md
 [xenos borgers](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\docs\4_Univers\Mobs\Xenomorph.md
@@ -172,7 +171,6 @@ Files not found:
 [Mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\RP\RP-words-and-abbreviations.md
 [Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\3_HowToPlay\RP\RP-words-and-abbreviations.md
 [WEARING MORE RED THAN PERMITTED](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\DE\docusaurus-plugin-content-docs\current\4_Univers\Other\Jokes\Shitsec.md
-[Centcom Officer](\3_HowToPlay\jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\2_UserInterface\AdminTools\AdminTools.md
 [hacking](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Access.md
 [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Access.md
 [nuclear](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Battle-royale.md
@@ -215,81 +213,26 @@ Files not found:
 [Zombies](Zombie.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
 [Husks](Husk.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
 [Ghosts](Ghost.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
-[construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Maps\Offical_Station_Maps\Outpost.md
 [meme](Meme.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
 [emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
 [xenos borgers](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\FR\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Xenomorph.md
-[hacking](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Access.md
-[construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Access.md
-[nuclear](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Battle-royale.md
 [reset map](Resetting-the-map.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Battle-royale.md
-[emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Battle-royale.md
 [tunguska revolt](Tunguska.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\Combat_Guide.md
-[foods](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
 [main page](Main-page.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
-[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
-[shitcurity](\3_HowToPlay\Guides\Joke_guides\Shitsec.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
 [Syndies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
-[build](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Guides\General_guides\How-not-to-die-instantly.md
-[Revolutionary](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Jobs.md
-[Nuclear operative](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Jobs.md
 [PKA](PKA.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\cargonia.md
-[Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
-[Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
-[Emergency Shuttle](Emergency-Shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
 [lizard](\3_HowToPlay\Caractere\Guide-to-player-species.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Cargo-Bounties.md
-[meat crates](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
-[construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
 [Engineer](Engineering.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
-[solid plasma](Plasma.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
-[Handcuffs Crate](\3_HowToPlay\Guides\Security_guides\Security-Officer-Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md
-[headset](Headset.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md
-[construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md
-[suits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Clown.md
-[gateway ruins](Gateway-maps.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Curator.md
-[some](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
-[sabotage](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
-[guys in red hardsuits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
-[nukies](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
-[Syndicate activity](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Captain.md
+[Gateway Ruins](Gateway-maps.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Civilian_roles\Entertainment_Roles\Curator.md
 [Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md
-[Cargonia](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md
-[Reactor](\3_HowToPlay\Guides\Engineering_guides\Guide-to-the-nuclear-reactor.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md
-[here](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Atmospherics-Technician.md
-[Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md
-[Atmos](\3_HowToPlay\Guides\Engineering_guides\Guide-to-Atmospherics.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md
-[Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Engineer.md
-[click here for the guide to starting the Singularity and Tesla Engines](\3_HowToPlay\Guides\Engineering_guides\Guide_to_the_Singularity_and_Tesla.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Engineer.md
-[click here for the guide to starting the nuclear reactor](\3_HowToPlay\Guides\Engineering_guides\Guide-to-the-nuclear-reactor.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Engineer.md
-[here](\3_HowToPlay\Guides\Medical_guides\Chemistry.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Chemist.md
-[explosive](\3_HowToPlay\Guides\Medical_guides\Chemistry.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md
-[commandos](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md
-[hack](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md
-[deconstruct](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Medical_roles\Chief-Medical-Officer.md
-[blood god worshipping loonies](Blood-cult.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md
+[Atmos](\3_HowToPlay\Guides\Engineering_guides\Guides\Guides-to-Atmospherics.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md
 [Nuke ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Death-Squad.md
-[nuke ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Science_roles\Roboticist.md
 [Robotics Guide](\3_HowToPlay\Guides\Science_guides\Robotics-Guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Science_roles\Roboticist.md
-[space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md
-[revolutionaries](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md
-[space law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md
-[laws](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Lawyer.md
+[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Head-of-Security.md
 [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Lawyer.md
-[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
-[crew](\3_HowToPlay\Jobs\Antagonist_roles\Cargonia.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
-[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Security_roles\Security-Officer.md
-[making drinks](Drinks-guide.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Bartender.md
-[here](Guide-to-Food-and-Drink.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Bartender.md
-[suits](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Clown.md
-[Here](Guide-to-Food-and-Drink.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Cook.md
-[gateway ruins](Gateway-maps.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Curator.md
-[manufacture more space cleaner](\3_HowToPlay\Guides\Medical_guides\Chemistry.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Janitor.md
-[laws](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Lawyer.md
-[Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\Jobs\Service_roles\Lawyer.md
 [Nuke Ops](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\3_HowToPlay\RP\RP-words-and-abbreviations.md
 [Nuclear Operatives](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Items\Nuclear-Authentication-Disk.md
 [Nukie](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Items\Nuclear-Authentication-Disk.md
-[of](Nuclear-Emergency.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Lore\Groups.md
 [threats](Blood-drunk-miner.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Caverna.md
 [Queen](Xenomorph-queen.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Caverna.md
 [Zombies](Zombie.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Gateway_Maps\Relicta.md
@@ -298,4 +241,3 @@ Files not found:
 [construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Maps\Offical_Station_Maps\Outpost.md
 [meme](Meme.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
 [emergency shuttle](emergency-shuttle.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Ian.md
-[xenos borgers](Cooking.md) in C:\Users\Geminee\Documents\GitHub\Unitystation-WikiV2\i18n\RU\docusaurus-plugin-content-docs\current\4_Univers\Mobs\Xenomorph.md

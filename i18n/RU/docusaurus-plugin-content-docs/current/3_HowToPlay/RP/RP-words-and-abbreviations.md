@@ -24,7 +24,7 @@ Means [Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md). Used
 
 <big>'Gray/Greytide'</big>
 
-When hordes of new players flood servers of Unitystation or SS13. Name comes from the fact that most new players pick [Assistant](\3_HowToPlay\Jobs\Service_roles\Assistant.md), who wear gray jumpsuits. One form of graytide is Tubertide, where new players flood the game because of a popular or semi-popular youtuber making a video on or mentioning the game.
+When hordes of new players flood servers of Unitystation or SS13. Name comes from the fact that most new players pick [Assistant](\3_HowToPlay\Jobs\Civilian_roles\Assistant.md), who wear gray jumpsuits. One form of graytide is Tubertide, where new players flood the game because of a popular or semi-popular youtuber making a video on or mentioning the game.
 
 <big>'Plasmabombing**</big> **[against the rules, unless you're an Antagonist]'
 

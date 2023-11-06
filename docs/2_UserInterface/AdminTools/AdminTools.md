@@ -9,7 +9,7 @@ sidebar_position: 2
 ## 1 - Administrator toolbar
 The admin toolbar is located at the top right of the screen, after starting the game you can use the last button on the far right.
 
-### 1.1 - Spawn item 
+### 1.1 - Spawn item
 Querying in the search bar will display the results just below.
 Left click on the item to select it and left click on the field to add it to the game.
 
@@ -177,7 +177,7 @@ CentComm is a unit above the captain.
 
 For more information, see
 
-| **CenterComp** | ![Central-Command-Officer](HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Central-Command-Officer.md), [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
+| **CenterComp** | [Central-Command-Officer](HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Central-Command-Officer.md), [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
 
 #### 2.2d - Event Manager
 ![EventManager](https://i.imgur.com/1PYvGB4.png)** Event Type:**.
