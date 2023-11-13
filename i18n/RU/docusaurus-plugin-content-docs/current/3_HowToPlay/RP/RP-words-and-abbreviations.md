@@ -1,43 +1,41 @@
-# RP words and abbreviations
-This page is a list of words and abbreviations usually used in games of unitystation, as well as a short description to help new people find out what they mean
+# ИЦ слова и аббревиатуры.
+Эта страница представляет собой список слов и сокращений, обычно используемых в играх unitystation, а также их краткое описание, чтобы помочь новичкам разобраться в их значении
 
 
 <big>'OOC'</big>
 
-Abbreviation for Out Of Character. Used for discussions outside of the game (for example letting people know how ridiculous your death was). OOC chat's default key is U.
+Аббревиатура для "Out Of Character"(рус. "вне персонажа"). Используется для обсуждения вне игры (например, чтобы люди узнали, насколько нелепой была ваша смерть). По умолчанию для OOC-чата используется клавиша U.
 
 <big>'IC'</big>
 
-Abbreviation for In Character. Used for communicating in-roleplay with other people. IC chat's default key is T (Y for IC chat over communications, if you have a comms headset equipped).
+Аббревиатура для "In Character"(рус. "В образе"). Используется для общения в ролевой игре с другими людьми. По умолчанию клавиша для IC-чата - T (Y - IC-чат по связи, если у вас есть гарнитура).
+<big>'Метагейминг**</big> **[Запрещено правилами]'
 
-<big>'Metagaming**</big> **[against the rules]'
+Использование в IC ситуации информацию полученной в OOC, например: убить Джона Доу, потому что кто-то в OOC жалуется администратору на то что Джон совершил RDM(массовое убийство). Другой, менее часто используемой формой метагейминга является метагрубость, когда вы атакуете или иным образом взаимодействуете с кем-то на основании чего-то, что произошло в предыдущем раунде Unitystation.
 
-The IC use of information that you gained OOCly, an example being to kill John Doe because someone OOCly is complaining to an admin about how John RDMed. Another, less frequently used form of metagaming is Metagrudging, in which you attack or otherwise interact with someone based on something that happened in a previous round of Unitystation.
+<big>'Icky Ocky[рус. 'Икки-Окки',не имеет однозначного перевода]**</big> **[Запрещено правилами]'
 
-<big>'Icky Ocky**</big> **[against the rules]'
+Означает IC в OOC. Обычный пример - просьба клонировать вас или раскрытие местонахождения вашего тела. Часто объяснение инструкций по тому как работает машина или предмет в OOC-чате НЕ является "Икки-Окки".
 
-Means IC in OOC. A common example is telling people to clone you and revealing where your body is. Often times giving instructions on how a machine or item works in OOC chat is NOT icky ocky.
+<big>'Антаг'</big>
 
-<big>'Antag'</big>
+Означает [Антагонист](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md). Используется когда ты ценишь свое время, и экономишь его сокращение слова.
 
-Means [Antagonist](\3_HowToPlay\Jobs\Antagonist_roles\Antagonist_roles.md). Used when you're too lazy to just say antagonist.
-
-<big>'Gray/Greytide'</big>
+<big>'Gray/Greytide'</big> - no changes.
 
 When hordes of new players flood servers of Unitystation or SS13. Name comes from the fact that most new players pick [Assistant](\3_HowToPlay\Jobs\Service_roles\Assistant.md), who wear gray jumpsuits. One form of graytide is Tubertide, where new players flood the game because of a popular or semi-popular youtuber making a video on or mentioning the game.
 
-<big>'Plasmabombing**</big> **[against the rules, unless you're an Antagonist]'
+<big>'Плазмафлуд**</big> **[Запрещено правилами, если ты не антагонист.]'
 
-Filling the station with plasma and then lighting it on fire.
+Заполнять станцию плазмой, и поджигать его.
 
-<big>'Shuttlebombing**</big> **[against the rules, unless you're an Antagonist]'
+<big>'Каммикадзе**</big> **[Запрещено правилами, если ты не антагонист.]'
 
-Suicide bombing a shuttle or other space craft into the station. Most common example is either [Mining](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) taking their shuttle and ramming it into the station, or [Nuke Ops](Nuclear-Emergency.md) adapting some new strategies.
-
-
+Влетать на полной скорости в станцию за императора, используя челнок(шаттл) или другой космичечкий летательный аппарат. Чаще всего [Шахтерство](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) используя свой шаттл/челнок врезаются в станцию, или [Ядерные оперативники](Nuclear-Emergency.md) адаптируют используют новую стратегию(придуманную ещё в 1944 в Японии)
 
 
-i'll add more when i stop procrastinating
+
+Я добавлю больше когда избавлюсь от прокрастинации.
 
   <br/>
 <br/>
