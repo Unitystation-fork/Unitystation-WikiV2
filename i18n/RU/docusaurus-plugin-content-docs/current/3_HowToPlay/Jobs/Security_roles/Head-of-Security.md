@@ -1,14 +1,14 @@
-# Руководитель службы безопасности
+# Глава Службы Безопасности
 **Тип должности:** <font color="#711e25">Безопасность</font>. **Доступ:** <font color="#711e25">Охрана и камеры</font>, <font color="#711e25">Бригада</font>, <font color="#711e25">Арсенал</font>. **Сложность:** <font color="Orange">Трудность</font>.
 
-Примечание: HoS - это *очень* сложная роль, и вы должны быть опытны в [боевых действиях] (\3_HowToPlay\Guides\General_guides\Combat_Guide.md) и в [безопасности] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) и [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md), прежде чем выбрать его. Если в первом же раунде вы начнете играть в HoS - это отличный способ лишиться работы.
+Примечание: ГСБ - это *очень* сложная роль, и вы должны быть опытны в [боевых действиях] (\3_HowToPlay\Guides\General_guides\Combat_Guide.md) и в [безопасности] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), [Standard Operating Procedure](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md) и [Space Law](\3_HowToPlay\Guides\Security_guides\Space-Law.md), прежде чем выбрать его. Если в первом же раунде вы начнете играть в HoS - это отличный способ лишиться работы.
 
 "Так, все, химик смазал свою последнюю плитку, взрывайте химлабораторию".
 
 
 ### Кто вы
 
-Начальник службы безопасности (HoS), как следует из названия, является начальником всех [офицеров безопасности] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) на станции, а также [надзирателя] (\3_HowToPlay\Jobs\Security_roles\Warden.md) и [детектива] (\3_HowToPlay\Jobs\Security_roles\Detective.md). Единственные, кто может ему приказывать, - это [капитан](\3_HowToPlay\Jobs\Command_roles\Captain.md) и все представители [центрального комитета](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md). Задача HoS заключается в том, чтобы отдавать приказы своим подчиненным и время от времени проверять их, чтобы убедиться, что они хорошо работают, а также управлять действиями службы безопасности в чрезвычайных ситуациях, если придет время.
+Глава Службы Безопасности (ГСБ), как следует из названия, является начальником всех [офицеров сб] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) на станции, а также [вардена] (\3_HowToPlay\Jobs\Security_roles\Warden.md) и [детектива] (\3_HowToPlay\Jobs\Security_roles\Detective.md). Единственные, кто может ему приказывать, - это [капитан](\3_HowToPlay\Jobs\Command_roles\Captain.md) и все представители [центрального комитета](\3_HowToPlay\Jobs\Protagonist_roles\Centcom_roles\Central-Command-Officer.md). Задача ГСБ заключается в том, чтобы отдавать приказы своим подчиненным и время от времени проверять их, чтобы убедиться, что они хорошо работают, а также управлять действиями службы безопасности в чрезвычайных ситуациях, если придет время.
 
 
 
@@ -20,7 +20,7 @@
 
 ###, когда дерьмо попадает в вентилятор
 
-Если все начинает гореть и взрываться, самое время приказать [Начальнику](\3_HowToPlay\Jobs\Security_roles\Warden.md) открыть оружейную комнату, но учтите, что вы не можете официально разрешить своим [Офицерам](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) открыто носить оружие, если только уровень тревоги не <font color="blue">Code Blue</font> или выше (но это редко является проблемой из-за того, как работает [SOP](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md)). В экстренных случаях, если вы доверяете команде, вы можете дать им оружие, хотя, скорее всего, лучше дать им нелетальные патроны, а оружие приберечь для головы. Обязательно помогите [надзирателю](\3_HowToPlay\Jobs\Security_roles\Warden.md) управлять тюрьмой и направьте [офицеров](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) вернуть своих погибших друзей.
+Если все начинает гореть и взрываться, самое время приказать [вардену](\3_HowToPlay\Jobs\Security_roles\Warden.md) открыть оружейную комнату, но учтите, что вы не можете официально разрешить своим [Офицерам](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) открыто носить оружие, если только уровень тревоги не <font color="blue">Code Blue</font> или выше (но это редко является проблемой из-за того, как работает [СРП](\3_HowToPlay\Guides\General_guides\Standard-Operating-Procedure.md)). В экстренных случаях, если вы доверяете команде, вы можете дать им оружие, хотя, скорее всего, лучше дать им нелетальные патроны, а оружие приберечь для головы. Обязательно помогите [вардену](\3_HowToPlay\Jobs\Security_roles\Warden.md) управлять тюрьмой и направьте [офицеров](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) вернуть своих погибших друзей.
 
 Если уровень тревоги повышается до <font color="red">Code Red,</font> то это время для вынесения более суровых приговоров. Вам все еще необходимо получить разрешение капитана на исполнение приговора на месте, но в случае, если цепочка командования нарушена и нет четких полномочий, решать вам; в этот момент Бриг, скорее всего, не функционирует, и опасность, исходящая от антагонистов, максимальна.
 
