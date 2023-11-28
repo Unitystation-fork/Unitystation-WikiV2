@@ -1,9 +1,9 @@
-# Ancient Temple
-The Ancient Temple is one of the four possible teleporter destinations and it takes the form of a deep crypt buried deep underground inhabited by a large number of hostile entities. The teleporter is located at the southwest corner of the map. To the east is a small abandoned outpost with a kitchen, a mostly depleted armoury, basic power facility, and mining equipment. To the north is a sprawling maze of dark passages and chambers, eventually leading to a large temple room.
+# Древний Храм
+Древний Храм это одно из четырех возможных мест телепортатортации и он имеет вид глубокого склепа, погребенного глубоко под землей и населенного большим количеством враждебных существ. Телепортер находиться в юго-западном углу карты. На востоке это маленький заброшенный аванпост с кухней, в основном скудный арсенал, базовый энергетический обьект, и шахтерское снаряжение. На севере находится разветвленный лабиринт темных ходов и комнат, который в конце концов приводит к большому храмовому залу.
 
-Lurking within both the outpost and the maze are [[Skeleton (Mob)|animated skeletons]] (as well as a few [[Husk (Mob)|husks]]). In the temple room, as well as in a few offshooting hallways, are a couple dozen stone statues. Some of these statues are actually [[Stone Statue (Mob)|animated]], and will ambush characters when they come close. The animated statues hit particularly hard, so it's a good idea to test each statue if it is alive or not before coming close if you have spare ammo.
+В аванпосте и лабиринте встречаются [[Skeleton (Mob)|animated skeletons]] (так же несколько [[Husk (Mob)|husks]]). В комнате храма, а так же в ответвляющихся от нее коридорах находится несколько десятков камменых статуй. Некоторые из них на самом деле [[Stone Statue (Mob)|animated]], и нападтю на персонажей , когда те подходят. Каменные статуи с анимацией наносят достаточно сильный урон, поэтому если у вас есть возможность, стоит проверить, жива ли статуя, прежде чем подходить к ней. (Например выстрелом из пистолета)
 
-There is a very high amount of gold and silver in both ore and bar form in the maze and temple room, as well as many stacks of sand, so bring a mining satchel and some extra crewmen to carry all the loot. Of particular note, offshooting to the west of the temple room is the golden room, which has a dense concentration of minerals.
+Очень много золота и сервера находяться в лабиринте и храме , в качестве руды или слитка, так же здесь можно найти много песка, так что принесите с собой ранец для добычи и несколько дополнительных членов команды. Особенно стоит отметить что в к западу от храмовой комнаты находится золотая комната, в которой сосредоточено приличное количество минералов.
 
   <br/>
 <br/>
