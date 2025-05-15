@@ -86,11 +86,11 @@ A main feature of Unitystation is that almost any item in the game can be either
 | ![Durathread Beret](\img\Construction\Clothing\hats_beretdurathread.png)   | Durathread Beret    | 2    |
 | ![Durathread Bandana](\img\Construction\Clothing\masks_banddurathread.png) | Durathread Bandana  | 1    |
 
-## Glass ![Glass](\img\Construction\Doors\glass.png)
+## Glass ![Glass](/img/Construction/Materials/glass.png)
 
 | Picture                        | Name             | Cost |
 | ------------------------------ | ---------------- | ---- |
-| ![WhiteServiceDoor](\img\Construction\Doors\glass.png) | WhiteServiceDoor | 6    |
+| ![WhiteServiceDoor](/img/Construction/Doors/Glass_door.png) | WhiteServiceDoor | 6    |
 | ![WinDoor](\img\Construction\Windows\windoor.png)        | WinDoor          | 4    |
 | ![Window](\img\Construction\Windows\window.png)          | Window           | 2    |
 

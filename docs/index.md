@@ -1,4 +1,5 @@
 ---
+id: index
 slug: /
 title: Welcome
 sidebar_position: 1
