@@ -177,7 +177,7 @@ CentComm is a unit above the captain.
 
 For more information, see
 
-| **CenterComp** | ![Central-Command-Officer](HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Central-Command-Officer.md), [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
+| **CenterComp** | [Central-Command-Officer](../../3_HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Central-Command-Officer.md), [Death-Squad](../../3_HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Death-Squad.md), [Emergency-Response-Team](../../3_HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Emergency-Response-Team.md), [Redshield-Officer](../../3_HowToPlay/Jobs/Protagonist_roles/Centcom_roles/Redshield-Officer.md) |
 
 #### 2.2d - Event Manager
 ![EventManager](https://i.imgur.com/1PYvGB4.png)** Event Type:**.
