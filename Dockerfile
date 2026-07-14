@@ -1,4 +1,4 @@
-FROM node:16 AS build
+FROM node:20 AS build
 WORKDIR /usr/src/app
 COPY package*.json ./
 RUN npm install
@@ -7,7 +7,7 @@ RUN npm run build
 
 # Deployment step
 
-FROM busybox:1.35 as deploy
+FROM busybox:1.36 AS deploy
 
 RUN adduser -D static
 USER static
