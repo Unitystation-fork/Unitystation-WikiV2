@@ -141,7 +141,12 @@ const config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
   plugins: [[require.resolve('docusaurus-lunr-search'), {
-    languages: ['en', 'fr', 'ru', 'de']
+    languages: ['en', 'fr', 'ru', 'de'],
+    // Sans ça, le plugin utilise os.cpus() qui peut renvoyer le nombre de
+    // coeurs du host physique plutot que la limite reelle du conteneur (1
+    // vCPU sur ce VPS) : plusieurs threads se battent alors pour un seul
+    // coeur au lieu d'aider.
+    maxThreads: 1
   }]],
 };
 
