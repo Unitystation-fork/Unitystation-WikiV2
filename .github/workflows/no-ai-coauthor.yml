@@ -1,0 +1,36 @@
+name: No AI co-author
+
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+
+jobs:
+  check-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Refuse AI co-author trailers (PR commits)
+        if: github.event_name == 'pull_request'
+        run: |
+          set -euo pipefail
+          bad=0
+          for sha in $(git log --format='%H' "origin/${{ github.event.pull_request.base.ref }}..HEAD"); do
+            if git log -1 --format='%B' "$sha" | grep -iqE '^co-authored-by:.*(claude|anthropic|copilot|chatgpt|openai|gemini|codex)'; then
+              echo "::error::Commit $sha has an AI co-author trailer — not allowed in this repo."
+              bad=1
+            fi
+          done
+          exit $bad
+
+      - name: Refuse AI co-author trailers (direct push)
+        if: github.event_name == 'push'
+        run: |
+          set -euo pipefail
+          if git log -1 --format='%B' HEAD | grep -iqE '^co-authored-by:.*(claude|anthropic|copilot|chatgpt|openai|gemini|codex)'; then
+            echo "::error::HEAD commit has an AI co-author trailer — not allowed in this repo."
+            exit 1
+          fi
