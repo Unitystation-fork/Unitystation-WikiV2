@@ -35,7 +35,7 @@ jobs:
     steps:
       # Checkout the repository to the GitHub Actions runner
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Execute Codacy Analysis CLI. Le résultat n'est plus uploadé vers
       # l'onglet "code scanning" de GitHub (retiré : Codacy y agrège des
