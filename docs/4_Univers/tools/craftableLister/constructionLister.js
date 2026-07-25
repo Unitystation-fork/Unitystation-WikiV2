@@ -60,7 +60,7 @@ const init = () => {
       .split('propertyPath: initialName')[1]
       ?.split('value: ')[1]
       ?.split('\n')[0]
-      ?.replace('\r', '');
+      ?.replaceAll('\r', '');
 
     const spriteId = buildingMaterial.rawText
       .split('propertyPath: m_Sprite')[1]
