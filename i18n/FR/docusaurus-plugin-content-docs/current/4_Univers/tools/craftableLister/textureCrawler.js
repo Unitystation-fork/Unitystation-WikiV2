@@ -91,13 +91,13 @@ const crawlPrefabs = (basePath) => {
           .split('propertyPath: initialName')[1]
           ?.split('value: ')[1]
           ?.split('\n')[0]
-          ?.replace('\r', '');
+          ?.replaceAll('\r', '');
 
         if (name === undefined) {
           name = prefabFile.rawText
             .split('initialName: ')[1]
             ?.split('\n')[0]
-            ?.replace('\r', '');
+            ?.replaceAll('\r', '');
         }
 
         if (name === undefined) {
@@ -105,14 +105,14 @@ const crawlPrefabs = (basePath) => {
             .split('propertyPath: m_Name')[1]
             ?.split('value: ')[1]
             ?.split('\n')[0]
-            ?.replace('\r', '');
+            ?.replaceAll('\r', '');
         }
         // last resort
         if (name === undefined) {
           name = prefabFile.rawText
             .split('m_Name: ')[1]
             ?.split('\n')[0]
-            ?.replace('\r', '');
+            ?.replaceAll('\r', '');
         }
 
         // initialName implement this instead of m_name
