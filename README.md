@@ -43,6 +43,8 @@ Pour construire le wiki en local avant de modifier la version actuelle du wiki :
   - pour la version dev ```npm run start```
   - pour build ```npm run build```
   - puis ```npm run serve```
+- Vérifier les liens et images (sans build, Python 3.9+) ```npm run test:links```
+  - détail fichier:ligne ```npm run test:links -- -v```, une seule langue ```npm run test:links -- --lang fr```
 
 -------------
 
