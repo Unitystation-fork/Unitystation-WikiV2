@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Офицер ЦК
 **Тип роли**: <font color="#D4AF37">ЦК</font>. **Доступ**: <font color="green">Все</font>. **Трудность**: <font color="Red">Экстремальная</font>.
 

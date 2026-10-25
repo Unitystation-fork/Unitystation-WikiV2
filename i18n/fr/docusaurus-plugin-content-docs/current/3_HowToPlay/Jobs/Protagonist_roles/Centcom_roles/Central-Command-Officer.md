@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Officier de commandement central
 **Role type**: <font color="#D4AF37">CentCom</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Extreme</font>.
 

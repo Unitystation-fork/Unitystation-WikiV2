@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Глава Службы Безопасности
 **Тип должности:** <font color="#711e25">Безопасность</font>. **Доступ:** <font color="#711e25">Охрана и камеры</font>, <font color="#711e25">Бригада</font>, <font color="#711e25">Арсенал</font>. **Сложность:** <font color="Orange">Трудность</font>.
 

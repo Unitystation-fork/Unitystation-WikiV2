@@ -1,3 +1,3 @@
 ---
-titre : Cartes officielles des stations
+title: Cartes officielles des stations
 ---

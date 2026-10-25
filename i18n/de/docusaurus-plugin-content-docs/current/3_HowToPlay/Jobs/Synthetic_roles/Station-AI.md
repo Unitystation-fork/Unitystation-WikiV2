@@ -1,5 +1,5 @@
 ---
-Titel: Station AI
+title: Station AI
 ---
 # Station Künstliche Intelligenz
 **Rollentyp**: <font color="#a85fb9">Synthetisch</font> **Zugang**: <font color="green">Alles</font>. **Schwierigkeit**: <font color="Red">Mittel bis schwer</font>.

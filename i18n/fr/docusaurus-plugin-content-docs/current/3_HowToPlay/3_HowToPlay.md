@@ -1,4 +1,4 @@
-2_HowToPlay
+# Jouer
 
 ## en solo
 

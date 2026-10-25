@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Chef de Sécurité
 **Role type:** <font color="#711e25">Securité</font>. **Accès:** <font color="#711e25">Cellules & sécurité</font>, <font color="#711e25">Brigade</font>, <font color="#711e25">Armurerie</font>. **Difficulté:** <font color="Orange">Difficile</font>.
 

@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Квартермейстер
 
 <div class="card bg-dark text-white">

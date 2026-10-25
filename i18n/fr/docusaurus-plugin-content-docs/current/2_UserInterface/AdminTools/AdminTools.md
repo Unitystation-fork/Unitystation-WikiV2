@@ -1,5 +1,5 @@
 ---
-titre : Interface d'administration
+title: Interface d'administration
 sidebar_position : 2
 ---
 
