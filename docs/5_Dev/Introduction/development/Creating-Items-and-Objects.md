@@ -15,7 +15,7 @@ Want to create a new item or object? Read on to find out how.
 4. Develop new components or modify the code for existing ones as needed. See [Component Development Checklist](\5_Dev\Introduction\development\Component-Development-Checklist.md)
 5. Test! Don't forget to test the following common sources of issues:
    * Test in multiplayer with at least 1 client and 1 server, trying to use the object as client and as server player.
-   * [Test using Respawn](Proper-Spawning-and-Despawning-(Object-Lifecycle).md)
+   * [Test using Respawn](Proper-Spawning-and-Despawning-Object-Lifecycle.md)
    * Test with round restarts.
    * Test on moving / rotating / rotated-before-joining shuttles.
 
@@ -202,6 +202,6 @@ Spawn your item and play around with it as client and server.
 
 Don't forget to test the following common sources of issues:
   * Test in multiplayer with at least 1 client and 1 server, trying to use the object as client and as server player.
-  * [Test using Respawn](Proper-Spawning-and-Despawning-(Object-Lifecycle).md)
+  * [Test using Respawn](Proper-Spawning-and-Despawning-Object-Lifecycle.md)
   * Test with round restarts.
   * Test on moving / rotating / rotated-before-joining shuttles.
