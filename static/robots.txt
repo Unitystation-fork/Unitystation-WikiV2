@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unitystation-wiki.unionrolistes.fr/sitemap.xml
+Sitemap: https://unitystation-wiki.unionrolistes.fr/fr/sitemap.xml
+Sitemap: https://unitystation-wiki.unionrolistes.fr/ru/sitemap.xml
+Sitemap: https://unitystation-wiki.unionrolistes.fr/de/sitemap.xml
