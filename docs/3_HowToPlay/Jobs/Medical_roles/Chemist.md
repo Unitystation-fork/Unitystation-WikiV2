@@ -2,7 +2,7 @@
 **Role type:** <font color="#d673b2">Medical</font>. **Access:** <font color="#d673b2">Medbay</font>, <font color="#d673b2">Cloning</font>, <font color="#d673b2">Morgue</font>,<font color="#d673b2">Chemistry lab.</font> Maintenance. **Difficulty:** <font color="Yellow">Medium</font>.
 
 
-Note, this is the job guide, the guide for reactions and the like is [here](\3_HowToPlay\Guides\Medical_guides\Chemistry.md)
+Note, this is the job guide, the guide for reactions and the like is [here](/3_HowToPlay/Jobs/Medical_roles/Chemist.md#chemistry)
 
 
 
@@ -38,7 +38,7 @@ Chemistry is easy to learn and hard to master. you can make a simple grenade wit
 
 -----
 ## Chemistry
-The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click [here](\3_HowToPlay\Jobs\Medical_roles\Chemist.md)
+The Chemistry that has been implemented into the game has been copied from tg station's old chem recipes. Note:this is the guide to reactions, for the job, click [here](/3_HowToPlay/Jobs/Medical_roles/Chemist.md)
 
 <font color="red">(Disclaimer: at the current time of this edit, these are all working recipes/reactons for the game; all others turn to ash or out right don't work)</font>
 

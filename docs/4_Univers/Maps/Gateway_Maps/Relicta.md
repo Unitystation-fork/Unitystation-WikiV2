@@ -6,36 +6,36 @@ Relicta is a abandoned station filled with [Zombies](Zombie.md), [Husks](Husk.md
 
 ### Church
 
-### ![Zchruch](\img\Gateway\Relicta\zchruch.webp)
+### ![Zchruch](/img/Gateway/Relicta/zchruch.webp)
 
 
 
 ### Engineering
-![Zengi](\img\Gateway\Relicta\zengi.webp)
+![Zengi](/img/Gateway/Relicta/zengi.webp)
 
 ### Kitchen
 
-![Zlounge](\img\Gateway\Relicta\zlounge.webp)
+![Zlounge](/img/Gateway/Relicta/zlounge.webp)
 
 
 ### Security
-![Zsec](\img\Gateway\Relicta\zsec.webp)
+![Zsec](/img/Gateway/Relicta/zsec.webp)
 
 ### Command
 
-![Zcommand](\img\Gateway\Relicta\zcommand.webp)
+![Zcommand](/img/Gateway/Relicta/zcommand.webp)
 
 ### Arrivals
 
-![arrival](\img\Gateway\Relicta\arrivles.png)
+![arrival](/img/Gateway/Relicta/arrivles.png)
 
 ###  Botany
 
-![bot](\img\Gateway\Relicta\bot.png)
+![bot](/img/Gateway/Relicta/bot.png)
 
 ### Mining/Cargo
 
-![cargo](\img\Gateway\Relicta\mining.png)
+![cargo](/img/Gateway/Relicta/mining.png)
 
 
 
