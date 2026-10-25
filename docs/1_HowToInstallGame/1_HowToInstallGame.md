@@ -43,9 +43,9 @@ https://flathub.org/apps/details/org.unitystation.StationHub
  1. Press **Command (⌘) + Space**, type "terminal" and press **Enter** (⏎).
  2. Paste this line and press **Enter**. It downloads the latest StationHub, unpacks it in `~/Games/Unitystation` and copies it to your Applications folder:
 ```bash
-mkdir -p ~/Games/Unitystation && cd ~/Games/Unitystation && curl -fL -o StationHub.zip "$(curl -fsSL https://api.github.com/repos/unitystation/stationhub/releases/latest | grep -o 'https://[^"]*/osx[0-9]*\.zip' | head -n 1)" && unzip -o StationHub.zip && tar -xf StationHub.tar && rm -f StationHub.zip StationHub.tar && cp -R StationHub.app /Applications/
+mkdir -p ~/Games/Unitystation && cd ~/Games/Unitystation && curl -fL -o StationHub.zip "$(curl -fsSL https://api.github.com/repos/unitystation/stationhub/releases/latest | grep -o 'https://[^"]*/osx[0-9]*\.zip' | head -n 1)" && unzip -o StationHub.zip && tar -xf StationHub.tar && rm -f StationHub.zip StationHub.tar && rm -rf /Applications/StationHub.app && cp -R StationHub.app /Applications/
 ```
-To start the game, open **StationHub** from your Applications folder (or Launchpad).
+To start the game, open **StationHub** from your Applications folder (or Launchpad). If the copy to Applications is refused (account without administrator rights), open `StationHub.app` from `~/Games/Unitystation` instead.
 
 To update StationHub later, run the same line again.
 

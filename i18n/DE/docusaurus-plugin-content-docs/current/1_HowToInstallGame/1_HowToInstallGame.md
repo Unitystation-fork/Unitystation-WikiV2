@@ -57,15 +57,15 @@ Oder verwenden Sie das Flatpak:
 
 # MacOS #
 
-1. Drücken Sie **Befehl (⌘) + Leertaste**, schreiben Sie "terminal" und bestätigen Sie mit **Enter** (⏎).
+1. Drücken Sie **Befehl (⌘) + Leertaste**, schreiben Sie „terminal“ und bestätigen Sie mit **Enter** (⏎).
 
-2. Fügen Sie diese Zeile in das Terminal ein und bestätigen Sie mit **Enter**. Sie lädt die neueste Version von StationHub herunter, entpackt sie in `~/Games/Unitystation` und kopiert sie in den Ordner „Programme“ (Applications):
+2. Fügen Sie diese Zeile in das Terminal ein und bestätigen Sie mit **Enter**. Diese Zeile lädt die neueste Version von StationHub herunter, entpackt sie in `~/Games/Unitystation` und kopiert sie in den Ordner „Programme“ (Applications):
 
 ```bash
-mkdir -p ~/Games/Unitystation && cd ~/Games/Unitystation && curl -fL -o StationHub.zip "$(curl -fsSL https://api.github.com/repos/unitystation/stationhub/releases/latest | grep -o 'https://[^"]*/osx[0-9]*\.zip' | head -n 1)" && unzip -o StationHub.zip && tar -xf StationHub.tar && rm -f StationHub.zip StationHub.tar && cp -R StationHub.app /Applications/
+mkdir -p ~/Games/Unitystation && cd ~/Games/Unitystation && curl -fL -o StationHub.zip "$(curl -fsSL https://api.github.com/repos/unitystation/stationhub/releases/latest | grep -o 'https://[^"]*/osx[0-9]*\.zip' | head -n 1)" && unzip -o StationHub.zip && tar -xf StationHub.tar && rm -f StationHub.zip StationHub.tar && rm -rf /Applications/StationHub.app && cp -R StationHub.app /Applications/
 ```
 
-Um das Spiel zu starten, öffnen Sie **StationHub** im Ordner „Programme“ (oder im Launchpad).
+Um das Spiel zu starten, öffnen Sie **StationHub** im Ordner „Programme“ (oder im Launchpad). Wird das Kopieren in „Programme“ verweigert (Benutzerkonto ohne Administratorrechte), öffnen Sie stattdessen `StationHub.app` in `~/Games/Unitystation`.
 
 Um StationHub später zu aktualisieren, führen Sie dieselbe Zeile erneut aus.
 
