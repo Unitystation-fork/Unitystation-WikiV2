@@ -30,7 +30,8 @@ import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOCALES = ("fr", "ru", "de")
-MIN_RATIO = 0.75
+MIN_RATIO = 0.9
+SAME = 0.95  # au-dessus : copie de l'anglais (même critère pour les fichiers et les pages)
 DEADLINE = 15 * 60  # secondes pour tout le test
 # (langue, adresse, texte qui doit apparaître)
 CHECKS = [
@@ -40,7 +41,8 @@ CHECKS = [
     ("de", "/de/", "Was ist Unitystation"),
 ]
 CONTENT = re.compile(r'class="[^"]*\btheme-doc-markdown\b[^"]*">(.*?)(?:<footer class="theme-doc-footer|</article>)', re.S)
-SIDEBAR = re.compile(r'<nav[^>]*aria-label="Docs sidebar".*?</nav>', re.S)
+# repéré par sa classe, pas par aria-label (libellé traduisible, donc différent selon la langue)
+SIDEBAR = re.compile(r'<nav[^>]*class="[^"]*\bmenu\b[^"]*\bthin-scrollbar\b.*?</nav>', re.S)
 MENU_LINK = re.compile(r'class="menu__link[^"]*"[^>]*href="([^"]+)"|href="([^"]+)"[^>]*class="menu__link')
 start = time.time()
 
@@ -61,13 +63,17 @@ def fetch(base, path):
         with urllib.request.urlopen(base + urllib.parse.quote(path), timeout=15) as r:
             fails = 0
             return r.read().decode("utf8", "replace")
-    except urllib.error.HTTPError:
-        fails = 0
-        return None
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            fails = 0
+            return None
+        err = e  # 429, 5xx… : problème de serveur, pas page absente
     except Exception as e:  # connexion refusée, coupée, délai…
+        err = e
+    if True:
         fails += 1
         if fails >= 5:
-            raise Unreachable(f"serveur injoignable ({type(e).__name__})")
+            raise Unreachable(f"serveur injoignable ({type(err).__name__} {getattr(err, 'code', '')})")
         return None
 
 
@@ -97,6 +103,10 @@ def routes(build, prefix=""):
     return out
 
 
+def differs(a, b):
+    return difflib.SequenceMatcher(None, a, b, autojunk=False).quick_ratio() < SAME
+
+
 def really_translated(loc):
     """Fichiers traduits dont le texte diffère vraiment de l'anglais (pas une copie)."""
     root = os.path.join(ROOT, "i18n", loc, "docusaurus-plugin-content-docs", "current")
@@ -111,7 +121,7 @@ def really_translated(loc):
             if not os.path.isfile(en):
                 continue
             a, b = (norm(open(p, encoding="utf8").read()) for p in (en, os.path.join(d, f)))
-            if b.strip() and difflib.SequenceMatcher(None, a, b, autojunk=False).quick_ratio() < 0.95:
+            if b.strip() and differs(a, b):
                 n += 1
     return n
 
@@ -139,6 +149,8 @@ def run(build, base):
     if unserved:
         print(f"[en] {len(unserved)} page(s) non servie(s) même en anglais, ignorée(s) : {', '.join(unserved[:5])}")
     en = [r for r in en_html if en_html[r] is not None]
+    if not any(sidebar(en_html[r]) for r in en):
+        raise Unreachable("menu de gauche introuvable dans les pages anglaises (thème modifié ?)")
     failed = False
     for loc in LOCALES:
         translated, missing, order = 0, [], []
@@ -148,7 +160,7 @@ def run(build, base):
                 missing.append(r)
                 continue
             t = content(h)
-            if t and t != content(en_html[r]):
+            if t and differs(content(en_html[r]), t):
                 translated += 1
             if sidebar(h, loc) != sidebar(en_html[r]):
                 order.append(r)
