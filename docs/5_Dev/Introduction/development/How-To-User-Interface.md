@@ -108,7 +108,7 @@ NetButton is a component that lets the client call a function on the server when
 2. Change button's `OnClick()` to `NetButton.ExecuteClient`.
 3. Change netButton's `ServerMethod()` to method you wish to call as a server.
    In the end, it should look like that: <br></br>
-   ![](https://cdn.discordapp.com/attachments/295186861377323009/583209885299245056/unknown.png) <br></br>
+   ![NetButton setup](/img/5_Dev/HowToUI/net_button.png) <br></br>
    Examples:
    `TabCargo` prefab has lots of buttons with `NetButton` component.
 
@@ -117,7 +117,7 @@ NetButton is a component that lets the client call a function on the server when
 ### NetPages
 
 NetPages is a concept of making UI in several pages instead of one ([cargo console](https://www.youtube.com/watch?v=fFuLGzgH9Ck)). It is done by switching on/off gameobjects that represent sub-page in one window. The structure looks like this:<br></br>
-![](https://cdn.discordapp.com/attachments/295186861377323009/583235140038426627/unknown.png)<br></br>
+![NetPages structure](/img/5_Dev/HowToUI/net_pages.png)<br></br>
 Where current tab's gameobject will be enabled and all others disabled.
 
 Usage:
