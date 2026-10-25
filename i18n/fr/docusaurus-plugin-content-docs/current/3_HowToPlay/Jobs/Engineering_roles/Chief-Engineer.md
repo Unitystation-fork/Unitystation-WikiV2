@@ -225,7 +225,7 @@ Il ne doit rien y avoir sur le chemin du PA. Les sols et les vitres ne posent pa
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/fr/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

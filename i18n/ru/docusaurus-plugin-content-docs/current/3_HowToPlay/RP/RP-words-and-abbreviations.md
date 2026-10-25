@@ -41,7 +41,7 @@ When hordes of new players flood servers of Unitystation or SS13. Name comes fro
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/ru/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

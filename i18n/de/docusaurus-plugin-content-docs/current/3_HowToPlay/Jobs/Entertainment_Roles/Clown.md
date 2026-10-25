@@ -20,7 +20,7 @@ Don't forget that your PDA is slippery, and can be used when you lose your banan
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/de/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

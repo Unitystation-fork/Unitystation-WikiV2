@@ -4,7 +4,7 @@
 
 ## Обзор
 
-Варден(Надзиратель) - это, по сути, сторожевая собака отдела безопасности. Ваши отношения с [Главой Службы Безопасности] (\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) аналогичны отношениям [ХОП] (\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) и [Капитан] (\3_HowToPlay\Jobs\Command_roles\Captain.md). Ваша задача - сидеть в своем кабинете, выдавать [офицерам безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) оружие или броню, если они получили на это разрешение от HoS или капитана, и замещать [ГСБ](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), если он умрет или будет смещен. Вы отвечаете за гауптвахту и управление заключенными.
+Варден(Надзиратель) - это, по сути, сторожевая собака отдела безопасности. Ваши отношения с [Главой Службы Безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) аналогичны отношениям [ХОП](\3_HowToPlay\Jobs\Command_roles\Head-of-Personnel.md) и [Капитан](\3_HowToPlay\Jobs\Command_roles\Captain.md). Ваша задача - сидеть в своем кабинете, выдавать [офицерам безопасности](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) оружие или броню, если они получили на это разрешение от HoS или капитана, и замещать [ГСБ](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md), если он умрет или будет смещен. Вы отвечаете за гауптвахту и управление заключенными.
 ### Нет, я не дам вам оружие только потому, что вы считаете, что карго бунтует.
 
 
@@ -26,6 +26,6 @@
 <br/>
 <br/>>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/ru/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

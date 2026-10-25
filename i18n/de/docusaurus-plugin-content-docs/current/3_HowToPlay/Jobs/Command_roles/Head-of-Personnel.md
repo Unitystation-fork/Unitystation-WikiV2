@@ -46,7 +46,7 @@ needless to say, being a [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/de/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

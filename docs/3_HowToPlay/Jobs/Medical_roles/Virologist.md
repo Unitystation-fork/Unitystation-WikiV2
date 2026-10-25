@@ -7,6 +7,6 @@ Unfortunately, the only virus in Unity Station at the moment is incurable stupid
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

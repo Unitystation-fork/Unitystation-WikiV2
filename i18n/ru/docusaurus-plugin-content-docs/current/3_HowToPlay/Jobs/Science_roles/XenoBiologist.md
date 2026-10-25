@@ -75,6 +75,6 @@ AP hardsuit - это скафандр, предназначенный для з�
 <br/>
 <br/>>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/ru/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

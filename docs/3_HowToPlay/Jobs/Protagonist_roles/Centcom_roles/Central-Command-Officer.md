@@ -30,7 +30,7 @@ The CCO doesn't have much gear of his own, surprisingly. You have a bottle of Ba
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

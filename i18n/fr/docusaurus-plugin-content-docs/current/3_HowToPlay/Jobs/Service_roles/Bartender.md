@@ -67,12 +67,12 @@ En gardant cela à l'esprit, sortez et aidez les gens à boire pour oublier leur
 C'est un travail très visible avec peu d'excuse pour être ailleurs qu'au bar.
 Vous commencez avec un fusil à pompe et des cartouches à billes, ce qui n'est pas rien, mais c'est une arme bruyante sans létalité et la limite de deux tirs à la fois en fait au mieux une arme d'appoint.
 
-Quels que soient vos objectifs, s'ils vous obligent à quitter le bar, il vaut mieux que vous soyez parti et que vous en ayez fini le plus vite possible, car votre absence sera très révélatrice pour les [enquêteurs] (\3_HowToPlay\Jobs\Security_roles\Detective.md).
+Quels que soient vos objectifs, s'ils vous obligent à quitter le bar, il vaut mieux que vous soyez parti et que vous en ayez fini le plus vite possible, car votre absence sera très révélatrice pour les [enquêteurs](\3_HowToPlay\Jobs\Security_roles\Detective.md).
   <br/>
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/fr/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

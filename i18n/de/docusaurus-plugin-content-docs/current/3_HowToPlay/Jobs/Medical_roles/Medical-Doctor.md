@@ -100,6 +100,6 @@ Da es sich nur um ein Spiel handelt, tut es zum Glück überhaupt nicht weh (zum
 
 Auch wenn die Chirurgie zunächst abschreckend wirkt, bietet sie doch viele großartige Möglichkeiten und kann deinen Mitstreitern sehr helfen. Also viel Glück und viel Spaß beim Aufschneiden und Wiederzusammennähen deiner Mitstreiter!
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/de/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

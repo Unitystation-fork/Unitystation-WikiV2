@@ -9,7 +9,7 @@ There is a very high amount of gold and silver in both ore and bar form in the m
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/fr/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 !!Map Location|title1=Ancient Temple!!

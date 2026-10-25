@@ -26,13 +26,13 @@ Abgesehen davon, dass du die Crew vor sich selbst retten musst, besteht ein Gro�
 
 ### Ihr Zuhause: der KI-Satellit
 
-Die KI der Station beginnt im KI-Satelliten mit maximaler Sicherheit, einer Kammer, die dafür ausgelegt ist, die KI sicher und vor den Händen von [ruchlosen] (\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) oder [gierigen] (\3_HowToPlay\Jobs\Service_roles\Assistant.md) Typen zu schützen. Im Inneren des KI-Satelliten befindet sich Ihr Raum, der von einer Reihe automatischer Lasertürme geschützt wird. Diese Geschütztürme schießen auf jeden, der sie sieht, es sei denn, sie wurden durch den Zugriff auf einen kleinen Bildschirm zur Steuerung der Geschütztürme deaktiviert, entweder von Ihnen oder von einem Mitarbeiter. Mit der Geschützturmsteuerung können Sie auch die Feuermodi der Geschütztürme von Betäubung auf Töten umschalten.
+Die KI der Station beginnt im KI-Satelliten mit maximaler Sicherheit, einer Kammer, die dafür ausgelegt ist, die KI sicher und vor den Händen von [ruchlosen](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) oder [gierigen](\3_HowToPlay\Jobs\Service_roles\Assistant.md) Typen zu schützen. Im Inneren des KI-Satelliten befindet sich Ihr Raum, der von einer Reihe automatischer Lasertürme geschützt wird. Diese Geschütztürme schießen auf jeden, der sie sieht, es sei denn, sie wurden durch den Zugriff auf einen kleinen Bildschirm zur Steuerung der Geschütztürme deaktiviert, entweder von Ihnen oder von einem Mitarbeiter. Mit der Geschützturmsteuerung können Sie auch die Feuermodi der Geschütztürme von Betäubung auf Töten umschalten.
 
 Im KI-Satelliten gibt es in der Regel mehrere Verteidigungsschichten sowie den KI-Upload-Raum, der ein Terminal zum Hochladen neuer Gesetze in die KI enthält.
 
 ### Binärer Chat
 
-Als KI haben Sie einen eigenen sicheren Funkkanal (binär), um mit anderen Synthetikern zu sprechen. Da Cyborgs immer noch vermisst werden, können Sie diesen Kanal nur in dem ungewöhnlichen, aber möglichen Szenario einer Station mit zwei oder mehr KI-Kernen nutzen. Dies geschieht derzeit nur auf Anordnung des Admins, kann aber zu einem häufigeren Szenario werden, sobald Stations-KIs von [Robotikern] konstruiert werden können (\3_HowToPlay\Jobs\Science_roles\Roboticist.md)
+Als KI haben Sie einen eigenen sicheren Funkkanal (binär), um mit anderen Synthetikern zu sprechen. Da Cyborgs immer noch vermisst werden, können Sie diesen Kanal nur in dem ungewöhnlichen, aber möglichen Szenario einer Station mit zwei oder mehr KI-Kernen nutzen. Dies geschieht derzeit nur auf Anordnung des Admins, kann aber zu einem häufigeren Szenario werden, sobald Stations-KIs von [Robotikern](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) konstruiert werden können
 
 
 ### Notfallevakuierung
@@ -43,7 +43,7 @@ Als KI haben Sie einen eigenen sicheren Funkkanal (binär), um mit anderen Synth
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/de/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

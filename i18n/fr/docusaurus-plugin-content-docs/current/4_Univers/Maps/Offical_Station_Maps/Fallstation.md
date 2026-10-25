@@ -6,7 +6,7 @@ Partant d'un vaisseau coincé dans un petit astéroïde, Fallstation met l'accen
 
 La carte est connue pour être très peu entretenue et les murs extérieurs et intérieurs sont largement fenêtrés.
 
-Fallstation possède également ses propres bases syndicales et centcom. La navette [Nuke Ops] (\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) est spécialement conçue pour être éperonnée, car elle possède deux sas allongés à l'avant de la navette pour pénétrer dans la station et faciliter les manœuvres d'embarquement.
+Fallstation possède également ses propres bases syndicales et centcom. La navette [Nuke Ops](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) est spécialement conçue pour être éperonnée, car elle possède deux sas allongés à l'avant de la navette pour pénétrer dans la station et faciliter les manœuvres d'embarquement.
 
 
 
@@ -19,7 +19,7 @@ Fallstation possède également ses propres bases syndicales et centcom. La nave
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/i18n/fr/docusaurus-plugin-content-docs/current/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 
