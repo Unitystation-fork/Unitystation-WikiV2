@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Unitystation Documentation',
   tagline: 'Unitystation Documentation',
-  url: 'http://31.211.16.159:8203/',
+  url: 'https://unitystation-wiki.unionrolistes.fr',
   baseUrl: '/',
   staticDirectories: ['static'],
   onBrokenLinks: 'ignore',
