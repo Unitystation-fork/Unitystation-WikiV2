@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "test:links": "python3 -I scripts/check_links.py",
-    "test:i18n": "python3 -I scripts/e2e_i18n.py build http://localhost:3000"
+    "test:i18n": "python3 -I scripts/e2e_i18n.py build ${I18N_URL:-http://localhost:3000}"
   },
   "dependencies": {
     "@docusaurus/core": "^2.4.3",
