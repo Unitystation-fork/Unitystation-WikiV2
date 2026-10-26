@@ -1,5 +1,10 @@
 services:
   unitystation-wiki:
+    # Image construite par GitHub Actions (.github/workflows/image.yml).
+    # `docker compose pull && docker compose up -d` la récupère ; `docker compose up -d --build`
+    # la construit toujours sur place si besoin. WIKI_TAG=sha-xxxxxxx pour revenir
+    # à une version précise (voir README, « Déploiement »).
+    image: ghcr.io/unitystation-fork/unitystation-wikiv2:${WIKI_TAG:-latest}
     build: .
     restart: always
     networks:

@@ -48,6 +48,22 @@ Pour construire le wiki en local avant de modifier la version actuelle du wiki :
 
 -------------
 
+### Déploiement
+
+L'image Docker du wiki est construite par GitHub Actions (workflow « Image Docker ») à chaque fusion dans `main`, puis publiée sur `ghcr.io/unitystation-fork/unitystation-wikiv2`. **Rien n'est déployé automatiquement** : la mise en ligne reste une commande lancée à la main sur le serveur.
+
+Tags disponibles : `latest` (dernier `main`), `main`, `sha-xxxxxxx` (un commit précis) et `vX.Y` (un tag git).
+
+Sur le serveur :
+
+- mettre en ligne : ```git pull && docker compose pull && docker compose up -d```
+- revenir en arrière : ```WIKI_TAG=sha-xxxxxxx docker compose up -d``` (ou `WIKI_TAG=...` dans un fichier `.env`)
+- construire sur place comme avant : ```docker compose up -d --build``` (le `--build` force la construction ; sans lui, Compose essaie d'abord de tirer l'image du registre)
+
+Le paquet doit être **public** pour être tiré sans identifiant (page du paquet sur GitHub, Package settings, Change visibility, à faire une fois après la 1re publication). Sinon : `docker login ghcr.io` avec un jeton `read:packages`.
+
+-------------
+
 ### Credit & contributeur
 
 - Fr_Dae (Dae#5125)
