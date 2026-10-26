@@ -102,6 +102,6 @@ Luckily since this is just a game it won't hurt at all (physically at least). Wh
 
 While surgery may seem daunting at first it offers a lot of great opportunities and can do a lot to help your fellow crewmate. So goodluck and have fun going out there cutting up your fellow crew and stitching them back together!
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
