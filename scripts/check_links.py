@@ -29,6 +29,7 @@ for lang in ("fr", "ru", "de"):
 LINK = re.compile(r"(!?)\[[^\]]*\]\(\s*<?((?:[^()\s>]|\([^()]*\))+)>?(?:\s+\"[^\"]*\")?\s*\)")
 FENCE = re.compile(r"^(```|~~~)")
 EXTERNAL = re.compile(r"^(?:[a-z][a-z0-9+.-]*:|//|#)", re.I)
+CATEGORIES = ("antislash", "antislash+absente", "casse", "cible-absente", "image-absente")
 
 
 def exists(path):
@@ -109,8 +110,15 @@ def main():
     ap.add_argument("-v", "--verbose", action="store_true")
     ap.add_argument("--lang", choices=sorted(LOCALES))
     ap.add_argument("--fail-on", default="all",
-                    help="catégories qui font échouer, séparées par des virgules (défaut : toutes)")
+                    help="catégories qui font échouer, séparées par des virgules : "
+                         + ", ".join(CATEGORIES) + ", ou « all » (défaut), ou « none » (rapport seul)")
     args = ap.parse_args()
+    # None = toutes les catégories bloquent ; ensemble vide = rapport seul
+    wanted = None if args.fail_on == "all" else set() if args.fail_on == "none" else \
+        {c.strip() for c in args.fail_on.split(",")}
+    unknown = (wanted or set()) - set(CATEGORIES)
+    if unknown:  # une faute de frappe ne doit pas désactiver le contrôle en silence
+        ap.error(f"catégorie inconnue : {', '.join(sorted(unknown))}")
 
     total = 0
     summary = defaultdict(Counter)
@@ -135,8 +143,14 @@ def main():
             print(f"{kind:18s} {f}:{n}  {t}")
     if total == 0:
         print("OK : aucun lien en erreur")
-    wanted = None if args.fail_on == "all" else set(args.fail_on.split(","))
     bad = [d for d in detail if wanted is None or d[1] in wanted]
+    if bad:  # dire quoi corriger quand le contrôle bloque
+        cats = "toutes catégories" if wanted is None else ", ".join(sorted(wanted))
+        print(f"{len(bad)} lien(s) bloquant(s) ({cats})" + (" :" if wanted is not None and not args.verbose
+                                                            else " — détail avec -v" if not args.verbose else ""))
+        if wanted is not None and not args.verbose:
+            for lang, kind, f, n, t in bad:
+                print(f"  {kind:18s} {f}:{n}  {t}")
     return 1 if bad else 0
 
 

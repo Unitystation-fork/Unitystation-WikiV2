@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Unitystation Documentation',
   tagline: 'Unitystation Documentation',
-  url: 'http://31.211.16.159:8203/',
+  url: 'https://unitystation-wiki.unionrolistes.fr',
   baseUrl: '/',
   staticDirectories: ['static'],
   onBrokenLinks: 'ignore',
@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
@@ -94,16 +94,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://example.com',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.gg/tFcTpBp',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://example.com',
               },
             ],
           },

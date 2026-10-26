@@ -1,3 +1,7 @@
+---
+title: Networking (Network Messages)
+---
+
 Game that relies on information isolation a lot, like ss13, needs to have a proper network system for that.
 Player shouldn't know about what happens behind the wall he can't see through, at all. He shouldn't even receive that information. Popular UNet approaches like SyncVar, Command/ClientRPC don't really allow that (sending information on a need-to-know basis). That's where Network Messages come in handy!
 

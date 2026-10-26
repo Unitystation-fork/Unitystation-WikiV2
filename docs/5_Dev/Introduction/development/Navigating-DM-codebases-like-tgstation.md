@@ -1,3 +1,7 @@
+---
+title: Navigating DM codebases (like tgstation)
+---
+
 Since this project aims to reimplement the DM codebases in Unity, it is very useful to know how to navigate through the DM codebases so you can look up important details like specific configuration values or logic.
 
 Here's how to set things up so you can easily navigate a DM project, using tgstation as an example:  
