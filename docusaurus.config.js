@@ -138,7 +138,12 @@ const config = {
     // coeurs du host physique plutot que la limite reelle du conteneur (1
     // vCPU sur ce VPS) : plusieurs threads se battent alors pour un seul
     // coeur au lieu d'aider.
-    maxThreads: 1
+    maxThreads: 1,
+    // Surligne le mot cherché sur la page ouverte depuis un résultat (#222).
+    highlightResult: true,
+    // Le site n'a qu'une version des docs : sans ça, chaque résultat affiche
+    // « Next » (nom de la version courante).
+    disableVersioning: true
   }]],
 };
 
