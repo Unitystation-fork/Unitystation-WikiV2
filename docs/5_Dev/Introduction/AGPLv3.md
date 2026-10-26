@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: AGPLv3
+---
+
 # Licensing
 
                  GNU AFFERO GENERAL PUBLIC LICENSE

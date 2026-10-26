@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Contribution and Review Guidelines
 
 ### GIT Guidelines
