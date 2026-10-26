@@ -96,7 +96,7 @@ Quand le lot sera fusionné, je prépare la note de version pour la mise en lign
 
 ## 4 ter. Déjà tranché depuis (26/10)
 - **Lawyer** : reste dans Security.
-- **Geneticist** : rangé dans Science, sous le RD, parce que le CMO a trop à faire. Sa page garde son adresse : [#373](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/373).
+- **Geneticist** : sa fiche reste dans Medical, et une courte page dans Science renvoie vers elle, parce que le RD le supervise souvent : [#373](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/373).
 - **Redshield** : le code dit Redshield, pas Blueshield. [#365](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/365) est en attente de ta réponse.
 - **Licence** : passage en AGPLv3, comme le jeu : [#370](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/370).
 - **Organigramme cliquable et traduit**, d'après ton schéma : [#374](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/374).
