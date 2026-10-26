@@ -1,6 +1,8 @@
-# Cargonia
+# Rebellion (Revolution, Cargonia)
 
-Cargonia is the current in-game name of this gamemode. A random department (excluding security and command) will become rogue and is tasked to steal an item and escape on the shuttle with at least 50% of the department staying alive until the end of the round.
+In the game, this gamemode is called **Rebellion** and its antagonist is the **Rebel**. Players also call it "rev" (Revolution), and **Cargonia** is the name the rebels of the cargo department give themselves.
+
+A random department (excluding security and command) will become rogue and is tasked to steal an item and escape on the shuttle with at least 50% of the department staying alive until the end of the round.
 
 The gamemode can currently only be triggered manually by an admin.
 
@@ -20,7 +22,7 @@ You will likely want to purchase some weapons crates to arm the proletariats of 
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 
