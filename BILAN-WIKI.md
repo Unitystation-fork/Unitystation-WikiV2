@@ -114,7 +114,7 @@ Autre décision : le **design** (couleurs, ergonomie) aura sa phase à la fin. D
 
 ## 5. Ce qui reste à trancher
 
-1. **Rebellion** : le joueur voit « Rebellion » dans le jeu. On titre la page « Rebellion », en citant « rev » et Cargonia comme surnoms ?
-2. **Psychologist** : le jeu dit « Psychiatrist ». On renomme la page ?
-3. **Modes de jeu sans page** : Changeling, Vampires, Extended, Highlander, Map Editor, Mixed. Je prépare des fiches à relire pour eux ?
+1. **Rebellion** : décidé, voir le point 2.
+2. **Psychologist** : le jeu dit « Psychiatrist ». Décidé : titre « Psychiatrist (Psychologist) ». Pour Rebellion : « Rebellion (Revolution, Cargonia) ». Règle : le nom du jeu d'abord, les autres noms entre parenthèses.
+3. **Modes de jeu sans page** (Changeling, Vampires, Extended, Highlander, Map Editor, Mixed) : il n'y a rien à reprendre dans les anciens wikis. Le MediaWiki n'a qu'une page Highlander, vide (« This article has literally no information »), et l'ancien wiki GitHub Pages n'en a aucune. Ces pages seront à écrire à partir du code du jeu, si on les veut.
 4. **Les fiches à relire** : ta décision pour chacune, dans [#372](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372).
