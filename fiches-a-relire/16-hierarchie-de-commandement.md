@@ -5,11 +5,20 @@
 # Fiche 16 : hiérarchie de commandement
 
 **À décider**
-- [ ] mettre l'image telle quelle  - [ ] la refaire en schéma Mermaid (proposition ci-dessous)  - [ ] autre
+- [ ] mettre l'image telle quelle  - [ ] la refaire en schéma Mermaid (brouillon ci-dessous)  - [ ] **en faire un composant SVG cliquable, traduit et responsive (recommandé, voir ci-dessous)**  - [ ] autre
 
 **Pourquoi Mermaid** : le schéma est écrit en texte dans la page. Il est donc **traduisible** (les noms de métiers passent par les traductions), facile à mettre à jour (une ligne par lien), et il s'affiche en clair comme en sombre. GitHub affiche déjà ce brouillon ci-dessous. Pour Docusaurus, il faudra ajouter `@docusaurus/theme-mermaid` (une ligne de configuration, à tester).
 
 **Vérifié dans le code du jeu** : le Lawyer est dans le département Civilian, mais il travaille avec la Sécurité (case grise-rose sur le schéma). Le Geneticist est en catégorie Medical, mais dans le département Research (case bleue-violette).
+
+## Option recommandée : un composant SVG
+Ce serait le même principe que le tableau des métiers ([#367](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/367)) : un composant React qui dessine le schéma en SVG.
+- **Cliquable** : chaque case est un lien vers la fiche du métier.
+- **Traduit tout seul** : les noms et les liens sont pris dans le menu, donc dans la langue de la page (Capitaine, Капитан…). Rien à traduire à la main, sauf « Sup.off / Head / Crew ».
+- **Mis à jour facilement** : la hiérarchie tient dans une petite liste dans le code (« Warden → HoS »…). Les couleurs viennent du département.
+- **Responsive** : sur grand écran, l'organigramme en SVG, mis à l'échelle (`viewBox`) ; sur téléphone, le même contenu en arbre vertical lisible, plutôt qu'une image minuscule.
+- **Thème clair et sombre** : les couleurs passent par des variables CSS.
+- **Pas de nouvelle dépendance** (contrairement à Mermaid).
 
 ## L'image d'origine
 ![Hiérarchie de commandement](../images/unitystation-hierarchie_1.png)
