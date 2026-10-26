@@ -107,7 +107,7 @@ Quand le lot sera fusionné, je prépare la note de version pour la mise en lign
 | **7. Classement du menu** | Le Geneticist est à la fois en Science et en Medical. Le Lawyer est un civil, mais il a les accès de la sécurité, reçoit ses ordres du HoP et du HoS, et défend l'équipage au procès (HoS ou Warden à l'accusation, Captain juge). | Geneticist : fiche dans Medical, page de renvoi dans Science ([#373](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/373)). Lawyer : reste dans Security. L'organigramme cliquable suit ton schéma ([#374](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/374)). |
 | **8. Noms de dossier** | « De quel nom tu parles ? » | `General_guides`, `Gateway_Maps`, `tools`, « Offical Station Maps », les dossiers Dev/Routine en français, « User interface » affiché deux fois. Corrigés dans [#369](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/369), avec captures avant/après dans la PR. |
 | **9. Licence** | Si le jeu est en AGPLv3, autant le respecter. | Passage en AGPLv3 : [#370](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/370). |
-| **10. Redshield** | Peu importe, du moment que « Blueshield » est écrit. | [#365](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/365) débloqué. Titre proposé : « Blueshield / Redshield Officer », avec « appelé Redshield Officer dans le jeu ». |
+| **10. Redshield** | Peu importe, du moment que « Blueshield » est écrit ; puis, sur #365 : « va pour redshield ». | **On garde Redshield** : le jeu affiche `Redshield Officer` (`displayName` du fichier du métier). Le jeu est la source de vérité. #365 fermé, rien à changer. |
 | **11. Lawyer** | Reste dans Security. | Rien à déplacer. |
 
 Autre décision : le **design** (couleurs, ergonomie) aura sa phase à la fin. D'ici là, on travaille le fonctionnel et le contenu.
@@ -115,6 +115,6 @@ Autre décision : le **design** (couleurs, ergonomie) aura sa phase à la fin. D
 ## 5. Ce qui reste à trancher
 
 1. **Rebellion** : décidé, voir le point 2.
-2. **Psychologist** : le jeu dit « Psychiatrist ». Décidé : titre « Psychiatrist (Psychologist) ». Pour Rebellion : « Rebellion (Revolution, Cargonia) ». Règle : le nom du jeu d'abord, les autres noms entre parenthèses.
+2. **Psychologist** : le jeu dit « Psychiatrist ». Décidé : titre « Psychiatrist (Psychologist) ». Pour Rebellion : « Rebellion (Revolution, Cargonia) ». Règle : le jeu est la source de vérité ; son nom d'abord, les autres noms entre parenthèses (PR #382).
 3. **Modes de jeu sans page** (Changeling, Vampires, Extended, Highlander, Map Editor, Mixed) : il n'y a rien à reprendre dans les anciens wikis. Le MediaWiki n'a qu'une page Highlander, vide (« This article has literally no information »), et l'ancien wiki GitHub Pages n'en a aucune. Ces pages seront à écrire à partir du code du jeu, si on les veut.
 4. **Les fiches à relire** : ta décision pour chacune, dans [#372](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372).
