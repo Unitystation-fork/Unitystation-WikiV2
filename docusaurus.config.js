@@ -39,6 +39,7 @@ const config = {
           // Une page avec `unlisted: true` en front matter reste joignable par
           // son adresse mais sort du menu et des boutons précédent/suivant
           // (même sens que `unlisted` de Docusaurus 3, absent en 2.4.3).
+          // Ne marche pas pour la page d'index d'une catégorie.
           async sidebarItemsGenerator({defaultSidebarItemsGenerator, ...args}) {
             const unlisted = new Set(
               args.docs.filter((doc) => doc.frontMatter.unlisted === true).map((doc) => doc.id),
