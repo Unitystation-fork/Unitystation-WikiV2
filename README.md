@@ -48,6 +48,24 @@ Pour construire le wiki en local avant de modifier la version actuelle du wiki :
 
 -------------
 
+### Déploiement
+
+L'image Docker du wiki est construite par GitHub Actions (workflow « Image Docker ») à chaque fusion dans `main`, puis publiée sur `ghcr.io/unitystation-fork/unitystation-wikiv2`. **Rien n'est déployé automatiquement** : la mise en ligne reste une commande lancée à la main sur le serveur.
+
+Tags disponibles : `latest` (dernier `main`), `main`, `sha-xxxxxxx` (un commit précis) et `vX.Y` (un tag git).
+
+Rien ne change pour les commandes habituelles du serveur : `docker-compose.yml` est identique à avant, donc `docker compose up -d`, `docker compose up -d --build` ou `docker compose build` font exactement la même chose qu'avant (construction sur place). L'image de GitHub n'est utilisée que si on le demande, avec le fichier à part `docker-compose.ghcr.yml` (à donner avec `-f`, demande Docker Compose 2.24 ou plus récent, voir `docker compose version`) :
+
+- mettre en ligne avec l'image de GitHub : ```git pull && docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d``` (ce fichier tire toujours l'image du registre, sans construire sur place)
+- revenir à une version précise : ```WIKI_TAG=sha-xxxxxxx docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d``` (si le tag n'existe pas, la commande échoue au lieu de construire autre chose) ; vérifier ce qui tourne avec `docker compose ps`
+- revenir à la construction sur place : la commande habituelle, par exemple ```docker compose up -d --build``` (si `COMPOSE_FILE` a été mis dans `.env`, retirer d'abord cette ligne)
+
+Pour en faire la commande par défaut le jour où c'est décidé : `COMPOSE_FILE=docker-compose.yml:docker-compose.ghcr.yml` dans un fichier `.env` à côté du compose. Ne pas renommer le fichier en `docker-compose.override.yml` : ce nom-là est chargé automatiquement. À l'inverse, avec `-f`, un `docker-compose.override.yml` local n'est plus lu : s'il en existe un sur le serveur, l'ajouter en 3e `-f`.
+
+Le paquet doit être **public** pour être tiré sans identifiant (page du paquet sur GitHub, Package settings, Change visibility, à faire une fois après la 1re publication). Sinon : `docker login ghcr.io` avec un jeton `read:packages`.
+
+-------------
+
 ### Credit & contributeur
 
 - Fr_Dae (Dae#5125)
