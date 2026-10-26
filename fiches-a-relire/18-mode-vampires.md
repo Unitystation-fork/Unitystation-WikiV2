@@ -6,7 +6,7 @@
 # Fiche 18 : mode et antagoniste Vampires
 
 - **Source** : le code du jeu uniquement (relevé le 26/10). Chemins relatifs à `UnityProject/Assets/`.
-- **Priorité** : moyenne (le mode est en rotation, donc des joueurs le rencontrent, et il n'a aucune page)
+- **Priorité** : moyenne (le mode est en rotation et n'a aucune page ; des vampires peuvent aussi sortir du mode Mixed)
 
 **Où la mettre**
 
