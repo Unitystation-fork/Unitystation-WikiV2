@@ -41,3 +41,63 @@
 table {
   display: table;
 }
+
+/* Organigramme de la chaîne de commandement (issue #374, src/components/OrgChart) */
+.org-chart { margin: 1.5rem 0; font-size: 0.8rem; line-height: 1.25; }
+.org-chart figcaption { font-weight: 600; margin-bottom: 0.75rem; font-size: 1rem; }
+.org-chart ul { list-style: none; margin: 0; padding: 0; }
+.org-chart li { margin: 0; }
+.org-box {
+  display: block; box-sizing: border-box; width: 100%;
+  padding: 0.35rem 0.2rem; text-align: center;
+  border: 1px solid var(--ifm-color-emphasis-300); border-radius: var(--ifm-global-radius);
+  background: var(--ifm-background-surface-color); color: var(--ifm-font-color-base);
+  text-decoration: none; overflow-wrap: anywhere; hyphens: auto;
+}
+.org-box:hover, .org-box:focus-visible { border-color: var(--ifm-link-color); color: var(--ifm-link-color); text-decoration: none; outline-offset: 2px; }
+.org-head > .org-box, .org-top .org-box { font-weight: 700; }
+.org-dotted > .org-box { border-style: dashed; }
+.org-aside > .org-box { border-style: dashed; color: var(--ifm-color-emphasis-600); }
+
+/* --- grand écran : Capitaine, puis une colonne par chef, crew en dessous --- */
+/* grille 1fr auto 1fr : le Capitaine reste centré au-dessus des chefs, l'IA à droite sans trait */
+.org-top { display: grid; grid-template-columns: 1fr auto 1fr; align-items: start; }
+.org-top > li { width: 8rem; grid-column: 2; }
+.org-top .org-aside { grid-column: 3; justify-self: end; }
+.org-heads { display: flex; justify-content: center; align-items: flex-start; }
+.org-heads > li { flex: 1 1 0; min-width: 0; padding: 0 0.25rem; position: relative; }
+/* trait horizontal au-dessus des chefs, tronqué aux extrémités */
+.org-heads > li::before, .org-heads > li::after {
+  content: ''; position: absolute; top: 0; width: 50%; height: 0.75rem;
+  border-top: 1px solid var(--ifm-color-emphasis-600);
+}
+.org-heads > li::before { left: 0; }
+.org-heads > li::after { right: 0; }
+.org-heads > li:first-child::before, .org-heads > li:last-child::after { border-top: 0; }
+/* petit trait vertical au-dessus de chaque case (sauf la première ligne) */
+.org-heads > li > .org-box, .org-col > li > .org-box { margin-top: 0.75rem; position: relative; }
+.org-heads > li > .org-box::before, .org-col > li > .org-box::before {
+  content: ''; position: absolute; left: 50%; top: -0.75rem; height: 0.75rem;
+  border-left: 1px solid var(--ifm-color-emphasis-600);
+}
+.org-dotted > .org-box::before { border-left-style: dashed; }
+.org-cols { display: flex; gap: 0.25rem; align-items: flex-start; }
+.org-col { flex: 1 1 0; min-width: 0; }
+/* le HoP a 3 sous-colonnes : sa case s'étire au-dessus d'elles */
+.org-heads > li.org-wide { flex-grow: 3; }
+
+/* --- téléphone (≤ 500 px) : arbre vertical, liste imbriquée indentée --- */
+@media (max-width: 500px) {
+  .org-chart { font-size: 0.9rem; }
+  .org-top, .org-heads, .org-cols { display: block; }
+  .org-top > li { width: auto; }
+  .org-top .org-aside { margin-top: 0.5rem; }
+  .org-heads > li, .org-col { flex: none; padding: 0; }
+  .org-heads > li::before, .org-heads > li::after, .org-box::before { display: none; }
+  .org-heads > li > .org-box, .org-col > li > .org-box { margin-top: 0.3rem; }
+  .org-box { text-align: left; }
+  .org-heads, .org-cols, .org-col > li > ul {
+    margin-left: 0.6rem; padding-left: 0.6rem; border-left: 2px solid var(--ifm-color-emphasis-300);
+  }
+  .org-heads { margin-left: 0.6rem; }
+}
