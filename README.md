@@ -54,11 +54,13 @@ L'image Docker du wiki est construite par GitHub Actions (workflow « Image Dock
 
 Tags disponibles : `latest` (dernier `main`), `main`, `sha-xxxxxxx` (un commit précis) et `vX.Y` (un tag git).
 
-Sur le serveur :
+Rien ne change pour la commande habituelle du serveur : `docker-compose.yml` n'est pas modifié, `docker compose up -d --build` construit toujours l'image sur place, comme avant. L'image de GitHub n'est utilisée que si on le demande, avec le fichier à part `docker-compose.ghcr.yml` (à donner avec `-f`, demande Docker Compose 2.24 ou plus récent, voir `docker compose version`) :
 
-- mettre en ligne : ```git pull && docker compose pull && docker compose up -d```
-- revenir en arrière : ```WIKI_TAG=sha-xxxxxxx docker compose up -d``` (ou `WIKI_TAG=...` dans un fichier `.env`)
-- construire sur place comme avant : ```docker compose up -d --build``` (le `--build` force la construction ; sans lui, Compose essaie d'abord de tirer l'image du registre)
+- mettre en ligne avec l'image de GitHub : ```git pull && docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d``` (ce fichier tire toujours l'image du registre, sans construire sur place)
+- revenir à une version précise : ```WIKI_TAG=sha-xxxxxxx docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d``` (si le tag n'existe pas, la commande échoue au lieu de construire autre chose) ; vérifier ce qui tourne avec `docker compose ps`
+- revenir à la construction sur place : ```docker compose up -d --build``` (sans `-f docker-compose.ghcr.yml`)
+
+Pour en faire la commande par défaut le jour où c'est décidé : `COMPOSE_FILE=docker-compose.yml:docker-compose.ghcr.yml` dans un fichier `.env` à côté du compose. Ne pas renommer le fichier en `docker-compose.override.yml` : ce nom-là est chargé automatiquement.
 
 Le paquet doit être **public** pour être tiré sans identifiant (page du paquet sur GitHub, Package settings, Change visibility, à faire une fois après la 1re publication). Sinon : `docker login ghcr.io` avec un jeton `read:packages`.
 

@@ -7,7 +7,9 @@ name: Image Docker
 # - pull_request : seulement si le Dockerfile, .dockerignore, package*.json ou
 #   ce fichier changent (build.yml construit déjà le site sur chaque PR) ;
 #   construit et teste l'image, sans la publier ;
-# - push sur main, tag v*, lancement manuel : construit, teste, publie.
+# - push sur main, tag v* : construit, teste, publie ;
+# - lancement manuel : publie seulement depuis main ou un tag v* (depuis une
+#   autre branche : construit et teste, sans publier).
 
 on:
   push:
@@ -19,6 +21,8 @@ on:
       - .dockerignore
       - package.json
       - package-lock.json
+      - docker-compose.yml
+      - docker-compose.ghcr.yml
       - .github/workflows/image.yml
   workflow_dispatch:
 
@@ -26,11 +30,18 @@ permissions:
   contents: read
 
 concurrency:
-  # PR : une nouvelle poussée annule l'ancien build. main : un groupe par commit.
-  group: image-${{ github.event_name == 'pull_request' && github.ref || github.sha }}
+  # Un groupe par branche ou tag. PR : une nouvelle poussée annule l'ancien build.
+  # main : les runs passent l'un après l'autre, jamais en parallèle, pour que
+  # `latest` soit toujours publié par le commit le plus récent (deux runs en
+  # parallèle pourraient finir dans le désordre). GitHub ne garde qu'un run en
+  # attente : si plusieurs fusions arrivent pendant un build, seule la dernière
+  # est construite (les commits intermédiaires n'ont alors pas de tag sha-).
+  group: image-${{ github.ref }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 env:
+  # Publier seulement depuis main ou un tag v* (jamais sur une PR).
+  PUBLISH: ${{ github.event_name != 'pull_request' && (github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')) }}
   # ghcr.io exige des minuscules (le dépôt s'appelle Unitystation-fork/Unitystation-WikiV2).
   IMAGE: ghcr.io/unitystation-fork/unitystation-wikiv2
   # Nom local de l'image testée avant publication.
@@ -46,10 +57,22 @@ jobs:
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
+      # docker-compose.yml seul : construit sur place (build, pas d'image ghcr).
+      # Avec docker-compose.ghcr.yml : image ghcr, pull_policy always, plus de build.
+      - name: Test - fichiers docker compose
+        run: |
+          set -euo pipefail
+          base=$(docker compose -f docker-compose.yml config --format json)
+          jq -e '.services["unitystation-wiki"] | has("build") and (.image // "" | startswith("ghcr.io") | not)' <<<"$base" >/dev/null
+          ghcr=$(docker compose -f docker-compose.yml -f docker-compose.ghcr.yml config --format json)
+          jq -e --arg img "$IMAGE:latest" '.services["unitystation-wiki"] | (has("build") | not) and .image == $img and .pull_policy == "always"' <<<"$ghcr" >/dev/null
+          echo "OK compose"
+          docker compose version
+
       - uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
 
       - name: Connexion à ghcr.io
-        if: github.event_name != 'pull_request'
+        if: env.PUBLISH == 'true'
         uses: docker/login-action@81c6f93d4bc991e510b342a00b419b3bb4efc5c6 # v4.7.0
         with:
           registry: ghcr.io
@@ -68,40 +91,45 @@ jobs:
             type=raw,value=latest,enable={{is_default_branch}}
             type=ref,event=branch
             type=ref,event=tag
-            type=ref,event=pr
             type=sha
 
-      # mode=max : garde en cache la couche npm ci du stage de build (mode=min ne
-      # garderait que busybox). linux/amd64 seulement : le VPS est en x86.
+      # Un seul build : l'image testée ci-dessous est exactement celle publiée.
+      # Pas de cache GitHub : `COPY . .` change à chaque commit, le cache ne
+      # ferait gagner que `npm ci` (~45 s) et son export coûtait ~5 min et ~1 Go.
+      # linux/amd64 seulement : le VPS est en x86.
       - name: Build (sans publier)
         uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
         with:
           context: .
           load: true
-          tags: ${{ env.TEST_TAG }}
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
+          tags: |
+            ${{ env.TEST_TAG }}
+            ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
 
       - name: Test - l'image démarre et sert les 4 langues
         run: |
           set -euo pipefail
           docker run -d --rm --name wiki -p 3000:3000 "$TEST_TAG"
-          for i in $(seq 1 20); do curl -fsS -o /dev/null http://localhost:3000/ && break; sleep 1; done
-          # /fr/img passe par le lien symbolique créé dans le Dockerfile.
+          # Attend que le serveur réponde (20 s max), sinon échec avec les journaux.
+          up=0
+          for i in $(seq 1 20); do
+            if curl -fsS -o /dev/null http://localhost:3000/; then up=1; break; fi
+            sleep 1
+          done
+          if [ "$up" -ne 1 ]; then echo "KO : le serveur ne répond pas"; docker logs wiki; exit 1; fi
+          # Chaque chemin doit répondre, sinon l'étape échoue.
+          # (Pas de `curl ... && echo` : sous set -e, un échec dans une liste && ne
+          # stoppe pas le script.) /fr/img passe par le lien symbolique du Dockerfile.
           for p in / /fr/ /ru/ /de/ /img/Icon/favicon.ico /fr/img/Icon/favicon.ico; do
-            curl -fsS -o /dev/null "http://localhost:3000$p" && echo "OK $p"
+            if ! curl -fsS -o /dev/null "http://localhost:3000$p"; then
+              echo "KO $p"; docker logs wiki; exit 1
+            fi
+            echo "OK $p"
           done
           docker stop wiki
 
-      # Reprend les couches du build précédent (cache) : pas de second build complet.
-      # provenance=false : manifeste simple, lisible par tout Docker.
+      # Pousse l'image déjà construite et testée (pas de second build).
       - name: Publication sur ghcr.io
-        if: github.event_name != 'pull_request'
-        uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
-        with:
-          context: .
-          push: true
-          provenance: false
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
-          cache-from: type=gha
+        if: env.PUBLISH == 'true'
+        run: docker push --all-tags "$IMAGE"

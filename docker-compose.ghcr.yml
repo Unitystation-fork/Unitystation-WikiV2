@@ -1,0 +1,22 @@
+# Fichier à part, utilisé SEULEMENT si on le demande avec -f (voir README, « Déploiement »).
+# Il fait tourner l'image construite par GitHub Actions (.github/workflows/image.yml)
+# au lieu de construire sur le serveur.
+#
+# Il n'est pas lu par la commande habituelle (`docker compose up -d --build`) :
+# docker-compose.yml reste identique, le serveur continue de construire sur place
+# tant qu'on ne choisit pas ce fichier. Ne pas le renommer en
+# docker-compose.override.yml : ce nom-là est chargé automatiquement par Compose.
+#
+# Usage :
+#   docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d
+#   WIKI_TAG=sha-xxxxxxx docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d
+services:
+  unitystation-wiki:
+    image: ghcr.io/unitystation-fork/unitystation-wikiv2:${WIKI_TAG:-latest}
+    # always : Compose tire toujours l'image du registre.
+    pull_policy: always
+    # Retire le `build: .` de docker-compose.yml. Sans ça, si le tirage échoue
+    # (tag inconnu, paquet privé), Compose construirait le code présent sur le
+    # serveur en silence, sous le nom du tag demandé. `!reset` demande
+    # Docker Compose 2.24 ou plus récent (`docker compose version`).
+    build: !reset null
