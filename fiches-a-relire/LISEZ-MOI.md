@@ -15,6 +15,7 @@ Les « guides » doivent disparaître : leur contenu devient un **chapitre de la
 1. La Science d'abord (fiches 01 à 08) : le wiki actuel dit que « les rôles de science ne peuvent rien faire », alors que l'ancien wiki a des guides complets. C'est le plus gros manque.
 2. Le reste du joueur (fiches 09 à 12).
 3. Le développement (fiches 13 à 15).
+4. Les fiches 17 à 19 ne viennent pas de l'ancien wiki : les modes Changeling, Vampires, Extended, Highlander, Map Editor et Mixed n'y étaient pas. Elles sont écrites à partir du code du jeu, chaque fait avec son fichier ; ce que le code ne prouve pas est marqué « à vérifier en jeu ».
 
 Commence par la 01 (techweb) : les fiches 02 à 06 s'y rattachent.
 
@@ -38,6 +39,9 @@ Commence par la 01 (techweb) : les fiches 02 à 06 s'y rattachent.
 | [14-dev-host-a-server.md](14-dev-host-a-server.md) | `5_Dev/.../Hosting-a-Server.md` : fusion | 1056 mots | dev |
 | [15-dev-notable-versions.md](15-dev-notable-versions.md) | nouvelle page `5_Dev/.../Notable-Versions.md` | 228 mots | dev |
 | [16-hierarchie-de-commandement.md](16-hierarchie-de-commandement.md) | `Jobs.md` : schéma sous le tableau des métiers (image de Fr_Dae ou version Mermaid) | schéma | moyenne |
+| [17-mode-changeling.md](17-mode-changeling.md) | nouvelle page `Antagonist_roles/Changeling.md` (relevé dans le code du jeu) | page à créer | moyenne |
+| [18-mode-vampires.md](18-mode-vampires.md) | nouvelle page `Antagonist_roles/Vampire.md` (relevé dans le code du jeu) | page à créer | moyenne |
+| [19-modes-speciaux.md](19-modes-speciaux.md) | page de modes : Extended, Highlander, Map Editor, Mixed (relevé dans le code du jeu) | page à créer | basse |
 
 ## Comment faire pour chaque fiche
 
