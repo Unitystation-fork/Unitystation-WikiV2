@@ -5,8 +5,6 @@
 :::
 
 
-Unfortunately, the only virus in Unity Station at the moment is incurable stupidity, so look elsewhere for now.
-
   <br/>
 <br/>
 <br/>
