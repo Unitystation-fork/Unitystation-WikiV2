@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Research_Director
 > - Fiche cible dans le dépôt : [docs/3_HowToPlay/Jobs/Science_roles/Research-Director.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/3_HowToPlay/Jobs/Science_roles/Research-Director.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/HowToPlay/Jobs/Science_roles/Research-Director/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 # Fiche 03 : Research Director
 

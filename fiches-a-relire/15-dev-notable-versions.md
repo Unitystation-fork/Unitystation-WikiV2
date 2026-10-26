@@ -1,7 +1,7 @@
 > 🔗 **Liens**
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Notable_Versions
 > - Fiche cible : nouvelle page proposée (aucune page proche)
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 # Fiche 15 : Notable Versions
 

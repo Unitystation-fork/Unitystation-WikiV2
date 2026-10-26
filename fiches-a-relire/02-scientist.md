@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Scientist
 > - Fiche cible dans le dépôt : [docs/3_HowToPlay/Jobs/Science_roles/Scientist.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/3_HowToPlay/Jobs/Science_roles/Scientist.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/HowToPlay/Jobs/Science_roles/Scientist/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 > ✅ **Vérifié dans le code du jeu (26/10)** : la Techweb / R&D, les artefacts, les slimes et les grenades chimiques existent. Le bandeau « SCIENCE ROLES CURRENTLY CAN NOT DO ANYTHING » de la page actuelle est périmé.
 

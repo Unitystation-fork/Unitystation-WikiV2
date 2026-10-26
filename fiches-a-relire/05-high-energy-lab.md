@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Guide_to_the_High_Energy_Lab
 > - Fiche cible dans le dépôt : [docs/3_HowToPlay/Jobs/Science_roles/Scientist.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/3_HowToPlay/Jobs/Science_roles/Scientist.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/HowToPlay/Jobs/Science_roles/Scientist/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 > ⚠️ **Vérifié dans le code du jeu (26/10)** : « H.I.E.C.A » n'existe nulle part ; le projecteur laser de recherche existe (`Systems/Research/LaserPuzzle/ResearchLaserProjector.cs`). Une partie de cette page est donc peut-être périmée.
 

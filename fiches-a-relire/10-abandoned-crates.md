@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Abandoned_crates
 > - Fiche cible dans le dépôt : [docs/3_HowToPlay/Jobs/Entertainment_Roles/Curator.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/3_HowToPlay/Jobs/Entertainment_Roles/Curator.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/HowToPlay/Jobs/Entertainment_Roles/Curator/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 # Fiche 10 : Abandoned crates
 

@@ -9,6 +9,6 @@ Cette branche **ne sera jamais fusionnée**. Elle sert à relire et à suivre le
 | [articles-a-convertir/](articles-a-convertir/) | Le texte brut d'origine (wikitexte MediaWiki), pour comparer |
 | [images/](images/) | Le schéma de hiérarchie de commandement |
 
-**Suivi** : un ticket « Fiches à relire » liste les fiches, avec une case par fiche.
+**Suivi** : le ticket [#372](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372) liste les fiches, avec une case par fiche.
 
 **PR en attente de fusion**, dans l'ordre : [#353](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/353) → [#367](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/367) → [#368](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/368) → [#371](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/371) ; et dans n'importe quel ordre : [#358](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/358), [#359](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/359), [#361](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/361), [#364](https://github.com/Unitystation-fork/Unitystation-WikiV2/pull/364).

@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Guide_to_Xenoarcheology
 > - Fiche cible dans le dépôt : [docs/3_HowToPlay/Jobs/Science_roles/XenoBiologist.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/3_HowToPlay/Jobs/Science_roles/XenoBiologist.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/HowToPlay/Jobs/Science_roles/XenoBiologist/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 > ✅ **Vérifié dans le code du jeu (26/10)** : les artefacts existent (`Objects/Research/Artifacts/`) et se vendent au cargo sous forme de **rapports d'anomalie papier** (`CargoManager.ResearchReports.cs`), comme le dit cette fiche, et pas sous forme de disques de données comme la page actuelle. Cette version de 2025 est donc la plus juste. Le mot « xenoarcheology » n'est pas employé dans le code.
 

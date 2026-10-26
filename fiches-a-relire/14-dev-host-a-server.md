@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Host_a_Server
 > - Fiche cible dans le dépôt : [docs/5_Dev/Introduction/development/Hosting-a-Server.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/5_Dev/Introduction/development/Hosting-a-Server.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/Dev/Introduction/development/Hosting-a-Server/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 # Fiche 14 : Host a Server
 

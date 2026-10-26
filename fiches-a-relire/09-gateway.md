@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/The_Gateway
 > - Fiche cible dans le dépôt : [docs/4_Univers/Maps/AnatomyOfStation.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/4_Univers/Maps/AnatomyOfStation.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/Univers/Maps/AnatomyOfStation/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 # Fiche 09 : The Gateway
 

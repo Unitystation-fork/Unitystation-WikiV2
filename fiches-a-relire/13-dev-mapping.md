@@ -2,7 +2,7 @@
 > - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Guide_to_Mapping
 > - Fiche cible dans le dépôt : [docs/5_Dev/Introduction/development/How-to-Map.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/5_Dev/Introduction/development/How-to-Map.md)
 > - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/Dev/Introduction/development/How-to-Map/
-> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372)
 
 # Fiche 13 : Guide to Mapping
 
