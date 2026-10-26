@@ -10,6 +10,6 @@ See [Mirror-Upgrade-Customization-Notes](/docs/development/Mirror-Upgrade-Custom
 
 ## Working with Mirror
 
- - [Networking](/docs/development/Networking-(Network-Messages).md)
+ - [Networking](Networking-Network-Messages.md)
  - [Mirror sync notes](/docs/development/Notes-on-SyncObject-and-SyncList.md)
  - [SyncVar - best practices](/docs/development/SyncVar-Best-Practices-for-Easy-Networking.md)
