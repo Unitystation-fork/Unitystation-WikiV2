@@ -1,4 +1,4 @@
-#  [Blood Brothers](Blood Brothers) 
+# Blood Brothers
 In Blood Brothers two players are spawned as "Brothers" with each other. 
 
 They work with the syndicate similar to [Traitor|Traitors](Traitor|Traitors) and [Nuclear Operative|Nukies](Nuclear Operative|Nukies), however their uplink is given much less TC. 
