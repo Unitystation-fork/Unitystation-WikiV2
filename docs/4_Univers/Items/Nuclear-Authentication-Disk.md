@@ -19,7 +19,7 @@ Also, all [Death Squad Troopers](/3_HowToPlay/Jobs/Protagonist_roles/Centcom_rol
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 
