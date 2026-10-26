@@ -112,6 +112,10 @@ Quand le lot sera fusionné, je prépare la note de version pour la mise en lign
 
 Autre décision : le **design** (couleurs, ergonomie) aura sa phase à la fin. D'ici là, on travaille le fonctionnel et le contenu.
 
+## 4 quater. Audit des pages métiers contre le code du jeu (26/10)
+
+Les 52 pages métiers ont été comparées au code du jeu, puis chaque erreur a été revérifiée (y compris dans les cartes des stations) : **91 points faux, 49 périmés, 50 informations absentes, 75 à vérifier en jeu**, chacun avec sa preuve. Détail et méthode : [`audit-code/`](audit-code/LISEZ-MOI.md). Les corrections viendront en petites PR, une par groupe de départements.
+
 ## 5. Ce qui reste à trancher
 
 1. **Rebellion** : décidé, voir le point 2.
