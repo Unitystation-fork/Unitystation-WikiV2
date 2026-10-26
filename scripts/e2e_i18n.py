@@ -70,10 +70,10 @@ MENU_ROWS = [
     ("contribution-guides", "Guides de contribution", "Руководства по участию", "Anleitungen zum Mitwirken"),
     ("project-goals", "Objectifs du projet", "Цели проекта", "Projektziele"),
     ("current-goal-scope", "Objectifs en cours", "Текущие цели", "Aktuelle Ziele"),
-    ("Routine", "Routines", "Рутины", "Routinen"),
+    ("Routine", "Routines", "Чек-листы ролей", "Routinen"),
     ("Antagoniste", "Antagonistes", "Антагонисты", "Antagonisten"),
     ("Protagoniste", "Protagonistes", "Протагонисты", "Protagonisten"),
-    ("Sciences", "Sciences", "Научный Отдел", "Wissenschaft"),
+    ("Sciences", "Science", "Научный Отдел", "Wissenschaft"),
     ("Services", "Service", "Сервисный Отдел", "Service"),
     # métiers (traduits depuis #84)
     ("Command", "Commandement", "Командование", "Kommando"),
@@ -293,7 +293,7 @@ def run(build, base):
         failed |= bool(extra or missing or order) or translated < floor
     for loc in ("en",) + LOCALES:
         manque, en_trop = sorted(MENU[loc] - seen[loc]), sorted(seen[loc] - MENU[loc])
-        print(f"[{'KO' if manque or en_trop else 'OK'}] [{loc}] libellés du menu : {len(seen[loc])} vus, {len(MENU[loc])} attendus")
+        print(f"[{'KO' if manque or en_trop else 'OK'}] [{loc}] libellés du menu : {len(seen[loc])} vus, {len(MENU[loc])} attendus, {len(manque)} absents, {len(en_trop)} en trop")
         for label, items in (("attendu mais absent", manque), ("vu mais inattendu", en_trop)):
             for e in items:
                 print(f"   {label} : {e}")

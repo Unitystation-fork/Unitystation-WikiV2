@@ -172,7 +172,7 @@
     "description": "The label for category Protagoniste in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Sciences": {
-    "message": "Sciences",
+    "message": "Science",
     "description": "The label for category Sciences in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Services": {

@@ -160,7 +160,7 @@
     "description": "The label for category current-goal-scope in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Routine": {
-    "message": "Рутины",
+    "message": "Чек-листы ролей",
     "description": "The label for category Routine in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Antagoniste": {
