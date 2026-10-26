@@ -50,7 +50,7 @@ Nuke Ops is generally a very confrontational gamemode. Unlike traitors, you cant
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

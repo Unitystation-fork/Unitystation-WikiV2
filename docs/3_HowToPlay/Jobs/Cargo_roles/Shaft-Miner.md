@@ -88,7 +88,7 @@ Shaft miners get a lot of useful tools to start that assist in completing [trait
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

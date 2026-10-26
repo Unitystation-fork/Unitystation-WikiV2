@@ -18,7 +18,7 @@ Once you pick Detective, you'll spawn inside your office. Make sure to open your
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 
