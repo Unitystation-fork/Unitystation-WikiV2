@@ -47,7 +47,7 @@ Due to a lack of set goals, you may be a tad overwhelmed, however, here are some
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 
