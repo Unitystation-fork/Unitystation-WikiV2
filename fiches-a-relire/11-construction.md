@@ -60,7 +60,7 @@ Engineering roles such as Station Engineer (ancien lien : Engineer) start with a
 
 The basic base for all types of construction, this is placed directly in space.
 
-> 🖼️ image manquante : Lattice.png
+![Lattice.png](../images/mediawiki/Lattice.png)
 
 **Item:** Lattice
 
@@ -80,7 +80,7 @@ Use **wirecutters** to cut the lattice into one rod.
 
 Built ontop of a lattice, mainly used for aesthetic purposes.
 
-> 🖼️ image manquante : Catwalk.png
+![Catwalk.png](../images/mediawiki/Catwalk.png)
 
 **Item:** Catwalk
 
@@ -100,7 +100,7 @@ Use **wirecutters** to cut the catwalk into 2 rods.
 
 The basic floor which you put things like wires and pipes upon. 'All' floors and walls are built on top of this. Machines and objects cannot be secured unless floor plating is present.
 
-> 🖼️ image manquante : Plating.png
+> 🖼️ image manquante : Plating.png (absente aussi de l'ancien wiki)
 
 **Item:** Plating
 
@@ -120,7 +120,7 @@ Use a **crowbar** on *broken* plating, otherwise it does not deconstruct.
 
 This is the basic "nice" floor, this floor should be considered used in all public areas, hence why there's none of these in maintenance tunnels.
 
-> 🖼️ image manquante : Floor.png
+> 🖼️ image manquante : Floor.png (absente aussi de l'ancien wiki)
 
 **Item:** Steel Floor
 
@@ -140,7 +140,7 @@ Use a **crowbar** on a floor tile to remove it. It will be destroyed if broken.
 
 This is a fancy floor, used in the library and similar places.
 
-> 🖼️ image manquante : Wood Floor.png
+> 🖼️ image manquante : Wood Floor.png (absente aussi de l'ancien wiki)
 
 **Item:** Wood Floor
 
@@ -160,7 +160,7 @@ Detach it with a **crowbar**.
 
 This is a reinforced floor, used in science and similar areas for better protection against fire or explosions.
 
-> 🖼️ image manquante : Reinforced Floor.png
+> 🖼️ image manquante : Reinforced Floor.png (absente aussi de l'ancien wiki)
 
 **Item:** Reinforced Floor
 
@@ -180,7 +180,7 @@ Use a **wrench** to dismantle it to two rods.
 
 This is a carpeted floor, used to make your office or local chapel look fancy.
 
-> 🖼️ image manquante : Carpeted Floor.png
+> 🖼️ image manquante : Carpeted Floor.png (absente aussi de l'ancien wiki)
 
 **Item:** Carpeted Floor
 
@@ -207,7 +207,7 @@ This is the standard type of wall found around the station, they are easy to con
 * Keeping people in.
 * Keeping people from going places.
 
-> 🖼️ image manquante : wall.png
+> 🖼️ image manquante : wall.png (absente aussi de l'ancien wiki)
 
 **Item:** Wall
 
@@ -233,7 +233,7 @@ This is the standard type of wall found around the station, they are easy to con
 This is the reinforced type of wall found in secure areas of station, they are reasonably simple to construct, but are very time consuming to remove. They also can be made as a hidden door. They're useful for:
 * Keeping people in and out of high security areas.
 
-> 🖼️ image manquante : R_wall.png
+> 🖼️ image manquante : R_wall.png (absente aussi de l'ancien wiki)
 
 **Item:** Reinforced Wall
 

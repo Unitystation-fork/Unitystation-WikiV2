@@ -58,7 +58,7 @@ After the port forwarding is done, just follow these steps:
 
 ###### Run StationHub Launcher (ancien lien : StationHub Launcher)
 
-> 🖼️ image manquante : Host server 1 1.png
+![Host server 1 1.png](../images/mediawiki/Host_server_1_1.png)
 
 ###### Go to Installations tab
 
@@ -66,13 +66,13 @@ From here you can run any version of the game you have downloaded without joinin
 
 Click on **Launch** on the selected version of the game.
 
-> 🖼️ image manquante : Host server 1 2.png (légende : asdsd)
+![Host server 1 2.png](../images/mediawiki/Host_server_1_2.png)
 
 ###### Once inside the game
 
 Simply click on **HOST** and that's it! Yeah, really! Now you just need to give your friends your **public IP** and make them launch the game following steps I to II but choose  **JOIN** instead in the third step and fill in the given **public IP** and the 7777 port.
 
-> 🖼️ image manquante : Host server 1 3.png
+![Host server 1 3.png](../images/mediawiki/Host_server_1_3.png)
 
 ## I Want to Host a Dedicated Server
 
@@ -148,7 +148,7 @@ Portainer is another container that will host a web interface to manage your con
 
 To install Portainer, read their [official guide](https://docs.portainer.io/start/install-ce/server/docker/linux). By the end, you will have a graphical interface that looks like this:
 
-> 🖼️ image manquante : Host a server 1 4.png
+![Host a server 1 4.png](../images/mediawiki/Host_a_server_1_4.png)
 
 Pretty convenient, isn't it?
 

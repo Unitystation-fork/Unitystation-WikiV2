@@ -73,9 +73,9 @@ There are several methods to prevent such events:
 
 ## Virology Equipment
 
-> 🖼️ image manquante : Sequence analyzer wiki.png
+![Sequence analyzer wiki.png](../images/mediawiki/Sequence_analyzer_wiki.png)
 
-> 🖼️ image manquante : Cure tester wiki.png (légende : A cure tester loaded with a beaker)
+![Cure tester wiki.png](../images/mediawiki/Cure_tester_wiki.png)
 
 ### Sequence Analyzer
 
@@ -121,7 +121,7 @@ An alternative way to think of the response is as such:
 
 ## Image References
 
-> 🖼️ image manquante : VirologyWiki.png (légende : A Small Virology Department (Fallstation))
+![VirologyWiki.png](../images/mediawiki/VirologyWiki.png)
 
 ## Mapping
 

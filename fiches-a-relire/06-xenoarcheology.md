@@ -42,19 +42,19 @@ Fiche métier : `docs/3_HowToPlay/Jobs/Science_roles/XenoBiologist.md` (la page 
 
 ---
 
-> 🖼️ image manquante : Xenoarcheology_Wiki.png
+![Xenoarcheology_Wiki.png](../images/mediawiki/Xenoarcheology_Wiki.png)
 
 Do you wish to join Nanotransen's Scientists (ancien lien : Scientist) in their effort to study and collect alien artifacts? Welcome to Xenoarcheology! This guide will cover; Artifacts, Artifact Sampling, Xenoarcheology Machines, Xenoarcheology Items, Tips and tricks, Mapping.
 
 ## Machines
 
-> 🖼️ image manquante : Artifact Research Console.png
+![Artifact Research Console.png](../images/mediawiki/Artifact_Research_Console.png)
 
 ### Anomaly Reporting Console
 
 The anomaly reporting is where you will be recording all your observations about artifacts you are studying. To connect the console to an artifact, use a multitool on your desired artifact, and then use the same multitool on the console, if done correctly, the artifacts ID shall appear in the consoles UI. In order to save your data, press the print button and the consoles current data will be printed to a physical anomaly report paper. The report with the recorded data can be sold at cargo, a flawless report will award 12,500 credits, mistakes will lower the report's value. Once a report about an artifact has been sold, subsequent reports will be worth 0 credits.
 
-> 🖼️ image manquante : Artifact Analyzer.png
+![Artifact Analyzer.png](../images/mediawiki/Artifact_Analyzer.png)
 
 ### Artifact Analyzer
 

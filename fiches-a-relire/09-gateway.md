@@ -39,7 +39,7 @@ Cible : `docs/4_Univers/Maps/AnatomyOfStation.md`, qui a un titre « ### Gateway
 
 ---
 
-> 🖼️ image manquante : Ministation Gateway.png (légende : The Gateway Chamber on Ministation)
+![Ministation Gateway.png](../images/mediawiki/Ministation_Gateway.png)
 
 The gateway is a mysterious portal found on all main stations, located in a dedicated chamber behind command access.
 

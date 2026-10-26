@@ -46,7 +46,7 @@ Ordnance is the area of R&D focused on the synthesis of chemicals and explosives
 
 ## Chemical Grenades
 
-> 🖼️ image manquante : Grenade chemg.png
+![Grenade chemg.png](../images/mediawiki/Grenade_chemg.png)
 
 Chemical grenades are what you will be using for the vast majority of your ordnance adventures. In essence, all a chemical grenade is, is two beakers/chem storage containers attached to a timer that mixes them. Using a chemical grenade is simple:
 
@@ -74,7 +74,7 @@ AR or advance release chemical Grenades will gradually mix reactants over time, 
 
 ## The Blast Yield Detector
 
-> 🖼️ image manquante : BYD.png
+![BYD.png](../images/mediawiki/BYD.png)
 
 The blast yield detector is how you turn a series of random explosives into RP that can help the station. The blast yield detector will detect any explosions that take place in a cone on front of it, recording their yield and chemical composition, reporting it to its GUI. However, the most important feature of the detector is its *bounty list.* 
 
@@ -92,7 +92,7 @@ Required Reagents: The required reagents are chemicals that must be present befo
 
 Once you have created a chemical grenade that you believe satisfies the requirement of a bounty, you must test it live. The grenade must be detonated in the view of the blast yield detector (Most stations come equipped with a Mass Driver or airlock for detonating explosives in space safely away from the station). If the grenade matches a bounty, that bounty will clear, and you will be awarded the RP. 
 
-> 🖼️ image manquante : OrdnanceUI.png (légende : The GUI of the blast yield detector)
+![OrdnanceUI.png](../images/mediawiki/OrdnanceUI.png)
 
 ## Pyrotechnic Reactions
 

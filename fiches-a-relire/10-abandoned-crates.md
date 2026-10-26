@@ -39,7 +39,7 @@ Aucune mention de « abandoned crate » ni de « reflection golf » dans `docs/`
 
 ---
 
-> 🖼️ image manquante : Crates_abandoned.png
+![Crates_abandoned.png](../images/mediawiki/Crates_abandoned.png)
 
 Abandoned Crates are rare objects found off station within away sites (ancien lien : The_Gateway) and ruins typically used to contain rare & valuable loot.
 
@@ -53,7 +53,7 @@ Initially locked, abandoned crates may be opened by completing a mini game, the 
 
 From any number, you may draw a line in any direction. This line will continue until it touches a wall. Only one line may be drawn per number.
 
-> 🖼️ image manquante : Rule1 RG.png (légende : Lines may be drawn from any number until they contact a wall.)
+![Rule1 RG.png](../images/mediawiki/Rule1_RG.png)
 
 #### Rule 2 - Reflection:
 
@@ -69,19 +69,19 @@ Arrow heads will be highlighted one of three colours depending on their state:
 
 **Yellow** - This line is functioning as a number, but already has a line drawn from it (Has been used)
 
-> 🖼️ image manquante : Rule 2.png (légende : Lines that are the same length as their originating number, become numbers themselves.)
+![Rule 2.png](../images/mediawiki/Rule_2.png)
 
 #### Rule 3 - Walls:
 
 All numbers, lines, game borders and arrows act as if they were walls for the purpose of Rule 1.
 
-> 🖼️ image manquante : Rule 3.png (légende : Numbers, other lines & game borders all function as walls.)
+![Rule 3.png](../images/mediawiki/Rule_3.png)
 
 #### Rule 4 - Scoring:
 
 The game is won if any line *terminates* within the goal. If a line passes *through* a goal without stopping, it counts as a failure and the move must be undone or the board reset.
 
-> 🖼️ image manquante : Rule 4.png (légende : A puzzle solve by an arrow terminating in a goal vs a puzzle failure from an arrow passing through the same goal.)
+![Rule 4.png](../images/mediawiki/Rule_4.png)
 
 #### Rule 5 - Completeness:
 
@@ -89,4 +89,4 @@ Every reflection gold puzzle has one and only one solution. All numbers on a gam
 
 ### Example Puzzle:
 
-> 🖼️ image manquante : Example.png (légende : An example solve of a reflection golf puzzle)
+![Example.png](../images/mediawiki/Example.png)

@@ -48,17 +48,17 @@ If your dream method of conducting science is to repeatedly destroy objects with
 
 ### The H.I.E.C.A
 
-> 🖼️ image manquante : Research laser collector sprite.png
+![Research laser collector sprite.png](../images/mediawiki/Research_laser_collector_sprite.png)
 
 The H.I.E.C.A or High intensity energy collection apparatus is the machine used to collect the data from scattered laser bolts emitted from the R&D Laser Projector. In order to function correctly, the H.I.E.C.A must be first connected to an APC and the laser projector it is intended to send data too. This can be done by using a multitool on the master APC or Laser Projector and then using the multitool on the desired H.I.E.C.A. The H.I.E.C.A must be secured to the floor via a wrench. Once secure, the H.I.E.C.A may be rotated by simply interacting with it using an open hand. When a scattered laser bolt hits the H.I.E.C.A's collector (The blue face), the data will be automatically transferred to the projector.
 
 ### The Research Item Plinth
 
-> 🖼️ image manquante : Research item plinth.png
+![Research item plinth.png](../images/mediawiki/Research_item_plinth.png)
 
 The research item plinth is used to contain objects in stasis, ready to be shot by the R&D laser projector. An item may not be shot with the research laser unless it is being held in stasis within an item plinth. All scattered shots will originate from the plinth on contact. It should be noted that the item plinth contains an inbuilt security measure that will refuse crew members attempting to place high risk items such as the nuclear disk or the captain's hat inside of it, as such, it cannot be used to dispose of such items.
 
-> 🖼️ image manquante : Research laser emitter.png
+![Research laser emitter.png](../images/mediawiki/Research_laser_emitter.png)
 
 ### The R&D Laser Projector
 
@@ -70,7 +70,7 @@ Once a laser bolt intercepts a H.I.E.C.A panel, the research data will be automa
 
 An R&D laser projector does not connect to an APC, but instead must be connected to a medium voltage cable using an overlap connection similar to a SMES or radiation collector.
 
-> 🖼️ image manquante : RnD Laser Projector UI.png
+![RnD Laser Projector UI.png](../images/mediawiki/RnD_Laser_Projector_UI.png)
 
 ## Research Objects
 
@@ -92,7 +92,7 @@ Destroying material with high energy lasers does not come without its risks, dis
 
 ## Image References
 
-> 🖼️ image manquante : MinistationHEL.png (légende : Standard high energy lab setup at round start.)
+![MinistationHEL.png](../images/mediawiki/MinistationHEL.png)
 
 ## Mapping
 

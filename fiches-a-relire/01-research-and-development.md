@@ -55,7 +55,7 @@ As a scientist, your primary role to the station is to provide new technologies 
 
 ### The Techweb
 
-> 🖼️ image manquante : ServerRoom.png (légende : Standard research server room)
+![ServerRoom.png](../images/mediawiki/ServerRoom.png)
 
 The Techweb is the technology tree that you are tasked to research. It is stored and accessed through the stations research server inside the science department. The Techweb contains a series of nodes, that when researched, unlock *designs*. 
 
@@ -64,7 +64,7 @@ Designs are products that can be produced within machines such as the Protolathe
 Example designs and their restrictions include Synthetic Lungs (Producible at an Exosuit Fabricator) or an Advanced Mop (Producable at a Science or Service Protolathe).
 The Techweb is divided into three categories: Researched Tech, Available Tech & Future Tech. Researched tech encompasses all Tech web nodes that have already been researched on this Techweb. Available tech lists all tech that has not been researched but the prerequisites have been met. Available tech lists the technology type in square brackets [], the cost in RP to research the node, as well as the node description. The images in the description of the node visually show what will be unlocked for production once the node is researched. Not all nodes unlock new designs, some nodes, such as 'Bluespace Technology' simply serve as prerequisites for more advanced nodes further up on the Techweb. Future tech holds all technologies that the department does not yet meet the requirements for, the prerequisites for that node are listed in its description. 
 
-> 🖼️ image manquante : TechwebUI.png (légende : Standard UI for the Techweb)
+![TechwebUI.png](../images/mediawiki/TechwebUI.png)
 
 ### Technology Types & Research Focuses
 
@@ -80,7 +80,7 @@ Equipment [Eqp] - Focusing on gear and tools applicable across the station.
 
 The category a node belongs to is stated in its title in square brackets []. If a science department wishes to focus there efforts to a particular category, the research director, or anyone with research director access, may allocate a research focus in the Techweb UI. Allocating a focus costs 10 RP and *can only be done once.* Once a focus is selected, all technology in that category will receive a 25% discount. 
 
-> 🖼️ image manquante : FocusUI.png (légende : Focus page in the Techweb UI)
+![FocusUI.png](../images/mediawiki/FocusUI.png)
 
 ### List of Techweb Nodes
 
