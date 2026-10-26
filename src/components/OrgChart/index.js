@@ -15,7 +15,7 @@ const AI = `${J}Synthetic_roles/Station-AI`;
 const HEADS = [
   {
     id: `${J}Command_roles/Head-of-Personnel`,
-    grow: 3.5, // largeur relative de la colonne (grand écran) : 3 sous-colonnes
+    grow: 3.6, // largeur relative de la colonne (grand écran) : 3 sous-colonnes
     columns: [
       [{id: `${J}Cargo_roles/Quartermaster`, children: [`${J}Cargo_roles/Cargo-Technician`, `${J}Cargo_roles/Shaft-Miner`]}],
       [`${J}Service_roles/Botanist`, `${J}Service_roles/Cook`, `${J}Service_roles/Bartender`, `${J}Service_roles/Janitor`],
@@ -30,7 +30,7 @@ const HEADS = [
   },
   {
     id: `${J}Security_roles/Head-of-Security`,
-    grow: 1.5, // sous-subordonnés imbriqués : colonne plus large
+    grow: 1.4, // sous-subordonnés imbriqués : colonne plus large
     columns: [
       [
         {id: `${J}Security_roles/Warden`, children: [`${J}Security_roles/Detective`, `${J}Security_roles/Security-Officer`]},
@@ -58,6 +58,7 @@ const HEADS = [
   },
   {
     id: `${J}Engineering_roles/Chief-Engineer`,
+    grow: 1.15, // « Атмосферный-Техник » ne doit pas être coupé avant le trait d'union
     columns: [[`${J}Engineering_roles/Engineer`, `${J}Engineering_roles/Atmospherics-Technician`]],
   },
 ];
