@@ -1,0 +1,45 @@
+name: Build du wiki
+
+# Vérifie qu'une PR ne casse pas le site : contrôle des liens puis build complet
+# des 4 langues (en, fr, ru, de).
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  # PR : une nouvelle poussée annule l'ancien build. main : un groupe par commit,
+  # pour que chaque commit fusionné soit construit.
+  group: build-${{ github.event_name == 'pull_request' && github.ref || github.sha }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      # Bloque les catégories déjà à zéro sur main (rapport complet affiché quand même).
+      # Ajouter chaque catégorie quand elle tombe à zéro : antislash, cible-absente…
+      - name: Contrôle des liens et images
+        run: npm run test:links -- --fail-on casse
+
+      # Même plafond de tas V8 que le Dockerfile (la RAM totale du VPS, elle, n'est pas
+      # reproduite par la machine de GitHub).
+      - name: Build (en, fr, ru, de)
+        run: npm run build
+        env:
+          NODE_OPTIONS: --max-old-space-size=1024
