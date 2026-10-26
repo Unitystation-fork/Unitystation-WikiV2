@@ -1,10 +1,12 @@
-# Psychologue
+# Psychiatre (Psychologue)
 
 **Role type**: <font color="#d673b2">Medicale</font>/Service. **Accès**: <font color="#d673b2">Infirmerie</font>, <font color="#d673b2">Bureau du psychologue</font> **Difficulté:** **aucune.**
 
 
 
-Le psychologue est une oreille attentive, une épaule sur laquelle pleurer, et un ami pour tous. Nominalement rattachés au service, et physiquement rattachés à l'infirmerie, ils sont chargés de désamorcer les conflits et de veiller au bien-être psychologique de tout l'équipage.
+Le psychiatre est une oreille attentive, une épaule sur laquelle pleurer, et un ami pour tous. Nominalement rattachés au service, et physiquement rattachés à l'infirmerie, ils sont chargés de désamorcer les conflits et de veiller au bien-être psychologique de tout l'équipage.
+
+Le jeu appelle ce métier Psychiatrist (psychiatre), mais on l'appelle aussi Psychologist (psychologue).
 
 NanoTrasen se soucie beaucoup de la santé mentale de ses employés, et à cette fin, ils ont jugé bon de glisser un vieux tapis et un canapé dans un placard à balais désaffecté de l'infirmerie, allant même jusqu'à accrocher un poster de motivation. C'est ainsi que le Bureau de Psychologie est né.
 
@@ -16,9 +18,9 @@ Votre travail consiste principalement à parler et à écouter tous ceux qui le 
 
 C'est une bonne idée de commencer à faire de la publicité autour de la station pour toute personne qui pourrait avoir besoin de soins psychologiques, et assurez-vous de vérifier la Brigade, infirmerie, ou même des endroits comme le Bar pour tout patient potentiel qui pourrait avoir besoin d'aide.
 
-### Serment hypocrite ([traître](traître.md) Psychologue)
+### Serment hypocrite ([traître](traître.md) Psychiatre)
 
-Être sélectionné pour être un [traître](traître.md) en tant que psychologue est fondamentalement une blague cruelle. Vous devrez faire preuve d'intelligence dans la façon dont vous tirez parti de votre titre d'emploi doux et désarmant, parce que c'est la seule chose que vous en retirez, à part une chambre bien isolée dans le bunker. La seule astuce dont vous disposez est d'inviter toutes vos cibles dans votre bureau pour une séance de thérapie, et cela ne fonctionnera pas souvent.
+Être sélectionné pour être un [traître](traître.md) en tant que psychiatre est fondamentalement une blague cruelle. Vous devrez faire preuve d'intelligence dans la façon dont vous tirez parti de votre titre d'emploi doux et désarmant, parce que c'est la seule chose que vous en retirez, à part une chambre bien isolée dans le bunker. La seule astuce dont vous disposez est d'inviter toutes vos cibles dans votre bureau pour une séance de thérapie, et cela ne fonctionnera pas souvent.
 
   <br/>
 <br/>
