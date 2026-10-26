@@ -36,6 +36,19 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
+          // Une page avec `unlisted: true` en front matter reste joignable par
+          // son adresse mais sort du menu et des boutons précédent/suivant
+          // (même sens que `unlisted` de Docusaurus 3, absent en 2.4.3).
+          async sidebarItemsGenerator({defaultSidebarItemsGenerator, ...args}) {
+            const unlisted = new Set(
+              args.docs.filter((doc) => doc.frontMatter.unlisted === true).map((doc) => doc.id),
+            );
+            const hide = (items) =>
+              items
+                .filter((item) => !(item.type === 'doc' && unlisted.has(item.id)))
+                .map((item) => (item.type === 'category' ? {...item, items: hide(item.items)} : item));
+            return hide(await defaultSidebarItemsGenerator(args));
+          },
         },
         blog: false,
         theme: {
