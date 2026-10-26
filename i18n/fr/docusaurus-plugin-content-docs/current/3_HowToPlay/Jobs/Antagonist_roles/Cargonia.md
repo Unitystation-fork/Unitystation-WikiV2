@@ -1,6 +1,8 @@
-# Cargonia
+# Rebellion (Revolution, Cargonia)
 
-Cargonia est le nom actuel de ce mode de jeu. Un département aléatoire (à l'exception de la sécurité et du commandement) deviendra un voyou et aura pour mission de voler un objet et de s'échapper à bord de la navette, en veillant à ce qu'au moins 50 % du département reste en vie jusqu'à la fin du tour.
+Dans le jeu, ce mode s'appelle **Rebellion** et son antagoniste le **Rebel**. Les joueurs disent aussi « rev » (Revolution), et **Cargonia** est le nom que se donnent les rebelles du cargo.
+
+Un département aléatoire (à l'exception de la sécurité et du commandement) deviendra un voyou et aura pour mission de voler un objet et de s'échapper à bord de la navette, en veillant à ce qu'au moins 50 % du département reste en vie jusqu'à la fin du tour.
 
 Le mode de jeu ne peut actuellement être déclenché que manuellement par un administrateur.
 
