@@ -103,9 +103,9 @@ No Metagaming/powergaming
 
 DO YOUR JOB ! (ou faites de votre mieux pour)
 
-[https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg](https://cdn.discordapp.com/attachments/839201245590978690/839610672509747241/capsule_616x353.jpg)
+![Unitystation](/img/Home/unitystation_capsule.jpg)
 
-[https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png](https://cdn.discordapp.com/attachments/839201245590978690/839610767233253386/Job2.png)
+![Choose Profession](/img/Home/choose_profession.png)
 
 
 

@@ -89,11 +89,11 @@ Yeah, you just install it. It will ask you if you want to add some addons, but w
 
 Is it done installing? Wonderful, now we need to open the project. Keep in mind the first time you open it, it might take some time to finish importing stuff and generating files. Once that is ready, we can do our first playtest!
 
-![](https://image.prntscr.com/image/T7s9wVR7RhyXwwTxf4jEFg.png)
+~~Screenshot no longer available: the project open in Unity~~
 
 Go to ``File`` and ``Open Scene`` then find the ``Lobby`` scene in ``Assets/Scenes`` folder. Then you can press the `Play` button on the `Game` tab to start the game in the editor.
 
-![](https://image.prntscr.com/image/G9xxyW59STqh14VslkpAzA.png)
+~~Screenshot no longer available: the Lobby scene and the Play button~~
 
  Yup, that's it for testing the source code, but you want to contribute, don't you? Keep reading so you know a little more about our workflow.
 
@@ -117,7 +117,7 @@ So how do I create a new branch?
 
 |                        GitHub Desktop                        |                           Git Bash                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Click the current branch button<br />![create branch 1](https://i.imgur.com/RxIZcYG.png)<br />![create new branch 2](C:\Users\filax\AppData\Roaming\Typora\typora-user-images\image-20200407211255362.png)<br />All that's missing is to publish the new branch so your remote in GitHub (**origin**) is up to date<br />![publish](https://i.imgur.com/1wCOCAB.png) | <br />``git branch mybranch``<br />Where "mybranch" is the name you chose for your branch (be more creative than this, please).<br />Then we do ``git checkout mybranch`` to change the current branch to **mybranch** instead of **develop**<br />Finally we publish our new branch doing ``git push`` |
+| Click the current branch button<br />![create branch 1](https://i.imgur.com/RxIZcYG.png)<br />~~Screenshot never uploaded: create new branch 2~~<br />All that's missing is to publish the new branch so your remote in GitHub (**origin**) is up to date<br />![publish](https://i.imgur.com/1wCOCAB.png) | <br />``git branch mybranch``<br />Where "mybranch" is the name you chose for your branch (be more creative than this, please).<br />Then we do ``git checkout mybranch`` to change the current branch to **mybranch** instead of **develop**<br />Finally we publish our new branch doing ``git push`` |
 
 Here we're done setting your thing up. You're free to go now and modify the code using your favourite IDE or maybe map using nothing but the Unity Editor. What follows in this guide is how to get your changes into the game.
 
