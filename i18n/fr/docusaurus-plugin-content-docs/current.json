@@ -1,0 +1,182 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.defaultSidebar.category.Command": {
+    "message": "Commandement",
+    "description": "The label for category Command in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Entertainment": {
+    "message": "Divertissement",
+    "description": "The label for category Entertainment in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Security": {
+    "message": "Sécurité",
+    "description": "The label for category Security in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Engineering": {
+    "message": "Ingénierie",
+    "description": "The label for category Engineering in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Science": {
+    "message": "Science",
+    "description": "The label for category Science in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Medical": {
+    "message": "Médical",
+    "description": "The label for category Medical in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Cargo": {
+    "message": "Cargo",
+    "description": "The label for category Cargo in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Service": {
+    "message": "Service",
+    "description": "The label for category Service in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Synthetic": {
+    "message": "Synthétiques",
+    "description": "The label for category Synthetic in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Antagonist": {
+    "message": "Antagonistes",
+    "description": "The label for category Antagonist in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Protagonist": {
+    "message": "Protagonistes",
+    "description": "The label for category Protagonist in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Centcom": {
+    "message": "Centcom",
+    "description": "The label for category Centcom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Special": {
+    "message": "Spéciaux",
+    "description": "The label for category Special in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Ghost": {
+    "message": "Fantômes",
+    "description": "The label for category Ghost in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.User interface": {
+    "message": "Interface Utilisateur",
+    "description": "The label for category User interface in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.User Interface": {
+    "message": "Interface Utilisateur",
+    "description": "The label for category User Interface in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Jouer": {
+    "message": "Jouer",
+    "description": "The label for category Jouer in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Caractere": {
+    "message": "Personnage",
+    "description": "The label for category Caractere in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.General_guides": {
+    "message": "Guides généraux",
+    "description": "The label for category General_guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Jobs": {
+    "message": "Métiers",
+    "description": "The label for category Jobs in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.RP": {
+    "message": "RP",
+    "description": "The label for category RP in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Univers": {
+    "message": "Univers",
+    "description": "The label for category Univers in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Items": {
+    "message": "Objets",
+    "description": "The label for category Items in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Lore": {
+    "message": "Lore",
+    "description": "The label for category Lore in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Maps": {
+    "message": "Cartes",
+    "description": "The label for category Maps in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Gateway_Maps": {
+    "message": "Cartes du Gateway",
+    "description": "The label for category Gateway_Maps in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Cartes officielles des stations": {
+    "message": "Cartes officielles des stations",
+    "description": "The label for category Cartes officielles des stations in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Passive Mobs": {
+    "message": "Mobs passifs",
+    "description": "The label for category Passive Mobs in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Other": {
+    "message": "Autres",
+    "description": "The label for category Other in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Jokes": {
+    "message": "Blagues",
+    "description": "The label for category Jokes in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.tools": {
+    "message": "Outils",
+    "description": "The label for category tools in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Dev": {
+    "message": "Développeurs",
+    "description": "The label for category Dev in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.FAQ": {
+    "message": "FAQ",
+    "description": "The label for category FAQ in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.contribution-guides": {
+    "message": "Guides de contribution",
+    "description": "The label for category contribution-guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.development": {
+    "message": "Développement",
+    "description": "The label for category development in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.project-goals": {
+    "message": "Objectifs du projet",
+    "description": "The label for category project-goals in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.current-goal-scope": {
+    "message": "Objectifs en cours",
+    "description": "The label for category current-goal-scope in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Routine": {
+    "message": "Routines",
+    "description": "The label for category Routine in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Antagoniste": {
+    "message": "Antagonistes",
+    "description": "The label for category Antagoniste in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Protagoniste": {
+    "message": "Protagonistes",
+    "description": "The label for category Protagoniste in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Sciences": {
+    "message": "Science",
+    "description": "The label for category Sciences in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Services": {
+    "message": "Service",
+    "description": "The label for category Services in sidebar defaultSidebar"
+  }
+}
