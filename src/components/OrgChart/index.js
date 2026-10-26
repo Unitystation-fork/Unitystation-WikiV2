@@ -15,6 +15,7 @@ const AI = `${J}Synthetic_roles/Station-AI`;
 const HEADS = [
   {
     id: `${J}Command_roles/Head-of-Personnel`,
+    grow: 3.5, // largeur relative de la colonne (grand écran) : 3 sous-colonnes
     columns: [
       [{id: `${J}Cargo_roles/Quartermaster`, children: [`${J}Cargo_roles/Cargo-Technician`, `${J}Cargo_roles/Shaft-Miner`]}],
       [`${J}Service_roles/Botanist`, `${J}Service_roles/Cook`, `${J}Service_roles/Bartender`, `${J}Service_roles/Janitor`],
@@ -29,6 +30,7 @@ const HEADS = [
   },
   {
     id: `${J}Security_roles/Head-of-Security`,
+    grow: 1.5, // sous-subordonnés imbriqués : colonne plus large
     columns: [
       [
         {id: `${J}Security_roles/Warden`, children: [`${J}Security_roles/Detective`, `${J}Security_roles/Security-Officer`]},
@@ -50,6 +52,7 @@ const HEADS = [
   },
   {
     id: `${J}Science_roles/Research-Director`,
+    grow: 1.25, // « Директор по исследованиям » : le mot le plus long tient à 1280 px
     // La fiche complète du généticien est dans Medical_roles ; celle de Science_roles n'est qu'un renvoi.
     columns: [[`${J}Science_roles/Scientist`, `${J}Science_roles/Roboticist`, `${J}Medical_roles/Geneticist`]],
   },
@@ -71,23 +74,24 @@ function collectDocs(items, map = new Map()) {
   return map;
 }
 
-function Box({doc}) {
+// data-org-id / data-org-parent : docId de la case et de son chef (vide pour le Capitaine et l'IA), lus par le test e2e.
+function Box({id, parent = '', doc}) {
   return (
-    <Link className="org-box" to={doc.href}>
+    <Link className="org-box" to={doc.href} data-org-id={id} data-org-parent={parent}>
       {doc.label}
     </Link>
   );
 }
 
-function Entry({entry, docs}) {
+function Entry({entry, parent, docs}) {
   const {id, children, dotted} = typeof entry === 'string' ? {id: entry} : entry;
   return (
     <li className={dotted ? 'org-dotted' : undefined}>
-      <Box doc={docs.get(id)} />
+      <Box id={id} parent={parent} doc={docs.get(id)} />
       {children && (
         <ul className="org-col">
           {children.map((child) => (
-            <Entry key={typeof child === 'string' ? child : child.id} entry={child} docs={docs} />
+            <Entry key={typeof child === 'string' ? child : child.id} entry={child} parent={id} docs={docs} />
           ))}
         </ul>
       )}
@@ -124,27 +128,29 @@ export default function OrgChart() {
       </figcaption>
       <ul className="org-top">
         <li>
-          <Box doc={docs.get(CAPTAIN)} />
-        </li>
-        <li className="org-aside">
-          <Box doc={docs.get(AI)} />
+          <Box id={CAPTAIN} doc={docs.get(CAPTAIN)} />
         </li>
       </ul>
       <ul className="org-heads">
         {HEADS.map((head) => (
-          <li key={head.id} className={head.columns.length > 1 ? 'org-head org-wide' : 'org-head'}>
-            <Box doc={docs.get(head.id)} />
+          <li key={head.id} className="org-head" style={{'--org-grow': head.grow || 1}}>
+            <Box id={head.id} parent={CAPTAIN} doc={docs.get(head.id)} />
             <div className="org-cols">
               {head.columns.map((column, i) => (
                 <ul key={i} className="org-col">
                   {column.map((entry) => (
-                    <Entry key={typeof entry === 'string' ? entry : entry.id} entry={entry} docs={docs} />
+                    <Entry key={typeof entry === 'string' ? entry : entry.id} entry={entry} parent={head.id} docs={docs} />
                   ))}
                 </ul>
               ))}
             </div>
           </li>
         ))}
+      </ul>
+      <ul className="org-aside">
+        <li>
+          <Box id={AI} doc={docs.get(AI)} />
+        </li>
       </ul>
     </figure>
   );

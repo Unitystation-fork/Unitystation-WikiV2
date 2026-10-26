@@ -5,4 +5,4 @@ import OrgChart from '@site/src/components/OrgChart';
 
 <OrgChart />
 
-Bordure en tirets : l'avocat est un civil qui travaille avec la Sécurité ; l'IA de la station suit ses lois, pas la chaîne de commandement.
+Bordure en tirets : « Avocat » est un civil qui travaille avec la Sécurité ; « Station AI » suit ses lois, pas la chaîne de commandement.

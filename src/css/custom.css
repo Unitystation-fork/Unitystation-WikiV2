@@ -43,61 +43,67 @@ table {
 }
 
 /* Organigramme de la chaîne de commandement (issue #374, src/components/OrgChart) */
-.org-chart { margin: 1.5rem 0; font-size: 0.8rem; line-height: 1.25; }
+/* Par défaut (< 1260 px) : liste en arbre, chaque niveau en retrait avec son rail. À partir de 1260 px : colonnes. */
+:root { --org-line: var(--ifm-color-emphasis-600); --org-mid: 1.1rem; }
+.org-chart { margin: 1.5rem 0; font-size: 0.85rem; line-height: 1.25; }
 .org-chart figcaption { font-weight: 600; margin-bottom: 0.75rem; font-size: 1rem; }
 .org-chart ul { list-style: none; margin: 0; padding: 0; }
-.org-chart li { margin: 0; }
+/* « + li » : contre `.markdown li + li` (Infima), qui ajoute une marge entre frères */
+.org-chart ul > li, .org-chart ul > li + li { margin: 0; }
 .org-box {
   display: block; box-sizing: border-box; width: 100%;
-  padding: 0.35rem 0.2rem; text-align: center;
+  padding: 0.35rem 0.3rem; text-align: left;
   border: 1px solid var(--ifm-color-emphasis-300); border-radius: var(--ifm-global-radius);
   background: var(--ifm-background-surface-color); color: var(--ifm-font-color-base);
-  text-decoration: none; overflow-wrap: anywhere; hyphens: auto;
+  text-decoration: none; overflow-wrap: break-word;
 }
 .org-box:hover, .org-box:focus-visible { border-color: var(--ifm-link-color); color: var(--ifm-link-color); text-decoration: none; outline-offset: 2px; }
 .org-head > .org-box, .org-top .org-box { font-weight: 700; }
-.org-dotted > .org-box { border-style: dashed; }
-.org-aside > .org-box { border-style: dashed; color: var(--ifm-color-emphasis-600); }
+.org-dotted > .org-box, .org-aside .org-box { border-style: dashed; }
+.org-aside { margin-top: 0.75rem; }
 
-/* --- grand écran : Capitaine, puis une colonne par chef, crew en dessous --- */
-/* grille 1fr auto 1fr : le Capitaine reste centré au-dessus des chefs, l'IA à droite sans trait */
-.org-top { display: grid; grid-template-columns: 1fr auto 1fr; align-items: start; }
-.org-top > li { width: 8rem; grid-column: 2; }
-.org-top .org-aside { grid-column: 3; justify-self: end; }
-.org-heads { display: flex; justify-content: center; align-items: flex-start; }
-.org-heads > li { flex: 1 1 0; min-width: 0; padding: 0 0.25rem; position: relative; }
-/* trait horizontal au-dessus des chefs, tronqué aux extrémités */
-.org-heads > li::before, .org-heads > li::after {
-  content: ''; position: absolute; top: 0; width: 50%; height: 0.75rem;
-  border-top: 1px solid var(--ifm-color-emphasis-600);
-}
-.org-heads > li::before { left: 0; }
-.org-heads > li::after { right: 0; }
-.org-heads > li:first-child::before, .org-heads > li:last-child::after { border-top: 0; }
-/* petit trait vertical au-dessus de chaque case (sauf la première ligne) */
-.org-heads > li > .org-box, .org-col > li > .org-box { margin-top: 0.75rem; position: relative; }
-.org-heads > li > .org-box::before, .org-col > li > .org-box::before {
-  content: ''; position: absolute; left: 50%; top: -0.75rem; height: 0.75rem;
-  border-left: 1px solid var(--ifm-color-emphasis-600);
-}
-.org-dotted > .org-box::before { border-left-style: dashed; }
-.org-cols { display: flex; gap: 0.25rem; align-items: flex-start; }
-.org-col { flex: 1 1 0; min-width: 0; }
-/* le HoP a 3 sous-colonnes : sa case s'étire au-dessus d'elles */
-.org-heads > li.org-wide { flex-grow: 3; }
+/* rail sous un chef (ou un sous-chef) : trait vertical, et un petit trait horizontal vers chaque subordonné */
+.org-chart .org-col { margin-left: 0.3rem; }
+.org-col > li { position: relative; padding: 0.3rem 0 0 0.5rem; }
+.org-col > li::before, .org-col > li::after { content: ''; position: absolute; left: 0; }
+.org-col > li::before { top: 0; bottom: 0; border-left: 1px solid var(--org-line); }
+.org-col > li:last-child::before { bottom: auto; height: var(--org-mid); }
+.org-col > li::after { top: var(--org-mid); width: 0.4rem; border-top: 1px solid var(--org-line); }
+.org-col > li.org-dotted::before { border-left-style: dashed; }
+.org-col > li.org-dotted::after { border-top-style: dashed; }
+.org-col > li.org-dotted:last-child::before { border-left-style: dashed; }
 
-/* --- téléphone (≤ 500 px) : arbre vertical, liste imbriquée indentée --- */
-@media (max-width: 500px) {
-  .org-chart { font-size: 0.9rem; }
-  .org-top, .org-heads, .org-cols { display: block; }
-  .org-top > li { width: auto; }
-  .org-top .org-aside { margin-top: 0.5rem; }
-  .org-heads > li, .org-col { flex: none; padding: 0; }
-  .org-heads > li::before, .org-heads > li::after, .org-box::before { display: none; }
-  .org-heads > li > .org-box, .org-col > li > .org-box { margin-top: 0.3rem; }
-  .org-box { text-align: left; }
-  .org-heads, .org-cols, .org-col > li > ul {
-    margin-left: 0.6rem; padding-left: 0.6rem; border-left: 2px solid var(--ifm-color-emphasis-300);
+@media (max-width: 1259px) {
+  /* chefs en retrait sous le Capitaine, avec leur rail ; les colonnes du HoP se suivent sur un même rail */
+  .org-chart .org-heads { margin-left: 0.3rem; }
+  .org-heads > li { position: relative; padding: 0.3rem 0 0 0.5rem; }
+  .org-heads > li::before, .org-heads > li::after { content: ''; position: absolute; left: 0; }
+  .org-heads > li::before { top: 0; bottom: 0; border-left: 1px solid var(--org-line); }
+  .org-heads > li:last-child::before { bottom: auto; height: var(--org-mid); }
+  .org-heads > li::after { top: var(--org-mid); width: 0.4rem; border-top: 1px solid var(--org-line); }
+  .org-cols > .org-col:not(:last-child) > li:last-child::before { bottom: 0; height: auto; }
+}
+
+@media (min-width: 1260px) {
+  .org-chart { display: grid; grid-template-columns: 1fr auto 1fr; font-size: 0.75rem; }
+  .org-chart figcaption { grid-column: 1 / -1; }
+  .org-chart .org-top { grid-column: 2; grid-row: 2; width: 8rem; display: flex; flex-direction: column; }
+  .org-chart .org-aside { grid-column: 3; grid-row: 2; justify-self: end; width: 8rem; margin: 0 0 0.75rem; }
+  .org-chart .org-heads { grid-column: 1 / -1; grid-row: 3; display: flex; align-items: flex-start; }
+  .org-box { text-align: center; padding: 0.35rem 0.1rem; }
+  /* trait vertical du Capitaine jusqu'à la barre des chefs */
+  .org-top > li { flex: 1; display: flex; flex-direction: column; }
+  .org-top > li::after { content: ''; flex: 1; min-height: 0.75rem; width: 0; margin-left: 50%; border-left: 1px solid var(--org-line); }
+  .org-heads > li { flex: var(--org-grow, 1) 1 0; min-width: 0; padding: 0 0.25rem; position: relative; }
+  /* barre horizontale au-dessus des chefs, tronquée aux extrémités, et trait vertical vers chaque case de chef */
+  .org-heads > li::before, .org-heads > li::after {
+    content: ''; position: absolute; top: 0; width: 50%; height: 0.75rem; border-top: 1px solid var(--org-line);
   }
-  .org-heads { margin-left: 0.6rem; }
+  .org-heads > li::before { left: 0; }
+  .org-heads > li::after { right: 0; }
+  .org-heads > li:first-child::before, .org-heads > li:last-child::after { border-top: 0; }
+  .org-heads > li > .org-box { margin-top: 0.75rem; position: relative; }
+  .org-heads > li > .org-box::before { content: ''; position: absolute; left: 50%; top: -0.75rem; height: 0.75rem; border-left: 1px solid var(--org-line); }
+  .org-cols { display: flex; gap: 0.15rem; align-items: flex-start; }
+  .org-cols > .org-col { flex: 1 1 0; min-width: 0; }
 }

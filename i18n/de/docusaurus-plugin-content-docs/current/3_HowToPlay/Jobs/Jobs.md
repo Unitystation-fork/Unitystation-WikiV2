@@ -5,4 +5,4 @@ import OrgChart from '@site/src/components/OrgChart';
 
 <OrgChart />
 
-Gestrichelter Rahmen: Der Anwalt ist ein Zivilist, der mit der Sicherheit zusammenarbeitet; die Stations-KI folgt ihren Gesetzen, nicht der Befehlskette.
+Gestrichelter Rahmen: „Lawyer“ ist ein Zivilist, der mit der Sicherheit zusammenarbeitet; „Station Künstliche Intelligenz“ folgt ihren Gesetzen, nicht der Befehlskette.
