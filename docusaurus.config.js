@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
@@ -94,16 +94,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://example.com',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.gg/tFcTpBp',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://example.com',
               },
             ],
           },
