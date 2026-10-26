@@ -58,9 +58,9 @@ Rien ne change pour la commande habituelle du serveur : `docker-compose.yml` n'e
 
 - mettre en ligne avec l'image de GitHub : ```git pull && docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d``` (ce fichier tire toujours l'image du registre, sans construire sur place)
 - revenir à une version précise : ```WIKI_TAG=sha-xxxxxxx docker compose -f docker-compose.yml -f docker-compose.ghcr.yml up -d``` (si le tag n'existe pas, la commande échoue au lieu de construire autre chose) ; vérifier ce qui tourne avec `docker compose ps`
-- revenir à la construction sur place : ```docker compose up -d --build``` (sans `-f docker-compose.ghcr.yml`)
+- revenir à la construction sur place : ```docker compose -f docker-compose.yml up -d --build``` (si `COMPOSE_FILE` a été mis dans `.env`, retirer d'abord cette ligne)
 
-Pour en faire la commande par défaut le jour où c'est décidé : `COMPOSE_FILE=docker-compose.yml:docker-compose.ghcr.yml` dans un fichier `.env` à côté du compose. Ne pas renommer le fichier en `docker-compose.override.yml` : ce nom-là est chargé automatiquement.
+Pour en faire la commande par défaut le jour où c'est décidé : `COMPOSE_FILE=docker-compose.yml:docker-compose.ghcr.yml` dans un fichier `.env` à côté du compose. Ne pas renommer le fichier en `docker-compose.override.yml` : ce nom-là est chargé automatiquement. À l'inverse, avec `-f`, un `docker-compose.override.yml` local n'est plus lu : s'il en existe un sur le serveur, l'ajouter en 3e `-f`.
 
 Le paquet doit être **public** pour être tiré sans identifiant (page du paquet sur GitHub, Package settings, Change visibility, à faire une fois après la 1re publication). Sinon : `docker login ghcr.io` avec un jeton `read:packages`.
 

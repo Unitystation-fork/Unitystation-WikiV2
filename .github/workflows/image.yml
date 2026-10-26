@@ -31,9 +31,10 @@ permissions:
 
 concurrency:
   # Un groupe par branche ou tag. PR : une nouvelle poussée annule l'ancien build.
-  # main : les runs passent l'un après l'autre, jamais en parallèle, pour que
-  # `latest` soit toujours publié par le commit le plus récent (deux runs en
-  # parallèle pourraient finir dans le désordre). GitHub ne garde qu'un run en
+  # main : les runs passent l'un après l'autre, jamais en parallèle (deux runs
+  # en parallèle pourraient finir dans le désordre et `latest` pointerait sur le
+  # plus ancien). Attention : relancer à la main un ancien run de main republie
+  # `latest` avec cet ancien commit. GitHub ne garde qu'un run en
   # attente : si plusieurs fusions arrivent pendant un build, seule la dernière
   # est construite (les commits intermédiaires n'ont alors pas de tag sha-).
   group: image-${{ github.ref }}
@@ -106,28 +107,31 @@ jobs:
             ${{ env.TEST_TAG }}
             ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          # Manifeste simple, lisible par tout Docker (pas d'attestation jointe).
+          provenance: false
 
       - name: Test - l'image démarre et sert les 4 langues
         run: |
           set -euo pipefail
-          docker run -d --rm --name wiki -p 3000:3000 "$TEST_TAG"
+          # Sans --rm : si le serveur s'arrête, ses journaux restent lisibles.
+          docker run -d --name wiki -p 3000:3000 "$TEST_TAG"
           # Attend que le serveur réponde (20 s max), sinon échec avec les journaux.
           up=0
           for i in $(seq 1 20); do
             if curl -fsS -o /dev/null http://localhost:3000/; then up=1; break; fi
             sleep 1
           done
-          if [ "$up" -ne 1 ]; then echo "KO : le serveur ne répond pas"; docker logs wiki; exit 1; fi
+          if [ "$up" -ne 1 ]; then echo "KO : le serveur ne répond pas"; docker logs wiki || true; exit 1; fi
           # Chaque chemin doit répondre, sinon l'étape échoue.
           # (Pas de `curl ... && echo` : sous set -e, un échec dans une liste && ne
           # stoppe pas le script.) /fr/img passe par le lien symbolique du Dockerfile.
           for p in / /fr/ /ru/ /de/ /img/Icon/favicon.ico /fr/img/Icon/favicon.ico; do
             if ! curl -fsS -o /dev/null "http://localhost:3000$p"; then
-              echo "KO $p"; docker logs wiki; exit 1
+              echo "KO $p"; docker logs wiki || true; exit 1
             fi
             echo "OK $p"
           done
-          docker stop wiki
+          docker rm -f wiki
 
       # Pousse l'image déjà construite et testée (pas de second build).
       - name: Publication sur ghcr.io
