@@ -1,4 +1,5 @@
 ---
+title: Craftable Lister
 slug: /Univers/tools/craftableLister/
 ---
 

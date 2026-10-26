@@ -123,17 +123,17 @@
     "message": "Charakter",
     "description": "The label for category Character in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.General guides": {
+  "sidebar.defaultSidebar.category.General Guides": {
     "message": "Allgemeine Anleitungen",
-    "description": "The label for category General guides in sidebar defaultSidebar"
+    "description": "The label for category General Guides in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Universe": {
     "message": "Universum",
     "description": "The label for category Universe in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Gateway maps": {
+  "sidebar.defaultSidebar.category.Gateway Maps": {
     "message": "Gateway-Karten",
-    "description": "The label for category Gateway maps in sidebar defaultSidebar"
+    "description": "The label for category Gateway Maps in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Official Station Maps": {
     "message": "Offizielle Stationskarten",
@@ -143,24 +143,24 @@
     "message": "Mobs",
     "description": "The label for category Mobs in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Contribution guides": {
+  "sidebar.defaultSidebar.category.Contribution Guides": {
     "message": "Anleitungen zum Mitwirken",
-    "description": "The label for category Contribution guides in sidebar defaultSidebar"
+    "description": "The label for category Contribution Guides in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Development": {
     "message": "Entwicklung",
     "description": "The label for category Development in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Project goals": {
+  "sidebar.defaultSidebar.category.Project Goals": {
     "message": "Projektziele",
-    "description": "The label for category Project goals in sidebar defaultSidebar"
+    "description": "The label for category Project Goals in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Current goal scope": {
+  "sidebar.defaultSidebar.category.Current Goal Scope": {
     "message": "Aktuelle Ziele",
-    "description": "The label for category Current goal scope in sidebar defaultSidebar"
+    "description": "The label for category Current Goal Scope in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Wiki tools": {
+  "sidebar.defaultSidebar.category.Wiki Tools": {
     "message": "Wiki-Werkzeuge",
-    "description": "The label for category Wiki tools in sidebar defaultSidebar"
+    "description": "The label for category Wiki Tools in sidebar defaultSidebar"
   }
 }
