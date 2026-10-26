@@ -131,7 +131,7 @@ sidebar_position: 2
 `/!\` **Это инструмент ролевой игры** `/!\`
 ЦентКомм - это подразделение, стоящее выше капитана.
 Для получения дополнительной информации, можно посмотреть страницы
-| ЦентКомм** | [Офицер ЦК](Central-Command-Officer.md), [Отряд Смерти](Death-Squad.md), [Команда Экстренного Реагирования,](Emergency-Response-Team.md) [Офицер Blueshield](Redshield-Officer.md)|
+| ЦентКомм** | [Офицер ЦК](Central-Command-Officer.md), [Отряд Смерти](Death-Squad.md), [Команда Экстренного Реагирования,](Emergency-Response-Team.md) [Офисер РедШилд](Redshield-Officer.md)|
 #### 2.2d - Менеджер событий ####
 ![EventManager](https://i.imgur.com/1PYvGB4.png)**Тип событий:**.
 * Случайное

@@ -236,7 +236,7 @@ CentComm ist eine Einheit oberhalb des Kapitäns.
 
 Für weitere Informationen, siehe
 
-| CenterComp** | [Central-Command-Officer.md], [Death-Squad.md], [Emergency-Response-Team.md] [Blueshield-Officer.md]|
+| CenterComp** | [Central-Command-Officer.md], [Death-Squad.md], [Emergency-Response-Team.md] [Redshield-Officer.md]|
 
 #### 2.2d - Ereignis-Manager ####
 
