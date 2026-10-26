@@ -1,5 +1,9 @@
 # Virologue
-"LES RÔLES SCIENTIFIQUES" NE PEUVENT ACTUELLEMENT RIEN FAIRE EN RAPPORT AVEC LEUR TRAVAIL. GARDEZ CELA À L'ESPRIT LORSQUE VOUS CHOISISSEZ UN VIROLOGUE, UN SCIENTIFIQUE OU UN GÉNÉTICIEN. LA PAGE SERA AJOUTÉE UNE FOIS QUE LE RÔLE SERA FONCTIONNEL".
+
+:::info
+**Page en cours d'écriture.** Ce métier fonctionne en jeu (analyse et remèdes de virus), mais cette page n'est pas encore complète.
+:::
+
 
 Malheureusement, le seul virus présent à Unity Station en ce moment est la stupidité incurable, alors cherchez ailleurs pour le moment.
 
