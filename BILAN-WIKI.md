@@ -94,6 +94,15 @@ Quand le lot sera fusionné, je prépare la note de version pour la mise en lign
 - Ancien wiki GitHub Pages : dépôt archivé, rien depuis 2022.
 - Docs dev du jeu : 10 à 12 commits par an (MaxIsJoe, Bod9001…), surtout sur CONTRIBUTING et la cartographie.
 
+## 4 ter. Déjà tranché depuis (26/10)
+- **Lawyer** : reste dans Security.
+- **Geneticist** : rangé dans Science, sous le RD, parce que le CMO a trop à faire. Sa page garde son adresse : [#373](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/373).
+- **Redshield** : le code dit Redshield, pas Blueshield. [#365](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/365) est en attente de ta réponse.
+- **Licence** : passage en AGPLv3, comme le jeu : [#370](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/370).
+- **Organigramme cliquable et traduit**, d'après ton schéma : [#374](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/374).
+- **Contenu manquant** : les fiches à relire, avec le suivi dans [#372](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372).
+- **Design** (couleurs, ergonomie) : une phase dédiée à la fin. D'ici là, on fait du fonctionnel et du contenu.
+
 ## 5. Questions pour toi
 
 1. **Le MediaWiki** : qui le tient encore à jour ? Le but est-il qu'il renvoie vers notre wiki à terme ? Sinon, faut-il prévoir d'y reprendre régulièrement les nouveautés ?
