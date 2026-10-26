@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 ### Documentation Guide
 
 This page helps to explain how to create / edit documentation. Feel free to edit and expand this!
