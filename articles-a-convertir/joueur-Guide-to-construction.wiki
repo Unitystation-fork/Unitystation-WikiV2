@@ -1,0 +1,270 @@
+{{DISPLAYTITLE:Guide to Construction}}
+{{Work In Progress}}
+
+If you wish to do any engineering job, such as [[Engineer|Station Engineer]] you will be required to know how to construct machines, objects and various other things.
+
+== Basic Tools ==
+
+Before you can begin any construction or deconstruction you need to gather a few useful tools. 
+Engineering roles such as [[Engineer|Station Engineer]] start with a loaded toolbelt, but if you find yourself without one, tools can also be found in blue mechanical toolboxes and yellow electrical toolboxes. If you have access, tools can also be made at an Autolathe for a small material cost or dispensed from a Youtool vending machine.
+
+//TODO Add tool table
+
+//TODO Add material section.
+
+==Constructions:==
+
+=== Floors: ===
+
+==== Lattice ====
+The basic base for all types of construction, this is placed directly in space.
+{| class="wikitable" style="width:80%; background-color:#FFFFFF;" cellspacing="0" border="1"
+! rowspan="2" style="background-color:#FFEE88;" |[[File:Lattice.png|64px|Lattice]]<br>Lattice
+! style="background-color:#FFDD66; width:20%" |Requires to build
+! style="background-color:#FFDD66" |How to build
+|-
+|[[File:Rods.png|Rods]]x1
+| style="vertical-align: top; padding: 10px;" |
+Use the rod on an empty space tile.
+|-
+! colspan="3" style="background-color:#FFDD66" |How to deconstruct
+|-
+! colspan="1" style="background-color:#FFDD66; width:20%" |Tools
+| colspan="2" rowspan="2" |
+Use '''wirecutters''' to cut the lattice into one rod.
+|-
+| colspan="1" style="text-align: center;" |
+[[File:cutters.png|Wirecutters]]
+|}
+
+==== Catwalk ====
+Built ontop of a lattice, mainly used for aesthetic purposes.
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:Catwalk.png|64px|Catwalk]]<br>Catwalk
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Rods.png|Rods]]x1
+|style="vertical-align: top; padding: 10px;"|
+Use the rods on a lattice.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+Use '''wirecutters''' to cut the catwalk into 2 rods.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:cutters.png|Wirecutters]]
+|}
+
+==== Plating ====
+The basic floor which you put things like wires and pipes upon. 'All' floors and walls are built on top of this. Machines and objects cannot be secured unless floor plating is present.
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:Plating.png|64px|Plating]]<br>Plating
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Floor_Tiles.png|Floor tile]]x1
+|style="vertical-align: top; padding: 10px;"|
+Use a floor tile on a lattice or catwalk.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+Use a '''crowbar''' on ''broken'' plating, otherwise it does not deconstruct.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:Crowbar.png|Crowbar]]
+|}
+
+==== Iron Floor Tile ====
+This is the basic "nice" floor, this floor should be considered used in all public areas, hence why there's none of these in maintenance tunnels.
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:Floor.png|64px|Steel Floor]]<br>Steel Floor
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Floor Tiles.png|Floor tile]]x1
+|style="vertical-align: top; padding: 10px;"|
+Use a floor tile on plating.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+Use a '''crowbar''' on a floor tile to remove it. It will be destroyed if broken.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:Crowbar.png|Crowbar]]
+|}
+
+==== Wood Floor ====
+This is a fancy floor, used in the library and similar places.
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:Wood Floor.png|64px|Wood Floor]]<br>Wood Floor
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Wood Tile.png|Wood tile]]x1
+|style="vertical-align: top; padding: 10px;"|
+Use a wood tile on plating. Wood tiles can be made of [[#Planks|planks of wood]].
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+Detach it with a '''crowbar'''.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:Crowbar.png|Crowbar]]
+|}
+
+====  Reinforced Floor ====
+This is a reinforced floor, used in science and similar areas for better protection against fire or explosions.
+
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:Reinforced Floor.png|64px|Reinforced Floor]]<br>Reinforced Floor
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Rods.png|Rods]]x2
+|style="vertical-align: top; padding: 10px;"|
+Use rods on a plating.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+Use a '''wrench''' to dismantle it to two rods.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:wrench.png|Wrench]]
+|}
+
+==== Carpeted Floor ====
+This is a carpeted floor, used to make your office or local chapel look fancy.
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:Carpeted Floor.png|64px|Carpeted Floor]]<br>Carpeted Floor
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Carpet Tile.png|Carpet]]x1
+|style="vertical-align: top; padding: 10px;"|
+Use any type of carpet floor on a plating.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+Use a '''crowbar''' to pick up the carpet tile.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:Crowbar.png|Crowbar]]
+|}
+Some other carpets are available from [[Supply_crates#Exotic_Carpet_Crate|cargo]]
+
+=== Walls ===
+
+==== Normal Wall ====
+This is the standard type of wall found around the station, they are easy to construct and remove but are not as strong as reinforced walls. They also come in a hidden door variety. Walls can also be made out of different minerals. They're useful for:
+* Keeping people out.
+* Keeping people in.
+* Keeping people from going places.
+
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:wall.png|64px|so bland]]<br>Wall
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Metal.png|Metal]]x4
+|style="vertical-align: top; padding: 10px;"|
+# Stand where you want the wall.
+# Click the <font color='gray'>'''metal'''</font> in your hand to open the construction panel.
+# Choose 'Girder' from the list.
+# Use the remaining 2 sheets of <font color='gray'>'''metal'''</font> on the girder.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+# '''Weld''' off the plating.
+# Use a '''Wrench''' to unsecure the girder.
+# '''Screwdriver''' to disassemble the girder.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:Welder.png|Welder]]<br>[[File:wrench.png|Wrench]]<br>[[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+==== Reinforced Wall ====
+This is the reinforced type of wall found in secure areas of station, they are reasonably simple to construct, but are very time consuming to remove. They also can be made as a hidden door. They're useful for:
+* Keeping people in and out of high security areas.
+
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|[[File:R_wall.png|64px|such reinforce]]<br>Reinforced Wall
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Metal.png|Metal]]x2 [[File:Metal_r.png|Plasteel]]x2
+|style="vertical-align: top; padding: 10px;"|
+# Stand where you want the reinforced wall.
+# Click the <font color='gray'>'''metal'''</font> in your hand to open the construction panel.
+# Choose 'Girder' from the list.
+# Use the <font color='gray'>'''plasteel'''</font> on the girders to reinforce them.
+# Use the last <font color='gray'>'''plasteel'''</font> sheet on the reinforced girders to finish the wall.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+# '''Wirecutters''' to cut the outer grille.
+# '''Screwdriver''' to remove the support lines.
+# '''Weld''' through the metal cover.
+# '''Crowbar''' to pry off the cover.
+# '''Wrench''' to loosen the support rods.
+# '''Weld''' through the support rods.
+# '''Crowbar''' to pry off the outer sheath.
+# '''Screwdriver''' to unsecure the support struts.
+# '''Wirecutters''' to remove the support struts.
+# '''Wrench''' to unsecure the girder.
+# '''Screwdriver''' to disassemble it.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:Welder.png|Welder]]<br>[[File:wrench.png|Wrench]]<br>[[File:Screwdriver_tool.png|Screwdriver]]<br>[[File:cutters.png|Wirecutters]]<br>[[File:Crowbar.png|Crowbar]]
+|}
+
+==== Normal/Reinforced Hidden Door ====
+Also known as "Fake Walls" or "Hidden Walls". With a little imagination, hidden doors can be used in many marvelous tactics, varying from ambushes to passages into your very own secret hideaway room.
+* Click to open.
+* An almost undetectable escape route.
+* Otherwise, same as a regular wall.
+
+{| class="wikitable" border="1" cellspacing="0" style="width:80%; background-color:#FFFFFF;"
+!rowspan="2" style='background-color:#FFEE88;'|<br>Hidden Door<br><br>Reinforced Hidden Door
+! style='background-color:#FFDD66; width:20%'|Requires to build
+! style='background-color:#FFDD66'|How to build
+|-
+|[[File:Metal.png|Metal]]x4 or<br>[[File:Metal.png|Metal]]x2 [[File:Metal_r.png|Plasteel]]x2
+| style="vertical-align: top; padding: 10px;"|
+# Stand where you want the door.
+# Click the <font color='gray'>'''metal'''</font> in your hand to open the construction panel.
+# Choose 'Girder' from the list.
+# Use a wrench to unsecure the girder
+# Use the remaining 2 sheets of <font color='gray'>'''metal'''</font>, or <font color='gray'>'''plasteel'''</font> for a reinforced type, on the girder.
+
+To turn a normal wall into a hidden door, deconstruct it until the final screwdriving of the girder, and instead use 2 sheet of metal on the girder.
+|-
+!colspan="3" style="background-color:#FFDD66"|How to deconstruct
+|-
+!colspan="1"  style='background-color:#FFDD66; width:20%'|Tools
+|rowspan="2" colspan="3"|
+# '''Screwdriver''' to tighten the bolts and turn it into a regular wall. Or...
+# '''Weld''' to dismantle the false wall.
+# '''Screwdriver''' again to disassemble the girder.
+|-
+|colspan="1" style="text-align: center;"|
+[[File:Screwdriver_tool.png|Screwdriver]]<br>[[File:Welder.png|Welder]]
+|}
+[[Category:Engineering Guides]]
+{{DEFAULTSORT:Guide_to_Construction}}

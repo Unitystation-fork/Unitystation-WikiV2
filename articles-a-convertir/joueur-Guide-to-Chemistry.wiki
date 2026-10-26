@@ -1,0 +1,160 @@
+{{Stub}}
+{| class="wikitable"
+|+
+! style="width:250px; background-color:#aeecf2" |Chemical Name
+! style="width:250px; background-color:#c9eef2" |Reactants
+! style="text-align: center; width:100px; background-color:#c9eef2" |Formation Temperature
+! style="width:250px; background-color:#c9eef2" |Description
+|-
+|<span id="Stabilizing_Agent">Stabilizing Agent</span>
+|= Makes 3 parts =
+1 part Iron
+
+1 part Hydrogen
+
+1 part Oxygen
+|150K - 300K
+|Used to stablize certain chemical reactions to prevent them from instantly triggering.
+|-
+|<span id="Stabilizing_Agent_Destabilise">Stabilizing Agent Destabilize</span>
+|= Removes Reactants =
+1 part [[Guide to Chemistry#Stabilizing Agent|Stabilizing Agent]]
+
+1 part [[Guide to Chemistry#Table Salt|Table Salt]]
+|0K - 150K
+|Used to filter out stablizing agent without the use of a chem master.
+|-
+|<span id="Glycerol">Glycerol</span>
+|= Makes 1 part =
+3 parts Corn Oil
+
+1 part Sulfuric Acid
+|100K - 350K
+|Used in the formation of [[Guide_to_Chemistry#Nitroglycerin|Nitroglycerin]]
+|-
+|<span id="Fluorosurfactant">Fluorosurfactant</span>
+|= Makes 5 parts =
+2 parts Carbon
+
+2 parts Fluorine
+
+1 part Sulfuric Acid
+|0K
+|
+|-
+|<span id="Fluorosulfuric-Acid">Fluorosulfuric Acid</span>
+|= Makes 4 parts =
+1 part Fluorine
+
+1 part Hydrogen
+
+1 part Potassium
+
+1 part Sulfuric Acid
+|380K
+|
+|-
+|<span id="Ephedrine">Ephedrine</span>
+|= Makes 4 parts =
+1 part Sugar
+
+1 part Oil
+
+1 part Hydrogen
+
+1 part [[Guide to Chemistry#Diethylamine|Diethylamine]]
+|0K
+|
+|-
+|<span id="Diethylamine">Diethylamine</span>
+|= Makes 2 parts =
+1 part [[Guide to Chemistry#Ammonia|Ammonia]]
+
+1 part Ethanol
+|0K
+|
+|-
+|<span id="Ammonia">Ammonia</span>
+|= Makes 3 parts =
+1 part Nitrogen
+
+3 parts Hydrogen
+|0K
+|
+|-
+|<span id="Foaming-Agent">Foaming Agent</span>
+|= Makes 1 part =
+1 part Lithium
+
+1 part Hydrogen
+|0K
+|
+|-
+|<span id="Smart-Foaming-Agent">Smart Foaming Agent</span>
+|= Makes 5 parts =
+3 parts [[Guide to Chemistry#Foaming-Agent|Foaming Agent]]
+
+1 part [[Guide to Chemistry#Acetone|Acetone]]
+
+1 part Iron
+|0K
+|
+|-
+|<span id="Oil">Oil</span>
+|= Makes 3 parts =
+1 part Welding Fuel
+
+1 part Hydrogen
+
+1 part Carbon
+|0K
+|
+|-
+|<span id="Acetone">Acetone</span>
+|= Makes 3 parts =
+1 part [[Guide to Chemistry#Oil|Oil]]
+
+1 part Welding Fuel
+
+1 part Oxygen
+|0K
+|
+|-
+|<span id="Saltpetre">Saltpetre</span>
+|= Makes 3 parts =
+1 part Potassium
+
+1 part Nitrogen
+
+1 part Oxygen
+|0K
+|
+|-
+|Space Cleaner
+|= Makes 2 parts =
+1 part [[Guide to Chemistry#Ammonia|Ammonia]]
+
+1 part Water
+|0K
+|
+|-
+|Space Lube
+|= Makes 4 parts =
+1 part Water
+
+1 part Silicon
+
+1 part Oxygen
+|0K
+|
+|-
+|<span id="Table_Salt">Table Salt</span>
+|= Makes 3 parts =
+1 part Sodium
+
+1 part Chlorine
+
+1 part Water
+|0K
+|
+|}

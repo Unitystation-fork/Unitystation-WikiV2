@@ -1,0 +1,140 @@
+> 🔗 **Liens**
+> - Page d'origine (MediaWiki) : https://wiki.unitystation.org/index.php/Guide_to_Virology
+> - Fiche cible dans le dépôt : [docs/3_HowToPlay/Jobs/Medical_roles/Virologist.md](https://github.com/Unitystation-fork/Unitystation-WikiV2/blob/main/docs/3_HowToPlay/Jobs/Medical_roles/Virologist.md)
+> - Fiche cible en ligne : https://unitystation-wiki.unionrolistes.fr/HowToPlay/Jobs/Medical_roles/Virologist/
+> - Suivi : [ticket de relecture](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues?q=is%3Aissue+%22Fiches+%C3%A0+relire%22)
+
+# Fiche 07 : Guide to Virology
+
+- **Source** : [Guide to Virology](https://wiki.unitystation.org/index.php/Guide_to_Virology)
+- **Dernière modification** : 2025-07-22
+- **Taille** : 1487 mots (compte de l'inventaire)
+- **Priorité** : haute (Science et Médical)
+
+**Où la mettre**
+
+Fiche métier : `docs/3_HowToPlay/Jobs/Medical_roles/Virologist.md`. Remplacer le stub (58 mots : « the only virus ... is incurable stupidity ») par les chapitres Disease Basics, Virology Equipment (Sequence Analyzer, Cure Tester), Treating Patients, Tips and Tricks. La section « Pathogen Creation and the R.I.I » est vide : ne pas la reprendre. Penser aussi à `Geneticist.md` qui porte le même avertissement.
+
+**Ce qui existe déjà dans le wiki**
+
+`Virologist.md` : 58 mots, avertissement + blague. Aucune page sur les maladies, le miasme ni le cancer de l'espace dans `docs/3_HowToPlay/` (la recherche de « miasma/pathogen/disease/plague » dans `Medical_roles/` ne donne rien d'utile).
+
+**À vérifier**
+
+- Le jeu a donc un vrai système de maladies depuis 2025 : le texte « CAN NOT DO ANYTHING » du wiki actuel est périmé (à confirmer en jeu).
+- Les mutations immunitaires sont annoncées « planned but not currently implemented » : phrase à garder ou retirer selon l'état du jeu.
+- Tableau de réponses du Cure Tester (0, 1, 2) : formule « Number of Cure Reagents - Number of Inhibitors ». 5 unités de pathogène tuées par 2 unités de remède.
+- La Red Plague est citée comme bioarme du Syndicat : vérifier avec `Antagonist_roles/` et `4_Univers/Items/Syndicate-Items.md`.
+- Lien vers « Guide to Ordnance#Useful Chemicals Reference » : à rediriger selon la décision des fiches 04 et 08.
+- La section « Mapping » en fin de page s'adresse aux développeurs et mappeurs, pas aux joueurs : à déplacer dans `docs/5_Dev/Introduction/development/How-to-Map.md` (ou à supprimer), pas dans la fiche métier. Ici : 6 points.
+- Images manquantes : Sequence analyzer wiki.png, Cure tester wiki.png, VirologyWiki.png (légende corrigée à la main : le crochet de la légende d'origine était cassé).
+- Le texte « THIS CONTENT IS STILL BEING WORKED ON » est repris en code (ligne sans titre dans l'original).
+
+**Décision**
+
+- [ ] copier tel quel
+- [ ] réécrire
+- [ ] fusionner dans `Virologist.md` (remplacement du stub)
+- [ ] abandonner
+
+---
+
+**Contenu converti en Markdown (anglais, non réécrit)**
+
+---
+
+As a virologist you are responsible for curing all ailments that befall the station as well as the synthesise of new pathogens to help the station crew. This guide overviews the process to conduct virology in Unitystation.
+
+## Disease Basics / Health & Safety
+
+Diseases in Unitystation function similarly to reagents (chemicals). Any place that can contain a chemical (such as a syringe, beaker, food, etc) can contain diseases. While diseases can exist in any reagent container, they will only grow when metabolised by a host body.
+
+Creatures (including crew members) become sick when a pathogen enters their bloodstream. The concentration of the pathogen in the blood stream controls not only the rate of growth, but the exhibited symptoms too. Diseases often start harmless or with simple emotes that spread the disease (such as coughing and sneezing) but can quickly evolve to be dangerous if not attended too soon enough.
+
+Every creature also has an immune response. A creature's immune response counteracts the growth of a pathogen; it is most effective when the pathogen is in small amounts but often gets overpowered if a disease is sufficiently present. A creature's immune response can be varied by mutations\*.
+
+Medical HUDs will show the most prevalent disease (That with the highest stage) a player is infected by with an emoticon to its left. The sadder the face, the further the disease is progressed. No emoticon indicates the patient is healthy.
+
+\**Immune mutations are planned but not currently implemented. This note will be removed once these mutations are added.*
+
+Diseases can originate from many sources and unless players act carefully it is inevitable they will catch one. Miasma is a toxic gas produced by corpses, breathing in miasma can cause creatures (including crew members) to become ill. Radiation, such as that produced by engineering's nuclear reactor can cause creatures to develop space cancer, a slow acting but lethal illness. Sicknesses can also originate from artifacts, mobs, injuries, food.
+
+Many sicknesses once they have developed far enough, will begin to induce symptoms that cause the disease to spread (Such as coughing and sneezing). Crewmates in the area of affliction can catch these sicknesses and begin to spread the disease themselves.
+
+There are several methods to prevent such events:
+
+- Wearing a sterile mask or another protective helmet (such as a biosuit helmet) will prevent infection from coughing & sneezing
+
+- A sick patient wearing a sterile mask or another protective helmet will be unable to spread diseases via coughing & sneezing
+
+- Wearing *enabled* internals will also prevent infection from coughing and sneezing. 
+
+- Wearing a full biosuit will prevent infection from methods that involve splashing, such as the ever-potent plague bomb.  
+
+## Virology Equipment
+
+> 🖼️ image manquante : Sequence analyzer wiki.png
+
+> 🖼️ image manquante : Cure tester wiki.png (légende : A cure tester loaded with a beaker)
+
+### Sequence Analyzer
+
+The sequence analyzer is the first machine on the step to curing a disease. It analyzes a provided blood sample to identify a present disease and propose possible cures. It requires a connection to power.
+
+### Cure Tester
+
+The cure tester is an accelerated way of testing the effectives of a possible cure. It requires both a connection to power and a sequence analyzer. The cure tester will test the contents of a provided beaker against the most recent disease analyzed by the sequence analyzer. It will provide 3 different messages based on the effectiveness of the cure
+
+## Treating Patients / Curing Sicknesses
+
+Treating sicknesses is a fairly straight forward process, although it can be difficult and time consuming. A cure for a given sickness is randomised on round start, but a cure for any one patient, will work on all others with the same sickness. A step-by-step method for curing a patient is found below.
+
+1. Once a patient is believed to be sick, take a blood sample using a syringe in 'DRAW' mode. Place this blood sample into a petri dish for further testing.
+
+2. Place the petri dish with the blood sample into a sequence analyzer by pressing on the empty slot while holding the dish. Once the dish is inserted, press the analyzers 'test' button to test the blood sample. The sequence analyzer will report wether or not it found any disease in the blood sample. For each disease found, it will provide a list of 5+ chemical reagents. From these reagents, a combination of 2 of them will form the cure for that sickness, another 2 will be 'inhibitors'. If both cure reagents are present with the pathogen, but *none* of the inhibitors, the pathogen will be killed by the cure and the sickness treated. The analyzer will also report it's "active disease". This is the disease that will be used by the cure tester to determine the effectiveness of a given cure.
+
+3. Mix up a series of possible cures based on the clues from the sequence analyzer. Place each possible cure into the beaker slot of the cure tester and press the 'test' button. When testing a cure, the cure tester will produce one of 3 outputs.
+
+An alternative way to think of the response is as such:
+`Response Number = Number of Cure Reagents in Mix - Number of Inhibitors Reagents in Mix`
+
+| Response No. | Response Text | Explanation |
+|---|---|---|
+| 0 | No change in the pathogen was observed | Either no cure reagents were present, or the number of inhibitors outweighed the number of cure reagents |
+| 1 | The pathogen showed signs of weakening, but remained prevalent | Either one of the two cure reagents were present, or both and a single inhibitor |
+| 2 | The pathogen was severely degraded by the chemical mix | Both cure reagents were present and no inhibitors. This chemical mix contains the cure for the specified pathogen |
+
+4. Once you have found the cure from step 3, distribute the cure in a desired form to infected crew mates (Pills, drinks, food, etc). For every 2 units of cure (1 part of each cure reagent), 5 units of pathogen will be killed. Cures are metabolised by the body at the standard rate and will stay in the body until filtered out by the body's organs. Because of this, patients who are very sick might take time to get better, additionally, players can be 'vaccinated' from a disease by pre-emptively taking a cure. As the cure will stay in the blood for a period of time, it will kill the target sickness instantly when it tries to afflict the target.
+
+5. Cures will stop diseases from progressing and prevent further symptoms, however, damage from diseases will not disappear with the disease. Instead, remnant toxic damage, genetic damage, etc might require manual healing based on the severity. If several disease require treatment, consider offloading this treatment process to the station medical doctors.
+
+## Pathogen Creation & The R.I.I
+
+`THIS CONTENT IS STILL BEING WORKED ON, THIS PAGE WILL BE UPDATED ONCE FURTHER VIROLOGY CONTENT HAS BEEN ADDED`
+
+## Tips & Tricks
+
+* Diseases can spread fast. If a patient is identified with a disease that can spread orally, provide sterile masks or other protections if you don't plan on quarantining, else the disease might become more than you can handle.
+* Miasma can rapidly cause a large number of personnel (especially those working around the dead such as med) to become sick. Ensure good morgue practices to avoid large amounts of miasma. If large amounts of miasma cannot be avoided, you may still attempt to avoid sickness by employing the use of internals.
+* The Red Plague is a syndicate bioweapon, early stages are infectious and can cause vomiting, but left too long and victims will explode with a plague bomb, anything short of a full biosuit will cause nearby players to be infected.
+* You can find a reference for useful chemicals here (ancien lien : Guide to Ordnance#Useful Chemicals Reference), use this to speed up your cure making process!
+
+## Image References
+
+> 🖼️ image manquante : VirologyWiki.png (légende : A Small Virology Department (Fallstation))
+
+## Mapping
+
+If you are a developer planning on mapping a virology department, make sure you can tick all the following boxes:
+
+- [ ] The department has atleast one box of petri dishes, consider atleast 2 on larger maps.
+
+- [ ] The department has atleast one box of syringes, consider atleast 2 on larger maps.
+
+- [ ] The department has atleast one sequence analyzer, connected to power. Consider having more on larger maps.
+
+- [ ] The department has atleast one cure tester, connected to power and an accompanying sequence analyzer. Consider having more on larger maps.
+
+- [ ] The department has atleast one biohazard locker, and one box of sterile masks. Consider more on larger maps.
+
+- [ ] Virologists have access to some form of chemical mixing. On small maps this might take the form of the chemistry department having virology access. On larger maps, consider an independent chemistry set up.

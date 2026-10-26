@@ -1,0 +1,85 @@
+{{stub}}
+Notable versions of the game are often lost or removed as new updates come out, destroying some of the history of the game.
+
+This page serves to document and archive lost or notable versions of the game that had been removed from official distribution, special test versions that were never distributed to begin with, or other builds that have significant notability<ref name=":0">https://www.youtube.com/watch?v=t5GC9bWVP8o</ref>
+
+If you have an old version that we don't have downloads listed here, come talk to us in the #unitywiki channel on [https://discord.gg/tFcTpBp Our discord!] 
+{| class="wikitable"
+|+
+!Version
+!Fork (branch)
+!Link
+!Commit
+!Date
+!Notes
+|-
+|3987
+|Unitystation
+|[https://cdn.unitystation.org/BuildArchives/Unitystation3987.zip Windows]
+|[https://github.com/unitystation/unitystation/commit/ed8a866 <code>ed8a866</code>]
+|2020-01-28 04:06[[Wikipedia:Coordinated_Universal_Time|Z]]
+|Source: Bod9001
+|-
+|3993
+|Unitystation
+|[https://cdn.unitystation.org/BuildArchives/win3993.zip Windows] [https://cdn.unitystation.org/BuildArchives/us13server3993.zip Server]
+|[https://github.com/unitystation/unitystation/commit/677a47f <code>677a47f</code>]
+|2020-01-30 05:10Z
+|Source: craftxbox
+|-
+|3997
+|Unitystation
+|[https://cdn.unitystation.org/BuildArchives/us13server3997.zip Server]
+|<code>5b331e8</code>?
+|2020-02-03 06:30Z
+|Source: craftxbox
+|-
+|4000
+|Unitystation
+|[https://cdn.unitystation.org/BuildArchives/win4000.zip Windows] [https://cdn.unitystation.org/BuildArchives/us13server4000.zip Server]
+|[https://github.com/unitystation/unitystation/commit/d6d1f23 <code>d6d1f23</code>]
+|2020-02-04 04:02Z
+|Source: craftxbox
+|-
+|4006
+|Unitystation
+|
+|<code>46755f1</code>?
+|2020-02-06 02:29Z
+|Featured in Rimmy Downunder's video<ref name=":0" />
+|-
+|4008
+|Unitystation
+|
+|<code>e054188</code>?
+|
+|Featured in Rimmy Downunder's video<ref name=":0" />
+|-
+|4009
+|Unitystation
+|
+|<code>6f4ee53</code>?
+|
+|Featured in Rimmy Downunder's video<ref name=":0" />
+|-
+|4010
+|Unitystation
+|
+|<code>4c2540f</code>?
+|
+|The first build available at the release of Rimmy Downunder's video<ref>https://transfur.science/u1duq722</ref>
+|-
+|4015
+|Unitystation
+|[https://cdn.unitystation.org/BuildArchives/win4015.zip Windows]
+|[https://github.com/unitystation/unitystation/commit/6a71c84 <code>6a71c84</code>]
+|
+|Source: Bod9001
+|-
+|21050308
+|UnityStationDevelop
+|[https://cdn.unitystation.org/BuildArchives/21050308win.zip Windows] [https://cdn.unitystation.org/BuildArchives/21050308lin.zip Linux] [https://cdn.unitystation.org/BuildArchives/21050308osx.zip OSX] [https://cdn.unitystation.org/BuildArchives/21050308server.zip Server]
+|<code>a454e09</code>?
+|
+|Source: craftxbox
+|}

@@ -1,0 +1,21 @@
+[[File:Ministation Gateway.png|thumb|The Gateway Chamber on Ministation]]
+The gateway is a mysterious portal found on all main stations, located in a dedicated chamber behind command access.
+
+At some point during a round, the gateway will turn on connecting to what's known as an 'away site'. Away sites are large explorable dungeons ranging from temples to alien planets to anomalous structures. 
+
+While plentiful with loot and goodies for the station, away sites are dangerous.
+
+It is not recommended to tackle them alone, instead, station command might dispatch exploration teams into the sites as a way to investigate what's on the other side and claim the loot for the crew and for centcomm.
+
+Once an away site connection is established, it will be announced in the common channel for all crew members aboard the station to hear.            
+
+
+
+
+
+'''<u>NOTE:</u>''' While all away sites possess a return gateway, it is not always in the same position as which you might arrive. It is highly recommended against entering the gateway unless you have enough supplies to last in the event you become stranded in an unknown place.                                                                                                                                                                                                                                                                                                                                    
+
+
+
+{{Roles Footer}}
+[[Category:Exploration Guides]]
