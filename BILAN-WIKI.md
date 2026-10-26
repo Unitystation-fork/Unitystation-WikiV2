@@ -73,7 +73,7 @@ Quand le lot sera fusionné, je prépare la note de version pour la mise en lign
 8b. **« User interface » contient une sous-catégorie « User Interface »** : le menu affiche deux fois la même entrée, l'une dans l'autre. **« tools »**, rangé dans Univers (côté joueur), ne contient qu'un mode d'emploi de scripts pour développeurs (craftableLister).
 9. **13 pages gardent du code de l'ancien MediaWiki** (`[[Page]]`, `[[File:…]]`), qui s'affiche tel quel.
 10. **Les traductions sont partielles** : 65 pages sur 214 en français, 91 en russe, 9 en allemand. Certaines pages traduites n'ont pas le tableau des métiers (Capitaine en français).
-11. **La licence** : le jeu est passé en AGPLv3 en novembre 2025, mais le wiki affiche toujours une page GPLv3.
+11. **La licence** : le jeu est en AGPLv3 depuis décembre 2017 (sa propre doc n'a été corrigée qu'en novembre 2025), mais le wiki affiche toujours une page GPLv3.
 12. **61 liens anglais mènent à des pages qui n'existent pas** (dont 16 vers une ancienne page « Nuclear-Emergency »). Ils sont à corriger ou à barrer.
 
 ## 4 bis. Vérifié dans le code du jeu (dépôt unitystation/unitystation)
