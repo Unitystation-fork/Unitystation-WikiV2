@@ -114,7 +114,7 @@ Autre décision : le **design** (couleurs, ergonomie) aura sa phase à la fin. D
 
 ## 4 quater. Audit des pages métiers contre le code du jeu (26/10)
 
-Les 52 pages métiers ont été comparées au code du jeu, puis chaque erreur a été revérifiée (y compris dans les cartes des stations) : **91 points faux, 49 périmés, 50 informations absentes, 75 à vérifier en jeu**, chacun avec sa preuve. Détail et méthode : [`audit-code/`](audit-code/LISEZ-MOI.md). Les corrections viendront en petites PR, une par groupe de départements.
+Les 52 pages métiers ont été comparées au code du jeu, puis chaque erreur a été revérifiée (y compris dans les cartes des stations et les prefabs des objets, en 3 passes) : **111 points faux, 44 périmés, 65 informations absentes**, chacun avec sa preuve. Il reste **29 questions pour un joueur**, ce que le code ne tranche pas : [`QUESTIONS-JOUEUR.md`](audit-code/QUESTIONS-JOUEUR.md). Détail et méthode : [`audit-code/`](audit-code/LISEZ-MOI.md). Les corrections viendront en petites PR, une par groupe de départements.
 
 ## 5. Ce qui reste à trancher
 
