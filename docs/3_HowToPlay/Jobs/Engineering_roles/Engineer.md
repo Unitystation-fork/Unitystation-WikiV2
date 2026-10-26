@@ -458,6 +458,6 @@ Rest of wires do other interactions as well but the one's above are the 4 main o
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

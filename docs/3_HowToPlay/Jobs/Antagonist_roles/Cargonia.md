@@ -20,7 +20,7 @@ You will likely want to purchase some weapons crates to arm the proletariats of 
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

@@ -25,7 +25,7 @@ A mime has a variety of unique mime-specific tools and gear, such as his mask, u
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 
