@@ -94,26 +94,27 @@ Quand le lot sera fusionné, je prépare la note de version pour la mise en lign
 - Ancien wiki GitHub Pages : dépôt archivé, rien depuis 2022.
 - Docs dev du jeu : 10 à 12 commits par an (MaxIsJoe, Bod9001…), surtout sur CONTRIBUTING et la cartographie.
 
-## 4 ter. Déjà tranché depuis (26/10)
-- **Lawyer** : reste dans Security.
-- **Geneticist** : sa fiche reste dans Medical, et une courte page dans Science renvoie vers elle, parce que le RD le supervise souvent : [#373](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/373).
-- **Redshield** : le code dit Redshield, pas Blueshield. [#365](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/365) est en attente de ta réponse.
-- **Licence** : passage en AGPLv3, comme le jeu : [#370](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/370).
-- **Organigramme cliquable et traduit**, d'après ton schéma : [#374](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/374).
-- **Contenu manquant** : les fiches à relire, avec le suivi dans [#372](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372).
-- **Design** (couleurs, ergonomie) : une phase dédiée à la fin. D'ici là, on fait du fonctionnel et du contenu.
+## 4 ter. Tes réponses (26/10) et ce qu'on en fait
 
-## 5. Questions pour toi
+| Question | Ta réponse | Ce qu'on en fait |
+|---|---|---|
+| **1. MediaWiki** | Les joueurs y écrivent faute de mieux. Si notre wiki est mieux référencé, plus complet et plus simple à naviguer et à modifier, ils viendront d'eux-mêmes. | Pas de reprise régulière. L'historique des 3 sources a été consulté (§ 1) : ce qui manque passe en fiches. |
+| **2. Docs dev** | À terme, le dépôt du jeu ne garde plus ses pages de doc. Une seule doc, complète et traduite, pour les devs, les joueurs et les MJ. | [#364](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/364) reprend les pages dev manquantes. Tant que le dépôt du jeu garde ses docs, un script signalera les écarts (suite de [#311](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/311)). |
+| **3. Science** | Tu ne sais pas, tu n'as pas rejoué depuis un moment. | Le code dit que la science marche (§ 4 bis). Je propose de retirer le bandeau « CAN NOT DO ANYTHING » dans une petite PR. |
+| **4. Articles manquants** | Un dossier à part, avec des fiches que tu lis une par une. | Fait : [`fiches-a-relire/`](fiches-a-relire/), suivi dans [#372](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372). |
+| **5. Xenoarcheology** | Les guides disparaissent : ce sont des chapitres des fiches métier. Dans le jeu, c'est plutôt « xeno biology ». | Le code a les deux : les slimes (xénobiologie) et les artefacts (xénoarchéologie). Aucun métier Xenobiologist : ce seront deux chapitres de la fiche Scientist. |
+| **6. Cargonia** | « Revolutionary » (« rev ») est le nom officiel du mode ; Cargonia est le surnom que se donnent les rev. | Le jeu affiche **« Rebellion »** et l'antagoniste **« Rebel »** ; « Revolutionary » n'est nulle part dans le code. Voir la question 1 ci-dessous. |
+| **7. Classement du menu** | Le Geneticist est à la fois en Science et en Medical. Le Lawyer est un civil, mais il a les accès de la sécurité, reçoit ses ordres du HoP et du HoS, et défend l'équipage au procès (HoS ou Warden à l'accusation, Captain juge). | Geneticist : fiche dans Medical, page de renvoi dans Science ([#373](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/373)). Lawyer : reste dans Security. L'organigramme cliquable suit ton schéma ([#374](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/374)). |
+| **8. Noms de dossier** | « De quel nom tu parles ? » | `General_guides`, `Gateway_Maps`, `tools`, « Offical Station Maps », les dossiers Dev/Routine en français, « User interface » affiché deux fois. Corrigés dans [#369](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/369), avec captures avant/après dans la PR. |
+| **9. Licence** | Si le jeu est en AGPLv3, autant le respecter. | Passage en AGPLv3 : [#370](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/370). |
+| **10. Redshield** | Peu importe, du moment que « Blueshield » est écrit. | [#365](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/365) débloqué. Titre proposé : « Blueshield / Redshield Officer », avec « appelé Redshield Officer dans le jeu ». |
+| **11. Lawyer** | Reste dans Security. | Rien à déplacer. |
 
-1. **Le MediaWiki** : qui le tient encore à jour ? Le but est-il qu'il renvoie vers notre wiki à terme ? Sinon, faut-il prévoir d'y reprendre régulièrement les nouveautés ?
-2. **Les docs dev** : on les recopie régulièrement depuis le dépôt du jeu (comme dans [#364](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/364)), ou on renvoie vers leur site pour la partie dev ?
-3. **La Science** : le code dit que oui (§ 4 bis). Je retire le bandeau « CAN NOT DO ANYTHING » ?
-4. **Les articles du § 2** : lesquels veux-tu reprendre, et dans quel ordre ? Je propose de commencer par la Science (R&D, puis Scientist et Research Director).
-5. **Xenoarcheology** : on la laisse dans les métiers Science, ou on la déplace dans un guide Science ?
-6. **Cargonia** : le jeu affiche « Rebellion » (§ 4 bis). On titre la page « Rebellion », en citant Cargonia comme surnom ?
-7. **Le classement du menu** suit les dossiers : Lawyer dans Security, Geneticist et Psychologist dans Medical, Fugitive dans Antagonist. C'est bon pour toi, ou faut-il déplacer des fichiers ?
-8. **Les noms de dossier moches** (§ 4, points 7 et 8) : je peux les corriger dans une petite PR. Ça ne change aucune adresse pour la plupart ; je vérifierai chacun.
-9. **La licence** : on passe la page en AGPLv3 comme le jeu ? C'est à décider avec mortifia.
+Autre décision : le **design** (couleurs, ergonomie) aura sa phase à la fin. D'ici là, on travaille le fonctionnel et le contenu.
 
-10. **Redshield / Blueshield** : le jeu dit Redshield (§ 4 bis). On garde Redshield ?
-11. **Lawyer** : le jeu le classe Civilian. On le déplace dans Service (le menu et le tableau suivront), ou on le laisse avec la Sécurité, avec qui il travaille ?
+## 5. Ce qui reste à trancher
+
+1. **Rebellion** : le joueur voit « Rebellion » dans le jeu. On titre la page « Rebellion », en citant « rev » et Cargonia comme surnoms ?
+2. **Psychologist** : le jeu dit « Psychiatrist ». On renomme la page ?
+3. **Modes de jeu sans page** : Changeling, Vampires, Extended, Highlander, Map Editor, Mixed. Je prépare des fiches à relire pour eux ?
+4. **Les fiches à relire** : ta décision pour chacune, dans [#372](https://github.com/Unitystation-fork/Unitystation-WikiV2/issues/372).
