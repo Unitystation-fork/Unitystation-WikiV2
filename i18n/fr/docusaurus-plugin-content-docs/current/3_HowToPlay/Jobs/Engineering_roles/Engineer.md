@@ -30,7 +30,7 @@ Différentes cartes auront différents moteurs avec lesquels vous pourrez travai
 Les autres choix d'alimentation de la station sont beaucoup plus compliqués et peuvent tourner au désastre si vous ne gérez pas les choses de près. Il est fortement recommandé de ne pas s'y frotter sans avoir lu les guides ou sans qu'un ingénieur plus expérimenté ne vous guide à travers les étapes.
 
 
-![P.A.C.M.A.N. generator setup](/img/jobs/Engeneering/pacman.gif)
+<img src="/img/jobs/Engeneering/pacman.gif" alt="P.A.C.M.A.N. generator setup" />
 
 
 ### Outils

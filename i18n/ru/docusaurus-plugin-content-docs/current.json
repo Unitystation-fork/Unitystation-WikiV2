@@ -147,6 +147,10 @@
     "message": "Руководства по участию",
     "description": "The label for category Contribution Guides in sidebar defaultSidebar"
   },
+  "sidebar.defaultSidebar.category.admin": {
+    "message": "Администрирование",
+    "description": "The label for category admin in sidebar defaultSidebar"
+  },
   "sidebar.defaultSidebar.category.Development": {
     "message": "Разработка",
     "description": "The label for category Development in sidebar defaultSidebar"
