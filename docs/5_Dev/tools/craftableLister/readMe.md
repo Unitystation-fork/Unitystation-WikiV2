@@ -1,3 +1,8 @@
+---
+title: Craftable Lister
+slug: /Univers/tools/craftableLister/
+---
+
 ## Prerequisites
 
 - You must have [node.js](https://nodejs.org/en/) installed.

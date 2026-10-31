@@ -59,10 +59,6 @@
     "message": "Geister",
     "description": "The label for category Ghost in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.User interface": {
-    "message": "Benutzeroberfläche",
-    "description": "The label for category User interface in sidebar defaultSidebar"
-  },
   "sidebar.defaultSidebar.category.User Interface": {
     "message": "Benutzeroberfläche",
     "description": "The label for category User Interface in sidebar defaultSidebar"
@@ -71,17 +67,9 @@
     "message": "Spielen",
     "description": "The label for category Play in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Caractere": {
-    "message": "Charakter",
-    "description": "The label for category Caractere in sidebar defaultSidebar"
-  },
   "sidebar.defaultSidebar.category.Guides": {
     "message": "Anleitungen",
     "description": "The label for category Guides in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.General_guides": {
-    "message": "Allgemeine Anleitungen",
-    "description": "The label for category General_guides in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Jobs": {
     "message": "Berufe",
@@ -90,10 +78,6 @@
   "sidebar.defaultSidebar.category.RP": {
     "message": "RP",
     "description": "The label for category RP in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Univers": {
-    "message": "Universum",
-    "description": "The label for category Univers in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Items": {
     "message": "Gegenstände",
@@ -107,18 +91,6 @@
     "message": "Karten",
     "description": "The label for category Maps in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Gateway_Maps": {
-    "message": "Gateway-Karten",
-    "description": "The label for category Gateway_Maps in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Offical Station Maps": {
-    "message": "Offizielle Stationskarten",
-    "description": "The label for category Offical Station Maps in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.Passive Mobs": {
-    "message": "Passive Mobs",
-    "description": "The label for category Passive Mobs in sidebar defaultSidebar"
-  },
   "sidebar.defaultSidebar.category.Other": {
     "message": "Sonstiges",
     "description": "The label for category Other in sidebar defaultSidebar"
@@ -126,10 +98,6 @@
   "sidebar.defaultSidebar.category.Jokes": {
     "message": "Witze",
     "description": "The label for category Jokes in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.tools": {
-    "message": "Werkzeuge",
-    "description": "The label for category tools in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Dev": {
     "message": "Entwickler",
@@ -143,40 +111,56 @@
     "message": "Einführung",
     "description": "The label for category Introduction in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.contribution-guides": {
-    "message": "Anleitungen zum Mitwirken",
-    "description": "The label for category contribution-guides in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.development": {
-    "message": "Entwicklung",
-    "description": "The label for category development in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.project-goals": {
-    "message": "Projektziele",
-    "description": "The label for category project-goals in sidebar defaultSidebar"
-  },
-  "sidebar.defaultSidebar.category.current-goal-scope": {
-    "message": "Aktuelle Ziele",
-    "description": "The label for category current-goal-scope in sidebar defaultSidebar"
-  },
   "sidebar.defaultSidebar.category.Routine": {
     "message": "Routinen",
     "description": "The label for category Routine in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Antagoniste": {
-    "message": "Antagonisten",
-    "description": "The label for category Antagoniste in sidebar defaultSidebar"
+  "sidebar.defaultSidebar.category.Interfaces": {
+    "message": "Oberflächen",
+    "description": "The label for category Interfaces in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Protagoniste": {
-    "message": "Protagonisten",
-    "description": "The label for category Protagoniste in sidebar defaultSidebar"
+  "sidebar.defaultSidebar.category.Character": {
+    "message": "Charakter",
+    "description": "The label for category Character in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Sciences": {
-    "message": "Wissenschaft",
-    "description": "The label for category Sciences in sidebar defaultSidebar"
+  "sidebar.defaultSidebar.category.General Guides": {
+    "message": "Allgemeine Anleitungen",
+    "description": "The label for category General Guides in sidebar defaultSidebar"
   },
-  "sidebar.defaultSidebar.category.Services": {
-    "message": "Service",
-    "description": "The label for category Services in sidebar defaultSidebar"
+  "sidebar.defaultSidebar.category.Universe": {
+    "message": "Universum",
+    "description": "The label for category Universe in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Gateway Maps": {
+    "message": "Gateway-Karten",
+    "description": "The label for category Gateway Maps in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Official Station Maps": {
+    "message": "Offizielle Stationskarten",
+    "description": "The label for category Official Station Maps in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Mobs": {
+    "message": "Mobs",
+    "description": "The label for category Mobs in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Contribution Guides": {
+    "message": "Anleitungen zum Mitwirken",
+    "description": "The label for category Contribution Guides in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Development": {
+    "message": "Entwicklung",
+    "description": "The label for category Development in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Project Goals": {
+    "message": "Projektziele",
+    "description": "The label for category Project Goals in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Current Goal Scope": {
+    "message": "Aktuelle Ziele",
+    "description": "The label for category Current Goal Scope in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Wiki Tools": {
+    "message": "Wiki-Werkzeuge",
+    "description": "The label for category Wiki Tools in sidebar defaultSidebar"
   }
 }

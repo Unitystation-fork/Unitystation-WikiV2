@@ -1,7 +1,8 @@
 {
-    "label": "User interface",
+    "label": "Interfaces",
     "position": 3,
     "link": {
-        "type": "generated-index"
+        "type": "generated-index",
+        "slug": "/category/user-interface"
     }
 }
