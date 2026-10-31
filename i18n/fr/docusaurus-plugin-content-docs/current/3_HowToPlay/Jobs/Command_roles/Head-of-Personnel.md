@@ -9,7 +9,7 @@ Le chef du personnel, également appelé communément le CdP, est l'un des rôle
 
 ### Neutre légal
 
-Le travail du chef de mission est relativement simple : il s'assoit dans son bureau, modifie les fonctions ou les niveaux d'accès des personnes qui le demandent pour de bonnes raisons, et résistez à l'envie de vous donner à vous-même ou à [d'autres](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) [personnes](\3_HowToPlay\jobs\Service_roles\Assistant.md) des cartes à accès illimité. En plus de cela, vous êtes aussi celui qui s'assure que les rôles de service permettent à la station de fonctionner, et que [Cargo](\3_HowToPlay\jobs\Cargo_roles\Cargo-Technician.md) ne commande pas d'armes pour aider [Cargonia](\3_HowToPlay\jobs\Antagonist_roles\Cargonia.md) à devenir une station-état indépendante. Cependant, votre travail peut être un peu mouvementé;
+Le travail du chef de mission est relativement simple : il s'assoit dans son bureau, modifie les fonctions ou les niveaux d'accès des personnes qui le demandent pour de bonnes raisons, et résistez à l'envie de vous donner à vous-même ou à [d'autres](\3_HowToPlay\jobs\Entertainment_Roles\Clown.md) [personnes](\3_HowToPlay\jobs\Service_roles\Assistant.md) des cartes à accès illimité. En plus de cela, vous êtes aussi celui qui s'assure que les rôles de service permettent à la station de fonctionner, et que [Cargo](\3_HowToPlay\jobs\Cargo_roles\Cargo-Technician.md) ne commande pas d'armes pour aider [Rebellion](\3_HowToPlay\jobs\Antagonist_roles\Cargonia.md) à devenir une station-état indépendante. Cependant, votre travail peut être un peu mouvementé;
 
 
 ### Officier par Intérim
@@ -20,7 +20,7 @@ Vous devrez **faire de votre mieux** pour assurer cette fonction. pour le bien d
 
 
 ### liste des suspects potentiels en cas de décès du capitaine
-[Trator](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [Nukie](Nuclear%20Operative.md) [Cargonia](\3_HowToPlay\jobs\Antagonist_roles\Cargonia.md)
+[Trator](\5_Dev\routine1.0.5\Antagoniste\Traitor.md) [Nukie](Nuclear%20Operative.md) [Rebellion](\3_HowToPlay\jobs\Antagonist_roles\Cargonia.md)
 
 à moins que la personne qui les a tués ne soit pas intelligente, ce n'est pas une tâche simple, il y a beaucoup de personnes qui peuvent vouloir votre mort pour une raison ou une autre.
 
