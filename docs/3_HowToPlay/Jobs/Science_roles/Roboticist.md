@@ -14,7 +14,7 @@ As a Roboticist, your job is simply to create robots. From simple cleaning bots 
 ### So what do i do?
 
 
-this is a short summary of your job as a roboticist. for a more in-depth guide, see [Robotics Guide](\3_HowToPlay\Guides\Science_guides\Robotics-Guide.md)
+this is a short summary of your job as a roboticist. for a more in-depth guide, see [Robotics Guide](/3_HowToPlay/Jobs/Science_roles/Roboticist.md#robotics-guide)
 
 Simple. Make robots. At the time of this page being made, you have three robots that you can make: Floor bots, which replace removed floor tiles; Cleaning bots, which clean up bloodied floors (without leaving any slippery floors behind!); and Medical bots, which currently do nothing, however will be able to heal injured people in the future.
 
@@ -122,6 +122,6 @@ Congratulations! You now have a Medical bot.
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

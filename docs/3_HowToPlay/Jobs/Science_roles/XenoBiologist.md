@@ -1,6 +1,7 @@
-[[File:Xenoarcheology_Wiki.png|128x128px]]
-
 # Xenoarcheology
+
+~~Image no longer available: Xenoarcheology~~
+
 ## Xenoarcheology
 
 Do you wish to join Nanotransen's [[Scientist]]s in their effort to study and collect alien artifacts? Welcome to Xenoarcheology! This guide will cover; Artifacts, Artifact Sampling, Xenoarcheology Machines, Xenoarcheology Items, Tips and tricks, Mapping.
@@ -78,6 +79,6 @@ A suit specialised for anomaly research. The suit provides almost flawless prote
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

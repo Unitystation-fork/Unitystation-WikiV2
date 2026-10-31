@@ -6,18 +6,18 @@
 
 Engineers are the repairmen and electricians of the station. If there's a hole in the station providing one of the hallways or departments with a fresh view of space, it's the Engineer's job to fix it. If wires have been cut and half the station is out of power, it's the Engineer's job to fix it.
 
-As an Engineer, people expect you to know at least the basics of Construction, how the power system works and how to lay wires, etc. If you're ever confused on what to do, ask the [Chief Engineer](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md). They should give you advice, since they are your superior and it's their job to coordinate and assist engineers.
+As an Engineer, people expect you to know at least the basics of Construction, how the power system works and how to lay wires, etc. If you're ever confused on what to do, ask the [Chief Engineer](/3_HowToPlay/Jobs/Engineering_roles/Chief-Engineer.md). They should give you advice, since they are your superior and it's their job to coordinate and assist engineers.
 
-At the bare minimum, you must know how to fix a hull breach and how to turn on the SMES. Learn how to do these as an assistant to the [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md) before you play as the only engineer on a low population server. Otherwise, you will have a really angry station on your back.
+At the bare minimum, you must know how to fix a hull breach and how to turn on the SMES. Learn how to do these as an assistant to the [CE](/3_HowToPlay/Jobs/Engineering_roles/Chief-Engineer.md) before you play as the only engineer on a low population server. Otherwise, you will have a really angry station on your back.
 ### Bob the Builder
 
-this is just a very basic guide to how the Construction system works. for a more in-depth guide, see [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md).
+this is just a very basic guide to how the Construction system works. for a more in-depth guide, see [Construction](/3_HowToPlay/Jobs/Engineering_roles/Engineer.md#construction).
 
 In Unitystation, there are three materials you'll need to worry about: Metal Plates, Glass Sheets, and Metal Rods. There are some more, but these are the ones you'll most often be using. In order to craft/construct something, have a material selected in your hand, and either press Z or click on it in your hand. This will open a Construction menu where you can select what item to build. Keep in mind some items will need more materials than others, for example a department battery will need 30 metal plates where as a girder will only need 2.
 
 Once you've clicked on the item you want to build, wait for the bar above your head to fill up, and boom, you've built the item you want to build. Another note is that some items in the Construction menu are intermediary constructions that must be finished with additional Construction. For example, to build a wall requires you to construct a metal girder with 2 metal sheets, then finish the wall by clicking on the girder with 2 more sheets.
 
-Construction materials will go very fast, especially with a full engineering department. It will likely be necessary to order more materials from [Cargo](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md). If you have a [CE](\3_HowToPlay\Jobs\Engineering_roles\Chief-Engineer.md), get in touch with them about what you need. Their status as a head will get things ordered and shipped faster. However, the [Shaft Miners](\3_HowToPlay\Jobs\Cargo_roles\Shaft-Miner.md) [might](\4_Univers\Other\Jokes\So-close-to-impossible-that-it-might-as-well-not-even-exist.md) randomly show up with a humongous shipment of Construction materials, both basic and exotic, to let you go nuts with. Be thankful you don't have to share them with [Science](\3_HowToPlay\Jobs\Science_roles\Roboticist.md) yet.
+Construction materials will go very fast, especially with a full engineering department. It will likely be necessary to order more materials from [Cargo](/3_HowToPlay/Jobs/Cargo_roles/Quartermaster.md). If you have a [CE](/3_HowToPlay/Jobs/Engineering_roles/Chief-Engineer.md), get in touch with them about what you need. Their status as a head will get things ordered and shipped faster. However, the [Shaft Miners](/3_HowToPlay/Jobs/Cargo_roles/Shaft-Miner.md) [might](/4_Univers/Other/Jokes/So-close-to-impossible-that-it-might-as-well-not-even-exist.md) randomly show up with a humongous shipment of Construction materials, both basic and exotic, to let you go nuts with. Be thankful you don't have to share them with [Science](/3_HowToPlay/Jobs/Science_roles/Roboticist.md) yet.
 
 
 ### Electricity
@@ -47,17 +47,17 @@ Engineers get given a set of tools, both in their toolbelt and in toolboxes stor
 
 In addition, on most stations, each Engineer gets their own hardsuit. Cherish your birthright and never take it off. It will save your life.
 
-### Traitorneering ([traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) engineer)
+### Traitorneering ([traitor](/3_HowToPlay/Jobs/Antagonist_roles/Traitor.md) engineer)
 
-A [traitor](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) engineer isn't as easy as you might think it is. While you do have good access, a lot of useful equipment (including a hardsuit), and a generally effective excuse to be in lots of places you aren't supposed to ("just making repairs!"), you critically don't get access to any swanky weapons. No matter where you go, you also have a responsibility *to look busy.* Lingering around a place for too long without doing anything will very quickly arouse suspicions, so find things to do.
+A [traitor](/3_HowToPlay/Jobs/Antagonist_roles/Traitor.md) engineer isn't as easy as you might think it is. While you do have good access, a lot of useful equipment (including a hardsuit), and a generally effective excuse to be in lots of places you aren't supposed to ("just making repairs!"), you critically don't get access to any swanky weapons. No matter where you go, you also have a responsibility *to look busy.* Lingering around a place for too long without doing anything will very quickly arouse suspicions, so find things to do.
 
 ------
 
 ## Construction
 
-Construction and deconstruction are essential tools for [Engineers](\3_HowToPlay\Jobs\Engineering_roles\Engineer.md) and [Traitors](\3_HowToPlay\Jobs\Antagonist_roles\Traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
+Construction and deconstruction are essential tools for [Engineers](/3_HowToPlay/Jobs/Engineering_roles/Engineer.md) and [Traitors](/3_HowToPlay/Jobs/Antagonist_roles/Traitor.md) alike. For most of the buildings, the only thing you must do is activate the required materials in your hand (via pressing z or just clicking them).
 
-A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](\3_HowToPlay\Jobs\Cargo_roles\Quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
+A main feature of Unitystation is that almost any item in the game can be either ordered from the [quartermaster](/3_HowToPlay/Jobs/Cargo_roles/Quartermaster.md), or built with materials. As this game is a work-in-progress, we're not quite there yet. But here are some things you can build and deconstruct, though.
 
 ### Cloth ![Cloth](/img/Construction/Materials/stack_objects_sheet-cloth.png)
 
@@ -294,7 +294,7 @@ On specifically how to build all machines:
 ------
 
 ## Guide to electricity
-Relevent guides: [Construction](\3_HowToPlay\Guides\Engineering_guides\Construction.md) , [Nuclear Reactor](\3_HowToPlay\Guides\Engineering_guides\Guide-to-the-nuclear-reactor.md)
+Relevent guides: [Construction](/3_HowToPlay/Jobs/Engineering_roles/Engineer.md#construction) , [Nuclear Reactor](/3_HowToPlay/Jobs/Engineering_roles/Chief-Engineer.md#guide-to-the-nuclear-reactor)
 
 Note: This is not a guide to the operation of the nuclear reactor or building electrical equipment, that is linked directly above.
 
@@ -316,7 +316,7 @@ also not function without power, meaning dead bodies will pile up and not be rev
 
 ### Types of Wires
 Rather than a single type of wire, the station's power supply is made of a network of many types of wires. Low voltage wires are cheap, but can only handle smaller amounts of power.
-Medium power wires are the most common type of wire and are used in [hacking](\3_HowToPlay\Guides\Engineering_guides\Hacking-Guide.md) doors. High voltage wires are the rarest type of wires and can handle the enormous loads made by
+Medium power wires are the most common type of wire and are used in [hacking](/3_HowToPlay/Jobs/Engineering_roles/Engineer.md#hacking-guide) doors. High voltage wires are the rarest type of wires and can handle the enormous loads made by
 nuclear reactors and generators, they act as the spine upon which the rest of the station's grid is built.
 
 ### Area Power Controllers (APCs)
@@ -378,7 +378,7 @@ Finally, Destroying the generator, SMESs, cutting SMES wires, or cutting generat
 
 ### Spoiler-free Hacking Tips [as of build 4105]
 
-Use a screwdriver on a door (on any [intent](\3_HowToPlay\Guides\General_guides\Intents.md)) to open the panel. Clicking on the door with wires, or a wirecutter in hand will open the hacking interface. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
+Use a screwdriver on a door (on any [intent](/3_HowToPlay/Guides/General_guides/Intents.md)) to open the panel. Clicking on the door with wires, or a wirecutter in hand will open the hacking interface. The panel can be closed again by using a screwdriver on the door a second time, making it less evident that the door has been tampered with.
 
 Door hacking poses a risk of electric shock, so insulated gloves are a good idea!
 
@@ -396,7 +396,7 @@ The same colored wire will do the same thing on every door.
 
 The positions of the wires will be randomized though.
 
-Have a good excuse ready for when the [Head of Security](\3_HowToPlay\Jobs\Security_roles\Security-Officer.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
+Have a good excuse ready for when the [Head of Security](/3_HowToPlay/Jobs/Security_roles/Head-of-Security.md) (inevitably) wanders by while you're up to your yellow-gloved wrists in buzzing, sparking wires.
 
 You may want to start with some door off in maint, where no one can catch you.
 
@@ -458,6 +458,6 @@ Rest of wires do other interactions as well but the one's above are the 4 main o
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />

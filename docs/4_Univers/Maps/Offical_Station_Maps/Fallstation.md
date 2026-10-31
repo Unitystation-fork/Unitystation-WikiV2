@@ -6,7 +6,7 @@ Started from a ship jammed into a small asteroid, Fallstation has an emphasis on
 
 The map is known for having very little maintenance and both it's exterior and interior walls have extensive window coverage.
 
-Fallstation also has it's own unique syndicate and centcom bases. The [Nuke Ops](\3_HowToPlay\Jobs\Antagonist_roles\Nuclear-Operative.md) shuttle is uniquely designed for ramming, as it has two elongated airlocks at the front of the shuttle to penetrate into the station to assist in boarding maneuvers.
+Fallstation also has it's own unique syndicate and centcom bases. The [Nuke Ops](/3_HowToPlay/Jobs/Antagonist_roles/Nuclear-Operative.md) shuttle is uniquely designed for ramming, as it has two elongated airlocks at the front of the shuttle to penetrate into the station to assist in boarding maneuvers.
 
 
 
@@ -19,7 +19,7 @@ Fallstation also has it's own unique syndicate and centcom bases. The [Nuke Ops]
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 

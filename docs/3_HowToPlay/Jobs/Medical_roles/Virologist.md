@@ -1,12 +1,14 @@
 # Virologist
-'SCIENCE ROLES CURRENTLY CAN NOT DO ANYTHING RELATED TO THEIR JOB. KEEP THIS IN MIND WHEN PICKING VIROLOGIST, SCIENTIST,  OR GENETICIST. PAGE WILL BE ADDED ONCE ROLE IS FUNCTIONAL.'
 
-Unfortunately, the only virus in Unity Station at the moment is incurable stupidity, so look elsewhere for now.
+:::info
+**Page being written.** This job works in game (virus analysis and cures), but this page is not complete yet.
+:::
+
 
   <br/>
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
