@@ -1,5 +1,9 @@
 # Geneticist
-'SCIENCE ROLES CURRENTLY CAN NOT DO ANYTHING RELATED TO THEIR JOB. KEEP THIS IN MIND WHEN PICKING VIROLOGIST, SCIENTIST, OR GENETICIST. PAGE WILL BE ADDED ONCE ROLE IS FUNCTIONAL.'
+
+:::info
+**Page being written.** This job works in game (DNA console, mutations), but this page is not complete yet.
+:::
+
 
 
 Currently the laughing stock of the whole station
