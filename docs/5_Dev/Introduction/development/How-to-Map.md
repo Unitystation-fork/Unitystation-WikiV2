@@ -149,7 +149,7 @@ Each device can also be linked via the controls on the relevant component. For e
  The best way to see what prefabs relate to what is to open an existing map and turn on gizmos. Make sure all of the gizmos are turned on and if a line exists between the prefab and another, then a relationship exists. As there are a multitude of components that can exist on a prefab, it is best to read through them to understand what they are doing and what they need, some have tooltips to help. Always remember you can look at existing maps to see how the prefabs are connected.
 1.	All the shuttles need the reaction control system (RCS) Thrusters to be added onto the outside of the shuttle matrixes. Follow instructions detailed [here](https://github.com/unitystation/unitystation/pull/5111).
 1.	Use the `Tools > Mapping > Name Validator` tool to ensure certain objects have appropriate names.<br></br>
-![Tools/Mapping/Name Validator](https://camo.githubusercontent.com/96a31100a53119d13b4131c6ead7e6b4dd9575c8fdb10420916e328701b164e1/68747470733a2f2f692e696d6775722e636f6d2f3642634a5458662e706e67)
+![Tools/Mapping/Name Validator](/img/5_Dev/HowToMap/name_validator.png)
 ## Asteroids and Ruins
 
 Asteroids and ruins are different obstacles Shaft Miners, Curators or Assistants can stumble upon on their travels. Asteroids primarily serve as Ore Deposits for Shaft Miners, sometimes they also have exotic plants or mobs to fight as well. Ruins are derelict stations or shuttles for the players to explore. Copy an existing asteroid or ruin scene inside the **AsteroidScenes** Scene Folder to get started, **make sure you define the location of your scene to somewhere well away from (0,0) otherwise it will spawn inside the station.**

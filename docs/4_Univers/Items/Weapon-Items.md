@@ -4,7 +4,7 @@ There are many different weapons availble in Unitystation. There are ballistic w
  Ballistic weapons, which require ammunition, usually contained in a magazine or clip. A trigger pull causes a detonation, ejects a hot case and projects a warhead (bullet) in the chosen direction and make bruse dommage 8 for the 9mm chageur 20 for the WT550 (4.6x30mm) 30 for the M90 (5.56mm) 
    **For the rest**, I will introduce you to some of the weapons available to the HoS and the Warden. Some however, are reserved for centcom officers and the Syndicate. 
    **From left to right, category of weapon.** Training weapons, Non-lethal weapons, Point weapons (handgun), Automatic point weapons, Shotguns, Grenade launchers. Other weapons.
-     ![Image](https://media.discordapp.net/attachments/1031329910452666490/1031329913971691590/2022-10-16-205138_1920x1080_scrot.png?width=338&height=350)
+     ![Image](/img/Weapons/weapons_overview.png)
     
    
 

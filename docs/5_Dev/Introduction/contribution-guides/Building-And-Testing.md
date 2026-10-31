@@ -27,34 +27,34 @@ To make a proper standalone build, you should set up build settings (only once).
 
 * Go to `File > Build Settings`:
 
-![](https://camo.githubusercontent.com/b2be111d41c3898d0efb0255e0878c5e3e2cc4ae/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f525554726f665a46517a79784d6851396a4d784779412e706e67)
+![File > Build Settings](/img/5_Dev/BuildingAndTesting/build_settings_menu.png)
 
 * Make sure that **StartUp**, **Lobby**, **OnlineScene** and all MainStation scenes possible for lowpop (**Fallstation**, **SquareStation**) are checked (screenshot is out of date):
 
-![](https://camo.githubusercontent.com/8fb35c8c3a3c25b6fa3e59231a51aefb50e18f76/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f316d4a6f7041563652476d524c5f5034525a4b374f672e706e67)
+![Scenes In Build](/img/5_Dev/BuildingAndTesting/scenes_in_build.png)
 
 (If you don't see your current scene in the list, press `Add Open Scenes` button)
 
 If you have **Quick Load** checked on `GameManager` prefab, you can uncheck all the asteroid and additional scenes, too.
 
 * Mark `Development Build` and `Script Debugging` checkboxes, that will show all Build's logs in Editor's console:
-![](https://camo.githubusercontent.com/ef278b53bbd024b95a20f07cb59cc015b03fee46/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f4c682d326c6542785377364148565f58636b384f64412e706e67)
+![Development Build and Script Debugging](/img/5_Dev/BuildingAndTesting/development_build.png)
 
 * Press `Build And Run`. 
 
-![](https://camo.githubusercontent.com/59262f9c9d0e5f74fb378419d8ae5f0ebf36346d/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f7269496b4a4759325265367657477a5a6f444d6670412e706e67)
+![Build And Run](/img/5_Dev/BuildingAndTesting/build_and_run.png)
 
 First time you'll get a folder selection dialog where the build files will be stored. 
 Create a separate folder outside of unitystation's project hierarchy. 
 Then building will start, Unity will freeze until it's finished. 
 
-![](https://camo.githubusercontent.com/fbe064882be6188ea8742a09f055725e5b010fbb/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f5f564445454758745448366c6c6e3447746d514746512e706e67)
+![Building Player](/img/5_Dev/BuildingAndTesting/building_player.png)
 
 When it's ready a game window will pop up. Now you can enjoy smooth framerates and drag window around, also launch several instances if required (that doesn't work for OSX).
 
 Notice how Build's logs appear in Editor's console:
 
-![](https://camo.githubusercontent.com/18d5f7dbca42d8f758740655824fb7186b718e21/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f554e306f31307650545a65573679517071614d6746772e706e67)
+![Build's logs in the Editor console](/img/5_Dev/BuildingAndTesting/build_logs_in_console.png)
 
 Next time you'll just have to press `Ctrl+B`/`Cmd+B` to Build And Run.
 
@@ -64,15 +64,15 @@ Important note:
 ### Set up ping simulation
 To simulate network latency you need to select `Network Manager` in Hierarchy tab:
 
-![](https://camo.githubusercontent.com/d1ad8c261e62e79959f45571a65a168a4a50652c/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f4572704e3378363253664b336263547a736a45355a772e706e67)
+![NetworkManager in Hierarchy](/img/5_Dev/BuildingAndTesting/network_manager_hierarchy.png)
 
 Then find `Custom Network Manager` script in Inspector tab and tick `Use network simulation`:
 
-![](https://camo.githubusercontent.com/aae8a314f2a7e5f24328f2b7f951be27400fb168/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f396c6b6e415a6d6d523032316757387043654e6873512e706e67)
+![Use Network Simulator](/img/5_Dev/BuildingAndTesting/network_simulator_inspector.png)
 
 Set up desirable ping (200 is recommended) and save (so that you don't lose that setting next time Unity crashes)!
 
-![](https://camo.githubusercontent.com/1c7484fe07642072e67e509965d399d0ca536ef2/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f5147583147736257547871784f6c454f504b733377672e706e67)
+![Simulated Average Latency](/img/5_Dev/BuildingAndTesting/network_simulator_latency.png)
 
 Note that actual ping will be more than expected, `200 ping` setting usually makes it 250-750
 
@@ -80,7 +80,7 @@ Note that actual ping will be more than expected, `200 ping` setting usually mak
 In general it's usually like this: Build And Run, then start up game in Editor when it finishes building.
 Doesn't matter much who should host and who should join, but keep in mind that Build performs better.
 
-![](https://camo.githubusercontent.com/9722206f5fb9f62610c9b2d0821efcdece9eb7fc/68747470733a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f655f33674d706a4d517a5f63753830314138664878672e706e67)
+![Build and Editor running together](/img/5_Dev/BuildingAndTesting/build_and_editor_running.png)
 
 ## Advanced Pre-Release Test sequence
 With above testing method you can find most issues related to your code, without spending too much time building. However, before a release or when a stricter test regime is warranted, for ex. when handling sync vars and clients joining, we have an advanced test-sequence:
@@ -100,10 +100,10 @@ Happy spess testing!
 1. Make sure you are on Lobby scene
 2. Set Online scene in NetworkManager (under Managers prefab):
 
-![](https://camo.githubusercontent.com/e66b9088e6b78ae3edc2b18787be4560c86fc263/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3331323435343638343032313632303733362f3439373333393936333037313739313130342f756e6b6e6f776e2e706e67)
+![Online Scene in NetworkManager](/img/5_Dev/BuildingAndTesting/online_scene.png)
 
 3. Don't forget to include the scene you are testing in build preferences as well:
 
-![](https://camo.githubusercontent.com/b77b685b1eff9f9b12860435f367bcbff88d39db/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3331323435343638343032313632303733362f3439373334303639303432333038373130342f756e6b6e6f776e2e706e67)
+![Scene in Build Settings](/img/5_Dev/BuildingAndTesting/scene_in_build_settings.png)
 
 And then Build and Run + fire up game in editor

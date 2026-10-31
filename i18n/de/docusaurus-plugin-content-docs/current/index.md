@@ -103,4 +103,6 @@ No Metagaming/powergaming (Kein Metagaming/Powergaming).
 
 DO YOUR JOB! (oder gib dein Bestes für).
 
-[https://cdn.discordapp.com/atta
+![Unitystation](/img/Home/unitystation_capsule.jpg)
+
+![Choose Profession](/img/Home/choose_profession.png)
