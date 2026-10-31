@@ -39,7 +39,7 @@ For any HoS, the crew can be just as much of a danger as [syndicate agents](/3_H
 <br/>
 <br/>
 
-import Jobs from '/docs/3_HowToPlay/Jobs/Jobs.md'
+import Jobs from '@site/docs/3_HowToPlay/Jobs/_Jobs.md'
 
 <Jobs />
 
