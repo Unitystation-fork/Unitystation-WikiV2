@@ -10,6 +10,7 @@ Pour chaque langue, compare chaque page à la page anglaise :
 - pages absentes : servies en anglais mais pas dans la langue ;
 - ordre du menu de gauche : identique à l'anglais (un fichier traduit remplace aussi
   les métadonnées, dont sidebar_position) ;
+- libellés des catégories du menu de gauche : ceux de MENU_ROWS, ni plus ni moins, dans chaque langue ;
 - points de contrôle : un texte précis doit apparaître sur une page précise.
 
     npm run build && npm run serve        # puis, dans un autre terminal :
@@ -41,6 +42,57 @@ CHECKS = [
     ("ru", "/ru/", "Что такое Unitystation"),
     ("de", "/de/", "Was ist Unitystation"),
 ]
+# Libellés des catégories du menu de gauche (clé = libellé anglais) : (en, fr, ru, de).
+# Les libellés « Jouer », « Играть », « Cartes officielles des stations » viennent du titre des pages traduites.
+MENU_ROWS = [
+    ("Play", "Jouer", "Играть", "Spielen"),
+    ("User interface", "Interface Utilisateur", "Пользовательский интерфейс", "Benutzeroberfläche"),
+    ("User Interface", "Interface Utilisateur", "Пользовательский интерфейс", "Benutzeroberfläche"),
+    ("Caractere", "Personnage", "Персонаж", "Charakter"),
+    ("Guides", "Guides", "Руководства", "Anleitungen"),
+    ("General_guides", "Guides généraux", "Общие руководства", "Allgemeine Anleitungen"),
+    ("Jobs", "Métiers", "Профессии", "Berufe"),
+    ("RP", "RP", "РП", "RP"),
+    ("Univers", "Univers", "Вселенная", "Universum"),
+    ("Items", "Objets", "Предметы", "Gegenstände"),
+    ("Lore", "Lore", "Лор", "Lore"),
+    ("Maps", "Cartes", "Карты", "Karten"),
+    ("Gateway_Maps", "Cartes du Gateway", "Карты Гейтвея", "Gateway-Karten"),
+    ("Offical Station Maps", "Cartes officielles des stations", "Официальные карты станций", "Offizielle Stationskarten"),
+    ("Passive Mobs", "Mobs passifs", "Пассивные мобы", "Passive Mobs"),
+    ("Other", "Autres", "Прочее", "Sonstiges"),
+    ("Jokes", "Blagues", "Шутки", "Witze"),
+    ("tools", "Outils", "Инструменты", "Werkzeuge"),
+    ("Dev", "Développeurs", "Разработчикам", "Entwickler"),
+    ("development", "Développement", "Разработка", "Entwicklung"),
+    ("FAQ", "FAQ", "FAQ", "FAQ"),
+    ("Introduction", "Introduction", "Введение", "Einführung"),
+    ("contribution-guides", "Guides de contribution", "Руководства по участию", "Anleitungen zum Mitwirken"),
+    ("project-goals", "Objectifs du projet", "Цели проекта", "Projektziele"),
+    ("current-goal-scope", "Objectifs en cours", "Текущие цели", "Aktuelle Ziele"),
+    ("Routine", "Routines", "Чек-листы ролей", "Routinen"),
+    ("Antagoniste", "Antagonistes", "Антагонисты", "Antagonisten"),
+    ("Protagoniste", "Protagonistes", "Протагонисты", "Protagonisten"),
+    ("Sciences", "Science", "Научный Отдел", "Wissenschaft"),
+    ("Services", "Service", "Сервисный Отдел", "Service"),
+    # métiers (traduits depuis #84)
+    ("Command", "Commandement", "Командование", "Kommando"),
+    ("Entertainment", "Divertissement", "Развлекательный Отдел", "Unterhaltung"),
+    ("Security", "Sécurité", "Служба Безопасности", "Sicherheit"),
+    ("Engineering", "Ingénierie", "Инженерный Отдел", "Technik"),
+    ("Science", "Science", "Научный Отдел", "Wissenschaft"),
+    ("Medical", "Médical", "Медицинский Отдел", "Medizin"),
+    ("Cargo", "Cargo", "Отдел Карго", "Cargo"),
+    ("Service", "Service", "Сервисный Отдел", "Service"),
+    ("Synthetic", "Synthétiques", "Синтетический", "Synthetisch"),
+    ("Antagonist", "Antagonistes", "Антагонисты", "Antagonisten"),
+    ("Protagonist", "Protagonistes", "Протагонисты", "Protagonisten"),
+    ("Centcom", "Centcom", "Центральный Комитет", "Centcom"),
+    ("Special", "Spéciaux", "Особые", "Spezial"),
+    ("Ghost", "Fantômes", "Роли призраков", "Geister"),
+]
+MENU = {loc: {row[i] for row in MENU_ROWS} for i, loc in enumerate(("en",) + LOCALES)}
+SUBLIST = re.compile(r'<a[^>]*class="[^"]*\bmenu__link--sublist\b[^"]*"[^>]*>(.*?)</a>', re.S)
 CONTENT = re.compile(r'class="[^"]*\btheme-doc-markdown\b[^"]*">(.*?)(?:<footer class="theme-doc-footer|</article>)', re.S)
 # repéré par sa classe, pas par aria-label (libellé traduisible, donc différent selon la langue)
 SIDEBAR = re.compile(r'<nav[^>]*class="[^"]*\bmenu\b[^"]*\bthin-scrollbar\b.*?</nav>', re.S)
@@ -133,6 +185,12 @@ def sidebar(page_html, loc="", prefix=""):
     return out
 
 
+def categories(page_html):
+    """Libellés des catégories du menu de gauche d'une page."""
+    m = SIDEBAR.search(page_html or "")
+    return {html_lib.unescape(re.sub(r"<[^>]+>", "", t)).strip() for t in SUBLIST.findall(m.group(0) if m else "")}
+
+
 def routes(build, prefix=""):
     """Adresses des pages d'un build (dossiers contenant index.html), sans les autres langues."""
     base = os.path.join(build, prefix)
@@ -205,7 +263,11 @@ def run(build, base):
     if not any(sidebar(en_html[r], prefix=prefix) for r in en):
         raise Unreachable("menu de gauche introuvable dans les pages anglaises (thème modifié ?)")
     failed = False
+    seen = {"en": set()}
+    for r in en:
+        seen["en"] |= categories(en_html[r])
     for loc in LOCALES:
+        seen[loc] = set()
         translated, missing, order = 0, [], []
         for r in en:
             n_err = len(errors)
@@ -214,6 +276,7 @@ def run(build, base):
                 if len(errors) == n_err:  # vraiment absente (une page en erreur est listée à part)
                     missing.append(r)
                 continue
+            seen[loc] |= categories(h)
             t = content(h)
             if t and differs(content(en_html[r]), t):
                 translated += 1
@@ -228,6 +291,13 @@ def run(build, base):
             for e in items[:10]:
                 print(f"   {label} : /{loc}{e}")
         failed |= bool(extra or missing or order) or translated < floor
+    for loc in ("en",) + LOCALES:
+        manque, en_trop = sorted(MENU[loc] - seen[loc]), sorted(seen[loc] - MENU[loc])
+        print(f"[{'KO' if manque or en_trop else 'OK'}] [{loc}] libellés du menu : {len(seen[loc])} vus, {len(MENU[loc])} attendus, {len(manque)} absents, {len(en_trop)} en trop")
+        for label, items in (("attendu mais absent", manque), ("vu mais inattendu", en_trop)):
+            for e in items:
+                print(f"   {label} : {e}")
+        failed |= bool(manque or en_trop)
     for loc, path, needle in CHECKS:
         t = content(fetch_page(base, path, errors))
         ok = needle in t
