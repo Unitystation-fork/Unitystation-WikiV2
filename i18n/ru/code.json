@@ -209,5 +209,9 @@
   "jobsMenu.roles": {
     "message": "Роли",
     "description": "Jobs table: roles column header"
+  },
+  "orgChart.title": {
+    "message": "Цепочка подчинения",
+    "description": "Jobs page: title of the chain of command chart"
   }
 }

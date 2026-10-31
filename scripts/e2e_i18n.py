@@ -87,6 +87,44 @@ MENU_ROWS = [
     ("Special", "Spéciaux", "Особые", "Spezial"),
     ("Ghost", "Fantômes", "Роли призраков", "Geister"),
 ]
+# Organigramme de la page des métiers : les 33 pages attendues (adresses anglaises, sans langue).
+J = "/HowToPlay/Jobs/"
+ORG_CHART = {J + p for p in (
+    "Command_roles/Captain", "Synthetic_roles/Station-AI",
+    "Command_roles/Head-of-Personnel", "Security_roles/Head-of-Security",
+    "Medical_roles/Chief-Medical-Officer", "Science_roles/Research-Director", "Engineering_roles/Chief-Engineer",
+    "Cargo_roles/Quartermaster", "Cargo_roles/Cargo-Technician", "Cargo_roles/Shaft-Miner",
+    "Service_roles/Botanist", "Service_roles/Cook", "Service_roles/Bartender", "Service_roles/Janitor",
+    "Entertainment_Roles/Chaplain", "Entertainment_Roles/Curator", "Entertainment_Roles/Clown",
+    "Entertainment_Roles/Mime", "Service_roles/Assistant",
+    "Security_roles/Warden", "Security_roles/Detective", "Security_roles/Security-Officer", "Security_roles/Lawyer",
+    "Medical_roles/Medical-Doctor", "Medical_roles/Chemist", "Medical_roles/Paramedic",
+    "Medical_roles/Psychologist", "Medical_roles/Virologist",
+    "Science_roles/Scientist", "Science_roles/Roboticist", "Medical_roles/Geneticist",  # fiche complète, pas le renvoi de Science_roles
+    "Engineering_roles/Engineer", "Engineering_roles/Atmospherics-Technician",
+)}
+# enfant -> parent (chaîne de commandement) ; vide = sans chef. Le Lawyer dépend du HoS (lien pointillé), pas du Warden.
+_HOP, _HOS, _CMO, _RD, _CE = ("Command_roles/Head-of-Personnel", "Security_roles/Head-of-Security",
+                              "Medical_roles/Chief-Medical-Officer", "Science_roles/Research-Director",
+                              "Engineering_roles/Chief-Engineer")
+ORG_PARENT = {J + c: (J + p if p else "") for c, p in (
+    ("Command_roles/Captain", ""), ("Synthetic_roles/Station-AI", ""),
+    (_HOP, "Command_roles/Captain"), (_HOS, "Command_roles/Captain"), (_CMO, "Command_roles/Captain"),
+    (_RD, "Command_roles/Captain"), (_CE, "Command_roles/Captain"),
+    ("Cargo_roles/Quartermaster", _HOP), ("Cargo_roles/Cargo-Technician", "Cargo_roles/Quartermaster"),
+    ("Cargo_roles/Shaft-Miner", "Cargo_roles/Quartermaster"),
+    ("Service_roles/Botanist", _HOP), ("Service_roles/Cook", _HOP), ("Service_roles/Bartender", _HOP),
+    ("Service_roles/Janitor", _HOP), ("Entertainment_Roles/Chaplain", _HOP), ("Entertainment_Roles/Curator", _HOP),
+    ("Entertainment_Roles/Clown", _HOP), ("Entertainment_Roles/Mime", _HOP), ("Service_roles/Assistant", _HOP),
+    ("Security_roles/Warden", _HOS), ("Security_roles/Detective", "Security_roles/Warden"),
+    ("Security_roles/Security-Officer", "Security_roles/Warden"), ("Security_roles/Lawyer", _HOS),
+    ("Medical_roles/Medical-Doctor", _CMO), ("Medical_roles/Chemist", _CMO), ("Medical_roles/Paramedic", _CMO),
+    ("Medical_roles/Psychologist", _CMO), ("Medical_roles/Virologist", _CMO),
+    ("Science_roles/Scientist", _RD), ("Science_roles/Roboticist", _RD), ("Medical_roles/Geneticist", _RD),
+    ("Engineering_roles/Engineer", _CE), ("Engineering_roles/Atmospherics-Technician", _CE),
+)}
+ORG_BOX = re.compile(r'<a\b[^>]*\bclass="[^"]*\borg-box\b[^"]*"[^>]*>', re.S)
+HREF = re.compile(r'\bhref="([^"]*)"')
 MENU = {loc: {row[i] for row in MENU_ROWS} for i, loc in enumerate(("en",) + LOCALES)}
 SUBLIST = re.compile(r'<a[^>]*class="[^"]*\bmenu__link--sublist\b[^"]*"[^>]*>(.*?)</a>', re.S)
 CONTENT = re.compile(r'class="[^"]*\btheme-doc-markdown\b[^"]*">(.*?)(?:<footer class="theme-doc-footer|</article>)', re.S)
@@ -224,6 +262,47 @@ def really_translated(loc):
     return n
 
 
+def org_chart(base, loc, errors):
+    """Organigramme de /{loc}/HowToPlay/Jobs/ : les 33 pages attendues, liens réels en 200, hiérarchie conforme. True si KO."""
+    lang = f"/{loc}" if loc != "en" else ""
+    prefix = urllib.parse.urlparse(base).path.rstrip("/")
+    page = fetch_page(base, f"{lang}{J}", errors)
+    found, real, tree, inattendus = [], {}, {}, []
+    for tag in ORG_BOX.findall(page or ""):
+        m = HREF.search(tag)
+        raw = urllib.parse.unquote(html_lib.unescape(m.group(1))) if m else ""
+        h = raw
+        if prefix and h.startswith(prefix + "/"):
+            h = h[len(prefix):]
+        if lang:
+            # en fr/ru/de, un lien sans préfixe de langue renvoie vers l'anglais : case inattendue
+            h = h[len(lang):] if h.startswith(lang + "/") else "(sans " + lang + ") " + h
+        h = h.rstrip("/")
+        found.append(h)
+        real[h] = raw[len(prefix):] if prefix and raw.startswith(prefix + "/") else raw
+        ident, par = (re.search(r'\bdata-org-%s="([^"]*)"' % k, tag) for k in ("id", "parent"))
+        if ident:
+            tree[("/" + html_lib.unescape(ident.group(1))).rstrip("/")] = ("/" + html_lib.unescape(par.group(1))).rstrip("/") if par and par.group(1) else ""
+    expected = {p.rstrip("/") for p in ORG_CHART}
+    manque, en_trop = sorted(expected - set(found)), sorted(set(found) - expected)
+    doubles = len(found) - len(set(found))
+    mortes = []
+    for h in sorted(set(found) & expected):
+        if fetch_page(base, real[h], errors) is None:  # le href réel de la page, pas l'adresse attendue
+            mortes.append(h)
+    want = {k.rstrip("/"): v.rstrip("/") for k, v in ORG_PARENT.items()}
+    hier = [f"{c} : parent {tree.get(c, '(case sans data-org-id)') or '(aucun)'}, attendu {want[c] or '(aucun)'}"
+            for c in sorted(want) if tree.get(c) != want[c]]
+    ko = bool(manque or en_trop or doubles or mortes or hier)
+    print(f"[{'KO' if ko else 'OK'}] [{loc}] organigramme : {len(found)} cases, {len(expected)} attendues, "
+          f"{len(manque)} absentes, {len(en_trop)} en trop, {doubles} en double, {len(mortes)} lien(s) mort(s), "
+          f"{len(hier)} parent(s) faux sur {len(want)}")
+    for label, items in (("case absente", manque), ("case inattendue", en_trop), ("lien mort", mortes), ("hiérarchie", hier)):
+        for e in items[:10]:
+            print(f"   {label} : {e if label == 'hiérarchie' else lang + e}")
+    return ko
+
+
 def main():
     if len(sys.argv) != 3:
         print(__doc__)
@@ -299,6 +378,8 @@ def run(build, base):
         ok = needle in t
         print(f"[{'OK' if ok else 'KO'}] {path} contient « {needle} »")
         failed |= not ok
+    for loc in ("en",) + LOCALES:
+        failed |= org_chart(base, loc, errors)
     if errors:
         print(f"[erreur] {len(errors)} page(s) en erreur côté serveur :")
         for p, msg in errors[:10]:

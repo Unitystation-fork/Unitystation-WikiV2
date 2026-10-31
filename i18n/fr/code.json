@@ -213,5 +213,9 @@
   "jobsMenu.roles": {
     "message": "Rôles",
     "description": "Jobs table: roles column header"
+  },
+  "orgChart.title": {
+    "message": "Chaîne de commandement",
+    "description": "Jobs page: title of the chain of command chart"
   }
 }
