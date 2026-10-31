@@ -206,5 +206,61 @@
   "sidebar.tutorialSidebar.category.html": {
     "message": "html",
     "description": "The label for category html in sidebar tutorialSidebar"
+  },
+  "sidebar.defaultSidebar.category.Command": {
+    "message": "Kommando",
+    "description": "The label for category Command in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Entertainment": {
+    "message": "Unterhaltung",
+    "description": "The label for category Entertainment in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Security": {
+    "message": "Sicherheit",
+    "description": "The label for category Security in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Engineering": {
+    "message": "Technik",
+    "description": "The label for category Engineering in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Science": {
+    "message": "Wissenschaft",
+    "description": "The label for category Science in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Medical": {
+    "message": "Medizin",
+    "description": "The label for category Medical in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Cargo": {
+    "message": "Cargo",
+    "description": "The label for category Cargo in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Service": {
+    "message": "Service",
+    "description": "The label for category Service in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Synthetic": {
+    "message": "Synthetisch",
+    "description": "The label for category Synthetic in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Antagonist": {
+    "message": "Antagonisten",
+    "description": "The label for category Antagonist in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Protagonist": {
+    "message": "Protagonisten",
+    "description": "The label for category Protagonist in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Centcom": {
+    "message": "Centcom",
+    "description": "The label for category Centcom in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Special": {
+    "message": "Spezial",
+    "description": "The label for category Special in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Ghost": {
+    "message": "Geister",
+    "description": "The label for category Ghost in sidebar defaultSidebar"
   }
 }

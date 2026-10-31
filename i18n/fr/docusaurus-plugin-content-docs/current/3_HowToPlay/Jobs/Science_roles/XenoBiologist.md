@@ -1,4 +1,6 @@
-[[File:Xenoarcheology_Wiki.png|128x128px]]
+# Xenoarcheology
+
+~~Image no longer available: Xenoarcheology~~
 
 Do you wish to join Nanotransen's [[Scientist]]s in their effort to study and collect alien artifacts? Welcome to Xenoarcheology! This guide will cover; Artifacts, Artifact Sampling, Xenoarcheology Machines, Xenoarcheology Items, Tips and tricks, Mapping.
 

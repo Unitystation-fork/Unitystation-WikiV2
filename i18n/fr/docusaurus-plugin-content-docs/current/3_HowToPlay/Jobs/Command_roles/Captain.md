@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Capitain
+# Capitaine
 **Role type**: <font color="#green">Commande</font>. **Access**: <font color="green">Partout</font>. **Difficulty**: <font color="Red">Très difficile</font>. Surnom: "Cap"
 
 

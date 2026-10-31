@@ -205,5 +205,13 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "jobsMenu.department": {
+    "message": "Abteilung",
+    "description": "Jobs table: department column header"
+  },
+  "jobsMenu.roles": {
+    "message": "Rollen",
+    "description": "Jobs table: roles column header"
   }
 }
