@@ -1,0 +1,139 @@
+name: Image Docker
+
+# Construit l'image Docker du wiki (le Dockerfile, inchangé) sur GitHub et la
+# publie sur ghcr.io. Rien n'est déployé : la mise en ligne reste une commande
+# lancée à la main sur le VPS (voir README, « Déploiement »).
+#
+# - pull_request : seulement si le Dockerfile, .dockerignore, package*.json ou
+#   ce fichier changent (build.yml construit déjà le site sur chaque PR) ;
+#   construit et teste l'image, sans la publier ;
+# - push sur main, tag v* : construit, teste, publie ;
+# - lancement manuel : publie seulement depuis main ou un tag v* (depuis une
+#   autre branche : construit et teste, sans publier).
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+    paths:
+      - Dockerfile
+      - .dockerignore
+      - package.json
+      - package-lock.json
+      - docker-compose.yml
+      - docker-compose.ghcr.yml
+      - .github/workflows/image.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  # Un groupe par branche ou tag. PR : une nouvelle poussée annule l'ancien build.
+  # main : les runs passent l'un après l'autre, jamais en parallèle (deux runs
+  # en parallèle pourraient finir dans le désordre et `latest` pointerait sur le
+  # plus ancien). Attention : relancer à la main un ancien run de main republie
+  # `latest` avec cet ancien commit. GitHub ne garde qu'un run en
+  # attente : si plusieurs fusions arrivent pendant un build, seule la dernière
+  # est construite (les commits intermédiaires n'ont alors pas de tag sha-).
+  group: image-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  # Publier seulement depuis main ou un tag v* (jamais sur une PR).
+  PUBLISH: ${{ github.event_name != 'pull_request' && (github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')) }}
+  # ghcr.io exige des minuscules (le dépôt s'appelle Unitystation-fork/Unitystation-WikiV2).
+  IMAGE: ghcr.io/unitystation-fork/unitystation-wikiv2
+  # Nom local de l'image testée avant publication.
+  TEST_TAG: unitystation-wikiv2:test
+
+jobs:
+  image:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      packages: write # publication avec GITHUB_TOKEN ; lecture seule sur les PR de forks
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      # docker-compose.yml seul : construit sur place (build, pas d'image ghcr).
+      # Avec docker-compose.ghcr.yml : image ghcr, pull_policy always, plus de build.
+      - name: Test - fichiers docker compose
+        run: |
+          set -euo pipefail
+          base=$(docker compose -f docker-compose.yml config --format json)
+          jq -e '.services["unitystation-wiki"] | has("build") and (.image // "" | startswith("ghcr.io") | not)' <<<"$base" >/dev/null
+          ghcr=$(docker compose -f docker-compose.yml -f docker-compose.ghcr.yml config --format json)
+          jq -e --arg img "$IMAGE:latest" '.services["unitystation-wiki"] | (has("build") | not) and .image == $img and .pull_policy == "always"' <<<"$ghcr" >/dev/null
+          echo "OK compose"
+          docker compose version
+
+      - uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
+
+      - name: Connexion à ghcr.io
+        if: env.PUBLISH == 'true'
+        uses: docker/login-action@81c6f93d4bc991e510b342a00b419b3bb4efc5c6 # v4.7.0
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      # latest = dernier main (ce que le VPS construit aujourd'hui), main, sha-<commit>,
+      # vX.Y tel quel sur un tag git (pas type=semver : nos tags n'ont pas de patch).
+      - name: Tags et labels
+        id: meta
+        uses: docker/metadata-action@dc802804100637a589fabce1cb79ff13a1411302 # v6.2.0
+        with:
+          images: ${{ env.IMAGE }}
+          flavor: latest=false
+          tags: |
+            type=raw,value=latest,enable={{is_default_branch}}
+            type=ref,event=branch
+            type=ref,event=tag
+            type=sha
+
+      # Un seul build : l'image testée ci-dessous est exactement celle publiée.
+      # Pas de cache GitHub : `COPY . .` change à chaque commit, le cache ne
+      # ferait gagner que `npm ci` (~45 s) et son export coûtait ~5 min et ~1 Go.
+      # linux/amd64 seulement : le VPS est en x86.
+      - name: Build (sans publier)
+        uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
+        with:
+          context: .
+          load: true
+          tags: |
+            ${{ env.TEST_TAG }}
+            ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          # Manifeste simple, lisible par tout Docker (pas d'attestation jointe).
+          provenance: false
+
+      - name: Test - l'image démarre et sert les 4 langues
+        run: |
+          set -euo pipefail
+          # Sans --rm : si le serveur s'arrête, ses journaux restent lisibles.
+          docker run -d --name wiki -p 3000:3000 "$TEST_TAG"
+          # Attend que le serveur réponde (20 s max), sinon échec avec les journaux.
+          up=0
+          for i in $(seq 1 20); do
+            if curl -fsS -o /dev/null http://localhost:3000/; then up=1; break; fi
+            sleep 1
+          done
+          if [ "$up" -ne 1 ]; then echo "KO : le serveur ne répond pas"; docker logs wiki || true; exit 1; fi
+          # Chaque chemin doit répondre, sinon l'étape échoue.
+          # (Pas de `curl ... && echo` : sous set -e, un échec dans une liste && ne
+          # stoppe pas le script.) /fr/img passe par le lien symbolique du Dockerfile.
+          for p in / /fr/ /ru/ /de/ /img/Icon/favicon.ico /fr/img/Icon/favicon.ico; do
+            if ! curl -fsS -o /dev/null "http://localhost:3000$p"; then
+              echo "KO $p"; docker logs wiki || true; exit 1
+            fi
+            echo "OK $p"
+          done
+          docker rm -f wiki
+
+      # Pousse l'image déjà construite et testée (pas de second build).
+      - name: Publication sur ghcr.io
+        if: env.PUBLISH == 'true'
+        run: docker push --all-tags "$IMAGE"
