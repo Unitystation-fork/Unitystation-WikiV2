@@ -36,17 +36,14 @@ wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Others/ma
 le raccourcis sera dans votre Menu/Game 
 
 ## MacOS ##
- 1. **Command(⌘) + [Space]** write "terminal" and validated with [enter] (⏎)
- 2.  Copy past this line 
+ 1. Appuyez sur **Commande (⌘) + Espace**, tapez « terminal » et validez avec **Entrée** (⏎).
+ 2. Collez cette ligne et validez avec **Entrée**. Elle télécharge la dernière version de StationHub, la décompresse dans `~/Games/Unitystation` et la copie dans le dossier Applications :
 ```bash
-mkdir -p ~/Games/Unitystation ; cd ~/Games/Unitystation ; curl -O https://github.com/unitystation/stationhub/releases/download/931/osx931.zip ; curl -O https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png; unzip *.zip ; rm -rfv *.zip ./ ; chmod -R 750 ./StationHub ; exit
+mkdir -p ~/Games/Unitystation && cd ~/Games/Unitystation && curl -fL -o StationHub.zip "$(curl -fsSL https://api.github.com/repos/unitystation/stationhub/releases/latest | grep -o 'https://[^"]*/osx[0-9]*\.zip' | head -n 1)" && unzip -o StationHub.zip && rm -rf StationHub.app && tar -xf StationHub.tar && rm -f StationHub.zip StationHub.tar && rm -rf /Applications/StationHub.app && cp -R StationHub.app /Applications/
 ```
-To start the game, just double click on "stationHub". in your game folder
+Pour lancer le jeu, ouvrez **StationHub** depuis le dossier Applications (ou le Launchpad). Si la copie dans Applications est refusée (compte sans droits d'administrateur), ouvrez plutôt `StationHub.app` dans `~/Games/Unitystation`.
 
-
-
-
-ln -s ~/Applications/UnityStation
+Pour mettre StationHub à jour plus tard, relancez la même ligne.
 
 ## Requies ##
 4Gio de Ram (8 recommendé)

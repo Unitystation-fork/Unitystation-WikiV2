@@ -26,24 +26,14 @@ wget  https://raw.githubusercontent.com/Unitystation-fork/Unitystation-Others/ma
 ярлык будет находиться в вашем Меню/Игры 
 
 ## MacOS ##
- 1. **Cmd(⌘) + [пробел]** напишите "terminal" и подтвердите [enter] (⏎)
- 2. Скопируйте эту строку 
- 
-```properties
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
-```
- 3. Затем
-
-```properties
-brew install wget
-```
-
- 4.  Затем
+ 1. Нажмите **Cmd (⌘) + пробел**, напишите «terminal» и подтвердите **Enter** (⏎).
+ 2. Вставьте эту строку и нажмите **Enter**. Она скачает последнюю версию StationHub, распакует её в `~/Games/Unitystation` и скопирует в папку «Программы» (Applications):
 ```bash
-mkdir -p ~/Games/Unitystation/ ; cd ~/Games/Unitystation/ ; wget https://github.com/unitystation/stationhub/releases/download/931/osx931.zip ; wget https://github.com/unitystation/stationhub/blob/develop/UnitystationLauncher/Assets/unityico.png ; unzip *.zip ; rm -rfv *.zip ./ ;sudo chmod -R 750 ./StationHub ; killall Terminal
+mkdir -p ~/Games/Unitystation && cd ~/Games/Unitystation && curl -fL -o StationHub.zip "$(curl -fsSL https://api.github.com/repos/unitystation/stationhub/releases/latest | grep -o 'https://[^"]*/osx[0-9]*\.zip' | head -n 1)" && unzip -o StationHub.zip && rm -rf StationHub.app && tar -xf StationHub.tar && rm -f StationHub.zip StationHub.tar && rm -rf /Applications/StationHub.app && cp -R StationHub.app /Applications/
 ```
-Чтобы начать игру, просто дважды щёлкните на "stationHub".
-#ln -s ~/Applications/UnityStation
+Чтобы начать игру, откройте **StationHub** из папки «Программы» (или из Launchpad). Если копирование в «Программы» запрещено (учётная запись без прав администратора), откройте `StationHub.app` в папке `~/Games/Unitystation`.
+
+Чтобы позже обновить StationHub, выполните эту же строку ещё раз.
 
 ## Системные требования ##
 4Гб оперативной памяти (рекомендуется 8Гб)
