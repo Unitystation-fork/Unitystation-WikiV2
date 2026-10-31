@@ -64,6 +64,7 @@ MENU_ROWS = [
     ("Jokes", "Blagues", "Шутки", "Witze"),
     ("Wiki Tools", "Outils du wiki", "Инструменты вики", "Wiki-Werkzeuge"),
     ("Dev", "Développeurs", "Разработчикам", "Entwickler"),
+    ("admin", "Administration", "Администрирование", "Administration"),
     ("Development", "Développement", "Разработка", "Entwicklung"),
     ("FAQ", "FAQ", "FAQ", "FAQ"),
     ("Introduction", "Introduction", "Введение", "Einführung"),

@@ -147,6 +147,10 @@
     "message": "Anleitungen zum Mitwirken",
     "description": "The label for category Contribution Guides in sidebar defaultSidebar"
   },
+  "sidebar.defaultSidebar.category.admin": {
+    "message": "Administration",
+    "description": "The label for category admin in sidebar defaultSidebar"
+  },
   "sidebar.defaultSidebar.category.Development": {
     "message": "Entwicklung",
     "description": "The label for category Development in sidebar defaultSidebar"
